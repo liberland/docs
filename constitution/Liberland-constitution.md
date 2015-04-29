@@ -1,6 +1,6 @@
 # The Constitution of the Free Republic of Liberland draft
 
-Last updated: 2015-04-29 04:40 CEST
+Last updated: 2015-04-29 04:46 CEST
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
@@ -8,21 +8,15 @@ Last updated: 2015-04-29 04:40 CEST
 
 ## Bill of Rights
 
-Last updated: 2015-04-29 04:40 CEST
-
 The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon all branches of the Public Administration. The following rights shall apply equally to all persons regardless of their citizenship, gender, ethnicity, opinions, religion, national origin, or peaceful lifestyle.
 
 ### Article I: General Provisions
-
-Last updated: 2015-04-29 04:40 CEST
 
 * **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland.
 * **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
 * **§I.3.** Any person in public office who is convicted of intentional breach of this Constitution, shall be immediately removed from the office and shall not hold any other public office in the future.
 
 ### Article II: Legislative Restrictions
-
-Last updated: 2015-04-29 04:40 CEST
 
 * **§II.1.** No ex post facto law shall be passed.
 * **§II.2.** No Bill of Attainder shall be passed.
@@ -44,8 +38,6 @@ Last updated: 2015-04-29 04:40 CEST
 * **§II.18.** No law shall abridge the right of self-defense against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
 
 ### Article III: Individual Rights
-
-Last updated: 2015-04-29 04:40 CEST
 
 * **§III.1.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified, and no information shall be classified unless it is absolutely necessary for the purposes of national security.
 * **§III.2.** No excessive bail shall be required, nor excessive fines imposed.
@@ -74,11 +66,7 @@ Last updated: 2015-04-29 04:40 CEST
 
 ## Political Institutions
 
-Last updated: 2015-04-29 04:40 CEST
-
 ### Article IV: The Legislative Power
-
-Last updated: 2015-04-29 04:40 CEST
 
 * **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland, hereinafter, "the Assembly", which shall exercise it on behalf of the Citizens.
 * **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
@@ -123,8 +111,6 @@ Last updated: 2015-04-29 04:40 CEST
 
 ### Article V: The Executive Power
 
-Last updated: 2015-04-29 04:40 CEST
-
 * **§V.1.** The executive power of the Free Republic of Liberland shall be vested in the Cabinet.
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who is the Head of State.
 * **§V.3.** The Chancellor, on behalf of the Cabinet, shall once a year publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article I.
@@ -146,8 +132,6 @@ Last updated: 2015-04-29 04:40 CEST
 * **§V.7.** It shall be the duty of the Cabinet to refuse to execute any laws passed by the Assembly in conflict with the Constitution.
 
 ### Article VI: The Judicial Power
-
-Last updated: 2015-04-29 04:40 CEST
 
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§VI.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
