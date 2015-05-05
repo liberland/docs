@@ -1,10 +1,10 @@
 # The Constitution of the Free Republic of Liberland draft
 
-Last updated: 2015-04-29 04:46 CEST
+Last updated: 2015-05-05 05:22 CEST
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
-*We, the Citizens of the Free Republic of Liberland, hereinafter, "the Citizens", in order to establish justice, insure domestic tranquility, provide for the common defense, and secure the blessings of liberty to ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, hereinafter “the Constitution”, as its supreme law, deriving its just authority from the law of nature and the consent of the governed. Hereby, the Free Republic of Liberland shall be governed by the Public Administration exercising the legislative, executive and judicial powers restricted by the Bill of Rights.*
+*We, the Citizens of the Free Republic of Liberland, in order to secure Life, Liberty, and Property, for ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, attempting a harmonious consensus for the benefit of all those seeking their home in this place. Being aware of a long and shameful list of governments’ trespasses to the Rights of the people, we hereby declare that the Public Authority governing the Free Republic of Liberland shall first and foremost respect the Bill of Rights and exercise only such functions as have been delegated to it under this Constitution. Therefore, drawing inspiration from the noble tradition of the Founding Fathers of the American Nation, we declare that whenever the Public Authority becomes an obstacle to, rather than a guarantor of, our Rights, it shall be our duty to alter or abolish such government, and to institute a new government for the restoration of the Rights which we consider inherent in all human beings.*
 
 ## Bill of Rights
 
@@ -30,18 +30,19 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.10.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude other than the Jury duty, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.11.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration of the Free Republic of Liberland engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
 * **§II.12.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
-* **§II.13.** No law shall abridge the use of any chemical substance so long as the use is not designed to intentionally harm any person without his or her consent.
+* **§II.13.** No law shall abridge the use of any chemical substance so long as the use is not designed to harm any person without his or her consent, or damage property without consent of the owner.
 * **§II.14.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or University at any stage of education.
 * **§II.15.** No law shall establish and/or regulate the institution of marriage between the adults.
 * **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
 * **§II.17.** No law shall prohibit video and/or audio recording of any employee of the Public Administration in public space and whilst on duty.
 * **§II.18.** No law shall abridge the right of self-defense against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
+* **§II.19.** No law shall institute price controls of goods and/or services, nor rent controls.
 
 ### Article III: Individual Rights
 
 * **§III.1.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified, and no information shall be classified unless it is absolutely necessary for the purposes of national security.
 * **§III.2.** No excessive bail shall be required, nor excessive fines imposed.
-* **§III.3.** No torture and/or other cruel, unusual, or degrading treatment shall be inflicted by any member of any branch of the Public Administration or with consent and/or knowledge thereof; no person shall be subjected to experiments of any sort without his or her consent.
+* **§III.3.** No torture or other cruel, unusual, or degrading treatment shall be inflicted on any person by any agent of any branch of the Public Administration or with consent or knowledge thereof; no person shall be subjected to experiments of any sort without his or her consent; any person whatsoever responsible shall be held personally accountable for such a crime against human dignity, regardless of any law, policy, command or suggestion which might have been authorising such conduct.
 * **§III.4.** No person shall be convicted of an illegal disclosure of classified information if that piece of information proves or could be reasonably believed to be proving that any member of any branch of the Public Administration has breached, remains in breach or intends to breach the law.
 * **§III.5.** Any agent of the Public Administration shall be personally liable for any loss caused by him or her whilst acting in their official capacity but unlawfully and/or in error.
 * **§III.6.** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to his or her trial; no judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with an express consent of at least three Justices of the Supreme Court.
@@ -76,7 +77,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
 * **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only.
 * **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than fifteen votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
-* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
+* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present and participating in the vote, and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
 * **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with the majority of no fewer than eleven votes and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
   * **§IV.10(1)** No provision of the Annual Budget shall provide for more spending than revenue; the budget shall not be with deficit;
   * **§IV.10(2)** No provision of the Annual Budget shall provide for any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution.
@@ -104,7 +105,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§IV.14.** The referendum provided for in §IV.13 shall be triggered by the request of no less than 3% of the overall number of Citizens, if submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part the in that referendum vote ‘No’.
 * **§IV.15.** Any Bill proposing taxation and/or taxation-like burdens, such as any form of duty, or any Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed if the majority of the Citizens taking part the in that referendum vote ‘No’.
 * **§IV.16.** Any referendum in the Free Republic of Liberland shall be conducted online via the Internet.
-* **§IV.17.** No Bill proposed to the Assembly shall be passed unless it has been read aloud in entirety by the Assembly Speaker and contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget.
+* **§IV.17.** Any Bill proposed to the Assembly shall be read aloud in entirety by the Assembly Speaker and shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed.
 * **§IV.18.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.13 and §IV.14, or on the day the Bill obtained the assent of the Citizens in referendum.
 * **§IV.19.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.18, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
 * **§IV.20.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
@@ -144,5 +145,4 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§VI.9.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
 * **§VI.10.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
   * **§VI.10(1)** Nothing in this paragraph precludes any Court of the Free Republic of Liberland from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
-* **§VI.11.** It shall be the duty of any Court of the Free Republic of Liberland to strike down any law as obsolete if there is a significant disparity between the effect of the law and the rationale behind it as declared under §IV.17, considering the accuracy of the initial budget calculations and the effectiveness of means adopted.
 
