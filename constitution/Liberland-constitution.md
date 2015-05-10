@@ -1,6 +1,6 @@
 # The Constitution of the Free Republic of Liberland draft
 
-Last updated: 2015-05-10 09:19 CEST
+Last updated: 2015-05-10 21:59 CEST
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
@@ -140,7 +140,7 @@ The Free Republic of Liberland shall be governed by the Public Authority in acco
 * **§VI.1.** The judicial power of the Free Republic of Liberland shall be vested in the Courts of the Free Republic of Liberland.
 * **§VI.2.** The Courts of the Free Republic of Liberland shall consist of the Civil Court, Criminal Court and the Supreme Court.
 * **§VI.3.** The judges of the Courts of the Free Republic of Liberland shall be independent and shall not be removable by any member of the other branches of the Public Administration; and shall regulate their own affairs within a non-departmental body.
-* **§VI.4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four others judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
+* **§VI.4.** The Supreme Court shall be presided over by the Chief Justice of the Supreme Court, and shall be composed of him or her and four other judges called the Justices of the Supreme Court, appointed by the Chancellor for life, and shall reach its decisions by a majority of votes.
 * **§VI.5.** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removed from their position by the Citizens with a simple majority in a referendum called by no less than 10% of population.
 * **§VI.6.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
 * **§VI.7.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor, on behalf of the Citizens or with consent of the victim where appropriate. 
