@@ -1,6 +1,6 @@
 # The Constitution of the Free Republic of Liberland draft
 
-Last updated: 2015-05-08 23:03 CEST
+Last updated: 2015-05-10 09:19 CEST
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
@@ -27,17 +27,17 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§II.7.** No law shall mandate any person to associate and/or transact with any other person; nor shall it prohibit it.
 * **§II.8.** No law shall abridge the freedom of thought and feeling, or their peaceful expression or dissemination, as in speech, press and other media, artistic depiction, or religious practice; nor shall any law promote or hinder any religion, artistic culture, gender or specific community.
 * **§II.9.** No law shall abridge the right to assemble peacefully where no rights of others are infringed.
-* **§II.10.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude other than the Jury duty, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
+* **§II.10.** No law shall establish the institution of slavery, conscription, indenture, or any other form of involuntary servitude, within the Free Republic of Liberland, or in any place subject to its jurisdiction.
 * **§II.11.** No law shall abridge the right of any person to use or issue any commodity or item as currency; nor shall the Public Administration of the Free Republic of Liberland engage in any form of monetary regulation or currency issue; nor shall it establish any Central Bank.
 * **§II.12.** No law shall propose, consent to, or request the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
-* **§II.13.** No law shall abridge the use of any chemical substance by any person of age, so long as the use is not designed to harm any person without his or her consent and/or damages property without consent of the owner.
-* **§II.14.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
-* **§II.15.** No law shall establish and/or regulate the institution of marriage between persons of age.
-* **§II.16.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
-* **§II.17.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
-* **§II.18.** No law shall abridge the right of self-defence and/or defence of one's property against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
-* **§II.19.** No law shall institute price controls of goods and/or services, nor rent controls.
-* **§II.20.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
+* **§II.13.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
+* **§II.14.** No law shall establish and/or regulate the institution of marriage between persons of age.
+* **§II.15.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
+* **§II.16.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
+* **§II.17.** No law shall abridge the right of self-defence and/or defence of one's property against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
+* **§II.18.** No law shall institute price controls of goods and/or services, nor rent controls.
+* **§II.19.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
+* **§II.20.** No law shall exempt Assembly Representatives from its operation, nor deny to any person the equal protection of the laws.
 
 ### Article III: Individual Rights
 
@@ -60,15 +60,15 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§III.10.** No person shall be detained without trial for more than twenty-four hours otherwise than in pursuit of a Warrant issued by a judge of the Criminal Court, and no Warrants shall be issued, but upon probable cause, supported by appropriate request and unless it is absolutely necessary for the protection of others; and no detention in pursuit of such a Warrant shall be longer than it is absolutely necessary to bring an accused to trial.
 * **§III.11.** No person shall either before or after trial be held incommunicado.
 * **§III.12.** An accused who does not speak the language in which the criminal proceedings are conducted shall be provided without expense with the services of an interpreter.
-* **§III.13.** No person shall be subject for the same offense to be twice put in jeopardy of a penalty unless new evidence of high relevance came to light.
-* **§III.14.** No person shall be deprived of the right to own, manufacture, sell, and bear arms unless declared otherwise by a court of law on mental health grounds.
+* **§III.13.** No person shall be subject for the same offense to be twice put in jeopardy of a penalty.
+* **§III.14.** No person shall be deprived of the right to own, manufacture, sell, transport, and bear arms unless declared otherwise by a court of law on mental health grounds, nor shall licensing be used to infringe upon this right.
 * **§III.15.** No person shall be prevented from challenging an administrative decision given in his or her respect via the procedure of judicial review.
 * **§III.16.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
 * **§III.17.** No person shall be deprived of his or her citizenship otherwise than by a court of law.
 
 ## Political Institutions
 
-The Free Republic of Liberalnd shall be governed by the Public Authority in accoradance with the Constitution. It shall exercise the legislative, executive and judicial functions which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
+The Free Republic of Liberland shall be governed by the Public Authority in accordance with the Constitution. It shall exercise the legislative, executive and judicial functions which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
 
 ### Article IV: The Legislative Power
 
@@ -105,8 +105,8 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
 * **§IV.13.** Any ordinary Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
   * **§IV.13(1)** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least a year;
   * **§IV.13(2)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.14.** The referendum provided for in §IV.13 shall be triggered by the request of no less than 3% of the overall number of Citizens, if submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part the in that referendum vote ‘No’.
-* **§IV.15.** Any Bill proposing taxation and/or taxation-like burdens, such as any form of duty, or any Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed if the majority of the Citizens taking part the in that referendum vote ‘No’.
+* **§IV.14.** The referendum provided for in §IV.13 shall be triggered by the request of no less than 3% of the overall number of Citizens, if submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.
+* **§IV.15.** Any Bill proposing taxation and/or taxation-like burdens, such as any form of duty, or any Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed if the majority of the Citizens taking part in that referendum vote ‘No’.
 * **§IV.16.** Any referendum in the Free Republic of Liberland shall be conducted online via the Internet.
 * **§IV.17.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
 * **§IV.18.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.13 and §IV.14, or on the day the Bill obtained the assent of the Citizens in referendum.
@@ -144,7 +144,7 @@ The Free Republic of Liberalnd shall be governed by the Public Authority in acco
 * **§VI.5.** The Chief Justice of the Supreme Court or any Justice of the Supreme Court shall be only removed from their position by the Citizens with a simple majority in a referendum called by no less than 10% of population.
 * **§VI.6.** The Supreme Court shall hear appeals from the Civil Court and the Criminal Court on the point of law where such appeal was permitted by the Supreme Court.
 * **§VI.7.** The criminal offenses shall be prosecuted by the Office of the Public Prosecutor of the Free Republic of Liberland, headed by the Chief Public Prosecutor, on behalf of the Citizens or with consent of the victim where appropriate. 
-* **§VI.8.** The criminal offenses shall be tried in the Criminal Court before a panel of three judges with the panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'; acquittal by Jury shall be final.
+* **§VI.8.** The criminal offenses shall be tried in the Criminal Court before a judge with a panel of Jury to give a verdict of ‘Guilty’ or ‘Not guilty'; acquittal by Jury shall be final. The Jury shall render the verdict according to the law under advice of the judge, and shall determine the facts, but retains the unequivocal right to acquit, and shall be informed of this right.
 * **§VI.9.** The civil wrongs and administrative disputes shall be adjudicated in the Civil Court by a panel of three judges.
 * **§VI.10.** The Supreme Court shall review the constitutionality of every Bill passed by the Assembly and no Bill shall become the law of the Free Republic of Liberland unless the Supreme Court, by a simple majority, declares the Bill to be constitutional.
   * **§VI.10(1)** Nothing in this paragraph precludes the Supreme Court of the Free Republic of Liberland from striking down any provision of any Act passed by the Assembly as unconstitutional at any later criminal or civil proceedings.
