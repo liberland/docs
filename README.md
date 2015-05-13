@@ -8,4 +8,4 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi
 
 ## Build tools
 
-If you want to generate documents on its own, then follow repository [liberland/doc-tools](https://github.com/liberland/doc-tools)
+If you want to generate documents on its own, then follow repository [liberland/docs-tools](https://github.com/liberland/docs-tools)
