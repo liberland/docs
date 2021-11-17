@@ -4,7 +4,7 @@
 
 Documents in various formats: Markdown, PDF, HTML, ePub, mobi
 
-- [Constitution](/constitution) ([source](https://github.com/liberland/constitution))
+- [Constitution](/constitution) ([source]https://github.com/liberland/constitution/blob/master/Constitution.md)
 
 ## Build tools
 
