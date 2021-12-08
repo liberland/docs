@@ -89,7 +89,6 @@ The original project was heavily front-end based, and there was much focus given
 
 ## Subprojects:
 
-1.
 ### Auditing
 
 1. Compile and deploy the contents of the **frontend** repository;
@@ -108,7 +107,7 @@ The original project was heavily front-end based, and there was much focus given
 
 ### II. Implementing new functionality
 
-1. Next, come the improvements. The following is the list of _core_ features our system does not yet have but should finish at this stage. It should:
+Next, come the improvements. The following is the list of _core_ features our system does not yet have but should finish at this stage. It should:
 
 - show a list of available validators;
 - list of their rewards and risk parameters (how long have they been validating, how many slashing incidents);
@@ -118,11 +117,11 @@ The original project was heavily front-end based, and there was much focus given
 - there should also be an overview for the nominator (rewards list, ability to claim rewards);
 - the rewards system should work fully with the front end.
 
-1. Your sources of inspiration are Terra Station, Exodus Wallet, Yolo Wallet, Phantom Wallet, and the Polka JS environment (although that is not exactly user-friendly).
+Your sources of inspiration are Terra Station, Exodus Wallet, Yolo Wallet, Phantom Wallet, and the Polka JS environment (although that is not exactly user-friendly).
 
 ### III. Polishing
 
-1. This phase will end with testing and adding new features that are largely cosmetic but necessary that the product won&#39;t be seen as half-done by the client. Those include:
+This phase will end with testing and adding new features that are largely cosmetic but necessary that the product won&#39;t be seen as half-done by the client. Those include:
 
 - Having all popups functioning, i.e. that users know when a transaction fails, for what reasons, etc.;
 - No bugs on login;
@@ -158,7 +157,7 @@ The Legislative Branch also can work on its own without the other branches. They
 
 The software should, according to our old developer by now, already be capable of:
 
-1.
+
 #### Basic representative democracy
 
 - running full blockchain-based elections into the Congressional Assembly, our parliament;
@@ -169,7 +168,7 @@ The software should, according to our old developer by now, already be capable o
 - Representatives can vote in the Prime Minister and Ministers;
 - they can fire the Prime Minister or Ministers.
 
-1.
+
 #### Basic legislative process
 
 - Representatives can propose laws;
@@ -177,7 +176,7 @@ The software should, according to our old developer by now, already be capable o
 - Laws can be accepted or rejected by the Assembly;
 - Accepted Laws are written into the Blockchain and shown in the front end.
 
-1. Basic Public Veto (direct democracy)
+Basic Public Veto (direct democracy)
 
 - Citizens can propose the (binding, unlike with petitions) motion for the removal of a Law;
 - they can vote for it, _one citizen, one vote_;
@@ -210,7 +209,6 @@ For inspiration, we should look at the link below:
 
 _This is the desired route._ It starts with the testers agreeing that the system _is_ salvageable.
 
-1.
 ### Auditing
 
 1. Test the deployed version of the system; run elections; prepare and vote for laws. Populate the testnet Congressional Assembly with 7 Representatives
@@ -218,7 +216,6 @@ _This is the desired route._ It starts with the testers agreeing that the system
 3. Make sure everything works smoothly as you go.
 4. Whenever something is found that does not conform to the list above in Introduction, i.e. a feature is missing or incomplete, please finish it, test it, make sure all works.
 
-1.
 ### Improving
 
 1. After the Auditing is complete, please _run again_ through the list;
