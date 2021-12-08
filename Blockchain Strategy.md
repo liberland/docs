@@ -102,10 +102,10 @@ The original project was heavily front-end based, and there was much focus given
 - there should not be overt bugs;
 - all action in the front end should one on one match the action in the Polka JS wallet
 
-1. If any of this is missing, it needs to be added and then re-tested.
-2. Test it for seamless integration with the backend.
+3. If any of this is missing, it needs to be added and then re-tested.
+4. Test it for seamless integration with the backend.
 
-### II. Implementing new functionality
+### Implementing new functionality
 
 Next, come the improvements. The following is the list of _core_ features our system does not yet have but should finish at this stage. It should:
 
@@ -119,7 +119,7 @@ Next, come the improvements. The following is the list of _core_ features our sy
 
 Your sources of inspiration are Terra Station, Exodus Wallet, Yolo Wallet, Phantom Wallet, and the Polka JS environment (although that is not exactly user-friendly).
 
-### III. Polishing
+### Polishing
 
 This phase will end with testing and adding new features that are largely cosmetic but necessary that the product won&#39;t be seen as half-done by the client. Those include:
 
@@ -131,7 +131,7 @@ This phase will end with testing and adding new features that are largely cosmet
 - Setting up a mobile version (in a browser, Google Chrome at first);
 - Anything else the testers might find necessary, instead of include &quot;merely nice to have&quot;.
 
-### IV. Optional
+### Optional
 
 Provided there is development time, work can begin on a Liberand Android app, followed by an iOS app.
 
@@ -230,7 +230,7 @@ _This is the desired route._ It starts with the testers agreeing that the system
 1. Code into the system the result of the four meetings.
 2. Ask the Deputy Minister of Justice _frequent_ questions using his telegram; he is always available for you.
 
-### III. Game testing
+### Game testing
 
 1. We will organise a series of 2 or 3 meetings where we sit together and play politics on the testnet.
 2. We will together (each participant, the President voluntarily)of law prepare a few scenarios which seek to test the system in a _regular run_. So no attempts to hack the system.
@@ -239,7 +239,7 @@ _This is the desired route._ It starts with the testers agreeing that the system
 5. The devs will implement and test the improvements.
 6. Note: This is a &quot;statistical&quot; attempt at improving, and we _do not have the time_ to make the system perfectly gaming-proof before the deadline.
 
-### IV. Forum
+### Forum
 
 Whichever system we choose, MVP or Full, we should **create a forum on Liberland.org** or an affiliated website.
 
@@ -265,7 +265,7 @@ The final task in the Q4 to Q1 scope is to _prepare the Smart Contract pallet_. 
 
 ## Subprojects
 
-### I. Prepare the Pallet
+### Prepare the Pallet
 
 1. Take a similar pallet from Polkadot or (if possible, Adoria said that it was impossible) from Solana;
 
@@ -275,7 +275,7 @@ The final task in the Q4 to Q1 scope is to _prepare the Smart Contract pallet_. 
 
 4. Prepare a demonstration, run it in a meeting with us.
 
-### II. Clone &quot;Etherscan&quot; into Liberscan
+### Clone &quot;Etherscan&quot; into Liberscan
 
 1. Smart contracts require a blockchain explorer capable of monitoring the action;
 
@@ -285,13 +285,13 @@ The final task in the Q4 to Q1 scope is to _prepare the Smart Contract pallet_. 
 
 4. It needs not to be _perfect_ by the end of Q4 - this is a monumental task in scope!
 
-### III. Set up guidelines to write Smart Contracts on Liberland
+### Set up guidelines to write Smart Contracts on Liberland
 
 1. Please copy a similar guideline from the source material.
 
 2. Make a Wiki explaining how it works.
 
-### IV. Citizenship NFT
+### Citizenship NFT
 
 This will be the first Smart Contract we create on our new pallet. The purpose will be to represent the citizenship of every citizen.
 
