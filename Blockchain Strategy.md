@@ -1,6 +1,6 @@
 ![](RackMultipart20211208-4-dazfz1_html_b156baae09b79fd6.jpg)
 
-# Strategy LLM Blockchain Q4/2021 &amp; Q1/2022
+# Strategy LLM Blockchain Q1/2022 &amp; Q2/2022
 
 ## General description
 
@@ -35,7 +35,7 @@ Here you will be making a &quot;Litecoin 2017&quot; or &quot;early Dogecoin&quot
 5. get audits
 6. get listed on centralised and decentralised exchanges.
 
-**Deadline**** : ASAP, mid 12/2021 at the latest (before Christmas break in Europe).**
+**Deadline**** : ASAP, end 01/2021 at the latest end January.**
 
 ## Subprojects
 
@@ -85,7 +85,7 @@ The original project was heavily front-end based, and there was much focus given
 - be linked to our Liberland.org website;
 - be polished enough to be marketable, but perfection (at the cost of time) is not required at this stage.
 
-**Deadline**** : End 2021 or at the latest mid-January 2022.**
+**Deadline**** : End February 2022 or at the latest mid-March 2022.**
 
 ## Subprojects:
 
@@ -189,7 +189,7 @@ How we will do it will be based on the current state of the software. I propose 
 
 Please be aware that the goal is **option 2, fully implemented State Governance.** _ **We should try for this if even slightly possible.** _
 
-**Deadline: 01-04-2022** (regardless of whether we went for the MVP or the full version)
+**Deadline: end Q1 2022** (regardless of whether we went for the MVP or the full version)
 
 ## Subprojects
 
@@ -261,7 +261,7 @@ Why did we choose 1st April as the deadline? Because in mid-April, the anniversa
 
 The final task in the Q4 to Q1 scope is to _prepare the Smart Contract pallet_. This pallet will enable others to write and run smart contracts, enabling functionality akin to Ethereum or BSC - DEXes and DAPPs. We do not expect this to be _completely_ finished before the end of Q4, but significant work should already be done by then.
 
-**Deadline:**  **The end of Q1 2022.**
+**Deadline:**  **The end of Q2 2022.**
 
 ## Subprojects
 
