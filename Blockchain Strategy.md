@@ -1,4 +1,4 @@
-![](RackMultipart20211208-4-dazfz1_html_b156baae09b79fd6.jpg)
+![](RackMultipart1208-4-dazfz1_html_b156baae09b79fd6.jpg)
 
 # Strategy LLM Blockchain Q1/2022 &amp; Q2/2022
 
@@ -35,7 +35,7 @@ Here you will be making a &quot;Litecoin 2017&quot; or &quot;early Dogecoin&quot
 5. get audits
 6. get listed on centralised and decentralised exchanges.
 
-**Deadline**** : ASAP, end 01/2021 at the latest end January.**
+**Deadline**** : ASAP, end 01/2022 at the latest end February.**
 
 ## Subprojects
 
