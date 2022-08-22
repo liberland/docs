@@ -1,5 +1,3 @@
-[![liberland]([http://liberland.org/addons/image/Liberland_znak_small.png](https://drive.google.com/drive/folders/1m2FtaUM6BTMhOnp1-PbzAYeyejXloKkW))](https://github.com/liberland/liberland)
-
 # Liberland Documents
 
 Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with the tag "/INTERNAL" require special access rights
