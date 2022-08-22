@@ -1,4 +1,4 @@
-[![liberland](http://liberland.org/addons/image/Liberland_znak_small.png)](https://github.com/liberland/liberland)
+[![liberland]([http://liberland.org/addons/image/Liberland_znak_small.png](https://drive.google.com/drive/folders/1m2FtaUM6BTMhOnp1-PbzAYeyejXloKkW))](https://github.com/liberland/liberland)
 
 # Liberland Documents
 
