@@ -2,7 +2,7 @@
 
 # Liberland Documents
 
-Documents in various formats: Markdown, PDF, HTML, ePub, mobi
+Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with the tag "/INTERNAL" require special access rights
 
 ## Legislature
 - [Constitution](https://github.com/liberland/constitution/blob/master/Constitution.md)
@@ -18,10 +18,6 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi
 ## Policies
 - [Privacy Policy](https://docs.google.com/document/d/14kA72jZhKzVr8fCD0hYb72w-mKDUcZs5ib7IOkj3byA/edit#heading=h.iol5cjpc06ub)
 - [KYC Policy /INTERNAL](https://docs.google.com/document/d/1N_YvSFvD2DNzxsbkj50eUFLDBGUM1EETVqKDhF_EfNA/edit)
-
-## Contract Templates (INTERNAL)
-- [NDA](https://docs.google.com/document/d/1tAT_P7RyphnNy6TVSZkQIdoF4ICNXPjQ/edit)
-- [Share Transfer](https://docs.google.com/document/d/1u6SBJiODGQ_jf3r_BgiEzT9YNu7cs3F8Yb5j7HnIVGg/edit)
 
 ## Build tools
 
