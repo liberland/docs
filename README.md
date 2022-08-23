@@ -24,7 +24,7 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with th
 - [KYC Policy /INTERNAL](https://docs.google.com/document/d/1N_YvSFvD2DNzxsbkj50eUFLDBGUM1EETVqKDhF_EfNA/edit)
 
 ## Blockchain
-- [White Paper](https://docs.google.com/document/d/14TzsghInuNz87C8fskduFXYF8pQOS--UIR23bZMMexw/edit)
+- [White Paper](https://docs.google.com/document/d/1k7olGjAg_Lv9lA5SisujRLYEcduplHvo8ObwzBwFcHg/edit)
 
 ## Build tools
 
