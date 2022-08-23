@@ -23,6 +23,9 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with th
 - [Privacy Policy](https://docs.google.com/document/d/14kA72jZhKzVr8fCD0hYb72w-mKDUcZs5ib7IOkj3byA/edit#heading=h.iol5cjpc06ub)
 - [KYC Policy /INTERNAL](https://docs.google.com/document/d/1N_YvSFvD2DNzxsbkj50eUFLDBGUM1EETVqKDhF_EfNA/edit)
 
+## Blockchain
+- [White Paper](https://docs.google.com/document/d/14TzsghInuNz87C8fskduFXYF8pQOS--UIR23bZMMexw/edit)
+
 ## Build tools
 
 If you want to generate documents on its own, then follow repository [liberland/docs-tools](https://github.com/liberland/docs-tools)
