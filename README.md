@@ -25,6 +25,7 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with th
 
 ## Blockchain
 - [White Paper](https://docs.google.com/document/d/1k7olGjAg_Lv9lA5SisujRLYEcduplHvo8ObwzBwFcHg/edit)
+- [Tokenomics Intro LLM](https://docs.google.com/document/d/1LGZN10PxvlcDDr77e6Knyq3AWt1r-YINIzYdhDz7CK4/edit#)
 
 ## Build tools
 
