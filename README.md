@@ -31,7 +31,7 @@ Public documents describing or governing life in Liberland.
 ## Blockchain
 
 * [White Paper](https://github.com/liberland/docs/blob/master/blockchain/white-paper.md)
-* [Tokenomics Primer LLM](https://docs.google.com/document/d/1LGZN10PxvlcDDr77e6Knyq3AWt1r-YINIzYdhDz7CK4/edit)
+* [Tokenomics Primer LLM](https://github.com/liberland/docs/blob/master/blockchain/tokenomics-primer.md)
 
 ## Build tools
 
