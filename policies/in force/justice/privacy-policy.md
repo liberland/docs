@@ -1,9 +1,9 @@
 # Privacy policy
 ## 1. Definitions
-1 DATA CONTROLLER means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and how any personal data are or are to be processed. For this Privacy Policy, we are a Data Controller of your data.
-2 DATA PROCESSORS (OR SERVICE PROVIDERS) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers to process your data more effectively.
-3 DATA SUBJECT is any living individual who is the subject of Personal Data.
-4 THE USER is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
+1 DATA CONTROLLER means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and how any personal data are or are to be processed. For this Privacy Policy, we are a Data Controller of your data.  
+2 DATA PROCESSORS (OR SERVICE PROVIDERS) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers to process your data more effectively.  
+3 DATA SUBJECT is any living individual who is the subject of Personal Data.  
+4 THE USER is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.  
 
 ## 2. Personal data
 1. When we refer to personal data in this Privacy policy, we mean any information relating to an identified or identifiable natural person, the Data Subject.
