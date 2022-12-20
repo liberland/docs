@@ -20,8 +20,8 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with th
 - [Congress](https://github.com/liberland/docs/blob/master/primers/congress.md)
 
 ## Policies
-- [Privacy Policy](https://docs.google.com/document/d/14kA72jZhKzVr8fCD0hYb72w-mKDUcZs5ib7IOkj3byA/edit#heading=h.iol5cjpc06ub)
-- [KYC Policy /INTERNAL](https://docs.google.com/document/d/1N_YvSFvD2DNzxsbkj50eUFLDBGUM1EETVqKDhF_EfNA/edit)
+- [Privacy Policy](https://github.com/liberland/docs/blob/master/policies/in%20force/justice/privacy-policy.md)
+- [KYC Policy /INTERNAL](https://github.com/liberland/docs/blob/master/policies/in%20force/justice/privacy-policy.md)
 
 ## Blockchain
 - [White Paper](https://docs.google.com/document/d/1k7olGjAg_Lv9lA5SisujRLYEcduplHvo8ObwzBwFcHg/edit)
