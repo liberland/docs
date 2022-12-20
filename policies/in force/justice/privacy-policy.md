@@ -30,17 +30,17 @@
 
 ## 5. We process the following kinds of data: 
 1. Personal data is necessary so that we can provide you with our services, henceforth "Relation data"; these are
-* Name or names and surname or surnames;
-* Titles such as education or academic titles (Mgr. or Prof.), nobility titles ("Sir", "Lady");
-* User names;
-* Birthdate;
-* Telephone number;
-* Address, both in Liberland and otherwise; registration at the place of residence and actual address;
-* Nationality or nationalities;
-* Liberland identification number or numbers where applicable;
-* Copies of national identification documents such as IDs and Passports;
-* Payment information, including and not limited to bank accounts or wallet addresses for LLD and LLM and other cryptocurrencies where that is necessary; and
-* Email address and other contact information such as Linkedin or Telegram.
+a. Name or names and surname or surnames;  
+b. Titles such as education or academic titles (Mgr. or Prof.), nobility titles ("Sir", "Lady");  
+c. User names;  
+d. Birthdate;  
+e. Telephone number;  
+f. Address, both in Liberland and otherwise; registration at the place of residence and actual address;  
+g. Nationality or nationalities;  
+h. Liberland identification number or numbers where applicable;  
+i. Copies of national identification documents such as IDs and Passports;  
+j. Payment information, including and not limited to bank accounts or wallet addresses for LLD and LLM and other cryptocurrencies where that is necessary;   and
+k. Email address and other contact information such as Linkedin or Telegram.  
 2. We may use and store information about your location if you permit us to do so. Henceforth, we use this data "Location data" to provide features to our services and improve and customise our services.
 3. We use cookies and similar tracking technologies to track our services' activity and hold certain information, henceforth "Cookie data".
 4. The information your browser sends whenever you visit our Service or when you access Sevice by or through any device, henceforth "Usage data".
