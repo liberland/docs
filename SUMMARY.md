@@ -17,3 +17,6 @@
   * [🧑 In Force](policies/in-force/README.md)
     * [⚖ Justice](policies/in-force/justice/README.md)
       * [🔏 Privacy policy](<policies/in force/justice/privacy-policy.md>)
+
+* [Blockchain](blockchain/README.md)
+  * [White Paper](<blockchain/white-paper.md>)
