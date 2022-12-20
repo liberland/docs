@@ -5,11 +5,11 @@ Where BTC's decentralisation and value store potential meet the flexibility of B
 Liberland Smart Chain (LSC)
 Liberland Smart Chain (LSC) is an all-purpose, Web3 capable blockchain best suited for trade, value store and decentralised Governance. Our solution addresses the following question:
 
-## On the one hand: 
+## On the one hand 
 Blockchains with the most solid, deflationary tokenomics tend to have too few use cases, as they are without real layer one smart contract capability - BTC, LTC, BCH.
 As a result, they often only serve as a value store; this is certainly a good proposition in the world of inflating fiat currencies; but it hardly fulfils the expectations one might have of a currency or, one might argue, Satoshi’s original vision for an alternative (free) world payment system;
 
-## On the other hand, 
+## On the other hand 
 the chains with more use cases like ETH or BSC or their respective tokens tend to have less-than-solid tokenomics, and one might not expect them to be the next ‘’digital gold”;
 They are also not all that decentralised compared to BTC;
 
