@@ -11,7 +11,7 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with th
 - [Order on Publications](https://github.com/liberland/docs/blob/master/regulations/in%20force/orders/order-on-publication.md) 
 
 ## Draft Regulations
-- [Police Regulation](https://docs.google.com/document/d/1v2Qx3fmyEtQyU_zK3wuBjonq7WbYKekRwWbLI9foKig/edit#)
+- [Police Regulation](https://github.com/liberland/docs/blob/master/regulations/drafts/police-regulation.md)
 
 ## Primers
 - [Judiciary](https://docs.google.com/document/d/1IgPsDWOrPlRxLpEB_z7ojmkb7BFRwOOCBBG5iE6ffKw/edit)
