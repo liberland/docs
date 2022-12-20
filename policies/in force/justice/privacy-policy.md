@@ -48,20 +48,20 @@
 6. While using our Service, we may also collect the following information: sex, age, place of birth, details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data. 
 
 ## 6. Purpose for data usage
-1. We use your personal data for the following purposes:
-a. to provide and maintain our Service;
-b. to notify you about changes to our Service;
-c. to allow you to participate in interactive features of our Service when you choose to do so;
-d. to provide customer support;
-e. to gather analysis or valuable information so that we can improve our Service;
-f. to monitor the usage of our Service;
-g. to detect, prevent and address technical issues;
-h. to fulfil any other purpose for which you provide it;
-i. to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
-j. to provide you with notices about your account and/or subscription, including expiration and renewal notices, email instructions, etc.;
-k. to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
-2. in any other way we may describe when you provide the information;
-3. for any other purpose with your consent.
+1. We use your personal data for the following purposes:  
+a. to provide and maintain our Service;  
+b. to notify you about changes to our Service;  
+c. to allow you to participate in interactive features of our Service when you choose to do so;  
+d. to provide customer support;  
+e. to gather analysis or valuable information so that we can improve our Service;  
+f. to monitor the usage of our Service;  
+g. to detect, prevent and address technical issues;  
+h. to fulfil any other purpose for which you provide it;  
+i. to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;  
+j. to provide you with notices about your account and/or subscription, including expiration and renewal notices, email instructions, etc.;  
+k. to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;  
+2. in any other way we may describe when you provide the information;  
+3. for any other purpose with your consent.  
 4. In addition to the purposes mentioned above, we use your personal data for compliance with applicable laws and protection of Liberland and the Provider’s legitimate business interests and legal rights, including, but not limited to, use in connection with legal claims, compliance, regulatory, investigative purposes (including disclosure of such information in connection with legal process or litigation).
 
 ## 7. Retention of data
