@@ -24,15 +24,20 @@ And can this be done without introducing clutter and prohibitive gas fees per tr
 The Liberland Merit (our governance token) will play a central role in our system. We are building a completely new Blockchain where the LLM will be the governance token and LLD will be the coin. Please read more about the LLD in the White Paper.
 Our Blockchain is built on Substrate and is designed as open source and transparent from the start. The main underlying technology is that of PolkaDot, although we are heavily modifying the original concept to make it suitable for the Governance of a whole State.
 The following are the initial use cases for the LLM:
-Politpooling - Proof of Commitment (PoC)
+
+### Politpooling - Proof of Commitment (PoC)
 One may prove their Commitment to Liberland by locking (Pooling) the tokens into the country, effectively paying their voluntary taxes and intertwining their future with that of Liberland.
-Citizenship
+
+### Citizenship
 Those who Pool 5000 LLM as Proof of their Commitment to Liberland will be eligible to apply for Liberland Citizenship. They will participate in Liberland (and in on-chain) Governance.
-Governance
+
+### Governance
 PoC Politpooled LLM will serve as the governance token for the on-chain Governance and Liberland’s Government. The PoC system will ensure that people with skin in the game will decide the chain (and Liberland’s) future, further guaranteeing stability and rational decision-making.
-Value Store
+
+### Value Store
 There is a hard cap on the number of tokens of 70m. The tokens can be divided into 12 decimal places to accommodate the consequence of rising prices.
-Smart Contracts
+
+### Smart Contracts
 In our second phase, approximately 6-12 months after the mainnet launch, we will implement a Gateway and enable Smart Contracts on our chain in earnest. They are enabled out-of-the-box, but gateways to other chains are required for a smart chain system to flourish truly.
 
 After the year 2070 passes, LLM will become truly deflationary. Even before that, the rate of lost coins and burns will turn the coin into a functionally deflationary instrument.
