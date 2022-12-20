@@ -10,7 +10,7 @@ Public documents describing or governing life in Liberland.
 ## Adopted Regulations
 
 * [Order on Interim Laws](<regulations/in force/orders/order-on-interim-laws.md>)
-* [Order on Publications](regulations/in-force/orders/order-on-publication.md)
+* [Order on Publications](<regulations/in force/orders/order-on-publication.md>)
 
 ## Draft Regulations
 
