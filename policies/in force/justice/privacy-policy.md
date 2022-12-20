@@ -1,51 +1,51 @@
 # Privacy policy
 ## 1. Definitions
-DATA CONTROLLER means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and how any personal data are or are to be processed. For this Privacy Policy, we are a Data Controller of your data.
-DATA PROCESSORS (OR SERVICE PROVIDERS) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers to process your data more effectively.
-DATA SUBJECT is any living individual who is the subject of Personal Data.
-THE USER is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
+1 DATA CONTROLLER means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and how any personal data are or are to be processed. For this Privacy Policy, we are a Data Controller of your data.
+2 DATA PROCESSORS (OR SERVICE PROVIDERS) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers to process your data more effectively.
+3 DATA SUBJECT is any living individual who is the subject of Personal Data.
+4 THE USER is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
 
 ## 2. Personal data
-When we refer to personal data in this Privacy policy, we mean any information relating to an identified or identifiable natural person, the Data Subject.
-The natural person is not just an abstract “person”. It is a person who can be identified, directly or indirectly, by reference to an identification number or one or more factors specific to their physical, physiological, mental, economic, cultural or social identity and personal history. 
-A natural person in this context is an identifiable person; it is a similar concept to the individual as used to determine “individual liberty” in Liberland’s Constitution. 
-You may be entitled to ask Liberland for a copy of your personal data, to correct it, erase or restrict its processing, or to ask us to transfer some of the data to other organisations. 
-You may also have the right to object to some processing activities, and where we have asked for your consent to process your data, you have the right to withdraw this consent. 
-Our commercial messages (such as our newsletters) contain unsubscribe links or similar ways to opt-out from these messages. These rights may be limited in some situations – for example, where we can demonstrate that there is a legal requirement to process your data. If you wish to exercise your rights, you can contact us in writing via the contact details in this Privacy policy
+1. When we refer to personal data in this Privacy policy, we mean any information relating to an identified or identifiable natural person, the Data Subject.
+2. The natural person is not just an abstract “person”. It is a person who can be identified, directly or indirectly, by reference to an identification number or one or more factors specific to their physical, physiological, mental, economic, cultural or social identity and personal history. 
+3. A natural person in this context is an identifiable person; it is a similar concept to the individual as used to determine “individual liberty” in Liberland’s Constitution. 
+4. You may be entitled to ask Liberland for a copy of your personal data, to correct it, erase or restrict its processing, or to ask us to transfer some of the data to other organisations. 
+5. You may also have the right to object to some processing activities, and where we have asked for your consent to process your data, you have the right to withdraw this consent. 
+6. Our commercial messages (such as our newsletters) contain unsubscribe links or similar ways to opt-out from these messages. These rights may be limited in some situations – for example, where we can demonstrate that there is a legal requirement to process your data. If you wish to exercise your rights, you can contact us in writing via the contact details in this Privacy policy
 
 ## 3. Policy application
-This Privacy policy applies to Liberland Services, meaning services and products offered by Liberland, Liberland Limited, the Liberland marketplace, the Liberland App, and any affiliated persons and other entities, hereafter the “Provider”.
-The Provider reserves the right to enact special policies on particular services, and where this happens, the specific policy supersedes this one.
-This Privacy Policy does not apply to any other services offered by other persons or entities, including products, vendors, or websites that may include Liberland or Liberland Limited.
+1. This Privacy policy applies to Liberland Services, meaning services and products offered by Liberland, Liberland Limited, the Liberland marketplace, the Liberland App, and any affiliated persons and other entities, hereafter the “Provider”.
+2. The Provider reserves the right to enact special policies on particular services, and where this happens, the specific policy supersedes this one.
+3. This Privacy Policy does not apply to any other services offered by other persons or entities, including products, vendors, or websites that may include Liberland or Liberland Limited.
 
 ## 4. We need personal data to deliver our services
-To deliver Liberland Services to you, the Provider collects, stores, uses and processes your personal data as required by the conditions of that particular service. This Privacy policy or other subsidiary privacy policies where these exist to describe how the Provider collects, stores, uses and processes your personal data. 
-Before registering to, purchasing, or entering an agreement about or using Liberland Services, please read the respective contract, agreement or description of services carefully and our Terms and conditions, henceforth "Service agreement". These describe your rights and obligations as a party purchasing or otherwise obtaining those services. 
-Please be mindful that partaking in most Liberland Services requires one to be an E-resident of Liberland, and so the general Terms and Conditions for Liberland.org apply as well. They apply in a subsidiary fashion (where more specific policies are silent), as described in those Terms and conditions. 
-For other services, such as the Liberland App, the Terms and Conditions applicable to that service apply, likewise in a subsidiary fashion. Please consider these Terms and conditions a part of the Service agreement unless specifically told otherwise. 
-After entering into the respective agreement for a Liberland service or services, you can always choose not to provide your personal data to the Provider. You must inform the Provider of this, or the Provider can't put your choice can't be put into effect. 
-Providing the different functionalities and maintaining the expected level of service requires the Provider to have access to your personal data. 
-Please be mindful that should you choose not to provide your personal data, the Provider can't guarantee to perform the Liberland services to you as stated in the respective Service agreement. 
-Please be mindful that the Provider is at liberty to interpret such a refusal to provide personal data as the same as a request for the regular termination of the Liberland service. This is mainly where the refusal makes it very difficult or impossible to provide the expected level of service and provide the Liberland service regularly.
+1. To deliver Liberland Services to you, the Provider collects, stores, uses and processes your personal data as required by the conditions of that particular service. This Privacy policy or other subsidiary privacy policies where these exist to describe how the Provider collects, stores, uses and processes your personal data. 
+2. Before registering to, purchasing, or entering an agreement about or using Liberland Services, please read the respective contract, agreement or description of services carefully and our Terms and conditions, henceforth "Service agreement". These describe your rights and obligations as a party purchasing or otherwise obtaining those services. 
+3. Please be mindful that partaking in most Liberland Services requires one to be an E-resident of Liberland, and so the general Terms and Conditions for Liberland.org apply as well. They apply in a subsidiary fashion (where more specific policies are silent), as described in those Terms and conditions. 
+4. For other services, such as the Liberland App, the Terms and Conditions applicable to that service apply, likewise in a subsidiary fashion. Please consider these Terms and conditions a part of the Service agreement unless specifically told otherwise. 
+5. After entering into the respective agreement for a Liberland service or services, you can always choose not to provide your personal data to the Provider. You must inform the Provider of this, or the Provider can't put your choice can't be put into effect. 
+6. Providing the different functionalities and maintaining the expected level of service requires the Provider to have access to your personal data. 
+7. Please be mindful that should you choose not to provide your personal data, the Provider can't guarantee to perform the Liberland services to you as stated in the respective Service agreement. 
+8. Please be mindful that the Provider is at liberty to interpret such a refusal to provide personal data as the same as a request for the regular termination of the Liberland service. This is mainly where the refusal makes it very difficult or impossible to provide the expected level of service and provide the Liberland service regularly.
 
 ## 5. We process the following kinds of data: 
-Personal data is necessary so that we can provide you with our services, henceforth "Relation data"; these are
-Name or names and surname or surnames;
-Titles such as education or academic titles (Mgr. or Prof.), nobility titles ("Sir", "Lady");
-User names;
-Birthdate;
-Telephone number;
-Address, both in Liberland and otherwise; registration at the place of residence and actual address;
-Nationality or nationalities;
-Liberland identification number or numbers where applicable;
-Copies of national identification documents such as IDs and Passports;
-Payment information, including and not limited to bank accounts or wallet addresses for LLD and LLM and other cryptocurrencies where that is necessary; and
-Email address and other contact information such as Linkedin or Telegram.
-We may use and store information about your location if you permit us to do so. Henceforth, we use this data "Location data" to provide features to our services and improve and customise our services.
-We use cookies and similar tracking technologies to track our services' activity and hold certain information, henceforth "Cookie data".
-The information your browser sends whenever you visit our Service or when you access Sevice by or through any device, henceforth "Usage data".
-The "content" of those services that contain personal data, henceforth "Content data"; personal data, Location data and Cookie data we process on our and your behalf, but Content data, which you give to us and you use in your own matters, we process solely on your behalf.
-While using our Service, we may also collect the following information: sex, age, place of birth, details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data. 
+1. Personal data is necessary so that we can provide you with our services, henceforth "Relation data"; these are
+* Name or names and surname or surnames;
+* Titles such as education or academic titles (Mgr. or Prof.), nobility titles ("Sir", "Lady");
+* User names;
+* Birthdate;
+* Telephone number;
+* Address, both in Liberland and otherwise; registration at the place of residence and actual address;
+* Nationality or nationalities;
+* Liberland identification number or numbers where applicable;
+* Copies of national identification documents such as IDs and Passports;
+* Payment information, including and not limited to bank accounts or wallet addresses for LLD and LLM and other cryptocurrencies where that is necessary; and
+* Email address and other contact information such as Linkedin or Telegram.
+2. We may use and store information about your location if you permit us to do so. Henceforth, we use this data "Location data" to provide features to our services and improve and customise our services.
+3. We use cookies and similar tracking technologies to track our services' activity and hold certain information, henceforth "Cookie data".
+4. The information your browser sends whenever you visit our Service or when you access Sevice by or through any device, henceforth "Usage data".
+5. The "content" of those services that contain personal data, henceforth "Content data"; personal data, Location data and Cookie data we process on our and your behalf, but Content data, which you give to us and you use in your own matters, we process solely on your behalf.
+6. While using our Service, we may also collect the following information: sex, age, place of birth, details of documents on education, qualification, professional training, employment agreements, NDA agreements, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data. 
 
 ## 6. Purpose for data usage
 We use your personal data for the following purposes:
