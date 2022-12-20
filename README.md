@@ -7,8 +7,8 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with th
 - [Laws](https://github.com/liberland/laws)
 
 ## Adopted Regulations
-- [Order on Interim Laws](https://docs.google.com/document/d/1_kpW0ONMjg5dM09MhNvKnBXq94CT6Bhl3dJa9uVxje0/edit)
-- [Order on Publications](https://docs.google.com/document/d/13eb4P5cRS3X-5zKqC5Caa3ADUiIgwGcYlIPzFlNjPo4/edit) 
+- [Order on Interim Laws](https://github.com/liberland/docs/blob/master/regulations/in%20force/orders/order-on-interim-laws.md)
+- [Order on Publications](https://github.com/liberland/docs/blob/master/regulations/in%20force/orders/order-on-publication.md) 
 
 ## Draft Regulations
 - [Police Regulation](https://docs.google.com/document/d/1v2Qx3fmyEtQyU_zK3wuBjonq7WbYKekRwWbLI9foKig/edit#)
