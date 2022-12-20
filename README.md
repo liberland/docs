@@ -14,10 +14,10 @@ Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with th
 - [Police Regulation](https://github.com/liberland/docs/blob/master/regulations/drafts/police-regulation.md)
 
 ## Primers
-- [Judiciary](https://docs.google.com/document/d/1IgPsDWOrPlRxLpEB_z7ojmkb7BFRwOOCBBG5iE6ffKw/edit)
-- [Executive](https://docs.google.com/document/d/1WYyBPfYLv8thucJuWZK9lYlD_Im_gpNoWKFMG1llUM4/edit)
-- [Senate](https://docs.google.com/document/d/1AM8QMgCA6hVwTMtfBTMAKVgxb88K84XkVolXG1_H7B8/edit)
-- [Congress](https://docs.google.com/document/d/1WUrRMZ45SPanqbZJjA7cDa1_BYqu0VIvO_G8hR3hKO8/edit)
+- [Judiciary](https://github.com/liberland/docs/blob/master/primers/judiciary.md)
+- [Executive](https://github.com/liberland/docs/blob/master/primers/executive.md)
+- [Senate](https://github.com/liberland/docs/blob/master/primers/senate.md)
+- [Congress](https://github.com/liberland/docs/blob/master/primers/congress.md)
 
 ## Policies
 - [Privacy Policy](https://docs.google.com/document/d/14kA72jZhKzVr8fCD0hYb72w-mKDUcZs5ib7IOkj3byA/edit#heading=h.iol5cjpc06ub)
