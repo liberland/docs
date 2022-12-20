@@ -2,7 +2,7 @@
 
 * [📖 Public Documents](README.md)
 * [👍 Primers](primers/README.md)
-  * [🙋♀ Congress](primers/congress.md)
+  * [🙋 Congress](primers/congress.md)
   * [💂 Executive](primers/executive.md)
   * [👨 Judiciary](primers/judiciary.md)
   * [🤴 Senate](primers/senate.md)
