@@ -1,4 +1,4 @@
-# Liberland Documents
+# Public Documents
 
 Documents in various formats: Markdown, PDF, HTML, ePub, mobi. Documents with the tag "/INTERNAL" require special access rights
 
