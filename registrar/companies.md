@@ -26,4 +26,4 @@ Start your business in Liberland today. Get your online Liberland business and s
 ## Liberland Marketplace
 * The Marketplace, https://market.ll.land, is the ideal medium for your company to place your first offer.
 * Reach other liberlanders and friends of freedom, build a network, start or expand your business! 
-* Do you have any issues? Please contact our dedicated market support, they are sure to help you soon!
+* Do you have any issues? Please contact our dedicated market support at administration@liberland.org, Tanka and the team are sure to help you soon!
