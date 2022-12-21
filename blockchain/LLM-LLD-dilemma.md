@@ -29,14 +29,14 @@
 * Validators translate into vote counters if we see the blockchain as a vessel for organizing elections, as we do in Liberland.
 * This is because politicians and validators are defined by big stashes of the governance token or by the ability to secure trust from other parties, translated into "borrowed" stashes, either as nominations or votes.
 * Votes and nominations being "too similar" to each other translate into the centralization of power.
-* What is mitigated on blockchains by anonymity (and other means) becomes a real, painful issue in a State-on-blockchain. States have much higher criteria for transparency, as they decide on public matters on behalf of all citizens.
+* What is mitigated on blockchains by anonymity (and other means) becomes a real, painful issue in a State-on-blockchain. States have much stricter criteria for transparency, as they decide on public matters on behalf of all citizens.
 
 ## Deflationary vs. Inflationary
  * LLM is designed as deflationary, as it must conserve your political powers. 
  * The governance token must, on the other hand, be inflationary to continuously motivate validators into making new blocks. 
  * Were this not the case, the validators would lose motivation should the emission go down without the price going up sufficiently. The transaction fees would then grow beyond what people would reasonably be willing to pay.
  
- ## Solution
+ ## Chosen Solution
  * The obvious solution, and the one that was taken, is to split the concept of the governance token into:
    * The network governance coin, for validators, nominators, and as money on the chain, and
    * the political token.
@@ -44,7 +44,7 @@
  * Let the political token remain LLM. Let there be a new governance token that takes over network consensus, validation, and Liberland money: LLD.
 
 ## Pain Points
-* This solution, though one chosen, was a compromise. It had yet to be planned from the start and was designed to react to the situation described above when we became fully aware of it thanks to our dedicated development partners.
+* This solution was a compromise. It had not been planned from the start this way and was instead designed to react to the situation described above when we became fully aware of it thanks to our dedicated development partners.
 * The biggest issue I find as a designer is that the system is less intuitive than the one with only one governance token. People like number one better than number two.
 * The functions are delimitated between LLD and LLM in a logical but not intuitive manner. Unless you think long and hard about blockchains, it will not be *obvious* to you that a State-on-blockchain must split its governance token and do so precisely as we propose.
 * Any token issuance is a *liability* in the economic sense to the issuer. The token should be covered by financial reserves or something else, such as the project's potential. The more tokens one issues, the more bags they have to split their capital into to cover the emission. We mitigate this by sensible issuance of both tokens: Where many projects start in billions, we leave the initial token supply in the millions.
