@@ -1,4 +1,4 @@
-## Companies
+# Companies
 
 ## Executive Summary
 Start your business in Liberland today. Get your online Liberland business and sell your products and services on the Liberland Marketplace. 
