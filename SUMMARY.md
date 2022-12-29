@@ -20,3 +20,15 @@
 * [💻 Blockchain](blockchain/README.md)
   * [💫 White Paper](blockchain/white-paper.md)
   * [👨 Tokenomics Primer](blockchain/tokenomics-primer.md)
+  * For Citizens
+    * [Voting](blockchain/citizens/voting.md)
+    * [Senate](blockchain/citizens/senate.md)
+  * For Validators, Nominators & Stakers
+    * [Run a validator on StarLight chain](blockchain/staking/run_a_validator_on_starlight.md)
+    * [Run a validator on Hazlitt chain](blockchain/staking/run_a_validator_on_hazlitt.md)
+  * For Developers & Testers
+    * [Build, run & test using source code ](blockchain/dev/dev.md)
+    * [Run in Docker](blockchain/dev/docker.md)
+    * [Manual testing guide](blockchain/dev/testing_guide.md)
+    * [Runtime upgrade](blockchain/dev/runtime_upgrade.md)
+    * [Rust API docs](blockchain/dev/rust.md)
