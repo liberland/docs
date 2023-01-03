@@ -6,12 +6,12 @@ This guide assumes you have environment capable of building the substrate node.
 Follow [Build, run & test using source code](dev.md) guide to
 setup it.
 
-## 1. Prepare release
+## 2. Prepare release
 
 Tag the commit from which you'll build the chain spec and run initial nodes. Use
 this version of code for all following commands.
 
-## 2. Preparing your initial nodes' keys
+## 3. Preparing your initial nodes' keys
 
 For each of your initial nodes/validators, you need following keys:
 
@@ -62,7 +62,7 @@ liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr
 liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//audi' # authority_discovery
 ```
 
-## 3. Building chain spec
+## 4. Building chain spec
 
 While it's possible to create the spec file manually, it's recommended to build it from code.
 
@@ -95,7 +95,7 @@ liberland_substrate (develop)> cargo run --release -- build-spec --chain new_cha
 
 The generated `new_chain_spec.raw.json` is the file that should be distributed to all participants of the network and will be used to run our initial nodes.
 
-## 4. Running our first node
+## 5. Running our first node
 
 ### Inserting session keys
 
@@ -151,7 +151,7 @@ liberland_substrate (develop)> cargo run --release -- --chain new_chain_spec.raw
 
 Note the `Local node identity is: 12D3KooWL8az46KDc6d4iMCtwwx2RW7fxP7DfNYMVQRX7STWzBcj` in output. Copy this ID, we'll need it later.
 
-## 5. Running remaining initial nodes
+## 6. Running remaining initial nodes
 
 ### Inserting session keys 
 
