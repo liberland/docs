@@ -175,9 +175,12 @@ liberland_substrate (develop)> cargo run --release -- --chain new_chain_spec.raw
 2023-01-03 12:27:50 ✌️  version 3.0.0-dev-2c2aac70051    
 2023-01-03 12:27:50 ❤️  by Parity Technologies <admin@parity.io>, 2017-2023    
 [...]
+2023-01-03 12:34:12 💤 Idle (1 peers), best: #0 (0x7899…7aac), finalized #0 (0x7899…7aac), ⬇ 0 ⬆ 0    
 ```
 
-Make sure it shows `(1 peers)` (or more) in the logs after a minute. If not, verify that your initial node is running and bootnode address is correct.
+Make sure it shows `(1 peers)` (or more) in the logs after a minute. If not,
+verify that your initial node is running and bootnode address is correct. It's
+OK if it doesn't produce/finalize blocks yet, we need all nodes for that.
 
 ## 6. Verify
 
