@@ -1,5 +1,11 @@
 # Bootstrapping new testnet
 
+## 1. Prepare your env
+
+This guide assumes you have environment capable of building the substrate node.
+Follow [Build, run & test using source code](blockchain/dev/dev.md) guide to
+setup it.
+
 ## 1. Prepare release
 
 Tag the commit from which you'll build the chain spec and run initial nodes. Use
