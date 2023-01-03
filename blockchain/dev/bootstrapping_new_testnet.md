@@ -2,7 +2,8 @@
 
 ## 1. Prepare release
 
-Tag the commit from which you'll build the chain spec and run initial nodes.
+Tag the commit from which you'll build the chain spec and run initial nodes. Use
+this version of code for all following commands.
 
 ## 2. Preparing your initial nodes' keys
 
@@ -16,7 +17,7 @@ For each of your initial nodes/validators, you need following keys:
   * im_online (sr25519)
   * authority_discovery (sr25519)
 
-### Controller and stash keys
+### Generating Controller and stash keys
 
 These are regular accounts, you can use Polkadot Extension to generate them.
 
@@ -27,7 +28,7 @@ liberland_substrate (develop)> cargo run -q --release -- key inspect '<<YOUR_SEE
 liberland_substrate (develop)> cargo run -q --release -- key inspect '<<YOUR_SEED_HERE>>//stash'
 ```
 
-### Session keys
+### Generating session keys
 
 Make sure you're using different seed for each node.
 
@@ -63,12 +64,12 @@ Make sure you have the correct version of code checked out. Go to `bin/node/cli/
 following changes:
 
 1. Update `initial_authorities`. This is the place were you need to put your initial nodes' keys from [Step 2](#2-preparing-your-initial-nodes-keys). The order for each item is:
-  * Stash's public key (SS58)
-  * Controller's public key (SS58)
-  * Grandpa public key (hex)
-  * Babe public key (hex)
-  * Im_online public key (hex)
-  * Authority_discovery public key (hex)
+    * Stash's public key (SS58)
+    * Controller's public key (SS58)
+    * Grandpa public key (hex)
+    * Babe public key (hex)
+    * Im_online public key (hex)
+    * Authority_discovery public key (hex)
 2. Update the `citizens`. Each address on this list will be a valid citizen with a KnownGood judgement and will receive `10^18` LLD.
 3. Update the `registrar_key` - it's the address of Citizenship Registrar that will be able to provide identity judgements for citizenship.
 4. Update the `root_key` - it's the account capable of executing sudo calls
