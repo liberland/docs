@@ -32,3 +32,4 @@
     * [Manual testing guide](blockchain/dev/testing_guide.md)
     * [Runtime upgrade](blockchain/dev/runtime_upgrade.md)
     * [Rust API docs](blockchain/dev/rust.md)
+    * [Bootstrapping new testnet](blockchain/dev/bootstrapping_new_testnet.md)
