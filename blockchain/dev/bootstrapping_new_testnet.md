@@ -3,7 +3,7 @@
 ## 1. Prepare your env
 
 This guide assumes you have environment capable of building the substrate node.
-Follow [Build, run & test using source code](./dev.md) guide to
+Follow [Build, run & test using source code](dev.md) guide to
 setup it.
 
 ## 1. Prepare release
