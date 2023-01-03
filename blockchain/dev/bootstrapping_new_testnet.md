@@ -119,7 +119,7 @@ Run following commands. Make sure you pass proper chain spec file, path to node 
 ```
 liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme ed25519 --key-type gran --suri '<<YOUR_SEED_HERE>>//gran'
 liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type babe --suri '<<YOUR_SEED_HERE>>//babe'
-liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme ed25519 --key-type imol --suri '<<YOUR_SEED_HERE>>//imol'
+liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type imol --suri '<<YOUR_SEED_HERE>>//imol'
 liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type audi --suri '<<YOUR_SEED_HERE>>//audi'
 ```
 
