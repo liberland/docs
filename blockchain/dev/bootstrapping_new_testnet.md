@@ -149,7 +149,7 @@ liberland_substrate (develop)> cargo run --release -- --chain new_chain_spec.raw
 2023-01-03 12:27:55 💻 Target environment: gnu    
 ```
 
-Note the `Local node identity is: 12D3KooWL8az46KDc6d4iMCtwwx2RW7fxP7DfNYMVQRX7STWzBcj` in output. Copy this ID, we'll need it later.
+Note the `Local node identity is: 12D3KooWL8az46KDc6d4iMCtwwx2RW7fxP7DfNYMVQRX7STWzBcj` in output. Copy this ID from your output, we'll need it later.
 
 ## 6. Running remaining initial nodes
 
