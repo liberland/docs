@@ -12,7 +12,7 @@ This guide will walk you through:
 For Ubuntu & Debian derivatives:
 
 ```
-sudo apt install build-essential git clang curl libssl-dev llvm libudev-dev make protobuf-compiler
+sudo apt install build-essential git clang curl libssl-dev llvm libudev-dev make protobuf-compiler pkg-config
 ```
 
 Next install Rust itself. Run and follow prompts:
