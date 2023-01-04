@@ -173,7 +173,7 @@ Where:
 Make sure you pass the same chain spec and path to data as when inserting session keys. 
 
 ```
-liberland_substrate (develop)> cargo run --release -- --chain new_chain_spec.raw.json -d /data/liberland_node --force-authoring --validator --bootnodes /ip4/<IP_ADDRESS>/tcp/30333/p2p/<ID>
+liberland_substrate (develop)> cargo run --release -- --chain new_chain_spec.raw.json -d /data/liberland_node --validator --bootnodes /ip4/<IP_ADDRESS>/tcp/30333/p2p/<ID>
 2023-01-03 12:27:50 Substrate Node    
 2023-01-03 12:27:50 ✌️  version 3.0.0-dev-2c2aac70051    
 2023-01-03 12:27:50 ❤️  by Parity Technologies <admin@parity.io>, 2017-2023    
