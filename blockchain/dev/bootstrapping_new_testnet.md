@@ -49,7 +49,7 @@ Provide your seed. If you don't have one, feel free to copy this freshly generat
 Seed: <<YOUR_SEED_HERE>>
 gran (ed25519): 8280a7b1f74bc53e6fb2cf686566fbdcc850a61014e96a457e7d763a5e67a3e7
 babe (sr25519): 0caf07d84a96f800892699d69eb74d963ae2d8c5ced5c54199c061a270d2b827
-imol (sr25519): 509cd46a791813b05615a14b240319c56bc2f7a19106aadb26193bb126e27c40
+imon (sr25519): 509cd46a791813b05615a14b240319c56bc2f7a19106aadb26193bb126e27c40
 audi (sr25519): 7c5f75b761139f09b612b4457f24615080dcb0721ba8eb88ee7571d9f4589731
 ```
 
@@ -58,7 +58,7 @@ audi (sr25519): 7c5f75b761139f09b612b4457f24615080dcb0721ba8eb88ee7571d9f4589731
 ```
 liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme ed25519 '<<YOUR_SEED_HERE>>//gran' # grandpa
 liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//babe' # babe
-liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//imol' # im_online
+liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//imon' # im_online
 liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//audi' # authority_discovery
 ```
 
@@ -108,7 +108,7 @@ Provide your seed. If you don't have one, feel free to copy this freshly generat
 Seed: <<YOUR_SEED_HERE>>
 gran (ed25519): 8280a7b1f74bc53e6fb2cf686566fbdcc850a61014e96a457e7d763a5e67a3e7
 babe (sr25519): 0caf07d84a96f800892699d69eb74d963ae2d8c5ced5c54199c061a270d2b827
-imol (sr25519): 509cd46a791813b05615a14b240319c56bc2f7a19106aadb26193bb126e27c40
+imon (sr25519): 509cd46a791813b05615a14b240319c56bc2f7a19106aadb26193bb126e27c40
 audi (sr25519): 7c5f75b761139f09b612b4457f24615080dcb0721ba8eb88ee7571d9f4589731
 ```
 
@@ -119,7 +119,7 @@ Run following commands. Make sure you pass proper chain spec file, path to node 
 ```
 liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme ed25519 --key-type gran --suri '<<YOUR_SEED_HERE>>//gran'
 liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type babe --suri '<<YOUR_SEED_HERE>>//babe'
-liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type imol --suri '<<YOUR_SEED_HERE>>//imol'
+liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type imon --suri '<<YOUR_SEED_HERE>>//imon'
 liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type audi --suri '<<YOUR_SEED_HERE>>//audi'
 ```
 
