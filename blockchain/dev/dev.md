@@ -20,9 +20,14 @@ Next install Rust itself. Run and follow prompts:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-And switch to Rust Nightly:
+Switch to Rust Nightly:
 ```
 rustup default nightly
+```
+
+And install WASM target:
+```
+rustup target add wasm32-unknown-unknown
 ```
 
 See [Substrate docs](https://docs.substrate.io/install/) for detailed guide and other platforms.
