@@ -55,6 +55,8 @@ audi (sr25519): 7c5f75b761139f09b612b4457f24615080dcb0721ba8eb88ee7571d9f4589731
 
 #### Option 2: manually
 
+Notice that first command (for `grandpa`) uses `ed25519` scheme and others use `sr25519` scheme.
+
 ```
 liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme ed25519 '<<YOUR_SEED_HERE>>//gran' # grandpa
 liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//babe' # babe
@@ -114,7 +116,8 @@ audi (sr25519): 7c5f75b761139f09b612b4457f24615080dcb0721ba8eb88ee7571d9f4589731
 
 #### Option 2: manually
 
-Run following commands. Make sure you pass proper chain spec file, path to node storage and insert the same seed as one used for preparing keys for chain spec:
+Run following commands. Make sure you pass proper chain spec file, path to node storage and insert the same seed as one used for preparing keys for chain spec. 
+Notice that first command (for `grandpa`) uses `ed25519` scheme and others use `sr25519` scheme.
 
 ```
 liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme ed25519 --key-type gran --suri '<<YOUR_SEED_HERE>>//gran'
