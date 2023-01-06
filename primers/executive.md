@@ -1,4 +1,4 @@
-# 💂 Executive
+# Executive
 
 ## Executive Summary
 
