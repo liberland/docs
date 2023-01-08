@@ -9,7 +9,7 @@ Liberland's node docker image is hosted on Docker Hub: [liberland/blockchain-nod
 
 * Node binary is stored at `/node`
 * Embedded chain specifications are stored at `/specs/`
-* Exposed ports (only if `-P` is passed): `30333`, `9933`, `9944`.
+* Exposed ports: `30333`, `9933`, `9944`.
 * Runs as unpriviledged user with UID 1000
 
 ## Usage examples
@@ -44,12 +44,12 @@ $ docker run -it --rm -v $HOME/liberland_data:/data -v $HOME/custom_chain_spec.r
 
 ### Accessing your node locally via Polkadot.js Apps
 
-To be able to access your node locally via Polkadot.js Apps, pass `-P` argument so that default ports are exposed:
+To be able to access your node locally via Polkadot.js Apps, pass `-p 127.0.0.1:9944:9944` argument so that RPC port is published:
 
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -P -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json
+$ docker run -it --rm -p 127.0.0.1:9944:9944 -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json
 ```
 
 You'll now be able to access your node via [https://polkadot.js.org/apps/?rpc=ws://localhost:9944](https://polkadot.js.org/apps/?rpc=ws://localhost:9944).
@@ -58,7 +58,8 @@ You'll now be able to access your node via [https://polkadot.js.org/apps/?rpc=ws
 
 This example:
 * passes `-v $HOME/liberland_data:/data` to make data persistent on the host
-* passes `-P` to expose default ports to allow access // FIXME verify that these only bind locally
+* passes `-p 127.0.0.1:9933:9933 -p 127.0.0.1:9944:9944` to make RPC accessible locally
+* passes `-p 30333:30333` to make P2P accessible on all interfaces
 * passes `-d` to run in background
 * passes `--restart always` to automatically restart node on reboot / crash
 * uses PowellGoHome chain spec
@@ -67,7 +68,7 @@ This example:
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run --name liberland -d -P --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json --validator
+$ docker run --name liberland -d -p 127.0.0.1:9933:9933 -p 127.0.0.1:9944:9944 -p 30333:30333 --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json --validator
 ```
 
 You can:
