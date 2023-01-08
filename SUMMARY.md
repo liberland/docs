@@ -24,8 +24,7 @@
     * [Voting](blockchain/citizens/voting.md)
     * [Senate](blockchain/citizens/senate.md)
   * For Validators, Nominators & Stakers
-    * [Run a validator on StarLight chain](blockchain/staking/run_a_validator_on_starlight.md)
-    * [Run a validator on Hazlitt chain](blockchain/staking/run_a_validator_on_hazlitt.md)
+    * [Run a validator](blockchain/staking/run_a_validator.md)
   * For Developers & Testers
     * [Build, run & test using source code ](blockchain/dev/dev.md)
     * [Run in Docker](blockchain/dev/docker.md)
