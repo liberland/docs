@@ -17,7 +17,7 @@ Liberland's node docker image is hosted on Docker Hub: [liberland/blockchain-nod
 ### Listing embedded chain specs
 
 ```bash
-$ docker run -it --rm --entrypoint='/bin/sh' liberland/blockchain-node -c 'ls /specs'
+$ docker run -it --rm --entrypoint='/bin/sh' liberland/blockchain-node:powell_go_home -c 'ls /specs'
 powell_go_home.json  powell_go_home.raw.json  readme.md
 
 ```
@@ -29,7 +29,7 @@ To make sure your node's data is persistant, mount a host directory as a volume 
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -v $HOME/liberland_data:/data liberland/blockchain-node -d /data --chain /specs/powell_go_home.raw.json
+$ docker run -it --rm -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json
 ```
 
 ### Using custom chain spec
@@ -39,7 +39,7 @@ To use custom chain spec, you must mount it into the container:
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -v $HOME/liberland_data:/data -v $HOME/custom_chain_spec.raw.json:/custom_chain_spec.raw.json liberland/blockchain-node -d /data --chain /custom_chain_spec.raw.json
+$ docker run -it --rm -v $HOME/liberland_data:/data -v $HOME/custom_chain_spec.raw.json:/custom_chain_spec.raw.json liberland/blockchain-node:powell_go_home -d /data --chain /custom_chain_spec.raw.json
 ```
 
 ### Accessing your node locally via Polkadot.js Apps
@@ -49,7 +49,7 @@ To be able to access your node locally via Polkadot.js Apps, pass `-P` argument 
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -P -v $HOME/liberland_data:/data liberland/blockchain-node -d /data --chain /specs/powell_go_home.raw.json
+$ docker run -it --rm -P -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json
 ```
 
 You'll now be able to access your node via [https://polkadot.js.org/apps/?rpc=ws://localhost:9944](https://polkadot.js.org/apps/?rpc=ws://localhost:9944).
@@ -67,7 +67,7 @@ This example:
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run --name liberland -d -P --restart always -v $HOME/liberland_data:/data liberland/blockchain-node -d /data --chain /specs/powell_go_home.raw.json --validator
+$ docker run --name liberland -d -P --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json --validator
 ```
 
 You can:
