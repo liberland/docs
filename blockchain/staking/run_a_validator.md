@@ -64,7 +64,7 @@ $ ls data/liberland_node/
 
 ### restart node with validator flag:
 ```
-./target/release/substrate --chain specs/powell_go_home.raw.json  --bootnodes /ip4/164.92.254.132/tcp/30333/p2p/12D3KooWFzt9D5Pbza9ahfVjfXfRHsbsQRXmkf64FgY3LrLCSV8N --base-path /data/liberland_node --unsafe-pruning --pruning=1000 --validator
+./target/release/substrate --chain specs/powell_go_home.raw.json  --bootnodes /ip4/164.92.254.132/tcp/30333/p2p/12D3KooWFzt9D5Pbza9ahfVjfXfRHsbsQRXmkf64FgY3LrLCSV8N --base-path /data/liberland_node --validator
 ```
 
 After verifying that it works, its recommended to do this step as a system process. On ubuntu, it would look something like
