@@ -21,7 +21,7 @@ $ docker images -a
 ## Run node
 + Forward ports 9933 and 9944 to local socket(-p)
 + "-d", detach the docker image and run it as a daemon
-+ "-e", set the [enviromental variables for the node](../staking/run_a_validator_on_hazlitt.md#restart-node-with-validator-flag), modify this based the node flags(--) you want to define
++ "-e", set the [enviromental variables for the node](../staking/run_a_validator.md#restart-node-with-validator-flag), modify this based the node flags(--) you want to define
 ```bash
 $ docker run -p 9933:9933 -p 9944:9944 -d  \
 -v /home/user/liberland/:/data laissezfaire/liberland-node:0.3.2 liberland_node  \

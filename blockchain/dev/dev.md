@@ -44,6 +44,10 @@ To fetch source code, run the following (you may replace `main` with `develop` i
 git clone https://github.com/liberland/liberland_substrate.git -b main
 cd liberland_substrate
 ```
+## Minimum requirements
+Make sure you have at least 4 GB of RAM available. If you dont, add whats missing to swap.
+[Adding swap for ubuntu](https://www.cloudsigma.com/adding-swap-space-on-ubuntu-20-04-a-tutorial/)
+Note that this will fix some out of memory build errors, but will significantly prolong the build.
 
 ## Build the node
 
