@@ -23,6 +23,7 @@
   * For Citizens
     * [Voting](blockchain/citizens/voting.md)
     * [Senate](blockchain/citizens/senate.md)
+    * [Setting identity](blockchain/citizens/identity.md)
   * For Validators, Nominators & Stakers
     * [Run a validator on PowellGoHome](blockchain/staking/run_a_validator_on_powell_go_home.md)
     * [Run a validator](blockchain/staking/run_a_validator.md)
