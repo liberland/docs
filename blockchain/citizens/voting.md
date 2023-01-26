@@ -27,7 +27,7 @@ Navigate to [Polkadot.js](https://polkadot.js.org/apps/) and chooce local node.
 
 In order to vote or interact with the political system, a user needs to become and on-chain citizen.
 The requirements for being a citizen is:
-* Identity set with the citizen field
+* Identity set with the citizen field and `eligible_on` pointing to a past block number 
 * `KnownGood` judgement from citizenship registrar
 * Pooled llm
 
@@ -51,7 +51,7 @@ To unpool, use `polkadot.js > Developer > extrinsics > llm > politicsUnlock`
 ## Set on-chain role
 
 Once you have pooled LLM you can now go to `polkadot.js > Developer > extrinsics > identity > setIdentity`
-Make sure you set the `citizen` field to raw and put `1` as the `Raw` input.
+Make sure you set the `citizen` field to raw and put `1` as the `Raw` input and `additional` containing item `(Raw: eligible_on, Raw: 0x0)`.
 
 Submit the transaction!
 
