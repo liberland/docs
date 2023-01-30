@@ -48,7 +48,7 @@ Make sure you replace `DATA_DIR` with a path to directory that can store at leas
 ```
 user@host:~/liberland/powellgohome$ ./node \
     --chain powell_go_home.raw.json \
-    --validate \
+    --validator \
     -d DATA_DIR
 ```
 
