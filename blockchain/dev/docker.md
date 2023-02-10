@@ -17,19 +17,19 @@ Liberland's node docker image is hosted on Docker Hub: [liberland/blockchain-nod
 ### Listing embedded chain specs
 
 ```bash
-$ docker run -it --rm --entrypoint='/bin/sh' liberland/blockchain-node:powell_go_home -c 'ls /specs'
-powell_go_home.json  powell_go_home.raw.json  readme.md
+$ docker run -it --rm --entrypoint='/bin/sh' liberland/blockchain-node:bastiat -c 'ls /specs'
+bastiat.json  bastiat.raw.json  readme.md
 
 ```
 
-### Minimal PowellGoHome node with persistent data
+### Minimal Bastiat node with persistent data
 
 To make sure your node's data is persistant, mount a host directory as a volume using `-v` argument:
 
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json
+$ docker run -it --rm -v $HOME/liberland_data:/data liberland/blockchain-node:bastiat -d /data --chain /specs/bastiat.raw.json
 ```
 
 ### Using custom chain spec
@@ -39,7 +39,7 @@ To use custom chain spec, you must mount it into the container:
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -v $HOME/liberland_data:/data -v $HOME/custom_chain_spec.raw.json:/custom_chain_spec.raw.json liberland/blockchain-node:powell_go_home -d /data --chain /custom_chain_spec.raw.json
+$ docker run -it --rm -v $HOME/liberland_data:/data -v $HOME/custom_chain_spec.raw.json:/custom_chain_spec.raw.json liberland/blockchain-node:bastiat -d /data --chain /custom_chain_spec.raw.json
 ```
 
 ### Accessing your node locally via Polkadot.js Apps
@@ -49,7 +49,7 @@ To be able to access your node locally via Polkadot.js Apps, pass `-p 127.0.0.1:
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -p 127.0.0.1:9944:9944 -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json
+$ docker run -it --rm -p 127.0.0.1:9944:9944 -v $HOME/liberland_data:/data liberland/blockchain-node:bastiat -d /data --chain /specs/bastiat.raw.json
 ```
 
 You'll now be able to access your node via [https://polkadot.js.org/apps/?rpc=ws://localhost:9944](https://polkadot.js.org/apps/?rpc=ws://localhost:9944).
@@ -62,13 +62,13 @@ This example:
 * passes `-p 30333:30333` to make P2P accessible on all interfaces
 * passes `-d` to run in background
 * passes `--restart always` to automatically restart node on reboot / crash
-* uses PowellGoHome chain spec
+* uses Bastiat chain spec
 * passes `--validator` option to node to enable acting as validator
 
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run --name liberland -d -p 127.0.0.1:9933:9933 -p 127.0.0.1:9944:9944 -p 30333:30333 --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:powell_go_home -d /data --chain /specs/powell_go_home.raw.json --validator
+$ docker run --name liberland -d -p 127.0.0.1:9933:9933 -p 127.0.0.1:9944:9944 -p 30333:30333 --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:bastiat -d /data --chain /specs/bastiat.raw.json --validator
 ```
 
 You can:
@@ -78,4 +78,15 @@ You can:
 * restart with `docker restart liberland`
 * remove with `docker rm liberland`
 
-With an instance running like this you may now follow the [Run a validator on PowellGoHome](../staking/run_a_validator_on_powell_go_home.md#generate-session-keys) starting with **Generate session keys** section.
+#### Generate session keys
+
+`author_rotateKeys` generates new keys and stores them in your node.
+
+```
+user@host:~/liberland/$ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
+{"jsonrpc":"2.0","result":"0x58db6952384f2d1f9600255a2fce9b116201e872e9951a0a0c0edd7c31124934c690eb603407f4b98a1c9fc0628d4b926fec03d577f233fda3af01d33e2a391b9ad7558c0ae9ba082b3b70236ec584471c92c3a5d78e9bc08f49de7c75961e132697e5419818bfcd31e1bc2cc7d0560a81db72a76af59374c1932bc7a96d773a","id":1}
+```
+
+Copy the contents of `result` from your terminal, thats the new session keys.
+
+With an instance running like this you may now follow the [Run a validator](../staking/run_a_validator.md#wait-for-your-node-to-sync) starting with **Wait for your node to sync** section.
