@@ -19,7 +19,8 @@ This script is for Ubuntu and Debian servers. If you're not running Ubuntu or De
 
 Run the following command on your server:
 ```
-curl -sSL https://raw.githubusercontent.com/liberland/liberland_substrate/main/scripts/install/install.sh | bash
+curl -sSLO https://raw.githubusercontent.com/liberland/liberland_substrate/main/scripts/install/install.sh
+bash install.sh
 ```
 
 The script will ask you for confirmation before every action. It will:
