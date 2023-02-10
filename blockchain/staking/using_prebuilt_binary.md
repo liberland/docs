@@ -5,8 +5,8 @@
 ```
 user@host:~$ mkdir -p liberland/bastiat/
 user@host:~$ cd liberland/bastiat/
-user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0/linux_x86_build -O node
-user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0/bastiat.raw.json
+user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0-rc2/linux_x86_build -O node
+user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0-rc2/bastiat.raw.json
 user@host:~/liberland/bastiat$ chmod +x node
 ```
 
