@@ -4,6 +4,8 @@
 
 This guide will walk you through the process of setting up a new validator on Liberland Chain.
 
+[You can follow along a video here](https://www.youtube.com/watch?v=dV0fK1eqSZY)
+
 Note:
 * *DO NOT* expose your validators RPC ports (9933 and 9944 by default) publicly on the internet. Treat validators with more care than full nodes.
 * You *do not* need to a run a validator to earn LLD staking rewards. As a user you can simply become a nominator and stake your coins without needing to run a validator.
@@ -11,6 +13,14 @@ Note:
 ## Requirements
 
 * ~10 GB of free disk space
+* 2GB of RAM, but swap is ok, see [How to add swap](https://www.cloudsigma.com/adding-swap-space-on-ubuntu-20-04-a-tutorial/) if you have less than 2GB of RAM
+* Liberland wallet with at least 200 LLD. [Ask to be onboarded](https://matrix.to/#/#liberland-node:matrix.org)
+* [PolkadotJs wallet](https://polkadot.js.org/extension/)
+
+## Get wallet
+* Go to [PolkadotJs wallet](https://polkadot.js.org/extension/)
+* Download extension
+*  Use the extension and create a new wallet. Save the mnemonic key somewhere safe. If you lose the mnemonic key, your account is lost.
 
 ## Installation
 ### Option 1: automatic script
@@ -30,7 +40,9 @@ The script will ask you for confirmation before every action. It will:
 * configure time synchronization
 * generate session keys for use in next step
 
-If everything goes OK, you will see something like this:
+* The script gives the node time to start up, if it takes too long it will exit. If that happens, just wait a minute and run the script again.
+
+* If everything goes OK, you will see something like this:
 
 ```
 Your node is now running. Useful commands:
@@ -42,7 +54,13 @@ Node data is stored in /opt/liberland/data.
 Session keys for your node: [long text starting with 0x here]
 ```
 
-Copy the session keys, you will need them when adding validator.
+* Copy the session keys, you will need them when adding validator.
+
+* If something went wrong and you need to get session keys manually, see [Regenerating session keys](./regenerate_session_keys.md).
+
+```
+curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
+```
 
 ### Option 2: using docker
 
@@ -64,11 +82,13 @@ While syncing, you will see `Syncing` messages and lots of `maybe_release ran al
 
 When synced, `maybe_release ran all the way` will mostly disappear and you will see mostly `Idle` and `Imported` messages.
 
+This process will take a few seconds for every day the blockchain has been running - so on old blockchains it may take hours.
+
 ## Add validator
 
 > Note that in order to do this step you will need some LLD, so ask someone to give you some if you dont already have it.
 
-1. Visit [Staking Accounts on Polkadot.js Apps for PowellGoHome](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
+1. Visit [Staking Accounts on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "+ Validator" button.
 3. Set your stash and controller accounts and select how much LLD you want to bond.
 4. Click "Next" button.
@@ -80,13 +100,13 @@ When synced, `maybe_release ran all the way` will mostly disappear and you will 
 
 Immediately after adding validator, you should see it as "Waiting":
 
-1. Visit [Staking on Polkadot.js Apps for PowellGoHome](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
+1. Visit [Staking on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
 2. Click "Waiting" button.
 3. You should see your Stash account in the "Intentions" table.
 
 Now you have to wait to see if it gets elected to current set of validators. You may need to wait until new era starts and then the chance of being elected is based on the amount of staked LLD. To see current set of validators:
 
-1. Visit [Staking on Polkadot.js Apps for PowellGoHome](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
+1. Visit [Staking on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
 2. Click "All validators" button.
 2. Click "Active" button.
 3. You should see list of active validators in the "Validators" table.
