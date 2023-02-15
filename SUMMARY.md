@@ -26,6 +26,7 @@
     * [Setting identity](blockchain/citizens/identity.md)
   * For Validators, Nominators & Stakers
     * [Run a validator](blockchain/staking/run_a_validator.md)
+    * [Non technical run a validator](blockchain/staking/run_a_validator_non_technical.md)
   * For Developers & Testers
     * [Build, run & test using source code ](blockchain/dev/dev.md)
     * [Run in Docker](blockchain/dev/docker.md)
