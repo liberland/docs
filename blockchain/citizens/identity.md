@@ -6,7 +6,7 @@ To be eligible for citizenship rights, you must be 13 years old. To set this in 
 
 * Check current latest block number: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/explorer
 * Calculate number of seconds between now and your 13th birthday
-* If you're 13+, the eligibility block number is: `current_block_number - number_of_seconds/6` - use `0` if you got negative number
+* If you're 13+, the eligibility block number is: `current_block_number - number_of_seconds/6` - use `0` if you got a negative number
 * If you're younger, the eligibility block number is: `current_block_number + number_of_seconds/6`
 
 ## Block number encoding
@@ -24,10 +24,14 @@ Copy the **HEX** value somewhere, it will be needed in next step
 
 1. Visit Polkadot.js Apps: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/extrinsics
 2. In the **submit the following extrinsic** field select **identity** and **setIdentity(info)**
-3. In the citizen field:
+3. In the display field:
     * Select **Raw**
-    * Enter `1` in **Raw: Bytes** field
-4. In the additional field, create a single item:
-    * First field is **Raw** with **Raw: Bytes** set to `eligible_on`
-    * Second field is **Raw** with **Raw: Bytes** set to the **HEX** from previous step **prefixed with `0x`**.
+    * Enter your display name in **Raw: Bytes** field
+4. In the additional field:
+    * add item:
+        * First field is **Raw** with **Raw: Bytes** set to `citizen`
+        * Second field is **Raw** with **Raw: Bytes** set to `1`.
+    * add item:
+        * First field is **Raw** with **Raw: Bytes** set to `eligible_on`
+        * Second field is **Raw** with **Raw: Bytes** set to the **HEX** from previous step **prefixed with `0x`**.
 5. Submit transaction

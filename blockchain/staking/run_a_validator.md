@@ -58,10 +58,6 @@ Session keys for your node: [long text starting with 0x here]
 
 * If something went wrong and you need to get session keys manually, see [Regenerating session keys](./regenerate_session_keys.md).
 
-```
-curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
-```
-
 ### Option 2: using docker
 
 See [Docker guide](../dev/docker.md).
@@ -78,9 +74,9 @@ See [Using source](./using_source.md)
 
 Monitor logs of your node.
 
-While syncing, you will see `Syncing` messages and lots of `maybe_release ran all the way` messages.
+While syncing, you will see `Syncing` messages.
 
-When synced, `maybe_release ran all the way` will mostly disappear and you will see mostly `Idle` and `Imported` messages.
+When synced, `Syncing` messages will stop printing and you will see mostly `Idle` and `Imported` messages.
 
 This process will take a few seconds for every day the blockchain has been running - so on old blockchains it may take hours.
 

@@ -5,7 +5,7 @@
 ```
 user@host:~$ mkdir -p liberland/bastiat/
 user@host:~$ cd liberland/bastiat/
-user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0/linux_x86_build -O node
+user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v7.0.0/linux_x86_build -O node
 user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0/bastiat.raw.json
 user@host:~/liberland/bastiat$ chmod +x node
 ```
@@ -13,7 +13,7 @@ user@host:~/liberland/bastiat$ chmod +x node
 After downloading verify files integrity. Checksums should match with this output:
 ```
 user@host:~/liberland/bastiat$ sha256sum node bastiat.raw.json 
-2d3efa04b086859c73bb452453c3bf573679e8b578863fc23ce2170b028b64c9  node
+FIXME  node
 645df3a7c84ed64e3162cc7155624268fcb09a6dcde12b88bb8db8b2bfeec882  bastiat.raw.json
 ```
 

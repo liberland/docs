@@ -2,9 +2,9 @@
 
 If you want to build from source instead of using prebuilt binary:
 
-1. Checkout the `v6.0.0` tag of repo:
+1. Checkout the `v7.0.0` tag of repo:
     ```
-    git clone https://github.com/liberland/liberland_substrate.git --depth 1 -b v6.0.0
+    git clone https://github.com/liberland/liberland_substrate.git --depth 1 -b v7.0.0
     cd liberland_substrate
     ```
 2. Build the code - see [Build, run & test using source code](../dev/dev.md) guide. Only follow up to the end of **Build the node**.
