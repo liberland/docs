@@ -9,14 +9,14 @@ To counter this, we have decided to separate the validator power from the govern
 ### Overview
 Liberland Merit (LLM) is the governance token that represents a share in the State and in nationhoood of Liberland. LLM is not a security created with the expectation of revenue; rather, it is legally something closer to one's share in a joint ownership, like with housing committees; but the LLM represents your share in your country. The governance power is connected to the LLM and there is no possibility of other governance or of separating this power from the token.
 
-## Politpooling
+### Politpooling
 In order to prevent plutocratic concentration of power, you can only utilize the LLM in politics if you vest them on a tight schedule. This vesting is called "politpooling". Politpooled LLM are locked and you can only unvest 10 percent in year, payable monthly. 
 
-## Citizenship on the Blockchain
+### Citizenship on the Blockchain
 As a country, Liberland uses citizenship. To fulfil the requirement of governance by blockchain, citizenship must be reflected on--chain.  
 When you politpool 5000 LLM, you can ask for citizenship by investment. 
 
-## Voting Rights
+### Voting Rights
 Only Citizens with 5000 politpooled LLM have political rights in Liberland. In this way, Liberland replaces the usual requirements proving a personal connection to the country by this form of vesting. We can expect those who commit their funds into Liberland long-term to have a provable bond with the land and a stake in the country's success.
 
 ### Tokenomics
@@ -37,3 +37,9 @@ We plan to issue **2 000 000 LLD** in the beginning, which is markedly less than
 
 #### Increase in Money Supply
 The increase in money supply is set by the system and is constant. The initial increase is 10 percent p/a, subject to change by governance, hence, the coin holders. Coin holders have the incentive of keeping the increase in money supply relatively low and sustainable. The reason why this increase needs to be nonzero is that the higher it is, the more incentive the validators and nominators have to keep the chain decentralized.
+
+## Validators
+[Validators](https://wiki.polkadot.network/docs/learn-staking#selection-of-validators) get selected by the algorithm based on the size of their stake. Validators need to be LLD holding Citizens. Their responsibility is to [produce new block candidates](https://wiki.polkadot.network/docs/learn-consensus#block-production-babe) and [finalize blocks](https://wiki.polkadot.network/docs/learn-consensus#finality-gadget-grandpa). Validators are selected per epoch and inactive validators can be "slashed" by the system.
+
+## Nominators
+[Nominators](https://wiki.polkadot.network/docs/learn-staking#selection-of-validators) ensure the true decentralization of the chain. Anyone can be a nominator and becoming one is the question of having some LLD and setting up a stash. Nominators don't get reward for hosting a node, but for staking their LLD into a node of an existing Validator, hereby increasing their chance at nomination.
