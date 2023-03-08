@@ -20,7 +20,7 @@ When you politpool 5000 LLM, you can ask for citizenship by investment.
 Only Citizens with 5000 politpooled LLM have political rights in Liberland. In this way, Liberland replaces the usual requirements proving a personal connection to the country by this form of vesting. We can expect those who commit their funds into Liberland long-term to have a provable bond with the land and a stake in the country's success.
 
 ### Tokenomics
-Inspired by Bitcoin (BTC), the LLM has a fixed maximum supply of **70 000** tokens. With the expectable losses due to lost addresses etc., this token is expected to be deflationary. The initial price for LLM will be 1 USD, but this will change when the LLM begins to trade on market. True to Liberland's ethos and paraphrasing Adam Smith, the price of 1 LMM will be "whatever the purchasers are willing to pay for it".
+Inspired by Bitcoin (BTC), the LLM has a fixed maximum supply of **70 000 000** tokens. With the expectable losses due to lost addresses etc., this token is expected to be deflationary. The initial price for LLM will be 1 USD, but this will change when the LLM begins to trade on market. True to Liberland's ethos and paraphrasing Adam Smith, the price of 1 LMM will be "whatever the purchasers are willing to pay for it".
 
 ## Liberland Dollar (LLD)
 ### Overview
@@ -28,8 +28,12 @@ Liberland Dollar will be the second official currency of Liberland after Bitcoin
 1. the money to purchase goods and services (mainly off-chain), hence, the medium to record market values of primarily real-world articles; and
 2. the coin for validators and nominators to stake and thereby to secure the chain and gain rewards, which will also be payed-out in LLD.
 
-### Initial Money Supply
-We plan to issue 2m LLD in the beginning, which is markedly less than the initial offerings of most cryptos. The initial price will be, likewise to LLM, 1 USD per 1 LLD. Despite the name, LLD is no stablecoin but a tradeable digital money, just like BTC. As such, the price will be strictly market based.
-
-### Tokenomics Conception
+### Tokenomics
+#### General
 The tokenomics of LLD resemble that of Polkadot (DOT). The reason for this is that the system is based on Polkadot's substrate and we took that what seems to work and has worked for several years now. You can read about it in details here. We will introduce the basic conception in the remainder of this primer.
+
+#### Initial Money Supply
+We plan to issue **2 000 000 LLD** in the beginning, which is markedly less than the initial offerings of most cryptos. The initial price will be, likewise to LLM, 1 USD per 1 LLD. Despite the name, LLD is no stablecoin but a tradeable digital money, just like BTC. As such, the price will be strictly market based.
+
+#### Increase in Money Supply
+The increase in money supply is set by the system and is constant. The initial increase is 10 percent p/a, subject to change by governance, hence, the coin holders. Coin holders have the incentive of keeping the increase in money supply relatively low and sustainable. The reason why this increase needs to be nonzero is that the higher it is, the more incentive the validators and nominators have to keep the chain decentralized.
