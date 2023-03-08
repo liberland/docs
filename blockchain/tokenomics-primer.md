@@ -1,66 +1,25 @@
-# Tokenomics Primer (LLM)
-Where BTC's decentralisation and value store potential meet the flexibility of BSC and ETH.
+# Tokenomics Primer
 
-## Introduction
-Liberland Smart Chain (LSC)
-Liberland Smart Chain (LSC) is an all-purpose, Web3 capable blockchain best suited for trade, value store and decentralised Governance. Our solution addresses the following question:
+## Division of Power
+Liberland is a country and modern countries employ division of power. On a blockchain, the main concentration of power is on the node owners and those who write new blocks. In case of a nominated proof of stake (nPOS), those are the validators and nominators. In a DAO, the power of democracy in the system would directly derive from ownership of the coin which the validators and nominators use. Such a concentration of power is not desirable, as, in effect, we would ensure with mathematic certainty that those best poised to become officials in Liberland would also be those who count the votes.
 
-## On the one hand 
-Blockchains with the most solid, deflationary tokenomics tend to have too few use cases, as they are without real layer one smart contract capability - BTC, LTC, BCH.
-As a result, they often only serve as a value store; this is certainly a good proposition in the world of inflating fiat currencies; but it hardly fulfils the expectations one might have of a currency or, one might argue, Satoshi’s original vision for an alternative (free) world payment system;
-
-## On the other hand 
-the chains with more use cases like ETH or BSC or their respective tokens tend to have less-than-solid tokenomics, and one might not expect them to be the next ‘’digital gold”;
-They are also not all that decentralised compared to BTC;
-
-## Questions
-Can a Proof of Stake (PoS) Web3 friendly Blockchain be built so that it at once
-allows for a rich Smart Contract environment as its Layer 1 solution,
-* truly decentralised; and 
-* presents solid tokenomics to the holder (or the HODLer)?
-And can this be done without introducing clutter and prohibitive gas fees per transaction, which would paralyse the chain?
+To counter this, we have decided to separate the validator power from the governance power. So the two cryptos conception was born: the governance token, Liberland Merit (LLM), and the coin, Liberland Dollar (LLD).
 
 ## Liberland Merit (LLM)
-The Liberland Merit (our governance token) will play a central role in our system. We are building a completely new Blockchain where the LLM will be the governance token and LLD will be the coin. Please read more about the LLD in the White Paper.
-Our Blockchain is built on Substrate and is designed as open source and transparent from the start. The main underlying technology is that of PolkaDot, although we are heavily modifying the original concept to make it suitable for the Governance of a whole State.
-The following are the initial use cases for the LLM:
+### Overview
+Liberland Merit (LLM) is the governance token that represents a share in the State and in nationhoood of Liberland. LLM is not a security created with the expectation of revenue; rather, it is legally something closer to one's share in a joint ownership, like with housing committees; but the LLM represents your share in your country. The governance power is connected to the LLM and there is no possibility of other governance or of separating this power from the token.
 
-### Politpooling - Proof of Commitment (PoC)
-One may prove their Commitment to Liberland by locking (Pooling) the tokens into the country, effectively paying their voluntary taxes and intertwining their future with that of Liberland.
+## Politpooling
+In order to prevent plutocratic concentration of power, you can only utilize the LLM in politics if you vest them on a tight schedule. This vesting is called "politpooling". Politpooled LLM are locked and you can only unvest 10 percent in year, payable monthly. 
 
-### Citizenship
-Those who Pool 5000 LLM as Proof of their Commitment to Liberland will be eligible to apply for Liberland Citizenship. They will participate in Liberland (and in on-chain) Governance.
+## Citizenship on the Blockchain
+As a country, Liberland uses citizenship. To fulfil the requirement of governance by blockchain, citizenship must be reflected on--chain.  
+When you politpool 5000 LLM, you can ask for citizenship by investment. 
 
-### Governance
-PoC Politpooled LLM will serve as the governance token for the on-chain Governance and Liberland’s Government. The PoC system will ensure that people with skin in the game will decide the chain (and Liberland’s) future, further guaranteeing stability and rational decision-making.
+## Voting Rights
+Only Citizens with 5000 politpooled LLM have political rights in Liberland. In this way, Liberland replaces the usual requirements proving a personal connection to the country by this form of vesting. We can expect those who commit their funds into Liberland long-term to have a provable bond with the land and a stake in the country's success.
 
-### Value Store
-There is a hard cap on the number of tokens of 70m. The tokens can be divided into 12 decimal places to accommodate the consequence of rising prices.
+### Tokenomics
+Inspired by Bitcoin (BTC), the LLM has a fixed maximum supply of **70 000** tokens. With the expectable losses due to lost addresses etc., this token is expected to be deflationary.
 
-### Smart Contracts
-In our second phase, approximately 6-12 months after the mainnet launch, we will implement a Gateway and enable Smart Contracts on our chain in earnest. They are enabled out-of-the-box, but gateways to other chains are required for a smart chain system to flourish truly.
-
-After the year 2070 passes, LLM will become truly deflationary. Even before that, the rate of lost coins and burns will turn the coin into a functionally deflationary instrument.
-
-## Initial Distribution
-We seek to distribute the LLM as fairly as possible. True to the principle of the Proof of Commitment, some of the tokens will be directly distributed to persons who have contributed to Liberland’s development, ensuring that the holders are dedicated to the vision behind this new country. The rest will be owned by the Treasury to be used to operate our country and the blockchain.
-
-## Treasury
-Tokens in the Treasury will be subject to State Budgets, which must pass through our governance. It will be up to Liberland Politics to decide where they will be used for each budget period. We expect the main benefactors to be:
-The political system of Liberland, namely:
-* to the Congress;
-* to the Executive;
-* To the rest of the world (Suppliers).
-
-## Congress
-The Members of Congress will be able to use the LLM distributed to them as their ‘salary’ and cover their costs. Members of Congress are expected to propose competent legislature, which will require expert help; those experts are to be paid, in part or in full, by LLM.
-
-## Executive
-This distribution channel will help us maintain the system, audit and review it, and reward the Public Administration's Agents for their work, purchase equipment, and fund all the other required functions of Liberland’s government: to protect individual life, liberty and property.
-
-## Suppliers
-Where projects will require the help of other parties, our LLM will be used to fund them. This category includes anything and everything the State might need from anyone in the outside world.
-
-## Senate
-The Senate will have an “emergency break” power to stop any payment from happening, even if these are according to the budget. This is to ensure that their investment, and the future of Liberland, are not jeopardised by rash or motivated decision-making.
-
+## Liberland Dollar (LLD)
