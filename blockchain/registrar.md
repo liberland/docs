@@ -62,15 +62,15 @@ ultimateBeneficiaries: [
 26. Registrar can set metadata or attributes of any NFT in the collection. For example, land NFTs are grouped together into plots, and the registrar can change the “plot” attribute/metadata of the NFT.
 27. Selling is done as normally in the uniques pallet, with the possible exception that, for example, to sell land, you can only sell TO citizens.
 28. These functions are mostly already supported by the uniques pallet, so major code can only be written if requirements change.
-30. Merging NFTs into a single NFT is a requirement and may need to be done via an intermediary pallet. 
-31. There may or may not be a new land registry pallet that keeps track of plots, depending on how coding goes; see below. There may be a need for an intermediate pallet that forwards valid calls from collectives etc to the NFTs pallet
+29. Merging NFTs into a single NFT is a requirement and may need to be done via an intermediary pallet. 
+30. There may or may not be a new land registry pallet that keeps track of plots, depending on how coding goes; see below. There may be a need for an intermediate pallet that forwards valid calls from collectives etc to the NFTs pallet
 ## Off-chain
-32. The frontend should read your NFTs and recognize them as land, vehicles, etc.
-33. Users can ask the registry to register a new NFT, such as a new car, which the registry needs to mint and assign to the user. There should be a UI for this eventually.
-34. The land registry mints initial NFTs that have grid coordinates
-35. The land registry keeps track of which NFTs belong to which plots - data is persisted and read on the blockchain
-36. The land registry can split NFTs by changing the coordinates of one NFT and minting another from the reduced coordinates of the other and persist that on the blockchain.
-37. Keeping track that coordinates do not overlap is the responsibility of the land registry off-chain.
-38. Plot ids and ownership of plots may be done off-chain or on-chain through land registry. Every NFT must belong to a user on-chain, but plots are a quality-of-life feature, so we don't have to make a pallet for it officially, but it may be a preferred solution.
-39. There should be an API middleware that can read chain data and format them for metaverse
-40. The Metaverse will get merged plot coordinates and other utility API endpoints
+31. The frontend should read your NFTs and recognize them as land, vehicles, etc.
+32. Users can ask the registry to register a new NFT, such as a new car, which the registry needs to mint and assign to the user. There should be a UI for this eventually.
+33. The land registry mints initial NFTs that have grid coordinates
+34. The land registry keeps track of which NFTs belong to which plots - data is persisted and read on the blockchain
+35. The land registry can split NFTs by changing the coordinates of one NFT and minting another from the reduced coordinates of the other and persist that on the blockchain.
+36. Keeping track that coordinates do not overlap is the responsibility of the land registry off-chain.
+37. Plot ids and ownership of plots may be done off-chain or on-chain through land registry. Every NFT must belong to a user on-chain, but plots are a quality-of-life feature, so we don't have to make a pallet for it officially, but it may be a preferred solution.
+38. There should be an API middleware that can read chain data and format them for metaverse
+39. The Metaverse will get merged plot coordinates and other utility API endpoints
