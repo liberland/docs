@@ -1,4 +1,4 @@
-# Company registrar
+# Company registry
 ## Purpose
 1. Have a registry capable of storing data on the blockchain.
 2. Enable the storage of company data, such as   
