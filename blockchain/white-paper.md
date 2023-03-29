@@ -7,14 +7,13 @@ Liberland's aim is to make all e-government services available to our citizens u
 Liberland governance shall become the first use case for our system  
 
 ## The Scope:
-Liberland sponsored the building of a Level 1 (L1) Substrate based blockchain. Based on Polkadot, the consensus mechanism will be a version of Delegated Proof of Stake. This project is not a parachain of Polkadot but a stand-alone blockchain.  
 
-## Public Blockchain
-Liberland Blockchain is a public blockchain owned by the holders of coins and tokens. Liberland funds and supports its development, and Liberland will provide the first use case or set of use cases. The licence is MIT, the same licence that Bitcoin uses, and Liberland is in no way the owner of the blockchain or the related materials.  
+### Public Blockchain
+Liberland Blockchain is a layer 1 public blockchain owned by the holders of coins and tokens. Liberland funds and supports its development, and Liberland will provide the first use case or set of use cases. The code base is a fork of Substrate/Polkadot. The licence is MIT, the same licence that Bitcoin uses, and Liberland is in no way the owner of the blockchain or the related materials. 
 
 Everyone can permissionlessly use the tokens and coins of our blockchain as a store of value or a medium of exchange. Only the advanced functionalities critical for the project’s future are permissioned. DeFi projects on the Liberland chain will not be permissioned unless otherwise designed by the 3rd party developers on a per-project basis.  
 
-## Permissioned Access
+### Permissioned Access
 Liberland is a State, and it needs to maintain its security in ways that normal blockchains do not require. To accommodate those needs, certain blockchain functions require permissioned access for special types of users: Citizens and E-Residents.  
 
 To become either, one has to go through a KYC process. In addition, the access requires the purchase and a vested holding of a certain amount of our Token (LLM); see below. The main areas which require permissioned access are:  
