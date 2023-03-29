@@ -9,7 +9,7 @@ Liberland governance shall become the first use case for our system
 ## The Scope:
 Liberland sponsored the building of a Level 1 (L1) Substrate based blockchain. Based on Polkadot, the consensus mechanism will be a version of Delegated Proof of Stake. This project is not a parachain of Polkadot but a stand-alone blockchain.  
 
-## Permissionless Core
+## Public Blockchain
 Liberland Blockchain is a public blockchain owned by the holders of coins and tokens. Liberland funds and supports its development, and Liberland will provide the first use case or set of use cases. The licence is MIT, the same licence that Bitcoin uses, and Liberland is in no way the owner of the blockchain or the related materials.  
 
 Everyone can permissionlessly use the tokens and coins of our blockchain as a store of value or a medium of exchange. Only the advanced functionalities critical for the project’s future are permissioned. DeFi projects on the Liberland chain will not be permissioned unless otherwise designed by the 3rd party developers on a per-project basis.  
@@ -93,25 +93,23 @@ The President also serves as the Prime Member of the Senate. In accordance to Su
 ## Judiciary
 The on-chain judiciary is currently in active development. It aims to combine the trust-based elements one expects to see in courtroom, such as professional judges and process law, with blockchain-native solutions. The main inspirations are Kleros, the Aragon Court, and Ulex. 
 
-## Citizen-facing Government Services:
-
-## Annexe
-### Team Members
-Dorian Stern-Vukotic, Tech Lead
-Kacper Zuk from Neti, Senior Developer
+## Annexe  
+### Team Members  
+Dorian Stern-Vukotic, Tech Lead  
+Kacper Zuk from Neti, Senior Developer  
 
 ### Team’s Website
-https://github.com/liberland/liberland
+https://github.com/liberland/liberland  
 
 ### Legal Structure
-The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company.
+The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company.  
 
 ### Team
-Team LinkedIn Profiles:
-https://www.linkedin.com/in/djstern
-Team Code Repositories
-https://github.com/liberland/liberland_substrate
-https://github.com/liberland/docs/blob/master/Blockchain%20Strategy.md
+Team LinkedIn Profiles:  
+https://www.linkedin.com/in/djstern  
+Team Code Repositories  
+https://github.com/liberland/liberland_substrate  
+https://github.com/liberland/docs/blob/master/Blockchain%20Strategy.md  
 
 ### Contact:
 justice@liberland.org
