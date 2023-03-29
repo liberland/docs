@@ -1,51 +1,33 @@
 # White Paper Liberland Blockchain
 
 ## Introduction 
-* Liberland is a country established in 2015, on a no man’s land (terra nullius) between Croatia and Serbia (www.liberland.org). Liberland’s founders are blockchain and liberty enthusiasts. Liberland’s State project could be summarised by two concepts: Minimal state and distributive governance. 
-* We want to make all e-government services available to our citizens using our substrate-based blockchain (https://github.com/liberland/liberland).
-* While working on establishing the physical State in the designated area, Liberland is building a virtual representation of that area in its Metaverse. This “virtual Liberland” governance shall become the first use case for our system. The Metaverse is being built as we speak (world.liberland.org).
+Liberland is a country established in 2015, on a no man’s land (terra nullius) between Croatia and Serbia (www.liberland.org). Liberland’s founders are blockchain and liberty enthusiasts. Liberland’s State project could be summarised by two concepts: Minimal state and distributive governance. 
+Liberland's aim is to make all e-government services available to our citizens using our substrate-based blockchain (https://github.com/liberland/liberland).
+Liberland governance shall become the first use case for our system
 
 ## The Scope:
-### Liberland Blockchain / Node
-* We create our own Substrate based blockchain. Based on Polkadot, the consensus mechanism will be a version of Delegated Proof of Stake. 
-* Our project is not a parachain of Polkadot but a stand-alone blockchain.
-* The node is easy to download & install for anyone with a basic knowledge of Linux, our first supported operating system. 
+Liberland sponsored the building of a Level 1 (L1) Substrate based blockchain. Based on Polkadot, the consensus mechanism will be a version of Delegated Proof of Stake. This project is not a parachain of Polkadot but a stand-alone blockchain.
 
-### Backend
-* The backend is the database (or a set of databases further on) and the Substrate nodes. We will create API connections with the Metaverse and its specific functions and other extrinsic services.
-
-### Frontend
-* The front end will consist of pages designed for Liberlanders to interact with their government. It will include and will not be limited to the following sub-domains:  
-a) a wallet interface;  
-b) an interface with validators;  
-c) political interface, i.e. for the elections, candidates, legislative drafting;  
-d) an interface for government registers and other services;  
-e) the internal government front ends for the officials to work in & access the chain;  
-f) the treasury interface;  
-* In addition, there will be a whole set of front-ends that will allow the blockchain to interact with the metaverse.
-Public Blockchain
-* This is a public blockchain owned by the holders of coins and tokens. Liberland funds and supports its development, and Liberland will provide the first use case or set of use cases. The licence is MIT, the same licence that Bitcoin uses, and Liberland is in no way the owner of the blockchain or the related materials.
-* Anyone can use our codebase to clone our project and fork it or create a new project based on it.
+## Permissionless Core
+Everyone can permissionlessly use the tokens and coins of our blockchain as a store of value or a medium of exchange. Only the advanced functionalities critical for the project’s future are permissioned.
+DeFi projects on our chain will not be permissioned unless otherwise designed by the 3rd party developers on a per-project basis.
 
 ## Permissioned Access
-* Liberland is a State, and it needs to maintain its security in ways that normal blockchains do not require.
-* To accommodate those needs, certain blockchain functions require permissioned access for special types of users: Citizens and E-Residents. To become either, one has to go through a KYC process. In addition, the access requires the purchase and a vested holding of a certain amount of our Token (LLM); see below.
-* The main areas which require permissioned access are:
+Liberland is a State, and it needs to maintain its security in ways that normal blockchains do not require. To accommodate those needs, certain blockchain functions require permissioned access for special types of users: Citizens and E-Residents. 
+To become either, one has to go through a KYC process. In addition, the access requires the purchase and a vested holding of a certain amount of our Token (LLM); see below. The main areas which require permissioned access are:
 a) running a Validator node; and  
 b) on-chain governance.  
-* Access to these functionalities requires one to become a Citizen in Liberland. This is a substantial commitment. We may assume a level of loyalty to the project beyond a casual investor.
-* Please note: Everyone can permissionlessly use the tokens and coins of our blockchain as a store of value or a medium of exchange. Only the advanced functionalities critical for the project’s future are permissioned.
-DeFi projects on our chain will not be permissioned unless otherwise designed by the 3rd party developers on a per-project basis.
-Coins:
+Access to these functionalities requires one to become a Citizen in Liberland. This is a substantial commitment. Liberland assumes a level of loyalty to the project beyond a casual investor in one who is willing to undertake this commitment.
 
-## Liberland Dollar (LLD)
-* Liberland Dollar is the coin of the blockchain. Its main functions are:
+## On-Chain Assets
+### Liberland Dollar (LLD)
+* Liberland Dollar is the ledger native token of the blockchain. Its main functions are:
 a) a medium of exchange; and  
 b) an instrument to maintain network consensus and network security.   
-* The LLD will be minted according to rules inherited from Polkadot, although tweaked to produce less of an inflationary curve. This means an “ideal staking ratio”, and if the total number of staked LLD is lower than that ideal ratio, the inflation rate speeds up. If it is higher, the inflation rate slows down.
-* There is no hard limit on the number of LLD in existence.
 
-## Liberland Merit (LLM)
+The LLD will be minted according to rules inherited from Polkadot. This includes Polkadot's (“ideal staking ratio”)[https://wiki.polkadot.network/docs/learn-staking-advanced] mechanism. As such, there is no hard limit on the number of LLD in existence.
+
+### Liberland Merit (LLM)
 * Liberland Merit (LLM) will be our blockchain's governance token and Liberland itself. It has been set up using the Assets Substrate pallet. It will serve as the Store-of-Value token, the tokenomics being somewhat similar to the BTC:
 * There will be a hard cap of 70 million in total. A fixed amount of LLM will be minted over a timeframe of 48 years, allowing inflation to be fixed (being able to pre-calculate future inflation percentages) and controlled over time. Please see the details here: https://docs.google.com/spreadsheets/d/1uBuGNQMuyz9p4_JBbza7Wa8hWCYkGdGjoOISF0LPKro/edit#gid=0.
 
@@ -59,6 +41,20 @@ b) an instrument to maintain network consensus and network security.
 ## Contract-based (3rd party) tokens
 * The Chain will fully support Smart Contracts, as it runs a fork of the Polkadot Virtual Machine. This will enable our team and 3rd party developers to set up their decentralised infrastructure. 
 * We envision a full-fledged De-Fi environment springing up on our chain, much like we see on other Rust-based chains such as Polkadot, Kusama or Solana.
+
+## Frontend
+* The front end will consist of pages designed for Liberlanders to interact with their government. It will include and will not be limited to the following sub-domains:  
+a) a wallet interface;  
+b) an interface with validators;  
+c) political interface, i.e. for the elections, candidates, legislative drafting;  
+d) an interface for government registers and other services;  
+e) the internal government front ends for the officials to work in & access the chain;  
+f) the treasury interface;  
+* In addition, there will be a whole set of front-ends that will allow the blockchain to interact with the metaverse.
+Public Blockchain
+* This is a public blockchain owned by the holders of coins and tokens. Liberland funds and supports its development, and Liberland will provide the first use case or set of use cases. The licence is MIT, the same licence that Bitcoin uses, and Liberland is in no way the owner of the blockchain or the related materials.
+* Anyone can use our codebase to clone our project and fork it or create a new project based on it.
+
 
 ## Liberland Politics:
 * The basis for Liberland’s politics is our Constitution. This Constitution is in the public review phase, and you can view it (and place your comments!) here.
