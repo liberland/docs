@@ -1,120 +1,60 @@
 # White Paper Liberland Blockchain
 
-## Introduction 
-Liberland is a country established in 2015, on a no man’s land (terra nullius) between Croatia and Serbia (www.liberland.org). Liberland’s founders are blockchain and liberty enthusiasts. Liberland’s State project could be summarised by two concepts: Minimal state and distributive governance.   
+## Abstract 
+Liberland is a country founded in 2015 on a terra nullius between Croatia and Serbia, with its founders being enthusiasts of blockchain and liberty. The goal is to provide all e-government services to its citizens via a substrate-based blockchain system, with governance as its first use case. The Liberland Blockchain is designed as a layer 1 public blockchain, governed by the holders of its native tokens, the Liberland Dollar (LLD) and Liberland Merit (LLM). The system also supports Non-Fungible Tokens (NFTs) representing land and other assets, and implements a decentralized identity solution.
 
-Liberland's aim is to make all e-government services available to our citizens using our substrate-based blockchain (https://github.com/liberland/liberland).
-Liberland governance shall become the first use case for our system  
+## Introduction
+Liberland's state project is centered around two principles: minimal state and distributive governance. By employing a substrate-based blockchain for e-government services, Liberland aims to create a transparent, secure, and efficient system for its citizens and e-residents.
 
-## The Scope:
+## Liberland Blockchain Design
+### 2.1 Public Blockchain
+The Liberland Blockchain is a fork of the Substrate/Polkadot code base, licensed under MIT, similar to Bitcoin. It is not owned by Liberland, but rather by its token holders. It supports permissionless transactions for store of value and medium of exchange purposes, with advanced functionalities being permissioned for specific user types.
 
-### Public Blockchain
-Liberland Blockchain is a layer 1 public blockchain owned by the holders of coins and tokens. Liberland funds and supports its development, and Liberland will provide the first use case or set of use cases. The code base is a fork of Substrate/Polkadot. The licence is MIT, the same licence that Bitcoin uses, and Liberland is in no way the owner of the blockchain or the related materials. 
-
-Everyone can permissionlessly use the tokens and coins of our blockchain as a store of value or a medium of exchange. Only the advanced functionalities critical for the project’s future are permissioned. DeFi projects on the Liberland chain will not be permissioned unless otherwise designed by the 3rd party developers on a per-project basis.  
-
-### Permissioned Access
-Liberland is a State, and it needs to maintain its security in ways that normal blockchains do not require. To accommodate those needs, certain blockchain functions require permissioned access for special types of users: Citizens and E-Residents.  
-
-To become either, one has to go through a KYC process. In addition, the access requires the purchase and a vested holding of a certain amount of our Token (LLM); see below. The main areas which require permissioned access are:  
-a) running a Validator node; and  
-b) on-chain governance.  
-
-Access to these functionalities requires one to become a Citizen in Liberland. This is a substantial commitment. Liberland assumes a level of loyalty to the project beyond a casual investor in one who is willing to undertake this commitment.
+### 2.2 Permissioned Access
+To accommodate state-level security requirements, certain blockchain functions require permissioned access for Citizens and E-Residents. This includes running validator nodes and participating in on-chain governance. Access is granted after completing a Know Your Customer (KYC) process and holding a vested amount of LLM tokens.
 
 ## On-Chain Assets
-### Liberland Dollar (LLD)
-Liberland Dollar is the ledger native token of the blockchain. Its main functions are:
-a) a medium of exchange; and  
-b) an instrument to maintain network consensus and network security.   
+### 3.1 Liberland Dollar (LLD)
+The LLD serves as a medium of exchange and a means to maintain network consensus and security. It will be minted according to rules inherited from Polkadot, with no hard limit on supply.
 
-The LLD will be minted according to rules inherited from Polkadot. This includes Polkadot's [“ideal staking ratio”](https://wiki.polkadot.network/docs/learn-staking-advanced) mechanism. As such, there is no hard limit on the number of LLD in existence.
+### 3.2 Liberland Merit (LLM)
+The LLM is a governance token representing a share in Liberland's nationhood. It has a fixed maximum supply of 70 million tokens and its initial price will be 1 USD. LLM's value will change once it starts trading on the market.
 
-### Liberland Merit (LLM)
-Liberland Merit (LLM) is the governance token representing a share in the State and nationhood of Liberland. LLM is not a security created with the expectation of revenue; instead, it is legally close to shares in joint ownership, like in case of housing cooperatives; the LLM represents one's share in their country. The governance power is connected to the LLM, and there is no possibility of other governance and no separating of this power from the token. 
-
-Inspired by Bitcoin (BTC), the LLM has a fixed maximum supply of 70 000 000 tokens. With the expected losses due to lost addresses etc., this token will, in time, become deflationary. The initial price for LLM will be 1 USD, but this will change when the LLM begins to trade on the market.
-
-## NFTs
-The blockchain uses a set of native NFTs representing land in the physical Liberland and in the metaverse. This is relevant for the land registry dApp. This dApp is being developed track all property that someone might want to register, as NFTs. This primarily concerns the land in the physical Liberland and in the metaverse, since land and real estate have a long history of registered titles.
-
-Other use case for NFTs is an extensive pallet of soulbound NFTs which serve as tokens representing Citizenship and the various functions within the government. In this way, Liberland is the first country to implement transition of power by smart contract.
+## Non-Fungible Tokens (NFTs)
+NFTs are used to represent land in both the physical Liberland and the metaverse, primarily for the land registry dApp. Additionally, NFTs represent Citizenship and various government functions, enabling Liberland to implement transition of power through smart contracts.
 
 ## Frontend
-The front end is the means by which Citizens and E-Residents interact with their government. It includes and is not limited to the following sub-domains:  
-a) a wallet interface;  
-b) an interface with validators;  
-c) political interface, i.e. for the elections, candidates, legislative drafting;  
-d) an interface for government registers and other services;  
-e) the internal government front ends for the officials to work in & access the chain;  
-f) the treasury interface.   
+Citizens and E-Residents interact with the government through a frontend system, which includes a wallet interface, interfaces for validators, political interface, government registers and services interface, internal government frontend, and a treasury interface.
 
-## Legislative:  
-### Citizenship
-Citizenship and E-Residency user statuses and roles exist on-chain and are entities of the Identity Pallet taken from Substrate and adjusted.
+## Governance
+### 6.1 Citizenship
+Citizenship and E-Residency user statuses and roles are managed on-chain using the Identity Pallet forked from Substrate.
 
-### Referendum
-The primary decision-making process in the Liberland political system rests with the Referendum. The Referendum allows all citizens to make decisions regarding the future of the country but, most importantly, to decide on Laws, other Regulations, and other motions in Liberland’s politics. All Laws in Liberland must pass the direct democracy of the Referendum to gain legal force. Citizens can also propose Referenda. 
+### 6.2 Referendum
+Referendum serves as the primary decision-making process in Liberland, allowing all citizens to make decisions regarding the future of the country. It utilizes a voting requirement system inherited from Polkadot's Tally system.
 
-Referendum uses a voting requirement system inherited from the Tally system of Polkadot. This serves as a populism-preventing measure - the lower the turnout, the higher the tally needed to adopt a proposal. The voting requirement system applies only on citizen-originated Referenda. Congress (see below) is democratically elected and, therefore, there is a presumption of greater legitimacy of its proposals.
+### 6.3 Congress
+Congress, forked from Substrate Council, serves as the representative body in Liberland, responsible for proposing rational referenda, nominating and dismissing the Prime Minister, voting in referenda, and deciding budgetary matters.
 
-### Congress
-Congress is forked from the Substrate Council and serves as the representative body in Liberland. There are four main functions: 
- * to propose rational Referenda,  
- * to nominate and dismiss the Prime Minister (Executive), 
- * to vote in referenda instead of the citizens who opt to delegate the vote to their Member of Congress, and  
- * to decide budgetary matters.  
+### 6.4 Executive
+The Executive, consisting of one Prime Minister and four other Ministers, enacts regulations within the framework of the law and governs the country in day-to-day matters.
 
-## Executive
-### Liberland Government
-The Executive is the government of Liberland. The Cabinet is composed of one Prime Minister who is the head of Liberland's government, and only four other Ministers. The rest of the hierarchy will be placed under one of the Cabinet members.
-On-chain, the Executive enacts regulations within the framework of the law and governs the country in day-to-day matters. 
+### 6.5 E-Governance
+The Executive manages the citizen-facing e-government, with all communication between citizens and the government taking place through online tools.
 
-### E-Governance
-The executive also manages the citizen-facing e-government. All communication between citizens and the government takes place by means of online tools.
+### 6.6 E-Identity
+Liberland's decentralized identity solution is a fork of the Identity pallet using NFTs of the Uniques pallet, with identification provided by registrars with KnownGood status.
 
-## E-Identity
-Liberland presents a decentralized identity solution, a fork of the Identity pallet using NFTs of the Uniques pallet. The identification is accomplished by registrars who have a KnownGood status for issuing a particular form of identity. The basic identity is the connection between one's real name and crypto address. All identity related data on-chain is stored in an encrypted format. Other forms of identity may include professional credentials, experience, health record, certifications, etc.
-*This solution is currently under development.*
+### 6.7 Senate & Treasury
+The Treasury is a fork of Polkadot's Treasury, and the Senate is a body based on the Council/Collective pallet, responsible for holding the Treasury keys and vetoing Laws and Regulations.
 
-## Senate & the Treasury
-### The Treasury
-The Treasury is a fork of Polkadot's Treasury. There will be at least two Treasuries, one for LLD and one for LLM, with others possible for implementation if there are more key tokens.
+### 6.8 President & Vice-Presidents
+The President, selected by the Senators, serves as the head of state and represents Liberland internationally. The President's actions require confirmation by at least one Vice-President.
 
-### The Senate
-The Senate is a body based on the Council/Collective pallet composed of major supporters in the country and its project of achieving recognition. Senators can veto Laws and Regulations. The Senate holds the Treasury keys, and no spending may commence without their direct action.
+### 6.9 Judiciary
+The on-chain judiciary is in active development, aiming to combine trust-based elements, such as professional judges and process law, with blockchain-native solutions, inspired by Kleros, the Aragon Court, and Ulex.
 
-### President & Vice-Presidents
-The Senators select from their ranks the President who is the head of state of Liberland. The President selects two Senators to be the vice-president. The President represents Liberland internationally.
+## Development and Contact Information
+The Liberland Blockchain is being developed by a team led by Dorian Stern-Vukotic, with Kacper Zuk as Senior Developer. The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company. The intended languages of development are Rust for the backend and Javascript/Angular for the frontend.
 
-The President also serves as the Prime Member of the Senate. In accordance to Substrate rules, Senators who don't vote in on a particular proposal will automatically vote alongside with the President. The President's actions are all multisignature calls and at least one Vice-President has to confirm them in order to be written on-chain.
-
-## Judiciary
-The on-chain judiciary is currently in active development. It aims to combine the trust-based elements one expects to see in courtroom, such as professional judges and process law, with blockchain-native solutions. The main inspirations are Kleros, the Aragon Court, and Ulex. 
-
-## Annexe  
-### Team Members  
-Dorian Stern-Vukotic, Tech Lead  
-Kacper Zuk from Neti, Senior Developer  
-
-### Team’s Website
-https://github.com/liberland/liberland  
-
-### Legal Structure
-The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company.  
-
-### Team
-Team LinkedIn Profiles:  
-https://www.linkedin.com/in/djstern  
-Team Code Repositories  
-https://github.com/liberland/liberland_substrate  
-https://github.com/liberland/docs/blob/master/Blockchain%20Strategy.md  
-
-### Contact:
-justice@liberland.org
-
-### Intended Language of Development
-Rust for the blockchain backend, Javascript / Angular for the Frontend.
-
-The current node implementation of Liberland’s blockchain has started, and we have an early beta version that you can find and download here: https://github.com/liberland/liberland_node
-
+The Liberland team can be reached via email at justice@liberland.org, and the project's code repositories can be found at https://github.com/liberland/liberland_substrate and https://github.com/liberland/docs/blob/master/Blockchain%20Strategy.md.### 
