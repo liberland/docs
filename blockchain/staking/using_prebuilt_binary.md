@@ -3,17 +3,19 @@
 ## Download chain spec and node binary
 
 ```
-user@host:~$ mkdir -p liberland/bastiat/
-user@host:~$ cd liberland/bastiat/
-user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0/linux_x86_build -O node
-user@host:~/liberland/bastiat$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0/bastiat.raw.json
-user@host:~/liberland/bastiat$ chmod +x node
+user@host:~$ mkdir -p liberland/
+user@host:~$ cd liberland/
+user@host:~/liberland$ wget https://github.com/liberland/liberland_substrate/releases/download/v8.1.0/linux_x86_build -O node
+user@host:~/liberland$ wget https://github.com/liberland/liberland_substrate/releases/download/v8.1.0/mainnet.raw.json
+user@host:~/liberland$ wget https://github.com/liberland/liberland_substrate/releases/download/v6.0.0/bastiat.raw.json
+user@host:~/liberland$ chmod +x node
 ```
 
 After downloading verify files integrity. Checksums should match with this output:
 ```
-user@host:~/liberland/bastiat$ sha256sum node bastiat.raw.json 
-2d3efa04b086859c73bb452453c3bf573679e8b578863fc23ce2170b028b64c9  node
+user@host:~/liberland$ sha256sum node mainnet.raw.json bastiat.raw.json 
+1331ca6064b41faad7d245e7fed434d54110f5d54b58763434fb53246e09f45b  node
+dbf1e9cbba193c6e6096b21c3b865ed82b3de6fca2643cf93141ac891a13ead7  mainnet.raw.json
 645df3a7c84ed64e3162cc7155624268fcb09a6dcde12b88bb8db8b2bfeec882  bastiat.raw.json
 ```
 
@@ -21,11 +23,11 @@ If not, abort and contact dev team.
 
 ## Run node
 
-Make sure you replace `DATA_DIR` with a path to directory that can store at least a few gigabytes of data.
+Make sure you replace `DATA_DIR` with a path to directory that can store at least a few gigabytes of data. Replace `NETWORK` with `mainnet` or `bastiat` depending on your needs.
 
 ```
-user@host:~/liberland/bastiat$ ./node \
-    --chain bastiat.raw.json \
+user@host:~/liberland$ ./node \
+    --chain NETWORK.raw.json \
     --validator \
     -d DATA_DIR
 ```
@@ -39,7 +41,7 @@ Note:
 To save the trouble of debugging the process, make sure that the following command that you are passing to it will work. Use absolute path to your `node` binary.
 
 ```
-/home/user/liberland/bastiat/node --chain bastiat.raw.json -d /data/liberland_node --validator
+/home/user/liberland/node --chain bastiat.raw.json -d /data/liberland_node --validator
 ```
 
 After verifying that your node works, it is recommended to do this step as a system process. On ubuntu, it would look something like:
@@ -48,18 +50,20 @@ After verifying that your node works, it is recommended to do this step as a sys
 sudo systemctl edit --force --full liberland_validator.service
 ```
 
-Then edit the file created, it should look similar to this example, but make sure to insert the correct path to liberland code on your machine.
-You should insert the path both to exec start and WorkingDirectory.
+Then edit the file created, it should look similar to this example. Make sure:
+* insert the correct path to liberland node on your machine (the `/home/user/liberland` in example), both in `ExecStart` and `WorkingDirectory`
+* if setting up mainnet validator, replace `bastiat.raw.json` with `mainnet.raw.json`
+* replace `/data/liberland_node` with path to directory that exists and can store few gigabytes of data.
 
 ```                            
 [Unit]
 Description=Liberland Validator
 
 [Service]
-ExecStart=/home/user/liberland/bastiat/node --chain bastiat.raw.json -d /data/liberland_node --validator
+ExecStart=/home/user/liberland/node --chain bastiat.raw.json -d /data/liberland_node --validator
 Restart=always
 RestartSec=120
-WorkingDirectory=/home/user/liberland/bastiat
+WorkingDirectory=/home/user/liberland
 
 [Install]
 WantedBy=multi-user.target
@@ -81,7 +85,7 @@ sudo systemctl status liberland_validator.service
 `author_rotateKeys` generates new keys and stores them in your node.
 
 ```
-user@host:~/liberland/bastiat$ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
+user@host:~/liberland$ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
 {"jsonrpc":"2.0","result":"0x58db6952384f2d1f9600255a2fce9b116201e872e9951a0a0c0edd7c31124934c690eb603407f4b98a1c9fc0628d4b926fec03d577f233fda3af01d33e2a391b9ad7558c0ae9ba082b3b70236ec584471c92c3a5d78e9bc08f49de7c75961e132697e5419818bfcd31e1bc2cc7d0560a81db72a76af59374c1932bc7a96d773a","id":1}
 ```
 

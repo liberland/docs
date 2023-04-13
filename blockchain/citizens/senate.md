@@ -1,48 +1,77 @@
 # Senate guide
 
-## Pre requirements:
-Read [LLM documentation](https://github.com/liberland/liberland_substrate/blob/develop/frame/llm/README.md)
-Read [How to create a multisignature wallet on liberland chain](https://docs.google.com/document/d/17CM3cmndbaIB5wuwd_WQc0jjPXR1qGLXnIphxRCZ8kc/edit?usp=sharing)
+This is a guide for Senators on how to perform senate actions.
 
-Senate is the only entity that can send LLM from the treasury's account.
+## Propose motion
 
-## Multisig:
-The senate consist of the 2/4 Multisig: "5DDRSE9Qh2aw8X1P6hEv2AZx61Wa3W7HTc3nk7bLjq93z1ga"
+### Spend from treasury
 
-```
-$ subkey inspect "0xdb93a8bc25102cb5c7392cbcc1b0837ece2c5f24436124522feb9bd6010bf780"
-Secret Key URI `0xdb93a8bc25102cb5c7392cbcc1b0837ece2c5f24436124522feb9bd6010bf780` is account:
-  Secret seed:       0xdb93a8bc25102cb5c7392cbcc1b0837ece2c5f24436124522feb9bd6010bf780
-  Public key (hex):  0x32e229a871ecf6987d9fdaf5f64ca8f7c3e25667ef9cc1f9812aa4090182c560
-  Account ID:        0x32e229a871ecf6987d9fdaf5f64ca8f7c3e25667ef9cc1f9812aa4090182c560
-  Public key (SS58): 5DDRSE9Qh2aw8X1P6hEv2AZx61Wa3W7HTc3nk7bLjq93z1ga
-  SS58 Address:      5DDRSE9Qh2aw8X1P6hEv2AZx61Wa3W7HTc3nk7bLjq93z1ga
-```
+1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+2. Go to Developer -> Extrinsics -> `senate` -> `propose(...)`
+    * `threshold`: 51% * number of senate members, round up. Examples:
+        * 3 senate members - threshold = 2
+        * 4 senate members - threshold = 3
+        * 5 senate members - threshold = 3
+    * `proposal`:
+        * `llm` `treasuryLlmTransferToPolitipool(...)` (or `treasuryLlmTransfer` for liquid LLM or `treasuryLldTransfer` for LLD)
+        * `toAccount`: recipient of LLM
+        * `amount`: LLM in grains, so 1 LLM = `1000000000000` (12 zeros)
+    * `lengthBound`: `54`
+ 
+### Cancel referendum
+ 
+1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+2. Developer -> Extrinsics -> `senate` -> `propose(...)`
+    * `threshold`: 51% * number of senate members, round up
+    * `proposal`:
+        * `democracy` `emergencyCancel`
+        * `refIndex`: index of referendum to cancel
+    * `lengthBound`: `10`
 
-Members of the Multisig:
-```
-N: 5GEUDCyZrzPy1A6Kn288pHZFDtVhfYWvYmU1iTUPMg6YSVTE
-M: 5FRhNgNVap5orCPvjoV1YbWGR3Zi5AsFUz6oEACf6fuvkinu
-V: 5DwWxf1NzMpp4D3jv1KY176DwYRRkKDguprmMw4BjieCX2ZK
-dev: 5CCi1rPi7cphC6iE9mWkYvbLf57b9N233nFG8hM5zjvYZpLi
-```
+### Cancel proposal
+ 
+1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+2. Developer -> Extrinsics -> `senate` -> `propose(...)`
+    * `threshold`: 51% * number of senate members, round up
+    * `proposal`:
+        * `democracy` `cancelProposal`
+        * `refIndex`: index of referendum to cancel
+    * `lengthBound`: `7`
 
-*NOTE: IF YOUR ADDRESS IS NOT LISTED HERE OR NOT PART OF THE SENATE MULTISIG, YOU CAN NOT USE THIS FUNCTIONALITY*
+## Voting on motions
 
-Check Multisig manually by going to polkadot.js > accounts > `+ Multisig` and adding the addresses above.
+### Get hash of proposal
 
-2 out of 4 signers must approve each transaction.
+1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/chainstate)
+2. Developer -> Chain state -> `senate` -> `proposals()`
+3. Click `+` button
+4. The hash is the string that starts with `0x`.
 
+### Check details
 
-## Make a treasury transfer with senate
+1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/chainstate)
+2. Developer -> Chain state -> `senate` -> `proposalOf(h256)`
+    * Put the hash from previous step.
+3. Click `+` button
+4. Make sure the section, method and args match what you expect.
 
-1. Head over to [Polkadot.js](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fl2.laissez-faire.trade#/explorer) > Developer > extrinsics > `LLM` > `treasuryLLMtransfer`
-2. Use the Multisig account as the source and select the receiver (the receiver can be any account on the chain)
-    ![treasury_trans_llm.png](../media/treasury_trans_llm.png)
-3. Press submit transaction and copy the "multisig call data" and the "call hash" before you press "Sign and submit"
-4. Copy the call multisig call data and send it to the other signers
-5. Once your transaction has been created from the senate wallet, you can see the transactions as waiting in the "Accounts" tab.
-    ![senate_waiting.png](../media/senate_waiting.png)
-6. Verify the call data: Head over to Developer > extrensic > decode and check each call data.
-    ![check_call_data.png](../media/check_call_data.png)
-7. Once the transaction is approved, you can head over to polkadot.js > Network > Assets and check the balance of the receiver
+### Vote
+
+1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+2. Developer -> Extrinsics -> `senate` -> `vote(...)`
+    * `proposal`: hash from previous step
+    * `index`: `0`
+    * `approve`: `yes`
+
+## Execution
+
+After at least `threshold` number of senators voted yes, anyone can execute the motion:
+
+1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+2. Developer -> Extrinsics -> `senate` -> `close(...)`
+    * `proposalHash`: hash from previous step
+    * `index`: `0`
+    * `proposalWeightBound`
+        * `refTime`: `1307232`
+        * `proofSize`: `0`
+    * `lengthBound`: same as in Propose motion section

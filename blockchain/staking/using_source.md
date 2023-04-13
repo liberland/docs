@@ -12,15 +12,16 @@ If you want to build from source instead of using prebuilt binary:
     ```
     cp ./target/release/substrate node
     cp specs/bastiat.raw.json bastiat.raw.json
+    cp specs/mainnet.raw.json mainnet.raw.json
     ```
 
 ## Run node
 
-Make sure you replace `DATA_DIR` with a path to directory that can store at least a few gigabytes of data.
+Make sure you replace `DATA_DIR` with a path to directory that can store at least a few gigabytes of data. Replace `NETWORK` with `mainnet` or `bastiat` depending on your needs.
 
 ```
-user@host:~/liberland/bastiat$ ./node \
-    --chain bastiat.raw.json \
+user@host:~/liberland$ ./node \
+    --chain NETWORK.raw.json \
     --validator \
     -d DATA_DIR
 ```
@@ -34,7 +35,7 @@ Note:
 To save the trouble of debugging the process, make sure that the following command that you are passing to it will work. Use absolute path to your `node` binary.
 
 ```
-/home/user/liberland/bastiat/node --chain bastiat.raw.json -d /data/liberland_node --validator
+/home/user/liberland/node --chain bastiat.raw.json -d /data/liberland_node --validator
 ```
 
 After verifying that your node works, it is recommended to do this step as a system process. On ubuntu, it would look something like:
@@ -43,18 +44,20 @@ After verifying that your node works, it is recommended to do this step as a sys
 sudo systemctl edit --force --full liberland_validator.service
 ```
 
-Then edit the file created, it should look similar to this example, but make sure to insert the correct path to liberland code on your machine.
-You should insert the path both to exec start and WorkingDirectory.
+Then edit the file created, it should look similar to this example. Make sure:
+* insert the correct path to liberland node on your machine (the `/home/user/liberland` in example), both in `ExecStart` and `WorkingDirectory`
+* if setting up mainnet validator, replace `bastiat.raw.json` with `mainnet.raw.json`
+* replace `/data/liberland_node` with path to directory that exists and can store few gigabytes of data.
 
 ```                            
 [Unit]
 Description=Liberland Validator
 
 [Service]
-ExecStart=/home/user/liberland/bastiat/node --chain bastiat.raw.json -d /data/liberland_node --validator
+ExecStart=/home/user/liberland/node --chain bastiat.raw.json -d /data/liberland_node --validator
 Restart=always
 RestartSec=120
-WorkingDirectory=/home/user/liberland/bastiat
+WorkingDirectory=/home/user/liberland
 
 [Install]
 WantedBy=multi-user.target
@@ -70,13 +73,12 @@ and verify it works with
 ```
 sudo systemctl status liberland_validator.service
 ```
-
 ## Generate session keys
 
 `author_rotateKeys` generates new keys and stores them in your node.
 
 ```
-user@host:~/liberland/bastiat$ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
+user@host:~/liberland$ curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
 {"jsonrpc":"2.0","result":"0x58db6952384f2d1f9600255a2fce9b116201e872e9951a0a0c0edd7c31124934c690eb603407f4b98a1c9fc0628d4b926fec03d577f233fda3af01d33e2a391b9ad7558c0ae9ba082b3b70236ec584471c92c3a5d78e9bc08f49de7c75961e132697e5419818bfcd31e1bc2cc7d0560a81db72a76af59374c1932bc7a96d773a","id":1}
 ```
 

@@ -1,5 +1,8 @@
 ## Voting with LLM on-chain asset
 
+NOTE: This guide is obsolete - [Liberland's Blockchain Frontend](https://blockchain.liberland.org/) now supports setting identity, proposing referendums and voting in user-friendly manner.
+
+
 Because of the design and implementation of LLM, LLM is not a native substrate
 token. Instead, LLM is a custom extension to an on-chain asset. Liberland's
 chain comes with a custom democracy voting integration, being the first chain

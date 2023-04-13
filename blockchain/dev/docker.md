@@ -17,19 +17,18 @@ Liberland's node docker image is hosted on Docker Hub: [liberland/blockchain-nod
 ### Listing embedded chain specs
 
 ```bash
-$ docker run -it --rm --entrypoint='/bin/sh' liberland/blockchain-node:bastiat -c 'ls /specs'
-bastiat.json  bastiat.raw.json  readme.md
-
+$ docker run -it --rm --entrypoint='/bin/sh' liberland/blockchain-node:latest -c 'ls /specs'
+bastiat.json  bastiat.raw.json	mainnet.json  mainnet.raw.json	readme.md
 ```
 
-### Minimal Bastiat node with persistent data
+### Minimal Bastiat (testnet) node with persistent data
 
 To make sure your node's data is persistant, mount a host directory as a volume using `-v` argument:
 
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -v $HOME/liberland_data:/data liberland/blockchain-node:bastiat -d /data --chain /specs/bastiat.raw.json
+$ docker run -it --rm -v $HOME/liberland_data:/data liberland/blockchain-node:latest -d /data --chain /specs/bastiat.raw.json
 ```
 
 ### Using custom chain spec
@@ -39,22 +38,22 @@ To use custom chain spec, you must mount it into the container:
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm -v $HOME/liberland_data:/data -v $HOME/custom_chain_spec.raw.json:/custom_chain_spec.raw.json liberland/blockchain-node:bastiat -d /data --chain /custom_chain_spec.raw.json
+$ docker run -it --rm -v $HOME/liberland_data:/data -v $HOME/custom_chain_spec.raw.json:/custom_chain_spec.raw.json liberland/blockchain-node:latest -d /data --chain /custom_chain_spec.raw.json
 ```
 
 ### Accessing your node locally via Polkadot.js Apps
 
-To be able to access your node locally via Polkadot.js Apps, pass `-p 127.0.0.1:9944:9944` argument so that RPC port is published:
+To be able to access your node locally via Polkadot.js Apps, pass `--network=host` argument so that RPC port is accessible:
 
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run -it --rm --network=host -v $HOME/liberland_data:/data liberland/blockchain-node:bastiat -d /data --chain /specs/bastiat.raw.json
+$ docker run -it --rm --network=host -v $HOME/liberland_data:/data liberland/blockchain-node:latest -d /data --chain /specs/bastiat.raw.json
 ```
 
 You'll now be able to access your node via [https://polkadot.js.org/apps/?rpc=ws://localhost:9944](https://polkadot.js.org/apps/?rpc=ws://localhost:9944).
 
-### Complete example of running a validator
+### Complete example of running a validator on mainnet
 
 This example:
 * passes `-v $HOME/liberland_data:/data` to make data persistent on the host
@@ -67,7 +66,7 @@ This example:
 ```bash
 $ mkdir $HOME/liberland_data
 $ sudo chown 1000:1000 $HOME/liberland_data
-$ docker run --name liberland -d --network=host --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:bastiat -d /data --chain /specs/bastiat.raw.json --validator
+$ docker run --name liberland -d --network=host --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:latest -d /data --chain /specs/mainnet.raw.json --validator
 ```
 
 You can:

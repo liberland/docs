@@ -1,10 +1,12 @@
 # Setting identity for citizenship
 
+NOTE: This guide is obsolete - [Liberland's Blockchain Frontend](https://blockchain.liberland.org/) now supports setting identity in user-friendly manner in your profile page.
+
 ## Block number calculations
 
 To be eligible for citizenship rights, you must be 13 years old. To set this in blockchain, you must calculate the block number at which you've reached or will reach 13 years old. The process is as follows:
 
-* Check current latest block number: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/explorer
+* Check current latest block number: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer
 * Calculate number of seconds between now and your 13th birthday
 * If you're 13+, the eligibility block number is: `current_block_number - number_of_seconds/6` - use `0` if you got negative number
 * If you're younger, the eligibility block number is: `current_block_number + number_of_seconds/6`
@@ -22,7 +24,7 @@ Copy the **HEX** value somewhere, it will be needed in next step
 
 ## Setting identity
 
-1. Visit Polkadot.js Apps: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/extrinsics
+1. Visit Polkadot.js Apps: https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics
 2. In the **submit the following extrinsic** field select **identity** and **setIdentity(info)**
 3. In the citizen field:
     * Select **Raw**

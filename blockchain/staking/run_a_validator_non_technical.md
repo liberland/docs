@@ -4,6 +4,7 @@
 
 This guide will walk you through the process of setting up a new validator on Liberland Chain for non technical people.
 [You can follow along a video here](https://www.youtube.com/watch?v=ufV7igODxcQ)
+
 ## Requirements
 
 * Liberland wallet with at least 200 LLD. [Ask to be onboarded](https://matrix.to/#/#liberland-node:matrix.org)
@@ -38,11 +39,14 @@ This guide will walk you through the process of setting up a new validator on Li
 * If something is wrong and you need to re-add access to your helper, go to Settings > Security and add ssh key of your helper again.
 
 * At this point, your helper will give you your validator id which is needed for the next step
+
 ## Add validator
 
 > Note that in order to do this step you will need some LLD, so ask someone to give you some if you dont already have it.
 
-1. Visit [Staking Accounts on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
+1. Visit Staking Accounts on Polkadot.js Apps:
+    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "+ Validator" button.
 3. Set your stash and controller accounts and select how much LLD you want to bond (pick 100 for now).
 4. Click "Next" button.
@@ -54,7 +58,9 @@ This guide will walk you through the process of setting up a new validator on Li
 
 Immediately after adding validator, you should see it as "Waiting":
 
-1. Visit [Staking on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
+1. Visit Staking Accounts on Polkadot.js Apps:
+    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "Waiting" button.
 3. You should see your Stash account in the "Intentions" table.
 
@@ -62,7 +68,9 @@ You are now officially a validator on Liberland! Enjoy the staking rewards!
 
 Now you have to wait to see if it gets elected to current set of validators. You may need to wait until new era starts and then the chance of being elected is based on the amount of staked LLD. To see current set of validators:
 
-1. Visit [Staking on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
+1. Visit Staking Accounts on Polkadot.js Apps:
+    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "All validators" button.
 2. Click "Active" button.
 3. You should see list of active validators in the "Validators" table.

@@ -20,7 +20,7 @@ Note:
 ## Get wallet
 * Go to [PolkadotJs wallet](https://polkadot.js.org/extension/)
 * Download extension
-*  Use the extension and create a new wallet. Save the mnemonic key somewhere safe. If you lose the mnemonic key, your account is lost.
+* Use the extension and create a new wallet. Save the mnemonic key somewhere safe. If you lose the mnemonic key, your account is lost.
 
 ## Installation
 ### Option 1: automatic script
@@ -88,7 +88,9 @@ This process will take a few seconds for every day the blockchain has been runni
 
 > Note that in order to do this step you will need some LLD, so ask someone to give you some if you dont already have it.
 
-1. Visit [Staking Accounts on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
+1. Visit Staking Accounts on Polkadot.js Apps:
+    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "+ Validator" button.
 3. Set your stash and controller accounts and select how much LLD you want to bond.
 4. Click "Next" button.
@@ -100,13 +102,17 @@ This process will take a few seconds for every day the blockchain has been runni
 
 Immediately after adding validator, you should see it as "Waiting":
 
-1. Visit [Staking on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
+1. Visit Staking Accounts on Polkadot.js Apps:
+    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "Waiting" button.
 3. You should see your Stash account in the "Intentions" table.
 
 Now you have to wait to see if it gets elected to current set of validators. You may need to wait until new era starts and then the chance of being elected is based on the amount of staked LLD. To see current set of validators:
 
-1. Visit [Staking on Polkadot.js Apps for Bastiat](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking)
+1. Visit Staking Accounts on Polkadot.js Apps:
+    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "All validators" button.
 2. Click "Active" button.
 3. You should see list of active validators in the "Validators" table.
