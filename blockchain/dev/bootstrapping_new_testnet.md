@@ -23,6 +23,18 @@ For each of your initial nodes/validators, you need following keys:
   * im_online (sr25519)
   * authority_discovery (sr25519)
 
+## 4. Preparing shell
+
+Commands below require the `LIBERLAND_NODE` variable to be set to command of node binary. Examples:
+
+```
+liberland_substrate (develop)> export LIBERLAND_NODE="cargo run -q --release --" # build from source
+liberland_substrate (develop)> export LIBERLAND_NODE="./target/release/substrate" # use locally built binary
+liberland_substrate (develop)> export LIBERLAND_NODE="$HOME/linux_x86_node" # use downloaded prebuilt binary
+```
+
+Scripts also respect the `LIBERLAND_NODE` variable, but default to running `cargo` if variable is unset.
+
 ### Generating Controller and stash keys
 
 These are regular accounts, you can use Polkadot Extension to generate them.
@@ -30,8 +42,8 @@ These are regular accounts, you can use Polkadot Extension to generate them.
 If you prefer, you can also generate them manually from seed:
 
 ```
-liberland_substrate (develop)> cargo run -q --release -- key inspect '<<YOUR_SEED_HERE>>'
-liberland_substrate (develop)> cargo run -q --release -- key inspect '<<YOUR_SEED_HERE>>//stash'
+liberland_substrate (develop)> $LIBERLAND_NODE key inspect '<<YOUR_SEED_HERE>>'
+liberland_substrate (develop)> $LIBERLAND_NODE key inspect '<<YOUR_SEED_HERE>>//stash'
 ```
 
 ### Generating session keys
@@ -58,10 +70,10 @@ audi (sr25519): 7c5f75b761139f09b612b4457f24615080dcb0721ba8eb88ee7571d9f4589731
 Notice that first command (for `grandpa`) uses `ed25519` scheme and others use `sr25519` scheme.
 
 ```
-liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme ed25519 '<<YOUR_SEED_HERE>>//gran' # grandpa
-liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//babe' # babe
-liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//imon' # im_online
-liberland_substrate (develop)> cargo run -q --release -- key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//audi' # authority_discovery
+liberland_substrate (develop)> $LIBERLAND_NODE key inspect --scheme ed25519 '<<YOUR_SEED_HERE>>//gran' # grandpa
+liberland_substrate (develop)> $LIBERLAND_NODE key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//babe' # babe
+liberland_substrate (develop)> $LIBERLAND_NODE key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//imon' # im_online
+liberland_substrate (develop)> $LIBERLAND_NODE key inspect --scheme sr25519 '<<YOUR_SEED_HERE>>//audi' # authority_discovery
 ```
 
 ## 4. Building chain spec
@@ -85,14 +97,14 @@ following changes:
 
 After updating the code, we may now generate the human-readable template for spec:
 ```
-liberland_substrate (develop)> cargo run --release -- build-spec --chain staging --disable-default-bootnode > new_chain_spec.json
+liberland_substrate (develop)> $LIBERLAND_NODE build-spec --chain staging --disable-default-bootnode > new_chain_spec.json
 ```
 
 Open the generated `new_chain_spec.json` file in your editor. You may want to adjust things like `name`, `id`, `properties.displayName` to match your new testnet.
 
 Generate the raw chain spec:
 ```
-liberland_substrate (develop)> cargo run --release -- build-spec --chain new_chain_spec.json --disable-default-bootnode > new_chain_spec.raw.json
+liberland_substrate (develop)> $LIBERLAND_NODE build-spec --chain new_chain_spec.json --disable-default-bootnode > new_chain_spec.raw.json
 ```
 
 The generated `new_chain_spec.raw.json` is the file that should be distributed to all participants of the network and will be used to run our initial nodes.
@@ -120,10 +132,10 @@ Run following commands. Make sure you pass proper chain spec file, path to node 
 Notice that first command (for `grandpa`) uses `ed25519` scheme and others use `sr25519` scheme.
 
 ```
-liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme ed25519 --key-type gran --suri '<<YOUR_SEED_HERE>>//gran'
-liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type babe --suri '<<YOUR_SEED_HERE>>//babe'
-liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type imon --suri '<<YOUR_SEED_HERE>>//imon'
-liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type audi --suri '<<YOUR_SEED_HERE>>//audi'
+liberland_substrate (develop)> $LIBERLAND_NODE key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme ed25519 --key-type gran --suri '<<YOUR_SEED_HERE>>//gran'
+liberland_substrate (develop)> $LIBERLAND_NODE key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type babe --suri '<<YOUR_SEED_HERE>>//babe'
+liberland_substrate (develop)> $LIBERLAND_NODE key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type imon --suri '<<YOUR_SEED_HERE>>//imon'
+liberland_substrate (develop)> $LIBERLAND_NODE key insert --chain new_chain_spec.raw.json -d /data/liberland_node --scheme sr25519 --key-type audi --suri '<<YOUR_SEED_HERE>>//audi'
 ```
 
 ### Running the first node
@@ -131,7 +143,7 @@ liberland_substrate (develop)> cargo run -q --release -- key insert --chain new_
 Make sure you pass the same chain spec and path to data as when inserting session keys:
 
 ```
-liberland_substrate (develop)> cargo run --release -- --chain new_chain_spec.raw.json -d /data/liberland_node --force-authoring --validator
+liberland_substrate (develop)> $LIBERLAND_NODE --chain new_chain_spec.raw.json -d /data/liberland_node --force-authoring --validator
 2023-01-03 12:27:50 Substrate Node    
 2023-01-03 12:27:50 ✌️  version 3.0.0-dev-2c2aac70051    
 2023-01-03 12:27:50 ❤️  by Parity Technologies <admin@parity.io>, 2017-2023    
@@ -173,7 +185,7 @@ Where:
 Make sure you pass the same chain spec and path to data as when inserting session keys. 
 
 ```
-liberland_substrate (develop)> cargo run --release -- --chain new_chain_spec.raw.json -d /data/liberland_node --validator --bootnodes /ip4/<IP_ADDRESS>/tcp/30333/p2p/<ID>
+liberland_substrate (develop)> $LIBERLAND_NODE --chain new_chain_spec.raw.json -d /data/liberland_node --validator --bootnodes /ip4/<IP_ADDRESS>/tcp/30333/p2p/<ID>
 2023-01-03 12:27:50 Substrate Node    
 2023-01-03 12:27:50 ✌️  version 3.0.0-dev-2c2aac70051    
 2023-01-03 12:27:50 ❤️  by Parity Technologies <admin@parity.io>, 2017-2023    
