@@ -18,10 +18,10 @@ For each of your initial nodes/validators, you need following keys:
 * controller account, that will allow starting/stopping validation
 * stash account, that will actually hold staked LLD
 * sessions keys:
-  * grandpa (ed25519)
-  * babe (sr25519)
-  * im_online (sr25519)
-  * authority_discovery (sr25519)
+    * grandpa (ed25519)
+    * babe (sr25519)
+    * im_online (sr25519)
+    * authority_discovery (sr25519)
 
 ## 4. Preparing shell
 
