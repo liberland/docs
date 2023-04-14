@@ -60,7 +60,7 @@ This example:
 * passes `--network=host` to make RPC accessible locally and P2P accessible on all interfaces
 * passes `-d` to run in background
 * passes `--restart always` to automatically restart node on reboot / crash
-* uses Bastiat chain spec
+* uses mainnet chain spec
 * passes `--validator` option to node to enable acting as validator
 
 ```bash
