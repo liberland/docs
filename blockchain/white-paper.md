@@ -32,28 +32,28 @@ Native NFTs are used to represent land in both physical Liberland and the metave
 Citizens and E-Residents interact with the government through a frontend system, which includes a wallet interface, interfaces for validators, political interface, government registers and services interface, internal government frontend, and a treasury interface.
 
 ## Governance
-### 6.1 Referendum
+### Referendum
 The Referendum is the primary decision-making process in Liberland's political system, allowing citizens to decide on Laws, Regulations, and other political motions. All Laws in Liberland must pass through the direct democracy of the Referendum to gain legal force. Citizens can also propose Referenda.
 
-### 6.2 Congress
+### Congress
 Congress serves as the representative body in Liberland, responsible for proposing rational Referenda, nominating and dismissing the Prime Minister (Executive), voting in referenda on behalf of citizens who delegate their vote, and deciding budgetary matters. Congress is forked from Substrate Council.
 
-### 6.4 Executive
+### Executive
 The Executive, consisting of one Prime Minister and four other Ministers, enacts regulations within the framework of the law and governs the country in day-to-day matters.
 
-### 6.5 E-Governance
+### E-Governance
 The executive manages citizen-facing e-government services, with all communication between citizens and the government occurring through online tools. The system includes wallet interfaces, validator interfaces, political interfaces for elections and legislative drafting, interfaces for government registers and other services, internal government front ends for officials, and the treasury interface.
 
-### 6.6 E-Identity
+### E-Identity
 Liberland presents a decentralized identity solution, a fork of the Identity pallet using NFTs of the Uniques pallet. Identification is accomplished by registrars with KnownGood status for issuing particular forms of identity. All identity-related data on-chain is stored in an encrypted format.
 
-### 6.7 Senate & Treasury
+### Senate & Treasury
 The Treasury is a fork of Polkadot's Treasury, and the Senate is a body based on the Council/Collective pallet, responsible for holding the Treasury keys and vetoing Laws and Regulations.
 
-### 6.8 President & Vice-Presidents
+### President & Vice-Presidents
 The President, selected by the Senators, serves as the head of state and represents Liberland internationally. The President's actions require confirmation by at least one Vice-President.
 
-### 6.9 Judiciary
+### Judiciary
 The on-chain judiciary is in active development, aiming to combine trust-based elements, such as professional judges and process law, with blockchain-native solutions, inspired by Kleros, the Aragon Court, and Ulex.
 
 ## Development and Contact Information
