@@ -9,23 +9,23 @@ Liberland Blockchain is a layer 1 public blockchain owned by coin and token hold
 The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. Advanced functionalities critical to the project's future are permissioned. DeFi projects on the Liberland chain are not permissioned unless designed by third-party developers on a per-project basis.
 
 ## Liberland Blockchain Design
-### 2.1 Public Blockchain
+### Public Blockchain
 The Liberland Blockchain is a fork of the Substrate/Polkadot code base, licensed under MIT, similar to Bitcoin. It is not owned by Liberland, but rather by its token holders. It supports permissionless transactions for store of value and medium of exchange purposes, with advanced functionalities being permissioned for specific user types.
 
-### 2.2 Permissioned Access
+### Permissioned Access
 To accommodate state-level security requirements, certain blockchain functions require permissioned access for Citizens and E-Residents. This includes running validator nodes and participating in on-chain governance. Access is granted after completing a Know Your Customer (KYC) process and holding a vested amount of LLM tokens.
 
 ## On-Chain Assets
-### 3.1. On-Chain Assets and Division of Power
+### On-Chain Assets and Division of Power
 The blockchain contains two main assets: Liberland Dollar (LLD) and Liberland Merit (LLM). LLD serves as a medium of exchange and an instrument for maintaining network consensus and security. LLM represents a share in Liberland's state and nationhood, granting governance power with no possibility of separating this power from the token.
 
-### 3.2 Liberland Dollar (LLD)
+### Liberland Dollar (LLD)
 The Liberland Dollar serves as the native token of the blockchain, fulfilling two main functions: a) a medium of exchange; and b) an instrument for maintaining network consensus and security. The LLD is minted according to rules inherited from Polkadot, including the "ideal staking ratio" mechanism.
 
-### 3.3 Liberland Merit (LLM)
+### Liberland Merit (LLM)
 The Liberland Merit represents a share in the State and nationhood of Liberland. It is the governance token, legally similar to shares in joint ownership. Governance power is tied to the LLM, with a fixed maximum supply of 70,000,000 tokens. The initial price for LLM will be 1 USD, subject to change when trading begins.
 
-### 3.4 NFTs
+### NFTs
 Native NFTs are used to represent land in both physical Liberland and the metaverse. These NFTs are integral to the land registry dApp, which tracks registered property. Additionally, a range of soulbound NFTs are used to represent Citizenship and various government functions, enabling Liberland to implement transition of power through smart contracts.
 
 ## Frontend
