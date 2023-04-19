@@ -16,11 +16,12 @@ Note:
 * 2GB of RAM, but swap is ok, see [How to add swap](https://www.cloudsigma.com/adding-swap-space-on-ubuntu-20-04-a-tutorial/) if you have less than 2GB of RAM
 * Liberland wallet with at least 200 LLD. [Ask to be onboarded](https://matrix.to/#/#liberland-node:matrix.org)
 * [PolkadotJs wallet](https://polkadot.js.org/extension/)
+* [On-chain citizenship](../citizens/identity.md)
 
-## Get wallet
-* Go to [PolkadotJs wallet](https://polkadot.js.org/extension/)
-* Download extension
-* Use the extension and create a new wallet. Save the mnemonic key somewhere safe. If you lose the mnemonic key, your account is lost.
+## Claim on-chain citizenship
+* You will need your LLD, LLM, and an onchain citizenship to proceed. Follow the [Claim citizenship](../citizens/identity.md) steps to proceed.
+* At the end of this process, you should have a wallet, and a funded citizen account on the mainnet. Log into [blockchain.liberland.org](https://blockchain.liberland.org/signin)
+with your liberland account to verify everything works so far.
 
 ## Installation
 ### Option 1: automatic script

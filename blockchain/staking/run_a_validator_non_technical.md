@@ -10,11 +10,12 @@ This guide will walk you through the process of setting up a new validator on Li
 * Liberland wallet with at least 200 LLD. [Ask to be onboarded](https://matrix.to/#/#liberland-node:matrix.org)
 * [PolkadotJs wallet](https://polkadot.js.org/extension/)
 * A helper [Ask here if you dont have one](https://matrix.to/#/#liberland-node:matrix.org)
+* [On-chain citizenship](../citizens/identity.md)
 
-## Get wallet
-* Go to [PolkadotJs wallet](https://polkadot.js.org/extension/)
-* Download extension
-* Use the extension and create a new wallet. Save the mnemonic key somewhere safe. If you lose the mnemonic key, your account is lost.
+## Claim on-chain citizenship
+* You will need your LLD, LLM, and an onchain citizenship to proceed. Follow the [Claim citizenship](../citizens/identity.md) steps to proceed.
+* At the end of this process, you should have a wallet, and a funded citizen account on the mainnet. Log into [blockchain.liberland.org](https://blockchain.liberland.org/signin)
+  with your liberland account to verify everything works so far.
 
 ## Set up a server
 * In this step, we will buy some server space and give access to a helper so he can setup the technical part of a validator for us.
