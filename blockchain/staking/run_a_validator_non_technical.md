@@ -73,8 +73,11 @@ Now you have to wait to see if it gets elected to current set of validators. You
     * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
     * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "All validators" button.
-2. Click "Active" button.
-3. You should see list of active validators in the "Validators" table.
+3. Click "Active" button.
+4. You should see list of active validators in the "Validators" table.
+
+* If everything works so far, congratulations, you are now a validator on Liberland!
+* It is customary to tip your helper after getting a validator. 50 LLD is a good amount, that you will earn back quickly with your newly running validator.
 
 ## Optional: add nominators
 Once your validator is up and running and you have a solid track record of no downtime you can ask other LLD holders to nominate your validator node.
