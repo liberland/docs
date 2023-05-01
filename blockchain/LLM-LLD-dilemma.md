@@ -40,7 +40,6 @@ Without this incentive, validators would lose motivation if emission decreases w
 The adopted solution is to split the governance token concept into:
 - The network governance coin for validators, nominators, and on-chain currency, and
 - The political token.
-
 By implementing this split, we can maintain the design without compromises and achieve full functionality of nPoS and the public blockchain core of our system.
 The political token remains LLM, while a new governance token, LLD, takes over network consensus, validation, and Liberland currency functions.
 
