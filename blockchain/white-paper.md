@@ -33,24 +33,41 @@ Citizens and E-Residents interact with the government through a frontend system,
 
 ## Governance
 ### Referendum
-The Referendum is the primary decision-making process in Liberland's political system, allowing citizens to decide on Laws, Regulations, and other political motions. All Laws in Liberland must pass through the direct democracy of the Referendum to gain legal force. Referenda run based on a system directly inherited from Polkadot, including their anti-populism measure: the number of votes required to pass a motion increases the fewer out of the total number of possible votes are actively engaged in the referendum.
+The Referendum serves as the primary decision-making mechanism within Liberland's political system, enabling citizens to determine the validity of Laws, Regulations, and other political propositions. All Laws must undergo the Referendum's direct democratic process to attain legal standing. The Referendum operates based on a system derived from Polkadot, incorporating an anti-populism measure that increases the voting threshold as voter engagement decreases.
 
-Citizens can propose Referenda and if they do, the Referenda will be subject to the anti-populism measure. Congress (see below) can also initiate referenda and if it does, the voting requirement will always be 50 percent plus one vote. This reflects the increased presumption of legitimacy, as the Congress is democratically elected, and the presumption of Congress competence.
+Citizens can propose Referenda, which are subject to the anti-populism measure. Congress, a democratically elected entity, can also initiate referenda with a 50% plus one vote requirement, reflecting its presumed legitimacy and competence.
 
 ### Congress
-Congress serves as the representative body in Liberland, responsible for proposing rational Referenda, nominating and dismissing the Prime Minister (Executive), voting in referenda on behalf of citizens who delegate their vote, and deciding budgetary matters. Congress is forked from Substrate Council.
+Congress functions as Liberland's representative body, responsible for proposing rational Referenda, appointing and dismissing the Prime Minister (Executive), voting in referenda on behalf of citizens who delegate their vote, and deciding on budgetary matters. Congress is a fork of the Substrate Council, and the most influential member becomes the Prime Member, whose vote is followed by non-voting Congress members.
+
+Key powers include:
+- Proposing Referenda with a 50% plus one vote requirement, without anti-populism measures;
+- Being delegated votes in Referenda by citizens who trust their representatives to vote on their behalf.
+
+The Delegation becomes important for citizens who feel that their representative knows more about the subject matter than they do or can be expected to spend time studying it in depth, while they are busy with their own lives. Delegation can be given at any time and also taken back at any time. This represents a unique introduction of real representation into representative democracy, as currently, most states don't allow any voter ex-post control on representative behavior, besides a one-time vote once in several years.
 
 ### Executive
-The Executive, consisting of one Prime Minister and four other Ministers, enacts regulations within the framework of the law and governs the country in day-to-day matters. The system handles the transition of power algorithmically. All officials have set terms of office, usually 20 Election Terms (5 years), to be prolonged once.
+The Executive oversees Liberland's daily affairs, led by the Cabinet, a fork of the on-chain Collective pallet. The Cabinet comprises one Prime Minister and four Ministers, with all other Executive functions falling under a Minister. The Executive includes Offices using the original Offices Pallet, assigning an address to powers designated to specific Offices by law.
+
+The Cabinet's primary power is enacting regulations within the legal framework. Lower Offices govern and regulate within the law and Cabinet regulations, with their heads nominated and dismissed by the Cabinet or a specific Minister.
+
+Initially, the Provisional Government of Liberland serves as the Cabinet, with the President as the Prime Member. Upon the establishment of a community in Liberland or a Liberland-governed territory, the Prime Minister assumes the Prime Member role and selects Ministers. Congress appoints and dismisses the Prime Minister and Ministers. Dismissing a Prime Minister does not necessitate the resignation of all Ministers.
+
+The system algorithmically manages the transition of power, with officials holding fixed terms of office, typically 20 Election Terms (5 years), renewable once.
 
 ### E-Governance
 The executive manages citizen-facing e-government services, with all communication between citizens and the government occurring through online tools. The system includes wallet interfaces, validator interfaces, political interfaces for elections and legislative drafting, interfaces for government registers and other services, internal government front ends for officials, and the treasury interface.
 
 ### Senate & Treasury
-The Treasury is a fork of Polkadot's Treasury, and the Senate is a body based on the Council/Collective pallet, responsible for holding the Treasury keys and vetoing Laws and Regulations.
+The Treasury, a fork of Polkadot's Treasury, comprises two separate treasuries: one for LLD and one for LLM. The LLD Treasury operates identically to the Polkadot Treasury, while the LLM Treasury is managed by the Senate. The Senate, based on the Council/Collective pallet, is responsible for maintaining Treasury keys and vetoing Laws and Regulations. Laws are vetoed during the referendum phase, and lower Regulations can be vetoed at any time. All LLM Treasury proposals require Senate confirmation for execution. 
+
+The Senate is the "House of Lords" of Liberland, and its members are appointed for life. They have, however, only control power, neither legislative nor executive powers.
 
 ### President & Vice-Presidents
-The President, selected by the Senators, serves as the head of state and represents Liberland internationally. The President's actions require confirmation by at least one Vice-President.
+The President, chosen by the Senators, serves as the head of state and represents Liberland internationally. The President's actions necessitate confirmation by at least one Vice-President. The President's main power is being the Prime Member of the Senate Collective, meaning abstaining Senators' votes automatically align with the President's. This only applies when a Vice-President confirms the vote; otherwise, abstaining Senators' votes are considered uncast.
+
+Additionally, the President possesses the authority to appoint Executive functionaries and Judges when the Judiciary is established. The President's power in this capacity is real, enabling them to reject an appointment. However, this power is subject to the same checks as the Prime Member vote, requiring the countersignature of a Vice-President.
+
 
 ## Future Outlook
 ### Judiciary
