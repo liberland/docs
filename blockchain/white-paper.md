@@ -33,19 +33,18 @@ Citizens and E-Residents interact with the government through a frontend system,
 
 ## Governance
 ### Referendum
-The Referendum is the primary decision-making process in Liberland's political system, allowing citizens to decide on Laws, Regulations, and other political motions. All Laws in Liberland must pass through the direct democracy of the Referendum to gain legal force. Citizens can also propose Referenda.
+The Referendum is the primary decision-making process in Liberland's political system, allowing citizens to decide on Laws, Regulations, and other political motions. All Laws in Liberland must pass through the direct democracy of the Referendum to gain legal force. Referenda run based on a system directly inherited from Polkadot, including their anti-populism measure: the number of votes required to pass a motion increases the fewer out of the total number of possible votes are actively engaged in the referendum.
+
+Citizens can propose Referenda and if they do, the Referenda will be subject to the anti-populism measure. Congress (see below) can also initiate referenda and if it does, the voting requirement will always be 50 percent plus one vote. This reflects the increased presumption of legitimacy, as the Congress is democratically elected, and the presumption of Congress competence.
 
 ### Congress
 Congress serves as the representative body in Liberland, responsible for proposing rational Referenda, nominating and dismissing the Prime Minister (Executive), voting in referenda on behalf of citizens who delegate their vote, and deciding budgetary matters. Congress is forked from Substrate Council.
 
 ### Executive
-The Executive, consisting of one Prime Minister and four other Ministers, enacts regulations within the framework of the law and governs the country in day-to-day matters.
+The Executive, consisting of one Prime Minister and four other Ministers, enacts regulations within the framework of the law and governs the country in day-to-day matters. The system handles the transition of power algorithmically. All officials have set terms of office, usually 20 Election Terms (5 years), to be prolonged once.
 
 ### E-Governance
 The executive manages citizen-facing e-government services, with all communication between citizens and the government occurring through online tools. The system includes wallet interfaces, validator interfaces, political interfaces for elections and legislative drafting, interfaces for government registers and other services, internal government front ends for officials, and the treasury interface.
-
-### E-Identity
-Liberland presents a decentralized identity solution, a fork of the Identity pallet using NFTs of the Uniques pallet. Identification is accomplished by registrars with KnownGood status for issuing particular forms of identity. All identity-related data on-chain is stored in an encrypted format.
 
 ### Senate & Treasury
 The Treasury is a fork of Polkadot's Treasury, and the Senate is a body based on the Council/Collective pallet, responsible for holding the Treasury keys and vetoing Laws and Regulations.
@@ -53,8 +52,12 @@ The Treasury is a fork of Polkadot's Treasury, and the Senate is a body based on
 ### President & Vice-Presidents
 The President, selected by the Senators, serves as the head of state and represents Liberland internationally. The President's actions require confirmation by at least one Vice-President.
 
+## Future Outlook
 ### Judiciary
 The on-chain judiciary is in active development, aiming to combine trust-based elements, such as professional judges and process law, with blockchain-native solutions, inspired by Kleros, the Aragon Court, and Ulex.
+
+### E-Identity
+Liberland aims to present a decentralized identity solution, a fork of the Identity pallet using NFTs of the Uniques pallet. Identification is accomplished by registrars with KnownGood status for issuing particular forms of identity. All identity-related data on-chain is stored in an encrypted forma
 
 ## Development and Contact Information
 The Liberland Blockchain is being developed by a team led by Dorian Stern-Vukotic, with Kacper Zuk as Senior Developer. The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company. The intended languages of development are Rust for the backend and Javascript/Angular for the frontend.
