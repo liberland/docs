@@ -106,6 +106,32 @@ You agree to defend, indemnify, and hold harmless Liberland, Liberland Limited, 
 ### Article 8: Limitation of Liability
 To the fullest extent permitted by law, in no event shall Liberland, Liberland Limited, their affiliates, licensors, and service providers, and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns be liable for damages of any kind, under any legal theory, arising out of or in connection with your use, or inability to use, the Residency Services, any websites linked to the Residency Services, any content on the Residency Services, or any services or items obtained through the Residency Services, including any direct, indirect, special, incidental, consequential, or punitive damages, including but not limited to, personal injury, pain and suffering, emotional distress, loss of revenue, loss of profits, loss of business or anticipated savings, loss of use, loss of goodwill, loss of data, and whether caused by tort (including negligence), breach of contract, or otherwise, even if foreseeable.
 
+## Section 4: Limitations due to the Unrecognized Status of Liberland and Expectation Management
+
+### Article 9: Unrecognized Status and Limited Territorial Control
+
+#### § 1: Unrecognized Status of Liberland
+You acknowledge and understand that Liberland, in its current state, is not recognized by the United Nations and the vast majority of states, and it does not have full control over its territory. This has significant implications on the level of services Liberland provides as a state. These include, but are not limited to:
+
+a) Partial or total inability to enforce or fulfill its own laws, regulations, promises, stipulations, expectations, etc., in Liberland or abroad;
+
+b) Lack of recognition of its jurisdiction, legislation, legal acts such as agreements and stipulations, policies, etc., by other parties, states, or private entities;
+
+c) Absence of double-taxation prevention agreements and other adverse consequences for you concerning tax law, particularly when applied internationally;
+
+d) Inability to offer recourse in cases of force majeure situations or against damaging acts by individuals that one might expect from a state;
+
+e) Inability to provide international or domestic protection to persons, companies, contracts, agreements, understood in the broadest possible sense.
+
+#### § 1: Complete Acknowledgement of All Consequences
+1. You participate in the Residency Services with full acknowledgement of this situation and all its consequences.
+2. You agree to hold the Provider, Liberland, affiliated entities and companies, and all their officers, employees, contractors, partners, etc., entirely harmless from and against any of your rights, their responsibilities, any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of the above situation of non-recognition.
+
+### Article 10: Services Offered for Demonstrative Purposes
+1. As a result of, among other matters, the above situation, Residency Services and all other secondary services, goods provided, and any other service provided by Liberland or the Provider are offered for demonstrative purposes only, to signify the future services of the country upon recognition.
+2. You agree to participate in these services on an as-is basis and with the understanding that they are a demonstration of future services only. These services exist to indicate to you what may be possible in the future and are not intended to offer a complete experience or even to satisfy any expectations you may have for such or similar services.
+3. You understand that this state of affairs shall persist at least until such time as Liberland gains broad, international recognition, including, but not limited to, Liberland obtaining full control of its land.
+
 ## Section 5: Governing Law and Dispute Resolution
 
 ### Article 8" Governing Law
