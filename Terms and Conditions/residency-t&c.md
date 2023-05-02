@@ -144,7 +144,7 @@ Any dispute arising out of or in connection with these Terms and Conditions, inc
 1. Any legal suit, action, or proceeding arising out of or related to these terms and conditions or the Residency Services shall be instituted exclusively in Arbitration, and the forum for this arbitration shall be Liberland and its judiciary system. Where this should prove impossible, the Arbitration shall instead take place according to the [enter jurisdiction for arbitration and place].
 2. Liberland retains the right to bring any suit, action, or proceeding against you for breach of these terms and conditions in your country of residence or any other relevant country. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
 
-## Section 5: Final Provisions
+## Section 6: Final Provisions
 
 ### Article 14: No Waiver; Severability
 1. No waiver by the Provider of any term or condition set forth in these terms and conditions shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Provider to assert a right or provision under these terms and conditions shall not constitute a waiver of such right or provision.
