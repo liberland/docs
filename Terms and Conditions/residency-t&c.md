@@ -35,7 +35,7 @@ a. We may, in our sole discretion, refuse, decline, suspend, or disable your acc
 
 b. Notwithstanding any suspension or disabling of access to the Residency Services, all direct interactions with the Liberland Blockchain interfaces remain beyond the control of the Provider.
 
-### Art. 3: Public Blockchain
+### Article 2: Public Blockchain
 1. No party (neither we nor you), including but not limited to any party involved in, or having contributed to the development of, the Liberland Blockchain and any of the affiliates, directors, employees, contractors, service providers, or agents of such parties, owns or controls the Liberland Blockchain or any accessory, upgrade, related software, or any other modification to it (including, but not limited to, Liberland Blockchain user interface). You are solely and fully responsible for your use of each and any of them.
 2. There is no central oversight over the Liberland Blockchain. It is built by the participants and participants of their networks themselves. For the avoidance of doubt, the Provider assumes no responsibility or liability for:
  
@@ -47,7 +47,7 @@ c) the suitability of the Liberland Blockchain for your own business purposes.
 
 3. You are using the Liberland Blockchain for your own business purposes at your sole and own risk.
 
-### Article 4: Legal and Moral Use
+### Article 3: Legal and Moral Use
 You may use the Residency Services only for lawful purposes and in accordance with these terms and conditions. You agree not to use the Residency Services:
 
 a) In any way that violates any applicable federal, state, local, or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the US or other countries);
@@ -62,7 +62,7 @@ e) To impersonate or attempt to impersonate Liberland or any affiliated entity, 
 
 f) To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Residency Services, or which, as determined by us, may harm Liberland or users of the Residency Services or expose them to liability.
 
-### Article 3: Responsible Use
+### Article 4: Responsible Use
 
 Additionally, you agree not to:
 
@@ -82,13 +82,13 @@ g) Attack the Residency Services via a denial-of-service attack or a distributed
 
 h) Otherwise attempt to interfere with the proper working of the Residency Services.
 
-## Section 2: Limited Warranty & Liability
+## Section 2: Domicile of Services and Disclaimer of Warranties
 
-### Article 4: Domicile of Services
+### Article 5: Domicile of Services
 1. Residency Services are run out of Liberland. We make no claims that the Residency Services or any of its content is accessible or appropriate outside of Liberland. Access to the Residency Services may not be legal by certain persons or in certain countries. If you access the Residency Services from outside Liberland, you do so on your own initiative and are responsible for compliance with local laws.
 2. Given that the use or access to the Residency Services outside of Liberland is beyond their contemplated scope, you accept that by such use you waive all our responsibility for the use or its consequences and that all national warranties will likely not apply as well. Such use is fully and completely your own responsibility, and you are likewise solely responsible for all of its consequences, to you or to third parties.
 
-### Article 5: Disclaimer of Warranties
+### Article 6: Disclaimer of Warranties
 
 #### § 1: Complete Disclaimer of Warranties
 1. Liberland, Liberland Limited, and any person or entity associated with these in any way, henceforth "the Provider," hereby disclaims all warranties of any kind, whether express or implied, statutory, or otherwise, including but not limited to any warranties of merchantability, non-infringement, and fitness for any particular purposes.
@@ -97,4 +97,19 @@ h) Otherwise attempt to interfere with the proper working of the Residency Servi
 #### § 2: No Warranties on Quality or Safety of Experience
 1. The Provider makes no warranty or representation with respect to the completeness, security, reliability, quality, accuracy, or availability of the Residency Services. Without limiting the foregoing.
 2. The Provider does not represent and does not warrant that the Residency Services, their content, or any secondary services or items obtained through the Residency Services will be accurate, reliable, error-free, or uninterrupted, that defects will be corrected, that the Residency Services, the websites, or the server(s) that makes them available are free of viruses or other harmful components, or that the Residency Services or any services or items obtained through the Residency Services will otherwise meet your needs or expectations.
-3. You understand that we cannot and do not guarantee or warrant that files available for downloading from the internet or the Residency Services will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy
+3. You understand that we cannot and do not guarantee or warrant that files available for downloading from the internet or the Residency Services will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for the protection and preservation of your data.
+
+## Section 3: Indemnification and Limitation of Liability
+### Article 7: Indemnification
+You agree to defend, indemnify, and hold harmless Liberland, Liberland Limited, their affiliates, licensors, and service providers, and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms and Conditions or your use of the Residency Services, including, but not limited to, any use of the Residency Services' content, services, and products other than as expressly authorized in these Terms and Conditions or your use of any information obtained from the Residency Services.
+
+### Article 8: Limitation of Liability
+To the fullest extent permitted by law, in no event shall Liberland, Liberland Limited, their affiliates, licensors, and service providers, and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns be liable for damages of any kind, under any legal theory, arising out of or in connection with your use, or inability to use, the Residency Services, any websites linked to the Residency Services, any content on the Residency Services, or any services or items obtained through the Residency Services, including any direct, indirect, special, incidental, consequential, or punitive damages, including but not limited to, personal injury, pain and suffering, emotional distress, loss of revenue, loss of profits, loss of business or anticipated savings, loss of use, loss of goodwill, loss of data, and whether caused by tort (including negligence), breach of contract, or otherwise, even if foreseeable.
+
+## Section 5: Governing Law and Dispute Resolution
+
+### Article 8" Governing Law
+These Terms and Conditions, their subject matter, and their formation, as well as any related non-contractual disputes or claims, shall be governed by and construed in accordance with the laws of Liberland, without giving effect to any choice or conflict of law provision or rule (whether of Liberland or any other jurisdiction).
+
+### Article 9: Dispute Resolution
+Any dispute arising out of or in connection with these Terms and Conditions, including any question regarding their existence, validity, or termination, shall be referred to and finally resolved by arbitration under the Rules of the Liberland Arbitration Centre, which rules are deemed to be incorporated by reference into this Article 9. The number of arbitrators shall be one. The seat, or legal place, of arbitration shall be Liberland. The language to be used in the arbitral proceedings shall be English.
