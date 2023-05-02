@@ -146,10 +146,10 @@ Any dispute arising out of or in connection with these Terms and Conditions, inc
 
 ## Section 5: Final Provisions
 
-### Article 13: No Waiver; Severability
+### Article 14: No Waiver; Severability
 1. No waiver by the Provider of any term or condition set forth in these terms and conditions shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Provider to assert a right or provision under these terms and conditions shall not constitute a waiver of such right or provision.
 2. If any provision of these terms and conditions is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the terms and conditions will continue in full force and effect.
 
-### Article 14: Entire Agreement
+### Article 15: Entire Agreement
 1. These Terms and Conditions, along with our Privacy Policy, constitute the sole and entire agreement between you and the Provider with respect to the Residency Services and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect to the Residency Services.
 2. With respect to specific services as are understood under Residency Services, the Provider reserves the right to set up specific Terms and Conditions. These Terms and Conditions supersede the current Terms and Conditions where they differ from them, but the current Terms and Conditions still apply where the service-specific Terms and Conditions remain silent.
