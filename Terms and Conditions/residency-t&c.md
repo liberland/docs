@@ -5,9 +5,7 @@ The following Terms and Conditions govern the use of our E-Residency, online env
 
 ## Terms and Conditions for Residency Services
 
-## Section 1
-
-General Terms and Conditions
+## Section 1: General Terms and Conditions
 
 ### Article 1: Personal Requirements
 #### § 1: Warranties and Representations
@@ -37,7 +35,7 @@ a. We may, in our sole discretion, refuse, decline, suspend, or disable your acc
 
 b. Notwithstanding any suspension or disabling of access to the Residency Services, all direct interactions with the Liberland Smart Chain interfaces remain beyond the control of the Provider.
 
-#### Art. 3: Public Blockchain
+### Art. 3: Public Blockchain
 1. No party (neither we nor you), including but not limited to any party involved in, or having contributed to the development of, the Liberland Blockchain and any of the affiliates, directors, employees, contractors, service providers, or agents of such parties, owns or controls the Liberland Blockchain or any accessory, upgrade, related software, or any other modification to it (including, but not limited to, Liberland Blockchain user interface). You are solely and fully responsible for your use of each and any of them.
 2. There is no central oversight over the Liberland Blockchain. It is built by the participants and participants of their networks themselves. For the avoidance of doubt, the Provider assumes no responsibility or liability for:
  
