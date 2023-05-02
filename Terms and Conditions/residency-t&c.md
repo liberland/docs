@@ -123,7 +123,7 @@ d) Inability to offer recourse in cases of force majeure situations or against d
 
 e) Inability to provide international or domestic protection to persons, companies, contracts, agreements, understood in the broadest possible sense.
 
-#### § 1: Complete Acknowledgement of All Consequences
+#### § 2: Complete Acknowledgement of All Consequences
 1. You participate in the Residency Services with full acknowledgement of this situation and all its consequences.
 2. You agree to hold the Provider, Liberland, affiliated entities and companies, and all their officers, employees, contractors, partners, etc., entirely harmless from and against any of your rights, their responsibilities, any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of the above situation of non-recognition.
 
@@ -134,8 +134,22 @@ e) Inability to provide international or domestic protection to persons, compani
 
 ## Section 5: Governing Law and Dispute Resolution
 
-### Article 8" Governing Law
+### Article 11: Governing Law
 These Terms and Conditions, their subject matter, and their formation, as well as any related non-contractual disputes or claims, shall be governed by and construed in accordance with the laws of Liberland, without giving effect to any choice or conflict of law provision or rule (whether of Liberland or any other jurisdiction).
 
-### Article 9: Dispute Resolution
+### Article 12: Dispute Resolution
 Any dispute arising out of or in connection with these Terms and Conditions, including any question regarding their existence, validity, or termination, shall be referred to and finally resolved by arbitration under the Rules of the Liberland Arbitration Centre, which rules are deemed to be incorporated by reference into this Article 9. The number of arbitrators shall be one. The seat, or legal place, of arbitration shall be Liberland. The language to be used in the arbitral proceedings shall be English.
+
+### Article 13: Mandatory Arbitration
+1. Any legal suit, action, or proceeding arising out of or related to these terms and conditions or the Residency Services shall be instituted exclusively in Arbitration, and the forum for this arbitration shall be Liberland and its judiciary system. Where this should prove impossible, the Arbitration shall instead take place according to the [enter jurisdiction for arbitration and place].
+2. Liberland retains the right to bring any suit, action, or proceeding against you for breach of these terms and conditions in your country of residence or any other relevant country. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
+
+## Section 5: Final Provisions
+
+### Article 13: No Waiver; Severability
+1. No waiver by the Provider of any term or condition set forth in these terms and conditions shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Provider to assert a right or provision under these terms and conditions shall not constitute a waiver of such right or provision.
+2. If any provision of these terms and conditions is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the terms and conditions will continue in full force and effect.
+
+### Article 14: Entire Agreement
+1. These Terms and Conditions, along with our Privacy Policy, constitute the sole and entire agreement between you and the Provider with respect to the Residency Services and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect to the Residency Services.
+2. With respect to specific services as are understood under Residency Services, the Provider reserves the right to set up specific Terms and Conditions. These Terms and Conditions supersede the current Terms and Conditions where they differ from them, but the current Terms and Conditions still apply where the service-specific Terms and Conditions remain silent.
