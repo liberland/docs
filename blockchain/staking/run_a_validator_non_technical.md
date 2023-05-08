@@ -21,7 +21,7 @@ This guide will walk you through the process of setting up a new validator on Li
 * In this step, we will buy some server space and give access to a helper so he can setup the technical part of a validator for us.
 * This guide is for AWS lightsail or DigitalOcean, but other server providers will work too.
 
-###Option 1: AWS Lightsail
+### Option 1: AWS Lightsail
 
 [Go to AWS](https://aws.amazon.com/) and create an account.
 
@@ -32,7 +32,7 @@ This guide will walk you through the process of setting up a new validator on Li
 * Wait for a few minutes for a server to initialize
 * Ask for your helper to guide you through the next steps
 
-###Option 2: Digital Ocean
+### Option 2: Digital Ocean
 
 [Go to Digital ocean](https://www.digitalocean.com/)
 
