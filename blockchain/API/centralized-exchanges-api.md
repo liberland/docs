@@ -7,12 +7,12 @@ Recommended way to interact with the chain programmatically is through [Polkadot
 [Mainnet chain explorer](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F#/staking)  
 [Mainnet endpoint](wss://mainnet.liberland.org/)  
 
-#LLM
+# LLM
 
-##Receive wallet balance
+## Receive wallet balance
 LLM is an on chain asset of the [Assets pallet](https://paritytech.github.io/substrate/master/pallet_assets/index.html) with id of 1
 
-###Using polkadotJsApi
+### Using polkadotJsApi
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const provider = new WsProvider(<WS_ENDPOINT>);
@@ -21,10 +21,10 @@ const api = ApiPromise.create({ provider });
 const LLMInfo = await api.query.assets.account(<ASSET_ID>, <WALLET_ADDRESS>);
 console.log(LLMInfo.toJSON().data?.balance ?? '0x0')
 ```
-##Create Address
+## Create Address
 To create a new address, a minimum of 1 LLD needs to be sent as an existential deposit
 
-###using polkadotJsApi
+### using polkadotJsApi
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 import Keyring from "@polkadot/keyring";
@@ -37,12 +37,20 @@ const transferExtrinsic = api.tx.balances.transfer(<WALLET_ADDRESS_TO_CREATE>, <
 const txHash = await transferExtrinsic.signAndSend(sender) ;
 ```
 
-##Receive list of transactions by block number
-TODO KACPER
+## Receive list of transactions by block number
 
-##Receive the last block number
+```
+const { ApiPromise, WsProvider } = require('@polkadot/api');
+const provider = new WsProvider(<WS_ENDPOINT>);
+const api = ApiPromise.create({ provider });
+const hash = await api.rpc.chain.getBlockHash(<BLOCKNUMBER>);
+const block = await api.rpc.chain.getBlock(hash);
+console.log(block.block.extrinsics);
+```
 
-###Using polkadotJsApi
+## Receive the last block number
+
+### Using polkadotJsApi
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const provider = new WsProvider(<WS_ENDPOINT>);
@@ -51,12 +59,23 @@ const bestNumber = await api.derive.chain.bestNumber();
 console.log(bestNumber.toNumber());
 ```
 
-##Receive transaction information using TXID
-TODO KACPET
+## Receive transaction information using TXID
 
-##Coin transfer
+Transactions (a.k.a. extrinsics) are uniquely identified by block hash + their index. See also https://wiki.polkadot.network/docs/build-protocol-info#unique-identifiers-for-extrinsics
 
-###Using polkadotJsApi
+```
+const txid = (<block hash>, <index>);
+
+const { ApiPromise, WsProvider } = require('@polkadot/api');
+const provider = new WsProvider(<WS_ENDPOINT>);
+const api = ApiPromise.create({ provider });
+const block = await api.rpc.chain.getBlock(txid[0]);
+console.log(block.block.extrinsics[txid[1]]);
+```
+
+## Coin transfer
+
+### Using polkadotJsApi
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 import Keyring from "@polkadot/keyring";
@@ -67,4 +86,3 @@ const sender = Keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
 const transferExtrinsic = api.tx.llm.sendLlm(<ACCOUNT_TO>, <AMOUNT>);
 const txHash = await transferExtrinsic.signAndSend(sender) ;
 ```
-
