@@ -23,6 +23,23 @@ Note:
 * At the end of this process, you should have a wallet, and a funded citizen account on the mainnet. Log into [blockchain.liberland.org](https://blockchain.liberland.org/signin)
 with your liberland account to verify everything works so far.
 
+##Recommended servers
+If self hosting is not practical, the up-to-date current order of recommended virtual server providers are
+
+###Option 1: AWS Lightsail
+[Go to AWS](https://aws.amazon.com/) and create an account.
+
+* In search, type lightsail
+* Under Instances, click Create instance
+* Select Linux/Unix, OS Only, Ubuntu 22.04 LTS, scroll down and select the $10 plan with 2 GB RAM, 1 vCPU and 60gb SSD
+* Scroll down and click on "Create instance"
+* Wait for a few minutes for a server to initialize
+* Click on the console icon on your instance to open a in-browser console
+* Follow the installation steps of this guide
+
+###Option 2: Digital Ocean
+[Set up a digital ocean server](https://www.youtube.com/watch?v=dV0fK1eqSZY)
+
 ## Installation
 ### Option 1: automatic script
 

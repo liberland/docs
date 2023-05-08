@@ -19,8 +19,20 @@ This guide will walk you through the process of setting up a new validator on Li
 
 ## Set up a server
 * In this step, we will buy some server space and give access to a helper so he can setup the technical part of a validator for us.
+* This guide is for AWS lightsail or DigitalOcean, but other server providers will work too.
 
-* This guide is for digital ocean, but other server providers will work too.
+###Option 1: AWS Lightsail
+
+[Go to AWS](https://aws.amazon.com/) and create an account.
+
+* In search, type lightsail
+* Under Instances, click Create instance
+* Select Linux/Unix, OS Only, Ubuntu 22.04 LTS, scroll down and select the $10 plan with 2 GB RAM, 1 vCPU and 60gb SSD
+* Scroll down and click on "Create instance"
+* Wait for a few minutes for a server to initialize
+* Ask for your helper to guide you through the next steps
+
+###Option 2: Digital Ocean
 
 [Go to Digital ocean](https://www.digitalocean.com/)
 
