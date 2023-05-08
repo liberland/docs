@@ -20,6 +20,7 @@
 * [💻 Blockchain](blockchain/README.md)
   * [💫 White Paper](blockchain/white-paper.md)
   * [👨 Tokenomics Primer](blockchain/tokenomics-primer.md)
+  * [👨 API](blockchain/API/centralized-exchanges-api.md)
   * For Citizens
     * [Voting](blockchain/citizens/voting.md)
     * [Senate](blockchain/citizens/senate.md)
