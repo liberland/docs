@@ -31,7 +31,8 @@ import Keyring from "@polkadot/keyring";
 
 const provider = new WsProvider(<WS_ENDPOINT>);
 const api = ApiPromise.create({ provider });
-const sender = Keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
+const keyring = new Keyring({ type: 'sr25519' });
+const sender = keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
 // minimum <AMOUNT> is new BN('1000000000000');
 const transferExtrinsic = api.tx.balances.transfer(<WALLET_ADDRESS_TO_CREATE>, <AMOUNT>);
 const txHash = await transferExtrinsic.signAndSend(sender) ;
@@ -82,7 +83,8 @@ import Keyring from "@polkadot/keyring";
 
 const provider = new WsProvider(<WS_ENDPOINT>);
 const api = ApiPromise.create({ provider });
-const sender = Keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
+const keyring = new Keyring({ type: 'sr25519' });
+const sender = keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
 const transferExtrinsic = api.tx.llm.sendLlm(<ACCOUNT_TO>, <AMOUNT>);
 const txHash = await transferExtrinsic.signAndSend(sender) ;
 ```
