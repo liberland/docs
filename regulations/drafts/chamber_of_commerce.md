@@ -1,4 +1,4 @@
-# Chamber Statute
+# Liberland Chamber of Commerce Statute
 
 ## Preface
 The Liberland Chamber of Commerce, hereinafter referred to as the "Chamber", is a private organization with State backing, serving as a Public Service provider according to the Constitution. The Chamber is founded with the vision to help business owners run their businesses successfully.
