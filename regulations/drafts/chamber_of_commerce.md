@@ -104,4 +104,49 @@ The Board of the Chamber can appoint the Executive Director, who shall manage th
 
 ### Article 12 Supervisory Board
 1. Members of the Chamber may appoint representatives constituting the Chamber's Supervisory Board.
-2. The Supervisory Board shall supervise activities, lawfulness, and material and
+2. The Supervisory Board shall supervise activities, lawfulness, and material and financial operations of the Chamber and regularly report to the General Meeting.
+3. The Supervisory board shall have from 1 to 5 members and elect one chairman.
+
+## Section 3: Membership
+
+### Article 13: Membership
+
+#### § 1: Granting Chamber Membership
+Membership in the Chamber may be granted to any entity that meets the following criteria:
+1. have an existing or potential link to Liberland;
+2. paid an annual membership fee, which may be subject to further board decisions;
+3. have a good standing and reputation in business;
+4. can provide references on request;
+5. admission to the Chamber depends on the approval of the Board of the Chamber, expressed in a resolution.
+
+#### § 2: Membership Categories
+1. The memberships in the Chamber shall be of the following different categories:
+   1. large entrepreneurs (100 or more employees). in the form of Companies or Cooperatives or foreign analogues of those;
+   2. other entrepreneurs in the form of Companies, Cooperatives, Foundations or Charitable Organizations;
+   3. DAOs;
+   4. entrepreneurs as Natural Persons;
+   5. members honoris causa;
+   6. other types of membership, such as partnerships, sponsorships, media partnerships and others.
+2. The Members shall designate persons to the Chamber who shall exercise their statutory rights in the Chamber.
+
+#### § 1: Membership Honoris Causa
+The Board of the Chamber may grant by means of a Resolution membership honoris causa to an entrepreneur. Members honoris causa shall have the same rights and obligations as other members, except for the obligation to pay a membership fee.
+
+### Article 14: Expiration of Membership
+
+Membership in the Chamber shall expire:
+1. Upon withdrawal by the Member, on the date indicated by the Member in its Declaration of withdrawal from the Chamber; the Declaration shall be made in writing and addressed to the Board of the Chamber;
+2. Upon deletion from the list of Members by the Board of the Chamber by means of a Resolution due to:
+   1. death of a Member being a Natural Persons;
+   2. the irretrievable loss of preconditions for membership, in particular, due to liquidation or cessation of business activity; or
+   3. a Member’s non-observance of the provisions of this agreement or the Statute, including a failure to pay the membership fee.
+
+## Section 4: Final Provisions
+
+### Art. 15: Final Provision
+
+The Chamber is created for an indefinite period of time and terminates by voluntary dissolution. The possibility to make a decision to terminate the Chamber is also reserved as a prerogative for Liberland, which shall take the form of a Law.
+
+
+
+
