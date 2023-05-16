@@ -129,7 +129,7 @@ Membership in the Chamber may be granted to any entity that meets the following 
    6. other types of membership, such as partnerships, sponsorships, media partnerships and others.
 2. The Members shall designate persons to the Chamber who shall exercise their statutory rights in the Chamber.
 
-#### § 1: Membership Honoris Causa
+#### § 3: Membership Honoris Causa
 The Board of the Chamber may grant by means of a Resolution membership honoris causa to an entrepreneur. Members honoris causa shall have the same rights and obligations as other members, except for the obligation to pay a membership fee.
 
 ### Article 14: Expiration of Membership
