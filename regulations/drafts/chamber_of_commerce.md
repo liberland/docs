@@ -11,28 +11,47 @@ The Liberland Chamber of Commerce, hereinafter referred to as the "Chamber", is 
 
 ### Article 2: Scope of Activity of the Chamber
 The Chamber's general purpose shall be to help business owners run their businesses successfully. Specifically, the Chamber shall:
-1. perform the role of the Registrar of Companies in Liberland;
-2. manage the Liberland Company Registry;
-3. provide information, advice and support to Liberland businesses within the country and abroad;
-4. facilitate commercial contacts between Liberland entrepreneurs and also other businesses;
-5. represent common interests of the members of the Chamber in relation to Liberland and other authorities;
-6. promote economic, social and cultural cooperation between Liberland and other countries in the areas of business and commerce;
-7. manage and develop online and offline Liberland business networks, and
-8. promote the regional economic development of the Slavonia and Vojvodina Regions, including and not limited to the creation and management of free trade zones and other attractive opportunities on both the Serbian and the Croatian sides.
+
+a) perform the role of the Registrar of Companies in Liberland;
+
+b) manage the Liberland Company Registry;
+
+c) provide information, advice and support to Liberland businesses within the country and abroad;
+
+d) facilitate commercial contacts between Liberland entrepreneurs and also other businesses;
+
+e) represent common interests of the members of the Chamber in relation to Liberland and other authorities;
+
+f) promote economic, social and cultural cooperation between Liberland and other countries in the areas of business and commerce;
+
+g) manage and develop online and offline Liberland business networks, and
+
+h) promote the regional economic development of the Slavonia and Vojvodina Regions, including and not limited to the creation and management of free trade zones and other attractive opportunities on both the Serbian and the Croatian sides.
 
 ### Article 3: Statutory Obligations
 The Chamber performs its statutory obligations by:
-1. establishing and developing economic cooperation with domestic and foreign business entities, scientific units, self-government organizations and others;
-2. opening bilateral Chambers of Commerce between Liberland and respective countries;
-3. collecting, analyzing and distributing information supporting the business operations of its members;
-4. offering support for its members' business initiatives;
-5. establishing problem-solving teams, committees, teams of experts and other collective bodies;
-6. organizing and co-organizing fairs and exhibitions in Liberland and abroad as well as other promotional events;
-7. co-operating with state and self-government administrations bodies, self-government authorities and other domestic and foreign organizations as well as diplomatic and commercial agencies of Liberland and respective countries;
-8. representing Chamber members' opinions publicly;
-9. delegating representatives to advisory bodies of self-government authorities and state administrations;
-10. joining other international Chambers of Commerce and other relevant organizations; and
-11. performing such other activities as may from time to time be required to achieve goals of the Chamber.
+
+a) establishing and developing economic cooperation with domestic and foreign business entities, scientific units, self-government organizations and others;
+
+b) opening bilateral Chambers of Commerce between Liberland and respective countries;
+
+c) collecting, analyzing and distributing information supporting the business operations of its members;
+
+d) offering support for its members' business initiatives;
+
+e) establishing problem-solving teams, committees, teams of experts and other collective bodies;
+
+f) organizing and co-organizing fairs and exhibitions in Liberland and abroad as well as other promotional events;
+
+g) co-operating with state and self-government administrations bodies, self-government authorities and other domestic and foreign organizations as well as diplomatic and commercial agencies of Liberland and respective countries;
+
+h) representing Chamber members' opinions publicly;
+
+i) delegating representatives to advisory bodies of self-government authorities and state administrations;
+
+j) joining other international Chambers of Commerce and other relevant organizations; and
+
+k) performing such other activities as may from time to time be required to achieve goals of the Chamber.
 
 ### Article 4: Registered Office
 The Registered Office of the Chamber is its website, https://chamber.ll.land. The physical office shall be [enter physical office address].
@@ -43,8 +62,10 @@ The Capital of the LCC shall be [enter].
 ### Article 6: Ultimate Beneficiary Owners
 1. The Founder of the Chamber shall be Liberland. Given that Liberland is a State run as a Decentralized Anonymous Organization (DAO), the UBOs shall be the same as the Principals.
 2. In addition, any Senators of Liberland who have more than 25% of Share in the DAO in tokens or more shall also be UBOs. These additional UBOs shall be:
-   1. Mr Vit Jedlicka [enter birth date and address];
-   2. (?)
+
+a) Mr Vit Jedlicka [enter birth date and address];
+
+b) (?)
 
 ### Article 7: Liability
 The Liability shall follow the standard construction of the Company Law of 2021 for Cooperatives, which means that the Members shall be liable up to the unpaid nominal value of their Membership Share.
