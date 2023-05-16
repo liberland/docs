@@ -76,12 +76,19 @@ The Liability shall follow the standard construction of the Company Law of 2021 
 
 #### § 1: General Meeting Competences
 1. The General Meeting shall be the highest organ of the Chamber, capable of making the highest level decisions about the Chamber. It shall have the exclusive competence in all operational issues of the Chamber, including and not limited to:
-   1. setting up the General Meeting agenda;
-   2. adopting Chamber operations programs;
-   3. electing and dismissing members of the Board of the Chamber;
-   4. alteration of any provision of the Statute;
-   5. dissolution of the Chamber, and
-   6. other issues of the choosing of the General Meeting.
+
+a) setting up the General Meeting agenda;
+
+b) adopting Chamber operations programs;
+
+c) electing and dismissing members of the Board of the Chamber;
+
+d) alteration of any provision of the Statute;
+
+e) dissolution of the Chamber, and
+
+f) other issues of the choosing of the General Meeting.
+
 2. The General Meeting shall be composed of all the Members of the Chamber. It shall be able to convene in the presence of ⅔ of all the Members. General Meetings shall take place online and are convened by email notification or any other proper way using electronic communication clearly accessible to the Members, sent at least 20 days before the prospective General Meeting.
 
 #### § 2: Convening the General Meeting
@@ -134,20 +141,32 @@ The Board of the Chamber can appoint the Executive Director, who shall manage th
 
 #### § 1: Granting Chamber Membership
 Membership in the Chamber may be granted to any entity that meets the following criteria:
-1. have an existing or potential link to Liberland;
-2. paid an annual membership fee, which may be subject to further board decisions;
-3. have a good standing and reputation in business;
-4. can provide references on request;
-5. admission to the Chamber depends on the approval of the Board of the Chamber, expressed in a resolution.
+
+a) have an existing or potential link to Liberland;
+
+b) paid an annual membership fee, which may be subject to further board decisions;
+
+c) have a good standing and reputation in business;
+
+d) can provide references on request;
+
+e) admission to the Chamber depends on the approval of the Board of the Chamber, expressed in a resolution.
 
 #### § 2: Membership Categories
 1. The memberships in the Chamber shall be of the following different categories:
-   1. large entrepreneurs (100 or more employees). in the form of Companies or Cooperatives or foreign analogues of those;
-   2. other entrepreneurs in the form of Companies, Cooperatives, Foundations or Charitable Organizations;
-   3. DAOs;
-   4. entrepreneurs as Natural Persons;
-   5. members honoris causa;
-   6. other types of membership, such as partnerships, sponsorships, media partnerships and others.
+
+a) large entrepreneurs (100 or more employees). in the form of Companies or Cooperatives or foreign analogues of those;
+
+b) other entrepreneurs in the form of Companies, Cooperatives, Foundations or Charitable Organizations;
+
+c) DAOs;
+
+d) entrepreneurs as Natural Persons;
+
+e) members honoris causa;
+
+f) other types of membership, such as partnerships, sponsorships, media partnerships and others.
+
 2. The Members shall designate persons to the Chamber who shall exercise their statutory rights in the Chamber.
 
 #### § 3: Membership Honoris Causa
@@ -158,9 +177,12 @@ The Board of the Chamber may grant by means of a Resolution membership honoris c
 Membership in the Chamber shall expire:
 1. Upon withdrawal by the Member, on the date indicated by the Member in its Declaration of withdrawal from the Chamber; the Declaration shall be made in writing and addressed to the Board of the Chamber;
 2. Upon deletion from the list of Members by the Board of the Chamber by means of a Resolution due to:
-   1. death of a Member being a Natural Persons;
-   2. the irretrievable loss of preconditions for membership, in particular, due to liquidation or cessation of business activity; or
-   3. a Member’s non-observance of the provisions of this agreement or the Statute, including a failure to pay the membership fee.
+
+a) death of a Member being a Natural Persons;
+
+b) the irretrievable loss of preconditions for membership, in particular, due to liquidation or cessation of business activity; or
+
+c) a Member’s non-observance of the provisions of this agreement or the Statute, including a failure to pay the membership fee.
 
 ## Section 4: Final Provisions
 
