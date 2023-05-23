@@ -67,6 +67,18 @@ The system features:
 - **Judge**: A professional vetted by Liberland (or other users) representing the system's centralized element. The on-chain list of active judges includes their fees, case histories, and success-to-failure ratios.
 - **Jury**: Cryptographically anonymized users who vote on the merit of arguments based on game theory, aiming to align with the majority vote (Schelling point), representing the system's decentralized element.
 
+## Impact and Functionality
+
+### Impact
+With our solution, we're introducing a centralized-decentralized entity capable of determining the intentions behind actions. This entity will have the power to overturn transactions by reversing them or creating opposing transactions. In situations involving malicious or bad faith intentions, the judiciary will evaluate and, if necessary, counteract such actions.
+
+### Tokenomics
+Our Judges will be professionals whose fees are determined by the Collateral - the loser pays. In cases divided into several Claims, the loser of each claim pays.
+
+For those wishing to participate in a Jury, they can convert their LLD and liquid LLM into LJT (Liberland Jury Tokens). Jurors will "bet" JT based on the Focal Point game, with majority voters receiving the bets of the losing minority, distributed proportionately.
+
+JTs will be locked and can only be converted back into LLD / LLM on the 15th of each month (the Ides). Users must designate prior to the Ides which of their JT they wish to transfer.
+
 ### Functionality: Dispute Resolution
 
 #### Mediation
@@ -90,18 +102,6 @@ The system features:
 2. The Appeals Judge reviews the points of appeal and creates an Appeal Verdict.
 3. The Jury votes on the Appeal Verdict, either Adopting or Overturning it.
 4. The final Verdict is executed on the Collateral and the Pooled LLM.
-
-## Impact and Functionality
-
-### Impact
-With our solution, we're introducing a centralized-decentralized entity capable of determining the intentions behind actions. This entity will have the power to overturn transactions by reversing them or creating opposing transactions. In situations involving malicious or bad faith intentions, the judiciary will evaluate and, if necessary, counteract such actions.
-
-### Tokenomics
-Our Judges will be professionals whose fees are determined by the Collateral - the loser pays. In cases divided into several Claims, the loser of each claim pays.
-
-For those wishing to participate in a Jury, they can convert their LLD and liquid LLM into LJT (Liberland Jury Tokens). Jurors will "bet" JT based on the Focal Point game, with majority voters receiving the bets of the losing minority, distributed proportionately.
-
-JTs will be locked and can only be converted back into LLD / LLM on the 15th of each month (the Ides). Users must designate prior to the Ides which of their JT they wish to transfer.
 
 ### Functionality: Advisory Opinion
 If a party wishes to obtain the Court's opinion on a particular legal, technical or factual matter, even in the absence of a dispute, the system will offer two types of Advisory Opinions:
