@@ -132,12 +132,12 @@ To make these games more engaging, we could utilize the Complex Advisory Opinion
 - Kacper Zuk, Senior Developer
 
 ### Team LinkedIn Profiles
-[Dorian Stern-Vukotic](https://www.linkedin.com/in/djstern)
-[Kacper Zuk](https://www.linkedin.com/in/kacperzuk/)
+1. [Dorian Stern-Vukotic](https://www.linkedin.com/in/djstern)
+2. [Kacper Zuk](https://www.linkedin.com/in/kacperzuk/)
 
 ### Team’s Website
-[Liberland](www.liberland.org)
-[Liberland GitHub](https://github.com/liberland/liberland)
+1. [Liberland](www.liberland.org)
+2. [Liberland GitHub](https://github.com/liberland/liberland)
 
 ### Legal Structure
 The project will initially be structured as a Hong Kong-based Limited Liability Company, and later, a Liberland Company will be the entity in charge.
@@ -145,9 +145,9 @@ The project will initially be structured as a Hong Kong-based Limited Liability 
 In addition to the internal developer, we are partnered with [Neti](https://www.neti-soft.com/), a blockchain development firm based in Poland.
 
 ### GitHub
-[Main repo](https://github.com/liberland/liberland_substrate)
-[Docs](https://github.com/liberland/docs/tree/master/blockchain)
-[Validator doc](https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/for-validators-nominators-and-stakers)
+1. [Main repo](https://github.com/liberland/liberland_substrate)
+2. [Docs](https://github.com/liberland/docs/tree/master/blockchain)
+3. [Validator doc](https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/for-validators-nominators-and-stakers)
 
 ### Contact
 You can reach us at justice@liberland.org
