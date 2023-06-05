@@ -8,7 +8,7 @@ While we've kept the voluntary tax payment reasonable, we also ensure it's signi
 
 To maintain the integrity of our libertarian state, we have implemented a basic Know Your Customer (KYC) check. This check is designed along the lines of commercial sector practices. Once you clear these procedures, we'll notify you of your successful citizenship via email.
 
-Your voluntary tax contribution remains in your account, which opens the doors to Liberland politics for you. Unlike other states, your contribution still belongs to you. You can gradually withdraw it or exchange it for other currencies at a rate of 10% per year. This system is our version of social security. However, while withdrawing, you won't be able to participate in elections or referenda, though you can still hold political offices.
+As part of your journey towards becoming a Liberland citizen, you will gain access to 5000 Liberland Merit (LLM), a requirement for engaging in our unique political environment. Despite your contribution, the value remains yours. Unlike other states, your contribution still belongs to you. You can gradually withdraw it or exchange it for other currencies at a rate of 10% per year. This system is our version of social security. However, while withdrawing, you won't be able to participate in elections or referenda, though you can still hold political offices.
 
 ### Your Path to Citizenship
 #### If not an E-Resident Yet
@@ -22,9 +22,11 @@ Your voluntary tax contribution remains in your account, which opens the doors t
 7. Contact us at citizenship@liberland.org or wait until we contact you actively.
 8. Have a citizenship talk online.
 9. Go to the [Donate Page](www.liberland.org/en/donate)
+10. Make the donation.
+11. Inform us using citizenship@liberland.org or other means you get from us during the citizenship talk.
 
 ## Direct Democracy
 ### Explanation
-The 
+The core democratic process in Liberland is based on a referendum of all citizens. All laws have to pass this referendum and laws are removed using this referendum as well. The citizens vote with their LLM tokens.
 ### How-to
 ## Representative Democracy
