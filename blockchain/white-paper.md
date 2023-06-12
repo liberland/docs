@@ -134,12 +134,82 @@ The President, selected by the Senators, operates as the head of state and repre
 
 Furthermore, the President is empowered to appoint Executive functionaries and Judges, upon establishment of the Judiciary. The President's authority in this capacity is significant, allowing them to reject an appointment. However, this power is subject to the same checks as the Prime Member vote, demanding the countersignature of a Vice-President.
 
-## Future Outlook
-### Judiciary
-The on-chain judiciary is in active development, aiming to combine trust-based elements, such as professional judges and process law, with blockchain-native solutions, inspired by Kleros, the Aragon Court, and Ulex.
+## Future Outlook: Judiciary
+### Overview
+The on-chain judiciary is in active development, aiming to combine trust-based elements, such as professional judges and process law, with blockchain-native solutions, inspired by Kleros, the Aragon Court, and Ulex. The main mission is to conceive a blockchain-compatible solution that translates traditional dispute resolution and judiciary functionalities into the digital realm. Our vision includes a system that synergizes the virtues of centralized and decentralized models.
 
-### E-Identity
-Liberland aims to present a decentralized identity solution, a fork of the Identity pallet using NFTs of the Uniques pallet. Identification is accomplished by registrars with KnownGood status for issuing particular forms of identity. All identity-related data on-chain is stored in an encrypted forma
+### Problem Description
+#### Irreversibility: The Inflexibility of Blockchain Systems
+A foundational trait of blockchain systems, originating from Bitcoin, is the principle of irreversibility. Once a transaction is executed, it cannot be undone. Here, intentions play a secondary role with the final action being recognized as the valid user input.
+
+However, this level of accountability is often too demanding for many individuals. The common practice of associating human identities with addresses by third-party organizations is essentially a temporary fix, contradicting the core philosophy of blockchain. A single mistake can lead to catastrophic consequences, potentially resulting in the loss of millions without any inherent system recourse.
+
+#### Absence of Authority: The Perilous Landscape of Cryptocurrency
+The current cryptocurrency environment, teeming with scams and malicious actors, provides little protection against such threats. Redress against hackers and dishonest service providers typically happens outside the system, relying on national judiciaries and other external entities.
+
+Cryptocurrency represents a risky environment balanced against the promise of opportunity. It is filled with disclaimers about using the service "as-is", and providers often disclaim liability for secondary damages caused by other users. As a result, victims often find themselves in a harsh situation, with few options for seeking justice.
+
+Compounding the issue is the inherent system bias towards the savvy manipulator. With actions prioritized over intentions and the absence of an overseeing authority, the system inherently favors the crafty over the honest. This perceived intrinsic unfairness deters potential investors, especially businesses with lower risk tolerance.
+
+#### Unfamiliarity: The Obscurity of Existing Solutions
+Current judicial solutions in the blockchain field suffer from their highly specialized nature. These systems, primarily designed for technical issues, struggle to appeal to a wider audience. While solutions like Kleros and Ulex aim for a more generalist approach, they remain largely unfamiliar to the general public.
+
+The reliance on complex mathematical algorithms and game theory may be theoretically sound, but these concepts are unfamiliar to most individuals. People generally trust expert legal opinions over abstract mathematical models. Acknowledging this gap, we aim to create a new solution that bridges this divide.
+
+### Liberland Solution:  An On-Chain Judiciary System
+#### Goals
+The proposed solution is designed to achieve the following:
+1. Create an on-chain mechanism capable of acting on behalf of a party without explicit permission.
+2. Establish a set of norms or laws to govern system operations, thereby eliminating arbitrary decisions and increasing trust.
+3. Ensure decentralization and security, while maintaining the system operation by professionals to maintain quality decisions.
+4. Maintain recognizability by resembling a traditional courtroom rather than a simplified IT service app.
+
+#### Law
+The initial law guiding this system will be the Law of Liberland. However, the system is law-agnostic, allowing other users to implement their own laws, terms & conditions, internal norms, and case law to improve decision predictability.
+
+#### Roles
+The system consists of:
+1. Party A: The applicant, the party submitting an application to the court.
+2. Party B: The defendant, the party mentioned in the application to the court, usually as an opponent to the claim or a part of the claim.
+3. Judge: A professional vetted by Liberland (or other users) representing the system's centralized element. The on-chain list of active judges includes their fees, case histories, and success-to-failure ratios.
+4. Jury: Cryptographically anonymized users who vote on the merit of arguments based on game theory, aiming to align with the majority vote (Schelling point), representing the system's decentralized element.
+
+### Functionality: Dispute Resolution
+#### Mediation
+1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law).
+2. Party A selects a judge (Attorney A) from the available roster, agrees to their terms, and pays collateral plus a transaction fee.
+3. Party B is notified and selects a judge (Attorney B).
+4. Party A and Attorney A compile and submit a Case.
+5. Party B and Attorney B compile and submit a Response.
+6. The Attorneys meet to create a Compromise, dividing the Case into parts and seeking resolution without litigation where possible.
+7. Resolved parts of the Case are executed.
+8. The unresolved parts proceed to Litigation.
+
+#### Litigation
+1. Attorneys mutually select a third Judge (the Arbitrator).
+2. The Arbitrator delivers a Judgement, analyzing the Application and Response according to Liberland law, resulting in statements of "Party X pays to Party Y," backed by a rationale.
+3. The Jury reviews the Verdict and can Accept or Overturn each point, operating based on the Schelling Point system (rewarding majority-aligned votes).
+4. If the Parties accept, the judgment is executed. If a Party rejects, the Party pays the appeals fee, and an appeal process commences.
+
+#### Appeal
+1. An Appeal Judge is chosen by the algorithm.
+2. The Appeals Judge reviews the points of appeal and creates an Appeal Verdict.
+3. The Jury votes on the Appeal Verdict, either Adopting or Overturning it.
+4. The final Verdict is executed on the Collateral and the Pooled LLM.
+
+### Functionality: Advisory Opinion
+
+If a party wishes to seek the Court's advice on a specific legal, technical, or factual matter, even in the absence of a dispute, the system will offer two types of Advisory Opinions:
+
+#### Simple Advisory Opinion
+This is a binary yes/no question. The party formulates the question, provides reasoning, pays a fee, and submits the question to the Jury. They then wait for the Jury's decision and can either accept or reject it. If they reject it, they can pay an additional fee to re-run the game up to three times to view the opinions of three different Juries.
+
+#### Complex Advisory Opinion
+The party pays a higher fee, formulates a complex question, and selects a Judge. The Judge then formulates the Opinion on the points of the question. The party waits for the Jury's decision and, similar to a Simple Advisory Opinion, they can accept or reject it, paying an additional fee to re-run the game up to three times if they choose to reject it.
+
+## Applications and Extensions
+Beyond dispute resolution and advisory opinions, the system's use could be extended to other areas, such as Administrative Decisions on-chain.
+For instance, the process of granting or denying citizenship could be complemented with our decentralized system. The Ministry of Internal Affairs, Citizenship Agency would work with the Citizen applicant through steps such as proof of commitment (locked stake), KYC, and Citizenship Interview.
 
 ## Development and Contact Information
 The Liberland Blockchain is being developed by a team led by Dorian Stern-Vukotic, with Kacper Zuk as Senior Developer. The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company. The intended languages of development are Rust for the backend and Javascript/Angular for the frontend.
