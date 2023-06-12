@@ -1,26 +1,32 @@
 # White Paper Liberland Blockchain
 
 ## Abstract 
-Liberland is a country founded in 2015 on a terra nullius between Croatia and Serbia, with its founders being enthusiasts of blockchain and liberty. The goal is to provide all e-government services to its citizens via a substrate-based blockchain system, with governance as its first use case. The Liberland Blockchain is designed as a layer 1 public blockchain, governed by the holders of its native tokens, the Liberland Dollar (LLD) and Liberland Merit (LLM). The system also supports Non-Fungible Tokens (NFTs) representing land and other assets, and implements a decentralized identity solution.
+Liberland is a country founded in 2015 on a terra nullius between Croatia and Serbia, with its founders being enthusiasts of blockchain and liberty. The goal of the Liberland Blockchain is to provide all e-government services to its citizens via a substrate-based blockchain system, with governance as its first use case. The Liberland Blockchain is designed as a layer 1 public blockchain, governed by the holders of its native tokens, the Liberland Dollar (LLD) and Liberland Merit (LLM). The system also supports Non-Fungible Tokens (NFTs) representing land and other assets, and implements a decentralized identity solution. In future, we will support an online judiciary system, enabling non-smart but self-executing contracts on the blockchain with the judiciary as an oracle. The judiciary will also enable features like account recovery and recourse against fraud and theft.
 
 ## System Overview
-Liberland Blockchain is a layer 1 public blockchain owned by coin and token holders. The blockchain is funded and supported by Liberland, providing the first set of use cases. The codebase is a fork of Substrate/Polkadot, and the license is MIT, the same as Bitcoin. Liberland does not claim ownership of the blockchain or related materials.
-
-The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. Advanced functionalities critical to the project's future are permissioned. DeFi projects on the Liberland chain are not permissioned unless designed by third-party developers on a per-project basis.
+Liberland Blockchain is a layer 1 public blockchain owned by holders of LLD, but governed by the holders of LLM. The codebase is a fork of Substrate/Polkadot, and the license is MIT, the same as Bitcoin. Liberland does not claim ownership of the blockchain or related materials. The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. Advanced functionalities critical to the project's future are permissioned. DeFi projects on the Liberland chain are not permissioned unless designed by third-party developers on a per-project basis.
 
 ## Liberland Blockchain Design
 ### Public Blockchain
-The Liberland Blockchain is a fork of the Substrate/Polkadot code base, licensed under MIT, similar to Bitcoin. It is not owned by Liberland, but rather by its token holders. It supports permissionless transactions for store of value and medium of exchange purposes, with advanced functionalities being permissioned for specific user types.
+The Liberland Blockchain is a fork of the Substrate/Polkadot code base, licensed under MIT, similar to Bitcoin. It supports permissionless transactions for store of value and medium of exchange purposes, with advanced functionalities being permissioned for specific user types. 
 
 ### Permissioned Access
-To accommodate state-level security requirements, certain blockchain functions require permissioned access for Citizens and E-Residents. This includes running validator nodes and participating in on-chain governance. Access is granted after completing a Know Your Customer (KYC) process and holding a vested amount of LLM tokens.
+To accommodate state-level security requirements, certain blockchain functions are only available to users with elevated privileges. Elevated privileges are obtained by undergoing the currently centralized KYC procedure operated by the government of Liberland and fulfilling the requirements for becoming Citizens. 
+
+The functions that require elevated privilege include, crucially, running validator nodes and participating in on-chain governance. This system reflects the principle of citizenship on the blockchain: States allow only citizens to operate their systems of critical infrastructure and typically, only citizens are given full political rights. As on-chain governance and politics are the same thing, the development of the system is, effectively, in the hands of the Citizens.
 
 ## On-Chain Assets
 ### On-Chain Assets and Division of Power
 The blockchain contains two main assets: Liberland Dollar (LLD) and Liberland Merit (LLM). LLD serves as a medium of exchange and an instrument for maintaining network consensus and security. LLM represents a share in Liberland's state and nationhood, granting governance power with no possibility of separating this power from the token.
 
 ### Liberland Dollar (LLD)
-The Liberland Dollar serves as the native token of the blockchain, fulfilling two main functions: a) a medium of exchange; and b) an instrument for maintaining network consensus and security. The LLD is minted according to rules inherited from Polkadot, including the "ideal staking ratio" mechanism.
+The Liberland Dollar serves as the native token of the blockchain, fulfilling two main functions: 
+
+a) a medium of exchange; and 
+
+b) an instrument for maintaining network consensus and security. 
+
+The LLD is minted according to rules inherited from Polkadot, including the "ideal staking ratio" mechanism. Its tokenomics reflect the  "automatic central bank" system proposed by the Nobel-prize winning economist Milton Friedman.
 
 ### Liberland Merit (LLM)
 The Liberland Merit represents a share in the State and nationhood of Liberland. It is the governance token, legally similar to shares in joint ownership. Governance power is tied to the LLM, with a fixed maximum supply of 70,000,000 tokens. The initial price for LLM will be 1 USD, subject to change when trading begins.
