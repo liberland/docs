@@ -29,7 +29,17 @@ b) an instrument for maintaining network consensus and security.
 The LLD is minted according to rules inherited from Polkadot, including the "ideal staking ratio" mechanism. Its tokenomics reflect the  "automatic central bank" system proposed by the Nobel-prize winning economist Milton Friedman.
 
 ### Liberland Merit (LLM)
-The Liberland Merit represents a share in the State and nationhood of Liberland. It is the governance token, legally similar to shares in joint ownership. Governance power is tied to the LLM, with a fixed maximum supply of 70,000,000 tokens. The initial price for LLM will be 1 USD, subject to change when trading begins.
+#### Overview
+The Liberland Merit represents a share in the State and nationhood of Liberland. One's LLM supply can be converted to tokenized political power with which a Citizen can vote.
+
+With a fixed maximum supply of 70,000,000 tokens and a release schedule of 10 percent per year, LLM is a deflatioinary token. LLM represent the territory of Liberland, where 10 LLM represent 1 m2 of the land. This is an ideal ownership, but LLM holders will be acknowledge when titles to the land are sold. 
+
+LLM is a token set up using the Assets pallet. The initial price for LLM will be 1 USD, subject to change when trading begins.
+
+#### Political pooling
+Participation in the political process of Liberland is not solely contingent upon ownership of LLM or citizen status. A further requirement exists in the form of political pooling, or 'politpooling' of LLM. Politpooling is a long-term vesting which, mirroring the initial increase of token supply, only allows the unvesting of 10 percent of one's token supply per year. In additional, while unpooling, e.g. unvesting, one's politpooled LLM supply loses its political power. This gradual release of vested tokens can be likened to a form of social security, however, Liberland's social security is funded by the individual's past tax contributions, rather than a collective pool. The unpooling mechanism is structured to be triggered on a monthly basis, with 1/12th of 1/10th of the total vested supply becoming available each month.
+
+The act of politpooling LLM is representative of voluntary tax contribution and a further display of dedication to the nation's prospective development. This mechanism is grounded in game theory, suggesting that significant personal investment, whether in the form of time or resources, typically results in a heightened sense of responsibility and commitment to the success of the invested project.
 
 ### NFTs
 Native NFTs are used to represent land in both physical Liberland and the metaverse. These NFTs are integral to the land registry dApp, which tracks registered property. Additionally, a range of soulbound NFTs are used to represent Citizenship and various government functions, enabling Liberland to implement transition of power through smart contracts.
