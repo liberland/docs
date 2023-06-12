@@ -110,10 +110,10 @@ The e-governance system also encompasses wallet interfaces, validator interfaces
 ### Current Phase: The Provisional Government
 In the early stages, the Cabinet is served by the Provisional Government of Liberland, with the President acting as the Prime Member. The roles within the Cabinet are therefore allocated by the President. Upon the development of a community in Liberland or a territory governed by Liberland (when at least 65 percent of Citizens are onboarded and settlement is actively in progress), the Provisional Government will relinquish its power and the President will transition into the role of a primarily symbolic head of state.
 
-## Governance: The Treasury
+## Treasury
 One of the standing values that Liberland has is that all taxes are paid voluntarily by the citizens of Liberland. We fork Polkadot’s Treasury and implement it as a multi-signature wallet held by the on-chain politicians of Liberland. Like Polkadot’s Treasury, we will handle funding proposals, mainly initiated by the Executive and Congress. 
 
-## The Senate
+## Senate
 ### Overview
 The Senate is tasked with the management of Treasury keys and the power to veto Laws and Regulations. Laws can be vetoed during the referendum phase, whereas lower-tier Regulations can be vetoed at any time. Proposals related to the LLM Treasury necessitate the Senate's approval for execution. The Senate serves as Liberland's "House of Lords", with members appointed for life. Their power is purely of control, devoid of legislative or executive capacities.
 
