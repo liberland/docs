@@ -86,31 +86,53 @@ The Congress is elected through a voting process involving all citizens, utilizi
 #### Delegation
 The concept of Delegation gains relevance for citizens who perceive their representative as more knowledgeable or more capable of in-depth study of the subject matter, while they attend to their personal affairs. Delegation can be granted or rescinded at any point in time. This introduces a novel form of tangible representation into representative democracy, given that most states do not permit any form of post-election influence over the actions of the representative, barring the one-time vote cast every few years.
 
-#### Technical
+#### Prime Member
 The Congress is a derivative of the Substrate Council, retaining the original structure of the source. Consequently, the Congress also inherits the Council's system of the Prime Member. Within the Congress, the member amassing the maximum votes per voting period ascends to the role of the Prime Member. Their vote in any Congress deliberation is automatically adopted by all inactive or non-voting members of the Congress.
 
-### Executive
-The Executive oversees Liberland's daily affairs, led by the Cabinet, a fork of the on-chain Collective pallet. The Cabinet comprises one Prime Minister and four Ministers, with all other Executive functions falling under a Minister. The Executive includes Offices using the original Offices Pallet, assigning an address to powers designated to specific Offices by law.
+#### Executive
+##### Role
+The Executive carries out the routine operations of the nation. It also executes laws and measures ratified by the Referendum and Congress, thus translating them into practice.
 
-The Cabinet's primary power is enacting regulations within the legal framework. Lower Offices govern and regulate within the law and Cabinet regulations, with their heads nominated and dismissed by the Cabinet or a specific Minister.
+##### Cabinet
+The Executive operates in a hierarchical manner, spearheaded by the Cabinet, which technically is another offshoot of the on-chain Collective pallet. The Cabinet consists of one Prime Minister and four Ministers. All other executive functions fall under the purview of either one of the Cabinet members or the Cabinet as a whole.
 
-Initially, the Provisional Government of Liberland serves as the Cabinet, with the President as the Prime Member. Upon the establishment of a community in Liberland or a Liberland-governed territory, the Prime Minister assumes the Prime Member role and selects Ministers. Congress appoints and dismisses the Prime Minister and Ministers. Dismissing a Prime Minister does not necessitate the resignation of all Ministers.
+The primary authority of the Cabinet lies in enforcing regulations within the legal framework. Subordinate Offices administer and regulate within the confines of the law and Cabinet regulations, with their heads appointed and dismissed by the Cabinet or a specific Minister.
 
-The system algorithmically manages the transition of power, with officials holding fixed terms of office, typically 20 Election Terms (5 years), renewable once.
+##### E-Governance
+All the offices under the Cabinet constitute the E-Governance of Liberland on the blockchain. They are expected to have interfaces that facilitate seamless communication and service provision for the citizens of Liberland.
 
-### E-Governance
-The executive manages citizen-facing e-government services, with all communication between citizens and the government occurring through online tools. The system includes wallet interfaces, validator interfaces, political interfaces for elections and legislative drafting, interfaces for government registers and other services, internal government front ends for officials, and the treasury interface.
+The initial such offices are the Company Registry and Land Registry, which are currently operational on the chain in a pilot stage. They are expected to be succeeded by additional applications, aimed at fulfilling traditional state roles.
 
-### Senate & Treasury
-The Treasury, a fork of Polkadot's Treasury, comprises two separate treasuries: one for LLD and one for LLM. The LLD Treasury operates identically to the Polkadot Treasury, while the LLM Treasury is managed by the Senate. The Senate, based on the Council/Collective pallet, is responsible for maintaining Treasury keys and vetoing Laws and Regulations. Laws are vetoed during the referendum phase, and lower Regulations can be vetoed at any time. All LLM Treasury proposals require Senate confirmation for execution. 
+Furthermore, the E-Governance will feature an inward component, specifically, budget management. The state budgets will be maintained on the blockchain, ensuring complete transparency and oversight.
 
-The Senate is the "House of Lords" of Liberland, and its members are appointed for life. They have, however, only control power, neither legislative nor executive powers.
+The e-governance system also encompasses wallet interfaces, validator interfaces, political interfaces for elections and will include such elements as legislative drafting, interfaces for government registers and other services, internal government front ends for officials, and the treasury interface.
+
+#### Current Phase: The Provisional Government
+In the early stages, the Cabinet is served by the Provisional Government of Liberland, with the President acting as the Prime Member. The roles within the Cabinet are therefore allocated by the President. Upon the development of a community in Liberland or a territory governed by Liberland (when at least 65 percent of Citizens are onboarded and settlement is actively in progress), the Provisional Government will relinquish its power and the President will transition into the role of a primarily symbolic head of state.
+
+#### Treasury
+One of the standing values that Liberland has is that all taxes are paid voluntarily by the citizens of Liberland. We fork Polkadot’s Treasury and implement it as a multi-signature wallet held by the on-chain politicians of Liberland. Like Polkadot’s Treasury, we will handle funding proposals, mainly initiated by the Executive and Congress. 
+
+### The Senate
+#### Overview
+The Senate is tasked with the management of Treasury keys and the power to veto Laws and Regulations. Laws can be vetoed during the referendum phase, whereas lower-tier Regulations can be vetoed at any time. Proposals related to the LLM Treasury necessitate the Senate's approval for execution. The Senate serves as Liberland's "House of Lords", with members appointed for life. Their power is purely of control, devoid of legislative or executive capacities.
+
+A notable attribute of Senatorship is the possession (restricted to dividends) of one percent of Liberland reserves and of the parent company developed for Liberland, namely Liberland Limited, based in Hong Kong. We are also willing to provide you with veto control over the finances invested in Liberland.
+
+#### Powers
+The Senate, as a collective, is endowed with the following authorities:
+1. Nullify any referendum regarding Laws prior to them acquiring legal force; if a Veto is enacted, the proposed law will not acquire legal force;
+2. Act as the supreme authority in budgetary and expenditure matters, maintaining oversight over any outflows from the Liberland Treasury; the Senate can halt any spending they deem unjustified;
+3. Revoke any Regulation, other than a Law, even post its legal enactment; and
+4. Cast votes for the President of Liberland.
+
+#### Implementation
+The Senate, similar to the Congress and Council, is also a derivative of the Council pallet from Polkadot. Initially, Senators will be designated by the President. Subsequently, a co-option system will be established, wherein existing Senators vote to induct new members. It is important to note that while Senators have the power to admit, they cannot dismiss, as Senatorship is a property title and as such is safeguarded from expropriation in accordance with Liberland's property protection principles.
 
 ### President & Vice-Presidents
-The President, chosen by the Senators, serves as the head of state and represents Liberland internationally. The President's actions necessitate confirmation by at least one Vice-President. The President's main power is being the Prime Member of the Senate Collective, meaning abstaining Senators' votes automatically align with the President's. This only applies when a Vice-President confirms the vote; otherwise, abstaining Senators' votes are considered uncast.
+The President, selected by the Senators, operates as the head of state and represents Liberland on the international stage. Any actions undertaken by the President require the validation of at least one Vice-President. The President's main authority is as the Prime Member of the Senate Collective, implying that votes of abstaining Senators automatically align with the President's. This holds true only when a Vice-President corroborates the vote; otherwise, the votes of abstaining Senators are deemed uncast.
 
-Additionally, the President possesses the authority to appoint Executive functionaries and Judges when the Judiciary is established. The President's power in this capacity is real, enabling them to reject an appointment. However, this power is subject to the same checks as the Prime Member vote, requiring the countersignature of a Vice-President.
-
+Furthermore, the President is empowered to appoint Executive functionaries and Judges, upon establishment of the Judiciary. The President's authority in this capacity is significant, allowing them to reject an appointment. However, this power is subject to the same checks as the Prime Member vote, demanding the countersignature of a Vice-President.
 
 ## Future Outlook
 ### Judiciary
