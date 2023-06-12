@@ -79,4 +79,4 @@ Liberland aims to present a decentralized identity solution, a fork of the Ident
 ## Development and Contact Information
 The Liberland Blockchain is being developed by a team led by Dorian Stern-Vukotic, with Kacper Zuk as Senior Developer. The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company. The intended languages of development are Rust for the backend and Javascript/Angular for the frontend.
 
-The Liberland team can be reached via email at justice@liberland.org, and the project's code repositories can be found at https://github.com/liberland/liberland_substrate and https://github.com/liberland/docs/blob/master/Blockchain%20Strategy.md.### 
+The Liberland team can be reached via email at justice@liberland.org, and the project's code repository can be found at https://github.com/liberland/liberland_substrate.
