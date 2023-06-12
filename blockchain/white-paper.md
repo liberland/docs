@@ -45,6 +45,9 @@ The act of politpooling LLM is representative of voluntary tax contribution and 
 Native NFTs are used to represent land in both physical Liberland and the metaverse. These NFTs are integral to the land registry dApp, which tracks registered property. Additionally, a range of soulbound NFTs will be used in future stages of the project to represent Citizenship and various government functions, enabling Liberland to implement transition of power through smart contracts.
 In future iterations, the project will tokenise everything in that metaverse and real-world Liberland. Selling and purchases will be facilitated through NFTs, representing “deeds of ownership” to the real-life objects. Where there is a dispute, the Judge needs only to look on-chain who owns the NFT about that object.
 
+### Contract-based (3rd party) tokens
+The Chain will exhibit comprehensive compatibility with Smart Contracts, as it operates on a derivative of the Polkadot Virtual Machine. This functionality empowers both our internal team and external developers to establish their decentralized architectures. We foresee the emergence of a robust Decentralized Finance (DeFi) ecosystem on our chain, akin to the thriving DeFi environments observed on other Rust-based chains like Polkadot, Kusama, and Solana.
+
 ## Frontend
 The user-facing component will encompass an array of interfaces, crafted with the intention of enabling Liberland's citizens to directly engage with their governance structures. This assembly of user interfaces will encompass but will not be confined to the subsequent sub-domains:
 
@@ -59,18 +62,32 @@ Supplementing these, a collection of front-ends will be developed to facilitate 
 
 ## Governance
 ### Referendum
-The Referendum serves as the primary decision-making mechanism within Liberland's political system, enabling citizens to determine the validity of Laws, Regulations, and other political propositions. All Laws must undergo the Referendum's direct democratic process to attain legal standing. The Referendum operates based on a system derived from Polkadot, incorporating an anti-populism measure that increases the voting threshold as voter engagement decreases.
+#### Validation of Proposals
+The Referendum serves as a core instrument for decision-making within the political architecture of Liberland, facilitating citizens in the evaluation of laws, regulations, and assorted political propositions. The fulcrum of both on-chain governance and the political milieu of Liberland is the Referendum. Within the Liberland context, all laws necessitate the passage through the Referendum's direct democratic process for validation.
 
-Citizens can propose Referenda, which are subject to the anti-populism measure. Congress, a democratically elected entity, can also initiate referenda with a 50% plus one vote requirement, reflecting its presumed legitimacy and competence.
+The functioning of the Referendum is predicated on a system evolved from Polkadot, integrating an anti-populist safeguard that escalates the voting threshold in proportion to declining voter participation. The voting requisite, i.e., the count of tokens required for the ratification of a proposal, rises in conjunction with declining turnover. Consequently, this system safeguards against the Referendum bypassing the will of the silent majority, irrespective of their voting inactivity. This mechanism is deactivated for Referenda initiated by the Congress, given its democratic election.
+
+#### Revocation of Proposals
+Furthermore, a specialized variant of the Referendum is operational for the retraction of legal validation from laws and other measures ratified by the Referendum. This is termed the Public Veto. An exclusive feature within the chain's toolkit, the voting for a Public Veto is conducted on a one-citizen-one-vote basis. This mechanism serves as a precautionary measure against potential plutocratic commandeering of the system.
 
 ### Congress
-Congress functions as Liberland's representative body, responsible for proposing rational Referenda, appointing and dismissing the Prime Minister (Executive), voting in referenda on behalf of citizens who delegate their vote, and deciding on budgetary matters. Congress is a fork of the Substrate Council, and the most influential member becomes the Prime Member, whose vote is followed by non-voting Congress members.
+#### Overview
+The Congress operates as the representative entity within Liberland, tasked with
 
-Key powers include:
-- Proposing Referenda with a 50% plus one vote requirement, without anti-populism measures;
-- Being delegated votes in Referenda by citizens who trust their representatives to vote on their behalf.
+a) initiating rational Referenda that are exempt from the anti-populist voting requisites;
 
-The Delegation becomes important for citizens who feel that their representative knows more about the subject matter than they do or can be expected to spend time studying it in depth, while they are busy with their own lives. Delegation can be given at any time and also taken back at any time. This represents a unique introduction of real representation into representative democracy, as currently, most states don't allow any voter ex-post control on representative behavior, besides a one-time vote once in several years.
+b) the appointment and removal of the Prime Minister (Executive), and
+
+c) participating in referenda on behalf of constituents who delegate their voting rights.
+
+#### Elections
+The Congress is elected through a voting process involving all citizens, utilizing their tokens. Elections occur on a quarterly basis. Inactive citizens in the current elections are not recorded as such; their vote in the last participated election is considered valid.
+
+#### Delegation
+The concept of Delegation gains relevance for citizens who perceive their representative as more knowledgeable or more capable of in-depth study of the subject matter, while they attend to their personal affairs. Delegation can be granted or rescinded at any point in time. This introduces a novel form of tangible representation into representative democracy, given that most states do not permit any form of post-election influence over the actions of the representative, barring the one-time vote cast every few years.
+
+#### Technical
+The Congress is a derivative of the Substrate Council, retaining the original structure of the source. Consequently, the Congress also inherits the Council's system of the Prime Member. Within the Congress, the member amassing the maximum votes per voting period ascends to the role of the Prime Member. Their vote in any Congress deliberation is automatically adopted by all inactive or non-voting members of the Congress.
 
 ### Executive
 The Executive oversees Liberland's daily affairs, led by the Cabinet, a fork of the on-chain Collective pallet. The Cabinet comprises one Prime Minister and four Ministers, with all other Executive functions falling under a Minister. The Executive includes Offices using the original Offices Pallet, assigning an address to powers designated to specific Offices by law.
