@@ -42,10 +42,20 @@ Participation in the political process of Liberland is not solely contingent upo
 The act of politpooling LLM is representative of voluntary tax contribution and a further display of dedication to the nation's prospective development. This mechanism is grounded in game theory, suggesting that significant personal investment, whether in the form of time or resources, typically results in a heightened sense of responsibility and commitment to the success of the invested project.
 
 ### NFTs
-Native NFTs are used to represent land in both physical Liberland and the metaverse. These NFTs are integral to the land registry dApp, which tracks registered property. Additionally, a range of soulbound NFTs are used to represent Citizenship and various government functions, enabling Liberland to implement transition of power through smart contracts.
+Native NFTs are used to represent land in both physical Liberland and the metaverse. These NFTs are integral to the land registry dApp, which tracks registered property. Additionally, a range of soulbound NFTs will be used in future stages of the project to represent Citizenship and various government functions, enabling Liberland to implement transition of power through smart contracts.
+In future iterations, the project will tokenise everything in that metaverse and real-world Liberland. Selling and purchases will be facilitated through NFTs, representing “deeds of ownership” to the real-life objects. Where there is a dispute, the Judge needs only to look on-chain who owns the NFT about that object.
 
 ## Frontend
-Citizens and E-Residents interact with the government through a frontend system, which includes a wallet interface, interfaces for validators, political interface, government registers and services interface, internal government frontend, and a treasury interface.
+The user-facing component will encompass an array of interfaces, crafted with the intention of enabling Liberland's citizens to directly engage with their governance structures. This assembly of user interfaces will encompass but will not be confined to the subsequent sub-domains:
+
+1. A Wallet Interface: A streamlined portal for managing digital assets.
+2. Validator Interface: A conduit for interactions with validators, the custodians of blockchain integrity.
+3. Political Interface: A dedicated space for electoral processes, candidacy declaration, and legislative drafting.
+4. Government Registers Interface: An access point for government-related services and registers.
+5. Internal Government Interface: Exclusive interfaces for government officials to interact with the blockchain and conduct administrative duties.
+6. Treasury Interface: A bespoke platform for managing Liberland's financial reserves.
+
+Supplementing these, a collection of front-ends will be developed to facilitate the interaction between the blockchain and the metaverse, thereby enhancing the synergy between the digital and physical realms of Liberland.
 
 ## Governance
 ### Referendum
