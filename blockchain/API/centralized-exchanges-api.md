@@ -16,7 +16,7 @@ LLM is an on chain asset of the [Assets pallet](https://paritytech.github.io/sub
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const provider = new WsProvider(<WS_ENDPOINT>);
-const api = ApiPromise.create({ provider });
+const api = await ApiPromise.create({ provider });
 // <ASSET_ID> of LLM is 1
 const LLMInfo = await api.query.assets.account(<ASSET_ID>, <WALLET_ADDRESS>);
 console.log(LLMInfo.toJSON().data?.balance ?? '0x0')
@@ -30,7 +30,7 @@ const { ApiPromise, WsProvider } = require('@polkadot/api');
 import Keyring from "@polkadot/keyring";
 
 const provider = new WsProvider(<WS_ENDPOINT>);
-const api = ApiPromise.create({ provider });
+const api = await ApiPromise.create({ provider });
 const keyring = new Keyring({ type: 'sr25519' });
 const sender = keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
 // minimum <AMOUNT> is new BN('1000000000000');
@@ -43,10 +43,10 @@ const txHash = await transferExtrinsic.signAndSend(sender) ;
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const provider = new WsProvider(<WS_ENDPOINT>);
-const api = ApiPromise.create({ provider });
+const api = await ApiPromise.create({ provider });
 const hash = await api.rpc.chain.getBlockHash(<BLOCKNUMBER>);
 const block = await api.rpc.chain.getBlock(hash);
-console.log(block.block.extrinsics);
+console.log(block.block.extrinsics.toHuman());
 ```
 
 ## Receive the last block number
@@ -55,7 +55,7 @@ console.log(block.block.extrinsics);
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const provider = new WsProvider(<WS_ENDPOINT>);
-const api = ApiPromise.create({ provider });
+const api = await ApiPromise.create({ provider });
 const bestNumber = await api.derive.chain.bestNumber();
 console.log(bestNumber.toNumber());
 ```
@@ -69,7 +69,7 @@ const txid = (<block hash>, <index>);
 
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const provider = new WsProvider(<WS_ENDPOINT>);
-const api = ApiPromise.create({ provider });
+const api = await ApiPromise.create({ provider });
 const block = await api.rpc.chain.getBlock(txid[0]);
 console.log(block.block.extrinsics[txid[1]]);
 ```
@@ -82,7 +82,7 @@ const { ApiPromise, WsProvider } = require('@polkadot/api');
 import Keyring from "@polkadot/keyring";
 
 const provider = new WsProvider(<WS_ENDPOINT>);
-const api = ApiPromise.create({ provider });
+const api = await ApiPromise.create({ provider });
 const keyring = new Keyring({ type: 'sr25519' });
 const sender = keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
 const transferExtrinsic = api.tx.llm.sendLlm(<ACCOUNT_TO>, <AMOUNT>);
