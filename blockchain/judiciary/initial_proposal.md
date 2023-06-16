@@ -1,7 +1,7 @@
 # Liberland Blockchain - the Judiciary
 
 ## Introduction
-### Liberland Smart Chain
+### Liberland Blockchain
 Liberland Blockchain is a layer 1 public blockchain owned by coin and token holders. The blockchain is funded and supported by Liberland, providing the first set of use cases. The codebase is a fork of Substrate/Polkadot, and the license is MIT, the same as Bitcoin. Liberland does not claim ownership of the blockchain or related materials.
 
 The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. Advanced functionalities critical to the project's future are permissioned. DeFi projects on the Liberland chain are not permissioned unless designed by third-party developers on a per-project basis.
@@ -67,7 +67,7 @@ The system features:
 - **Judge**: A professional vetted by Liberland (or other users) representing the system's centralized element. The on-chain list of active judges includes their fees, case histories, and success-to-failure ratios.
 - **Jury**: Cryptographically anonymized users who vote on the merit of arguments based on game theory, aiming to align with the majority vote (Schelling point), representing the system's decentralized element.
 
-## Impact and Functionality
+## Impact and Tokenomics
 
 ### Impact
 With our solution, we're introducing a centralized-decentralized entity capable of determining the intentions behind actions. This entity will have the power to overturn transactions by reversing them or creating opposing transactions. In situations involving malicious or bad faith intentions, the judiciary will evaluate and, if necessary, counteract such actions.
@@ -79,9 +79,9 @@ For those wishing to participate in a Jury, they can convert their LLD and liqui
 
 JTs will be locked and can only be converted back into LLD / LLM on the 15th of each month (the Ides). Users must designate prior to the Ides which of their JT they wish to transfer.
 
-### Functionality: Dispute Resolution
+## Functionality: Dispute Resolution
 
-#### Mediation
+### Mediation
 1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law).
 2. Party A selects a judge (Attorney A) from the available roster, agrees to their terms, and pays collateral plus a transaction fee.
 3. Party B is notified and selects a judge (Attorney B).
@@ -91,7 +91,7 @@ JTs will be locked and can only be converted back into LLD / LLM on the 15th of 
 7. Resolved parts of the Case are executed.
 8. The unresolved parts proceed to Litigation.
 
-#### Litigation
+### Litigation
 1. Attorneys mutually select a third Judge (the Arbitrator).
 2. The Arbitrator delivers a Judgement, analyzing the Application and Response according to Liberland law, resulting in statements of "Party X pays to Party Y," backed by a rationale.
 3. The Jury reviews the Verdict and can Accept or Overturn each point, operating based on the Schelling Point system (rewarding majority-aligned votes).
@@ -103,11 +103,19 @@ JTs will be locked and can only be converted back into LLD / LLM on the 15th of 
 3. The Jury votes on the Appeal Verdict, either Adopting or Overturning it.
 4. The final Verdict is executed on the Collateral and the Pooled LLM.
 
-### Functionality: Advisory Opinion
+## Functionality: Advisory Opinion
 If a party wishes to obtain the Court's opinion on a particular legal, technical or factual matter, even in the absence of a dispute, the system will offer two types of Advisory Opinions:
 
 - **Simple Advisory Opinion**: This is a yes/no binary question. The party formulates the question, provides reasoning, pays a fee, and presents the question to the Jury. They then wait for the Jury's decision and can either accept or reject it. If they reject it, they can pay an additional fee to re-run the game up to three times to view the opinions of three different Juries.
 - **Complex Advisory Opinion**: The party pays a higher fee, formulates a complex question, and chooses a Judge. The Judge then formulates the Opinion on the points of the question. The party waits for the Jury's decision and, similar to a Simple Advisory Opinion, they can accept or reject it, paying an additional fee to re-run the game up to three times if they choose to reject it.
+
+## Functionality: Dumb Contracts
+
+### Overview
+Most contractual relationships in the world aren't currently simple and predictable enough to be run on smart contracts. This is likely to remain so even in the age of AI, at least for a decade or so. In the meantime, dumb contracts, that is, traditional contracts, are what runs the world of business and your everyday life. What is a dumb contract? It is an agreement you make with another human being. It is also a smart contract, in a way, but it runs on the hardware and the OS of your brain. 
+
+### Dumb contracts and the blockchain
+What use has the blockchain for a dumb contract? Why - execution of course! And enforcement. At the end of a dumb contract of arbitrary complexity and sophistication are the actions which are its bottom line. In civil and business law, this is often something denominated in money. Imagine living in a world where you wouldn't have any uncertainty as to whether your counterparty will pay you.
 
 ## Applications and Extensions
 Beyond dispute resolution and advisory opinions, we plan to extend the use of this system to other areas, such as Administrative Decisions on-chain.
