@@ -97,7 +97,7 @@ JTs will be locked and can only be converted back into LLD / LLM on the 15th of 
 3. The Jury reviews the Verdict and can Accept or Overturn each point, operating based on the Schelling Point system (rewarding majority-aligned votes).
 4. If the Parties accept, the judgment is executed. If a Party rejects, the Party pays the appeals fee, and an appeal process commences.
 
-#### Appeal
+### Appeal
 1. An Appeal Judge is chosen by the algorithm.
 2. The Appeals Judge reviews the points of appeal and creates an Appeal Verdict.
 3. The Jury votes on the Appeal Verdict, either Adopting or Overturning it.
