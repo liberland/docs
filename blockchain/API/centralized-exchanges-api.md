@@ -65,18 +65,56 @@ console.log(bestNumber.toNumber());
 Transactions (a.k.a. extrinsics) are uniquely identified by block hash + their index. See also https://wiki.polkadot.network/docs/build-protocol-info#unique-identifiers-for-extrinsics
 
 ```
-const txid = (<block hash>, <index>);
+const txId = {
+  blockHash: BLOCK_HASH,
+  index: EXTRINSIC_INDEX,
+};
 
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const provider = new WsProvider(<WS_ENDPOINT>);
 const api = await ApiPromise.create({ provider });
-const block = await api.rpc.chain.getBlock(txid[0]);
-console.log(block.block.extrinsics[txid[1]]);
+const apiAt = await api.at(txId.blockHash);
+const allEvents = await apiAt.query.system.events();
+
+const txEvents = allEvents.filter(({ phase }) => phase.isApplyExtrinsic && phase.asApplyExtrinsic.eq(txId.index));
+
+const successEvent = txEvents.find(({ event }) => api.events.system.ExtrinsicSuccess.is(event));
+const failureEvent = txEvents.find(({ event }) => api.events.system.ExtrinsicFailed.is(event));
+
+if (successEvent) {
+  const transferEvents = txEvents.filter(({ event }) => api.events.assets.Transferred.is(event));
+  transferEvents.forEach(({ event }) => {
+    const [assetId, fromAccount, toAccount, amount] = event.data;
+    if (assetId == 1) {
+      console.log(`Transfer of ${amount} grains of LLM from ${fromAccount} to ${toAccount}`);
+    }
+  });
+} else {
+  const [dispatchError, dispatchInfo] = failureEvent.event.data;
+  let errorInfo;
+
+  // decode the error
+  if (dispatchError.isModule) {
+    // for module errors, we have the section indexed, lookup
+    // (For specific known errors, we can also do a check against the
+    // api.errors.<module>.<ErrorName>.is(dispatchError.asModule) guard)
+    const decoded = api.registry.findMetaError(dispatchError.asModule);
+
+    errorInfo = `${decoded.section}.${decoded.name}`;
+
+  } else {
+    // Other, CannotLookup, BadOrigin, no extra info
+    errorInfo = dispatchError.toString();
+  }
+
+  console.log(`ExtrinsicFailed:: ${errorInfo}`);
+}
 ```
 
 ## Coin transfer
 
 ### Using polkadotJsApi
+
 ```
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 import Keyring from "@polkadot/keyring";
@@ -88,3 +126,5 @@ const sender = keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
 const transferExtrinsic = api.tx.llm.sendLlm(<ACCOUNT_TO>, <AMOUNT>);
 const txHash = await transferExtrinsic.signAndSend(sender) ;
 ```
+
+See also https://polkadot.js.org/docs/api/cookbook/tx/#how-do-i-get-the-decoded-enum-for-an-extrinsicfailed-event for example on how to see if tx succeeded.
