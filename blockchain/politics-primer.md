@@ -29,4 +29,25 @@ As part of your journey towards becoming a Liberland citizen, you will gain acce
 ### Explanation
 The core democratic process in Liberland is based on a referendum of all citizens. All laws have to pass this referendum and laws are removed using this referendum as well. The citizens vote with their LLM tokens.
 ### How-to
+#### Vote in a Referendum
+1. Make sure you are
+
+   a)  an onboarded citizen with a wallet
+
+   b) your wallet contains 5000 LLM politpooled.
+
+2. Go to (the blockchain frontend)[blockchain.liberland.org].
+3. Go to Voting
+4. Choose: Referendums.
+5. See all active Referendums.
+6. If you wish, you can vote on any of those.
+7. Voting on one does not consume your vote, so you can vote on any and all simultaneously.
+
+#### Create a Referendum
+1. Take the same path as for Voting, steps 1-4
+2. Instead of voting, click Propose
+3. Fill in the form to the best of your ability.
+4. Propose
+5. Go to our social media channels to promote your proposal or promote it on your own = this is your responsibility as our newest Liberland politician.
+
 ## Representative Democracy
