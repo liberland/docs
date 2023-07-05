@@ -27,7 +27,12 @@ As part of your journey towards becoming a Liberland citizen, you will gain acce
 
 ## Direct Democracy
 ### Explanation
-The core democratic process in Liberland is based on a referendum of all citizens. All laws have to pass this referendum and laws are removed using this referendum as well. The citizens vote with their LLM tokens.
+The fundamental democratic process in the Free Republic of Liberland is established upon the principles of citizen-based referendums. Each and every law must be approved through this democratic referendum, and likewise, any law removal is also dictated by the same process. Citizens participate in this referendum using their LLM tokens.
+
+Proposals for new laws can be initiated either by the general public or by Congress. In the instance of a law being proposed by the citizenry, its approval is subjected to a dynamic voting requirement calculation. This strategic mechanism is intended to prevent the opportunistic adoption of laws contrary to the wishes of the silent majority, particularly in situations of low voter turnout. As such, when voter turnout is lower, the quantity of LLM required for a law to be passed increases. Conversely, higher voter turnout results in a lower LLM requirement, reaching a simple majority when voter turnout is at 100 percent.
+
+In addition, Liberland has a distinct referendum type known as the Public Veto, in which each citizen is granted one vote. The primary function of the Public Veto is to enable the removal of legislative measures and officials from their respective positions.
+
 ### Vote in a Referendum
 1. Make sure you are
 
@@ -50,9 +55,19 @@ The core democratic process in Liberland is based on a referendum of all citizen
 5. Go to our social media channels to promote your proposal or promote it on your own = this is your responsibility as our newest Liberland politician.
 
 ## Representative Democracy
+### Explanation
+The representative democracy of Liberland serves as an auxiliary mechanism, supplementing the foundational direct democratic process. The central component of this representative system is the Congress, which is re-elected every three months by the full citizenship through the use of their LLM votes. Should a previously active voter abstain in a subsequent election, their last vote is preserved and carried forward to all future elections until a different voting decision is made.
+
+The existence of Congress is founded on two primary objectives:
+
+1. The first responsibility of Congress is the proposal of laws for referendum, akin to the power that resides with the general public. However, unlike proposals from the populace, the proposals made by Congress are not subject to the anti-populist measure. Instead, they invariably require a simple majority to be approved. This distinction is made due to the inherent democratic legitimacy conferred upon Congress, as it is elected by the LLM holders. Additionally, Congress is presumed to have a high level of competence as a dedicated legislative body.
+
+2. The second key function of Congress is to serve as the principal focus for vote delegation. If voters feel that they lack adequate knowledge to comprehend certain issues on which a referendum is conducted, they have the option to voluntarily delegate their vote. Voters are at liberty to place their trust in their representative in Congress or any other citizen, granting them the authority to vote on their behalf in the referendum. This delegation of voting rights is not binding and can be retracted at any time for any reason as per the discretion of the voter.
 ### Vote in Elections
 1. Same as Vote in Referendum, steps 1 to 3
 2. Go to Congress
 3. You see candidates available for you
 4. You can select them in your order of preference (1 to n; n=number of seats).
 5. If candidate 1 doesn't get elected, your vote goes to candidate 2, etc.
+
+
