@@ -76,10 +76,6 @@ Session keys for your node: [long text starting with 0x here]
 
 * If something went wrong and you need to get session keys manually, see [Regenerating session keys](./regenerate_session_keys.md).
 
-```
-curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9933
-```
-
 ### Option 2: using docker
 
 See [Docker guide](../dev/docker.md).
