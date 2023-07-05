@@ -86,5 +86,8 @@ The existence of Congress is founded on two primary objectives:
 6. A popup appears
 7. Fill in delegated and delegating accounts (delegating account: usually you; delegated account: usually your member of congress)
 8. Fill in how many LLM you delegate
-9. Ignore 
- 
+9. Ignore the part of the form talking about Conviction, this is not implemented on our chain.
+10. Sign the transaction.
+
+### Undelegate
+(to be added)
