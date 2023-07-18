@@ -88,7 +88,7 @@ The magnitude of the collateral depends on the mutual agreement between the part
 ### Insurance
 Although the previously mentioned mechanisms are in place, managing cases without collaterals remains an undesirable situation for both parties and the judge. We foresee and encourage the emergence of an insurance system. This echoes many real-world attorney insurance cases, such as the Dutch "rechtsbijstand". The insurance guarantees collateral coverage, typically through a smart contract, thereby triggering automatically at the commencement of a court case. The contract is expected to be escrow-based, potentially covered by the judiciary in the rare event of a dispute.
 
-One can procure insurance either as a defendant or on a per-contract or per-situation basis. Contracts or individuals with collaterals in this manner would receive an advantage if they choose to disclose their insurance policy. Disclosure becomes inevitable in certain on-chain cases, for instance, when one's identity as a citizen is revealed for political purposes.
+One can procure insurance either as a defendant on a personal basis; or on a per-contract or per-situation basis, e.g. for a larger, or ongoing deal. Contracts or individuals with collaterals in this manner would receive an advantage if they choose to disclose their insurance policy. Disclosure becomes inevitable in certain on-chain cases, for instance, when one's identity as a citizen is revealed for political purposes.
 
 These insurance providers will be entirely private entities, unaffiliated with the government. Nevertheless, we aim to establish a conducive environment for these providers, such that they only require their business prowess and basic programming skills to operate.
 
