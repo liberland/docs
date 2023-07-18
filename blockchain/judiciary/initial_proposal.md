@@ -70,23 +70,46 @@ The system features:
 - **Judge**: A professional vetted by Liberland (or other users) representing the system's centralized element. The on-chain list of active judges includes their fees, case histories, and success-to-failure ratios.
 - (possibly)**Jury**: Users who vote on the merit of arguments, representing the system's decentralized element.
 
-## Impact and Tokenomics
+## Impact
+The solution we propose introduces a hybrid entity, central yet decentralized, capable of interpreting intent behind actions within the blockchain. Empowered to regulate transactions by reversing or counteracting them, this entity exercises authority particularly in situations where malicious or bad faith intentions are identified. By introducing a virtual judiciary, any questionable actions can be evaluated and, if necessary, nullified.
 
-### Impact
-With our solution, we're introducing a centralized-decentralized entity capable of determining the intentions behind actions. This entity will have the power to overturn transactions by reversing them or creating opposing transactions. In situations involving malicious or bad faith intentions, the judiciary will evaluate and, if necessary, counteract such actions.
+This architecture enhances the breadth of on-chain business activity, facilitating enforcement of traditional contract agreements and enabling partial algorithmic execution. In effect, this approach instills confidence that transactions, whether off-chain or on-chain, offline or online, will be enforced. Additionally, it offers an authoritative entity to resolve any disputes arising from the obligations agreed upon by the parties involved.
 
-This system allows a much wider array of business to occur on-chain since business relations governed by traditional (not smart) contracts can be enforceable and made partially algorithmic. People will be secure in that on-chain systems will ensure they get paid for their (offline or online, off-chain or on-chain) work, and there will be an authority to resolve disputes over the obligations agreed between the parties.
+## Jurisdiction
+Agreement to use the judiciary for dispute resolution forms a crucial part of our protocol. This agreement may encompass all relationships or be contract-specific. Parties may nominate the judiciary itself or a particular judge. The judicial system can also function as an oracle, triggering certain contractual clauses or facilitating escrow execution. However, the application of the judiciary is contingent on mutual consent of the involved parties.
 
-## Functionality: Dispute Resolution
+A key note to consider: All citizens of Liberland, by virtue of their citizenship, agree to the jurisdiction of the Liberland judiciary as their default court, particularly in disputes involving fellow citizens.
 
-### Jurisdiction
-<i>Parties agree on resolving their disputes using the judiciary. They may do so for all their relationships or per contract. They may indicate the judiciary itself or a specific judge.
-The court can also be set up as an oracle to trigger certain clauses of the contract or to cause execution in ways of escrow. Be that as may, the judiciary can only be used when there is a consensual agreement of the parties for the judiciary to be applicable.
+## Simple Process
+### Outline
+The Simple process is employed when all parties involved reach a consensus on the selection of a judge or panel of judges to preside over their case. The selection can be explicit (naming a specific judge) or implicit ("we agree to let the system decide"). The system provides parameters (such as cost, experience level, etc.) for judge selection, with the stipulation that parties are bound by their agreement to accept the system's random selection within the agreed upon parameters.
 
-Note: all citizens of Liberland, by the virtue of citizenship, agree to the Liberland judiciary as their general court, especially in disputes with other Citizens of Liberland</i>
+The Simple process is designed to be:
 
-### Simple vs. Complex Process
-<i>Simple</i> 
+- Quick, and
+
+- More economical than the contested process.
+
+The intent is to ensure expedient and cost-effective resolution, contrasting with contemporary systems where years can elapse before disputes are resolved. In Liberland, minor disputes could potentially be adjudicated within a day or a few days through the Simple process, and at a significantly reduced cost.
+
+### Mediation
+The appointed judge endeavors to segment the case into manageable portions, drafting a mediation solution for each. This proposed solution is then presented to the involved parties. If an agreement is reached, the process concludes without litigation, and the judge is remunerated a flat fee, which is lower than the litigation tariff.
+
+### Litigation
+In instances where a mutual agreement is not achieved, the judge drafts a mediation solution and presents it to the involved parties. If an agreement is reached, -> the litigation process is averted, 
+-> with the judge remunerated a flat fee that is lower than the tariff payable when Complex Process is used.
+
+## Complex Process
+### Outline
+The Complex Process acts as a fallback mechanism when the parties cannot concur on the choice of a judge or other terms. A mutual agreement on jurisdiction must be established for any process to occur, but there may exist a level of distrust that prevents a jointly accepted judge. In such circumstances, the system adapts to assign three judges:
+
+- The attorney representing the applicant,
+
+- The attorney representing the respondent, and
+
+- An arbitrator, jointly selected by the two attorneys.
+
+This system, although more involved, remains streamlined for efficiency and cost-effectiveness, maintaining the balance between swiftness and the demands of judicature. The Complex Process is designed to handle intricate issues requiring detailed attention and processual protections for the parties involved. Ultimately, the criminal process of Liberland will adopt the framework of the Complex Process.
 
 ### Mediation
 1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law).
