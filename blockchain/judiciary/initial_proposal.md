@@ -75,6 +75,8 @@ The system features:
 ### Impact
 With our solution, we're introducing a centralized-decentralized entity capable of determining the intentions behind actions. This entity will have the power to overturn transactions by reversing them or creating opposing transactions. In situations involving malicious or bad faith intentions, the judiciary will evaluate and, if necessary, counteract such actions.
 
+This system allows a much wider array of business to occur on-chain since business relations governed by traditional (not smart) contracts can be enforceable and made partially algorithmic. People will be secure in that on-chain systems will ensure they get paid for their (offline or online, off-chain or on-chain) work, and there will be an authority to resolve disputes over the obligations agreed between the parties.
+
 ## Functionality: Dispute Resolution
 
 ### Mediation
@@ -105,15 +107,15 @@ If a party wishes to obtain the Court's opinion on a particular legal, technical
 - **Simple Advisory Opinion**: This is a yes/no binary question. The party formulates the question, provides reasoning, pays a fee, and presents the question to the Judge. They then wait for the Judge's decision and can either accept or reject it. If they reject it, they can pay an additional fee to re-run the game up to three times to view the opinions of three different Juries.
 - **Complex Advisory Opinion**: The party pays a higher fee, formulates a complex question, and chooses a Judge. The Judge then formulates the Opinion on the points of the question. The party waits for the Judge's decision and, similar to a Simple Advisory Opinion, they can accept or reject it, paying an additional fee to re-run the game up to three times if they choose to reject it.
 
-## Functionality: Dumb Contracts
+## Functionality: Traditional Contracts
 
 ### Overview
 Most contractual relationships in the world aren't currently simple and predictable enough to be run on smart contracts. This is likely to remain so even in the age of AI, at least for a decade or so. In the meantime, dumb contracts, that is, traditional contracts, are what runs the world of business and your everyday life. What is a dumb contract? It is an agreement you make with another human being. It is also a smart contract, in a way, but it runs on the hardware and the OS of your brain. 
 
-### Dumb contracts and the blockchain
-What use has the blockchain for a dumb contract? Why - execution of course! And enforcement. At the end of a dumb contract of arbitrary complexity and sophistication are the actions which are its bottom line. In civil and business law, this is often something denominated in money. Imagine living in a world where you wouldn't have any uncertainty as to whether your counterparty will pay you.
+### Traditional contracts and the blockchain
+What use has the blockchain for a dumb contract? Why - execution, of course! And enforcement. At the end of a dumb contract of arbitrary complexity and sophistication are the actions which are its bottom line. In civil and business law, this is often something denominated in money. Imagine living in a world where you wouldn't have any uncertainty as to whether your counterparty will pay you.
 
-## Applications and Extensions
+### Applications and Extensions
 Beyond dispute resolution and advisory opinions, we plan to extend the use of this system to other areas, such as Administrative Decisions on-chain.
 
 For example, the process of granting or denying citizenship could be complemented with our decentralized system. The Ministry of Internal Affairs, Citizenship Agency would work with the Citizen applicant through steps such as proof of commitment (locked stake), KYC, and Citizenship Interview. 
@@ -122,7 +124,7 @@ Afterward, they would create a brief report on the results and a more detailed r
 
 This is not an exhaustive list of potential applications for our system. We encourage other builders to explore further expansions.
 
-## Decentralized Registers
+### Decentralized Registers
 Along with the previous system, we can also decentralize our property register operations. The relevant Ministry would create an entry and add background information, which is generally straightforward or automated. 
 
 The Judge then makes a final Confirmation or Rejection. These decisions will mostly be affirmations. Hence they are considered low-stakes/low gains games.
