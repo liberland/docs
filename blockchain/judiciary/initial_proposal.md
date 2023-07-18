@@ -79,6 +79,10 @@ Agreement to use the judiciary for dispute resolution forms a crucial part of ou
 
 A key note to consider: All citizens of Liberland, by virtue of their citizenship, agree to the jurisdiction of the Liberland judiciary as their default court, particularly in disputes involving fellow citizens.
 
+## Court Costs
+### Collateral
+<i>The Collateral represents the money on chain which goes to the persons helping the parties adjudicating the process: as we will see, those are the judges and the jury if that is employed. What will the Court Costs be shall be determined by the Judge or the Judges, and is contingent on the agreement between the parties on the judge, in one way or another. The Collateral can be staked into the contract, traditional or smart (see bellow), or can be enforced along with the award itself. The former is the ideal situation, the latter the situation that is often bound to take place.</i>
+
 ## Simple Process
 ### Outline
 The Simple process is employed when all parties involved reach a consensus on the selection of a judge or panel of judges to preside over their case. The selection can be explicit (naming a specific judge) or implicit ("we agree to let the system decide"). The system provides parameters (such as cost, experience level, etc.) for judge selection, with the stipulation that parties are bound by their agreement to accept the system's random selection within the agreed upon parameters.
@@ -126,10 +130,14 @@ This system, although more involved, remains streamlined for efficiency and cost
 3. (optional) The Jury reviews the Verdict and can Accept or Overturn each point, operating based on the Schelling Point system (rewarding majority-aligned votes).
 4. If the Parties accept, the judgment is executed. If a Party rejects, the Party pays the appeals fee, and an appeal process commences.
 
-### Appeal
-1. An Appeal Judge is chosen by the algorithm.
-2. The Appeals Judge reviews the points of appeal and creates an Appeal Verdict.
-3. (optional) The Jury votes on the Appeal Verdict, either Adopting or Overturning it.
+## Appeal
+### Outline
+An appeal can ensue after either the Simple Process or the Complex Process. It is initiated upon the request of a party, presenting costs to the petitioner and imposing time constraints, namely the period until adjudication, upon the other party. Additionally, the assurance of the first instance's final verdict is jeopardized. Parties may agree in advance to forgo the appeal process, rendering the first instance judgment as the final verdict, anticipated to be prevalent primarily with the Simple Process.
+
+### Steps of an Appeal
+1. An Appeal Judge is appointed by the algorithm.
+2. The Appeal Judge examines the appeal points and formulates an Appeal Verdict.
+3. (Optional) A Jury deliberates on the Appeal Verdict, deciding to either adopt or overturn it.
 4. The final Verdict is executed on the Collateral and the Pooled LLM.
 
 ## Functionality: Advisory Opinion
