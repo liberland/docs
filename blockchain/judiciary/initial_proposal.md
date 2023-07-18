@@ -19,6 +19,7 @@ To get a clear perspective of this issue, we draw a parallel between blockchain 
 
 ### Centralized Communication Systems (CCSs)
 CCSs, which include payment systems (banks), social networks, and online governmental operations, operate on principles of Intentionality and Justice - the cornerstone of their operational philosophy.
+
 #### Intentionality 
 CCSs operate under the assumption that the real intention of a user is the rightful command to be executed in the system. The intent is to mirror the natural world's experiences and actions as closely as possible within the digital space.
 
@@ -35,6 +36,8 @@ This principle reflects the system’s ability to distinguish between malicious 
 Blockchain systems, tracing their roots back to Bitcoin (BTC), are characterized by the fundamental principle of irreversibility. In this unforgiving environment, a transaction, once executed, cannot be reversed. Intentions are secondary; only the executed action is acknowledged and accepted as valid user input.
 
 This stringent level of responsibility, however, is not palatable to most individuals. The prevailing practice of third-party organizations matching addresses to human identities is a makeshift solution, an external "patchwork" that contradicts the blockchain's core philosophy. One error can have severe ramifications, potentially causing the loss of millions and wreaking havoc on livelihoods without any recourse within the system.
+
+Please note that we recognize the great benefits of irreversibility; we keep it as the general policy. In certain cases, however, in the context of running a country and public services on the blockchain, it might be constructive to compromise on irreversibility where there is the consent of all parties.
 
 #### Absence of Authority
 The current crypto sphere, rife with scams and deceitful actors, offers minimal protection against these malevolent forces. Recourse against hackers, fraudsters, and unscrupulous service providers primarily occurs outside the system, relying on state judiciaries and other external mechanisms.
