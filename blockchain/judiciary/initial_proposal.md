@@ -79,6 +79,15 @@ This system allows a much wider array of business to occur on-chain since busine
 
 ## Functionality: Dispute Resolution
 
+### Jurisdiction
+<i>Parties agree on resolving their disputes using the judiciary. They may do so for all their relationships or per contract. They may indicate the judiciary itself or a specific judge.
+The court can also be set up as an oracle to trigger certain clauses of the contract or to cause execution in ways of escrow. Be that as may, the judiciary can only be used when there is a consensual agreement of the parties for the judiciary to be applicable.
+
+Note: all citizens of Liberland, by the virtue of citizenship, agree to the Liberland judiciary as their general court, especially in disputes with other Citizens of Liberland</i>
+
+### Simple vs. Complex Process
+<i>Simple</i> 
+
 ### Mediation
 1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law).
 2. Party A selects a judge (Attorney A) from the available roster, agrees to their terms, and pays collateral plus a transaction fee.
