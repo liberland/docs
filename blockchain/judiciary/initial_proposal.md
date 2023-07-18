@@ -155,6 +155,23 @@ If a party wishes to obtain the Court's opinion on a particular legal, technical
 - **Simple Advisory Opinion**: This is a yes/no binary question. The party formulates the question, provides reasoning, pays a fee, and presents the question to the Judge. They then wait for the Judge's decision and can either accept or reject it. If they reject it, they can pay an additional fee to re-run the game up to three times to view the opinions of three different Juries.
 - **Complex Advisory Opinion**: The party pays a higher fee, formulates a complex question, and chooses a Judge. The Judge then formulates the Opinion on the points of the question. The party waits for the Judge's decision and, similar to a Simple Advisory Opinion, they can accept or reject it, paying an additional fee to re-run the game up to three times if they choose to reject it.
 
+## Enactment of Awards
+### The Optimal Circumstance
+A contract or a case is collateralized such that the collateral is sufficient to cover any additional payments prescribed in the final verdict, beyond the awarded sum and the Court Costs. In this scenario, the collateral serves as a mechanism for execution of the judgement.
+
+### Case with Insufficient Collateral 
+#### Seizing LLM
+The judge is imbued with the authority to designate an individual's LLM as collateral. Upon such a declaration, an involuntary unpooling of the owing party's LLM stash will ensue, carrying typical ramifications like the forfeit of voting rights associated with that stash. If the full amount is subsequently paid, this directive is withdrawn. However, under circumstances where 
+
+1) there is a violation of the Non Aggression Principle, implicating aggressive conduct against another individual's person or property, or 
+
+2) the damage incurred exceeds one's LLM stash, 
+
+the offender's LLM balance could turn negative, resulting in their listing on Liberland's 'wanted' roster, rendering them a 'persona non grata'. Consequently, they lose their voting rights until the owed amount is fully settled.
+
+#### Enforcement Beyond the Chain
+In instances where the judgement cannot be enforced by either of the aforementioned methods, the awarded sum will be incorporated into a conventional contract, or appended as a supplement if the dispute is contract-related. This contract, endorsed by both parties, holds legitimacy outside of Liberland, akin to any other contract. It can be presented to an enforcement agency for execution, even against the unwilling party's resistance.
+
 ## Functionality: Traditional Contracts
 
 ### Overview
