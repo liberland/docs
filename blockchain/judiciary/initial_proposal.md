@@ -52,8 +52,7 @@ Current blockchain judiciary solutions suffer from their highly specialized natu
 Relying on complex mathematical algorithms and game theory might be sound in principle, but these concepts are foreign to most individuals. People tend to trust the judgement of "experts" in legal matters rather than abstract mathematical models. Recognizing this gap, we aim to devise a novel solution that bridges the divide.
 
 ## Our Solution: An On-Chain Judiciary System
-
-### Goals
+### Outline
 Our solution is designed to:
 - Develop an on-chain system capable of acting on behalf of a party without their explicit permission.
 - Implement a body of norms or laws to regulate the system's operations, thereby eliminating arbitrary decisions and enhancing trust.
