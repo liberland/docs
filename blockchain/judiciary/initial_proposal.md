@@ -81,7 +81,16 @@ A key note to consider: All citizens of Liberland, by virtue of their citizenshi
 
 ## Court Costs
 ### Collateral
-<i>The Collateral represents the money on chain which goes to the persons helping the parties adjudicating the process: as we will see, those are the judges and the jury if that is employed. What will the Court Costs be shall be determined by the Judge or the Judges, and is contingent on the agreement between the parties on the judge, in one way or another. The Collateral can be staked into the contract, traditional or smart (see bellow), or can be enforced along with the award itself. The former is the ideal situation, the latter the situation that is often bound to take place.</i>
+The collateral signifies the on-chain funds allocated to individuals assisting in the adjudication process: the judges and, if utilized, the jury. The court costs, as well as any dues to the victorious party—such as the awarded amount—are to be defined by the judge or judges.
+
+The magnitude of the collateral depends on the mutual agreement between the parties regarding the judge. The collateral can be staked into the contract originating the dispute, be it a contract traditional or smart (refer to the following section), or it can be enforced alongside the award itself. The former scenario is ideal, while the latter is often the practical occurrence. For these instances, mechanisms will be installed to guarantee that the judge and the prevailing party are compensated. These mechanisms will be further explored in the Enforcement section.
+
+### Insurance
+Although the previously mentioned mechanisms are in place, managing cases without collaterals remains an undesirable situation for both parties and the judge. We foresee and encourage the emergence of an insurance system. This echoes many real-world attorney insurance cases, such as the Dutch "rechtsbijstand". The insurance guarantees collateral coverage, typically through a smart contract, thereby triggering automatically at the commencement of a court case. The contract is expected to be escrow-based, potentially covered by the judiciary in the rare event of a dispute.
+
+One can procure insurance either as a defendant or on a per-contract or per-situation basis. Contracts or individuals with collaterals in this manner would receive an advantage if they choose to disclose their insurance policy. Disclosure becomes inevitable in certain on-chain cases, for instance, when one's identity as a citizen is revealed for political purposes.
+
+These insurance providers will be entirely private entities, unaffiliated with the government. Nevertheless, we aim to establish a conducive environment for these providers, such that they only require their business prowess and basic programming skills to operate.
 
 ## Simple Process
 ### Outline
