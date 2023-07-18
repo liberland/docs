@@ -68,19 +68,12 @@ The system features:
 - **Party A**: The applicant, the party submitting an application to the court.
 - **Party B**: The defendant, the party being mentioned in the application to the court, usually as an opponent to the claim or to a part of the claim.
 - **Judge**: A professional vetted by Liberland (or other users) representing the system's centralized element. The on-chain list of active judges includes their fees, case histories, and success-to-failure ratios.
-- **Jury**: Cryptographically anonymized users who vote on the merit of arguments based on game theory, aiming to align with the majority vote (Schelling point), representing the system's decentralized element.
+- (possibly)**Jury**: Users who vote on the merit of arguments, representing the system's decentralized element.
 
 ## Impact and Tokenomics
 
 ### Impact
 With our solution, we're introducing a centralized-decentralized entity capable of determining the intentions behind actions. This entity will have the power to overturn transactions by reversing them or creating opposing transactions. In situations involving malicious or bad faith intentions, the judiciary will evaluate and, if necessary, counteract such actions.
-
-### Tokenomics
-Our Judges will be professionals whose fees are determined by the Collateral - the loser pays. In cases divided into several Claims, the loser of each claim pays.
-
-For those wishing to participate in a Jury, they can convert their LLD and liquid LLM into LJT (Liberland Jury Tokens). Jurors will "bet" JT based on the Focal Point game, with majority voters receiving the bets of the losing minority, distributed proportionately.
-
-JTs will be locked and can only be converted back into LLD / LLM on the 15th of each month (the Ides). Users must designate prior to the Ides which of their JT they wish to transfer.
 
 ## Functionality: Dispute Resolution
 
@@ -97,20 +90,20 @@ JTs will be locked and can only be converted back into LLD / LLM on the 15th of 
 ### Litigation
 1. Attorneys mutually select a third Judge (the Arbitrator).
 2. The Arbitrator delivers a Judgement, analyzing the Application and Response according to Liberland law, resulting in statements of "Party X pays to Party Y," backed by a rationale.
-3. The Jury reviews the Verdict and can Accept or Overturn each point, operating based on the Schelling Point system (rewarding majority-aligned votes).
+3. (optional) The Jury reviews the Verdict and can Accept or Overturn each point, operating based on the Schelling Point system (rewarding majority-aligned votes).
 4. If the Parties accept, the judgment is executed. If a Party rejects, the Party pays the appeals fee, and an appeal process commences.
 
 ### Appeal
 1. An Appeal Judge is chosen by the algorithm.
 2. The Appeals Judge reviews the points of appeal and creates an Appeal Verdict.
-3. The Jury votes on the Appeal Verdict, either Adopting or Overturning it.
+3. (optional) The Jury votes on the Appeal Verdict, either Adopting or Overturning it.
 4. The final Verdict is executed on the Collateral and the Pooled LLM.
 
 ## Functionality: Advisory Opinion
 If a party wishes to obtain the Court's opinion on a particular legal, technical or factual matter, even in the absence of a dispute, the system will offer two types of Advisory Opinions:
 
-- **Simple Advisory Opinion**: This is a yes/no binary question. The party formulates the question, provides reasoning, pays a fee, and presents the question to the Jury. They then wait for the Jury's decision and can either accept or reject it. If they reject it, they can pay an additional fee to re-run the game up to three times to view the opinions of three different Juries.
-- **Complex Advisory Opinion**: The party pays a higher fee, formulates a complex question, and chooses a Judge. The Judge then formulates the Opinion on the points of the question. The party waits for the Jury's decision and, similar to a Simple Advisory Opinion, they can accept or reject it, paying an additional fee to re-run the game up to three times if they choose to reject it.
+- **Simple Advisory Opinion**: This is a yes/no binary question. The party formulates the question, provides reasoning, pays a fee, and presents the question to the Judge. They then wait for the Judge's decision and can either accept or reject it. If they reject it, they can pay an additional fee to re-run the game up to three times to view the opinions of three different Juries.
+- **Complex Advisory Opinion**: The party pays a higher fee, formulates a complex question, and chooses a Judge. The Judge then formulates the Opinion on the points of the question. The party waits for the Judge's decision and, similar to a Simple Advisory Opinion, they can accept or reject it, paying an additional fee to re-run the game up to three times if they choose to reject it.
 
 ## Functionality: Dumb Contracts
 
@@ -132,7 +125,7 @@ This is not an exhaustive list of potential applications for our system. We enco
 ## Decentralized Registers
 Along with the previous system, we can also decentralize our property register operations. The relevant Ministry would create an entry and add background information, which is generally straightforward or automated. 
 
-The Jury then makes a final Confirmation or Rejection. These decisions will mostly be affirmations. Hence they are considered low-stakes/low gains games.
+The Judge then makes a final Confirmation or Rejection. These decisions will mostly be affirmations. Hence they are considered low-stakes/low gains games.
 
 To make these games more engaging, we could utilize the Complex Advisory Opinion and establish a group of on-chain Registrars who operate the Registry instead of the Ministry. These Registrars could even propose different opinions on what to inscribe, making the games about these matters more interesting.
 
