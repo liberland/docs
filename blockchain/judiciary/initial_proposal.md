@@ -67,7 +67,6 @@ The system features:
 - **Party A**: The applicant, the party submitting an application to the court.
 - **Party B**: The defendant, the party being mentioned in the application to the court, usually as an opponent to the claim or to a part of the claim.
 - **Judge**: A professional vetted by Liberland (or other users) representing the system's centralized element. The on-chain list of active judges includes their fees, case histories, and success-to-failure ratios.
-- (possibly)**Jury**: Users who vote on the merit of arguments, representing the system's decentralized element.
 
 ## Impact
 The solution we propose introduces a hybrid entity, central yet decentralized, capable of interpreting intent behind actions within the blockchain. Empowered to regulate transactions by reversing or counteracting them, this entity exercises authority particularly in situations where malicious or bad faith intentions are identified. By introducing a virtual judiciary, any questionable actions can be evaluated and, if necessary, nullified.
@@ -81,7 +80,7 @@ A key note to consider: All citizens of Liberland, by virtue of their citizenshi
 
 ## Court Costs
 ### Collateral
-The collateral signifies the on-chain funds allocated to individuals assisting in the adjudication process: the judges and, if utilized, the jury. The court costs, as well as any dues to the victorious party—such as the awarded amount—are to be defined by the judge or judges.
+The collateral signifies the on-chain funds allocated to individuals assisting in the adjudication process: the judges. The court costs, as well as any dues to the victorious party—such as the awarded amount—are to be defined by the judge or judges.
 
 The magnitude of the collateral depends on the mutual agreement between the parties regarding the judge. The collateral can be staked into the contract originating the dispute, be it a contract traditional or smart (refer to the following section), or it can be enforced alongside the award itself. The former scenario is ideal, while the latter is often the practical occurrence. For these instances, mechanisms will be installed to guarantee that the judge and the prevailing party are compensated. These mechanisms will be further explored in the Enforcement section.
 
@@ -136,8 +135,7 @@ This system, although more involved, remains streamlined for efficiency and cost
 ### Litigation
 1. Attorneys mutually select a third Judge (the Arbitrator).
 2. The Arbitrator delivers a Judgement, analyzing the Application and Response according to Liberland law, resulting in statements of "Party X pays to Party Y," backed by a rationale.
-3. (optional) The Jury reviews the Verdict and can Accept or Overturn each point, operating based on the Schelling Point system (rewarding majority-aligned votes).
-4. If the Parties accept, the judgment is executed. If a Party rejects, the Party pays the appeals fee, and an appeal process commences.
+3. If the Parties accept, the judgment is executed. If a Party rejects, the Party pays the appeals fee, and an appeal process commences.
 
 ## Appeal
 ### Outline
@@ -146,8 +144,7 @@ An appeal can ensue after either the Simple Process or the Complex Process. It i
 ### Steps of an Appeal
 1. An Appeal Judge is appointed by the algorithm.
 2. The Appeal Judge examines the appeal points and formulates an Appeal Verdict.
-3. (Optional) A Jury deliberates on the Appeal Verdict, deciding to either adopt or overturn it.
-4. The final Verdict is executed on the Collateral and the Pooled LLM.
+3. The final Verdict is executed on the Collateral and the Pooled LLM.
 
 ## Functionality: Advisory Opinion
 If a party wishes to obtain the Court's opinion on a particular legal, technical or factual matter, even in the absence of a dispute, the system will offer two types of Advisory Opinions:
@@ -185,7 +182,7 @@ Beyond dispute resolution and advisory opinions, we plan to extend the use of th
 
 For example, the process of granting or denying citizenship could be complemented with our decentralized system. The Ministry of Internal Affairs, Citizenship Agency would work with the Citizen applicant through steps such as proof of commitment (locked stake), KYC, and Citizenship Interview. 
 
-Afterward, they would create a brief report on the results and a more detailed report on the applicant's background. The Jury would then Confirm or Reject the applicant. A Confirmed applicant becomes a Citizen, while a Rejected one must wait one year before re-applying. 
+Afterward, they would create a brief report on the results and a more detailed report on the applicant's background. The Judge would then Confirm or Reject the applicant. A Confirmed applicant becomes a Citizen, while a Rejected one must wait one year before re-applying. 
 
 This is not an exhaustive list of potential applications for our system. We encourage other builders to explore further expansions.
 
