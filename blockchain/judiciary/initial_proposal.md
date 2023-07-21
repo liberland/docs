@@ -54,7 +54,7 @@ Relying on complex mathematical algorithms and game theory might be sound in pri
 ## Our Solution: An On-Chain Judiciary System
 ### Outline
 Our solution is designed to:
-- Develop an on-chain system capable of acting on behalf of a party without their explicit permission.
+- Develop an on-chain system capable of acting on behalf of a party without their explicit permission in pre-approved ways with mutual consent given in advance.
 - Implement a body of norms or laws to regulate the system's operations, thereby eliminating arbitrary decisions and enhancing trust.
 - Guarantee decentralization and security while ensuring that the system is operated by professionals who uphold the quality of decisions.
 - Retain recognizability by resembling a traditional courtroom rather than a streamlined IT service app.
