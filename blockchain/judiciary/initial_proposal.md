@@ -172,12 +172,22 @@ In instances where the judgement cannot be enforced by either of the aforementio
 ## Functionality: Traditional Contracts
 
 ### Overview
-Most contractual relationships in the world aren't currently simple and predictable enough to be run on smart contracts. This is likely to remain so even in the age of AI, at least for a decade or so. In the meantime, dumb contracts, that is, traditional contracts, are what runs the world of business and your everyday life. What is a dumb contract? It is an agreement you make with another human being. It is also a smart contract, in a way, but it runs on the hardware and the OS of your brain. 
+Most contractual relationships in the world aren't currently simple and predictable enough to be run on smart contracts. This is likely to remain so even in the age of AI, at least for a decade or so. In the meantime, dumb contracts, that is, traditional contracts, are what runs the world of business and your everyday life. What is a dumb contract? It is an agreement you make with another human being. It is also a smart contract, in a way, but it runs on the hardware and the OS of your brain.
 
-### Traditional contracts and the blockchain
-What use has the blockchain for a dumb contract? Why - execution, of course! And enforcement. At the end of a dumb contract of arbitrary complexity and sophistication are the actions which are its bottom line. In civil and business law, this is often something denominated in money. Imagine living in a world where you wouldn't have any uncertainty as to whether your counterparty will pay you.
+How will it work? Alice and Bob enter into a traditional contract for the sale of goods. They agree to use the Liberland Blockchain Judiciary system for any potential disputes. They choose a judge from the roster and agree on the collateral and fees. The contract is then recorded on the blockchain. Why should someone want to do this?
 
-### Applications and Extensions
+### Benefits:
+**Efficiency and Speed:** The Liberland Blockchain Judiciary system offers a Simple Process for dispute resolution. If a dispute arises, Alice or Bob can trigger the judge to give a binding opinion. This process is designed to be quick and more economical than traditional legal systems, potentially resolving disputes within a few days.
+
+**Cost-Effectiveness:** The system is designed to be more economical than traditional legal systems. The costs are defined upfront and include the judge's fees and any potential award to the victorious party. This transparency and predictability of costs can make the system more attractive to parties entering into a contract.
+
+**Security and Trust:** The system is built on the blockchain, providing a secure and immutable record of the contract and any subsequent dispute resolution proceedings. This can increase trust between the parties and reduce the risk of fraudulent claims.
+
+**Payment Processing:** The blockchain can also be used to process payments related to the contract. This can be particularly useful in cases where the contract involves regular payments or where the amount of payment is dependent on certain conditions being met. The blockchain can automatically process these payments when the conditions are met, reducing the need for manual intervention and the risk of non-payment.
+
+**Smartification of Traditional Contracts:** While the contract itself may be a traditional contract, the use of the blockchain allows for certain aspects of the contract to be automated. For example, payments can be automatically triggered when certain conditions are met. This can make the contract more efficient and reduce the potential for disputes.\
+
+## Applications and Extensions
 Beyond dispute resolution and advisory opinions, we plan to extend the use of this system to other areas, such as Administrative Decisions on-chain.
 
 For example, the process of granting or denying citizenship could be complemented with our decentralized system. The Ministry of Internal Affairs, Citizenship Agency would work with the Citizen applicant through steps such as proof of commitment (locked stake), KYC, and Citizenship Interview. 
@@ -186,7 +196,7 @@ Afterward, they would create a brief report on the results and a more detailed r
 
 This is not an exhaustive list of potential applications for our system. We encourage other builders to explore further expansions.
 
-### Decentralized Registers
+## Decentralized Registers
 Along with the previous system, we can also decentralize our property register operations. The relevant Ministry would create an entry and add background information, which is generally straightforward or automated. 
 
 The Judge then makes a final Confirmation or Rejection. These decisions will mostly be affirmations. Hence they are considered low-stakes/low gains games.
