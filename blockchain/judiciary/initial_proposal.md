@@ -55,6 +55,7 @@ Relying on complex mathematical algorithms and game theory might be sound in pri
 ### Outline
 Our solution is designed to:
 - Develop an on-chain system capable of acting on behalf of a party without their explicit permission in pre-approved ways with mutual consent given in advance.
+- Facilitate the integration of a 'court as a smart contract oracle', thereby enabling the execution of traditional, verbose contracts on-chain. This system allows for the imposition of sanctions as dictated by the applicable law and the contract itself in the event of a dispute.
 - Implement a body of norms or laws to regulate the system's operations, thereby eliminating arbitrary decisions and enhancing trust.
 - Guarantee decentralization and security while ensuring that the system is operated by professionals who uphold the quality of decisions.
 - Retain recognizability by resembling a traditional courtroom rather than a streamlined IT service app.
@@ -67,6 +68,7 @@ The system features:
 - **Party A**: The applicant, the party submitting an application to the court.
 - **Party B**: The defendant, the party being mentioned in the application to the court, usually as an opponent to the claim or to a part of the claim.
 - **Judge**: A professional vetted by Liberland (or other users) representing the system's centralized element. The on-chain list of active judges includes their fees, case histories, and success-to-failure ratios.
+- (Optional) **Jury**: This refers to a group of individuals, either operating off-chain or on-chain, who may be called upon to validate the verdict issued by the Judge. In instances of delict or tort, the Jury may be responsible for delivering the verdict of guilty or not guilty. The establishment of a Jury can be stipulated in a smart contract or a traditional contract between the involved parties. Additionally, third-party services may be utilized to assemble the Jury."
 
 ## Impact
 The solution we propose introduces a hybrid entity, central yet decentralized, capable of interpreting intent behind actions within the blockchain. Empowered to regulate transactions by reversing or counteracting them, this entity exercises authority particularly in situations where malicious or bad faith intentions are identified. By introducing a virtual judiciary, any questionable actions can be evaluated and, if necessary, nullified.
