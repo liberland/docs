@@ -187,7 +187,7 @@ How will it work? Alice and Bob enter into a traditional contract for the sale o
 
 **Smartification of Traditional Contracts:** While the contract itself may be a traditional contract, the use of the blockchain allows for certain aspects of the contract to be automated. For example, payments can be automatically triggered when certain conditions are met. This can make the contract more efficient and reduce the potential for disputes.\
 
-## Applications and Extensions
+## Functionality: Advisory Option in State Administration
 Beyond dispute resolution and advisory opinions, we plan to extend the use of this system to other areas, such as Administrative Decisions on-chain.
 
 For example, the process of granting or denying citizenship could be complemented with our decentralized system. The Ministry of Internal Affairs, Citizenship Agency would work with the Citizen applicant through steps such as proof of commitment (locked stake), KYC, and Citizenship Interview. 
@@ -196,7 +196,7 @@ Afterward, they would create a brief report on the results and a more detailed r
 
 This is not an exhaustive list of potential applications for our system. We encourage other builders to explore further expansions.
 
-## Decentralized Registers
+## Functionality: Decentralized Registers
 Along with the previous system, we can also decentralize our property register operations. The relevant Ministry would create an entry and add background information, which is generally straightforward or automated. 
 
 The Judge then makes a final Confirmation or Rejection. These decisions will mostly be affirmations. Hence they are considered low-stakes/low gains games.
