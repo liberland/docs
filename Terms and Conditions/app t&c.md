@@ -2,7 +2,7 @@
 ## Section 1: Access to Platform
 
 ### Article 1: Provider of Services
-These Terms and Conditions govern the access or use by you, an individual, of the Provider's platform, applications, websites, content, products, and services, henceforth "the Services" made available by Liberland Limited, a private limited liability company established in Hong Kong, having its registered office at 14/F, Manning House, 38-48 Queen's Road Central, Central, Hong Kong, registration number 64816138-000-05-20-5, henceforth, "the Provider". 
+These Terms and Conditions govern the access or use by you, an individual, of the Provider's platform, applications, websites, content, products, and services, henceforth "the Services" made available by Liberland Limited, a private limited liability company established in Hong Kong, having its registered office at 3/F, Chinachem Tower, 34-37 Connaught Road Central, Hong Kong, registration number 64816138-000-05-20-5, henceforth, "the Provider". 
 
 ### Article 2: Access to Services
 
@@ -30,11 +30,17 @@ Any rights not expressly granted herein are reserved by the Provider and the Pro
 
 ### Article 6: Restrictions
 You may not: 
+
 a) remove any copyright, trademark or other proprietary notices from any portion of the Services nor repackage them as your work without our prior written and expressed permission;
+
 b) reproduce, modify, prepare derivative works based upon, distribute, license, lease, sell, resell, transfer, publicly display, publicly perform, transmit, stream, broadcast or otherwise exploit the Services without our prior written and expressed permission; 
+
 c) decompile, reverse engineer or disassemble any part of our platform and/or our Services; 
-d) make unauthorized links/mirrors to our platform and/or any part of the Services; any such links or mirrors may only be made with our prior written and expressed permission.
+
+d) make unauthorized links/mirrors to our platform and/or any part of the Services; any such links or mirrors may only be made with our prior written and expressed permission;
+
 e) cause or launch any programs or scripts for scraping, indexing, surveying, or otherwise data mining any portion of the Services or unduly burdening or hindering the operation and/or functionality of any aspect of the Services; or 
+
 f) attempt to gain unauthorized access to our platforms and/or the Services.
 
 ### Article 7: Third Party Services and Content
@@ -93,8 +99,11 @@ In your use of the Services, you will not cause damages to others or be a nuisan
 ### Article 12: User Content
 
 #### § 1: Uploading user content
+
 Wherever you are allowed (or required) by the Provider to upload/submit your content or that of your business or platform, henceforth, “User Content”, and you do so, you represent and warrant that: 
+
 a) you have the full rights and/or license to use, handle with and publish/submit the User Content and 
+
 b) your use, submission or uploading of the User Content does not infringe, misappropriate or violate a third party’s intellectual property or proprietary rights, or rights of publicity or privacy, nor does it, directly or indirectly, violate any Law. 
 
 #### § 2: Mandatory rules of user conduct 
@@ -145,10 +154,15 @@ b) any transaction or relationship between you and any Third Party Provider, eve
 The Provider shall not be liable for the Third Party Services, including but not limited to their delay, failure in performance, lack of quality, difference from how the Third Party Services are provided and advertised, etc. The Provider shall also not be responsible for any breaches of Law by the Third Party Providers, nor shall the Provider be liable for the Third Party Services, their Providers, or their conduct in any way whatsoever.
 
 ### Article 18: Indemnity
+
 You agree to indemnify and hold the Provider and its officers, directors, employees and agents harmless from any and all claims, demands, losses, liabilities, and expenses (including attorneys’ fees) arising out of or in connection with: 
+
 a) your use of the Services or services or goods obtained through your use of the Services; 
+
 b) your breach or violation of any of these Terms; 
+
 c) the Provider’s use of your User Content; or 
+
 d) your violation of the rights of any third party, including Third Party Providers.
 
 ## Section 5: Governing Law, Arbitration
