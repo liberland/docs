@@ -76,9 +76,7 @@ b) Your use, submission, or uploading of the User Content does not infringe upon
 2) The Provider negates all representations and warranties, be they express, implied, or statutory, which are not explicitly laid out in these Terms, including but not limited to implied warranties of merchantability, fitness for a specific purpose, and non-infringement. 
 
 ### Article 11: Limitation of Liability
-
-#### § 1: Absence of Provider Liability for Damages
-1) The Provider shall not be held liable for indirect, incidental, special, exemplary, punitive, or consequential damages, which include but are not limited to lost profits, lost data, personal injury, or property damage associated with, connected to, or otherwise resulting from any use of the Services, even if the Provider has been advised of the potential for such damages. 
+The Provider shall not be held liable for indirect, incidental, special, exemplary, punitive, or consequential damages, which include but are not limited to lost profits, lost data, personal injury, or property damage associated with, connected to, or otherwise resulting from any use of the Services, even if the Provider has been advised of the potential for such damages. 
 
 ### Article 12: Indemnity
 You agree to indemnify and hold harmless the Provider, its officers, directors, employees, and agents from any and all claims, demands, losses, liabilities, and expenses (including attorney’s fees), arising out of or in connection with:
@@ -102,13 +100,11 @@ The user acknowledges that the Provider is not responsible for their conduct as 
 ## Section 5: Governing Law, Arbitration
 
 ### Article 17: Choice of Law
-1) These Terms and Conditions shall be governed by and construed exclusively in accordance with the laws of [Your Country].
-2) Any dispute arising out of or broadly connected to or relating to the Services or these Terms shall be
-
- initially submitted to mandatory mediation under the Law of [Your Country].
+1) These Terms and Conditions shall be governed by and construed exclusively in accordance with the laws of Liberland.
+2) Any dispute arising out of or broadly connected to or relating to the Services or these Terms shall be initially submitted to mandatory mediation under the Law of Liberland.
 
 ### Article 18: Compulsory Arbitration
-1) Should such a dispute not be resolved within sixty (60) days after a mediation request has been submitted, said dispute may be referred to arbitration in [Your Country]. There shall be three (3) arbitrators, one selected by each party, and a third appointed by the two chosen arbitrators, being the legal professional most suited to resolve the issue.
+1) Should such a dispute not be resolved within sixty (60) days after a mediation request has been submitted, said dispute may be referred to arbitration in Liberland. There shall be three (3) arbitrators, one selected by each party, and a third appointed by the two chosen arbitrators, being the legal professional most suited to resolve the issue.
 2) The language of the arbitration shall be English. The location shall be mutually convenient, and the arbitration shall be conducted without undue delay.
 3) The Arbitration Award shall be final and binding, with no avenue for appeal, and no Party shall seek recourse to any national dispute resolution system.
 
