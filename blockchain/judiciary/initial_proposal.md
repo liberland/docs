@@ -125,7 +125,7 @@ The Complex Process acts as a fallback mechanism when the parties cannot concur 
 This system, although more involved, remains streamlined for efficiency and cost-effectiveness, maintaining the balance between swiftness and the demands of judicature. The Complex Process is designed to handle intricate issues requiring detailed attention and processual protections for the parties involved. Ultimately, the criminal process of Liberland will adopt the framework of the Complex Process.
 
 ### Mediation
-1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law).
+1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law or wordy part of a contract).
 2. Party A selects a judge (Attorney A) from the available roster, agrees to their terms, and pays collateral plus a transaction fee.
 3. Party B is notified and selects a judge (Attorney B).
 4. Party A and Attorney A compile and submit a Case.
@@ -136,7 +136,7 @@ This system, although more involved, remains streamlined for efficiency and cost
 
 ### Litigation
 1. Attorneys mutually select a third Judge (the Arbitrator).
-2. The Arbitrator delivers a Judgement, analyzing the Application and Response according to Liberland law, resulting in statements of "Party X pays to Party Y," backed by a rationale.
+2. The Arbitrator delivers a Judgement, analyzing the Application and Response according to Liberland law and relevant contract, resulting in statements of "Party X pays to Party Y," backed by a rationale.
 3. If the Parties accept, the judgment is executed. If a Party rejects, the Party pays the appeals fee, and an appeal process commences.
 
 ## Appeal
