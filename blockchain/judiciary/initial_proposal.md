@@ -125,7 +125,7 @@ The Complex Process acts as a fallback mechanism when the parties cannot concur 
 This system, although more involved, remains streamlined for efficiency and cost-effectiveness, maintaining the balance between swiftness and the demands of judicature. The Complex Process is designed to handle intricate issues requiring detailed attention and processual protections for the parties involved. Ultimately, the criminal process of Liberland will adopt the framework of the Complex Process.
 
 ### Mediation
-1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law or wordy part of a contract).
+1. A user (Party A) alleges that another user (Party B) has violated the standing body of rules (Liberland Law). In case of smart contract, this is done by triggering a function on the contract itself, which enters into 'litigation mode' until the process is resolved
 2. Party A selects a judge (Attorney A) from the available roster, agrees to their terms, and pays collateral plus a transaction fee.
 3. Party B is notified and selects a judge (Attorney B).
 4. Party A and Attorney A compile and submit a Case.
