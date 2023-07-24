@@ -3,7 +3,7 @@
 ## Section 1: Access to Application
 
 ### Article 1: Provider of Services
-These Terms and Conditions govern the access or use by you, an individual, of the Provider's application, content, products, and services, henceforth "the Services" made available by Liberland Limited, a limited liability company incorporated in Hongo Kong, henceforth, "the Provider".
+These Terms and Conditions govern the access or use by you, an individual, of the Provider's platform, applications, websites, content, products, and services, henceforth "the Services" made available by Liberland Limited, a private limited liability company established in Hong Kong, having its registered office at 3/F, Chinachem Tower, 34-37 Connaught Road Central, Hong Kong, registration number 64816138-000-05-20-5, henceforth, "the Provider".
 
 ### Article 2: Access to Services
 
@@ -87,28 +87,39 @@ b) Your violation or breach of any of these Terms;
 c) The Provider's use of your User Content; or
 d) Your violation of the rights of any third party.
 
+### Article 13: Disclaimer of Accuracy and Updates
+The Provider does not guarantee the accuracy, completeness, or timeliness of the content provided in the Services. The content is provided "as is" and may contain factual errors or discrepancies with the actual PPL Test. The Provider does not promise to keep the content the same, similar, or up to date with the actual PPL Test. The user acknowledges and agrees that they are solely responsible for verifying the accuracy and relevance of the content in relation to their specific needs and the actual PPL Test.
+
+### Article 14: No Guarantee of Success
+The Provider is not responsible for the eventual success or failure of the user in the PPL Test. The Services are provided as a tool to aid in preparation for the PPL Test, but they do not guarantee success. The PPL Test is a complex task that requires extensive personal preparation and study. The user acknowledges and agrees that their use of the Services does not guarantee success in the PPL Test.
+
+### Article 15: No Affiliation
+The Provider is not affiliated with any official or unofficial provider of PPL Tests. The Services are independent and are not endorsed by, directly affiliated with, maintained, authorized, or sponsored by any PPL Test provider. All product and company names are the registered trademarks of their original owners.
+
+### Article 16: No Responsibility for User Conduct
+The user acknowledges that the Provider is not responsible for their conduct as a pilot or for their knowledge or lack thereof of the facts required for the PPL license. The Services are provided as a tool for test preparation, but they do not guarantee the user's competence or conduct as a pilot. The user is solely responsible for their actions and decisions as a pilot.
+
 ## Section 5: Governing Law, Arbitration
 
-### Article 13: Choice of Law
+### Article 17: Choice of Law
 1) These Terms and Conditions shall be governed by and construed exclusively in accordance with the laws of [Your Country].
 2) Any dispute arising out of or broadly connected to or relating to the Services or these Terms shall be
 
  initially submitted to mandatory mediation under the Law of [Your Country].
 
-### Article 14: Compulsory Arbitration
+### Article 18: Compulsory Arbitration
 1) Should such a dispute not be resolved within sixty (60) days after a mediation request has been submitted, said dispute may be referred to arbitration in [Your Country]. There shall be three (3) arbitrators, one selected by each party, and a third appointed by the two chosen arbitrators, being the legal professional most suited to resolve the issue.
 2) The language of the arbitration shall be English. The location shall be mutually convenient, and the arbitration shall be conducted without undue delay.
 3) The Arbitration Award shall be final and binding, with no avenue for appeal, and no Party shall seek recourse to any national dispute resolution system.
 
 ## Section 6: General Provisions
 
-### Article 15: Amendments to the Terms and Conditions
+### Article 19: Amendments to the Terms and Conditions
 The Provider reserves the right to amend these Terms and Conditions at any time. By continuing to access the Services after any amendments have been publicly disclosed, you consent to the amended Terms & Conditions.
 
-### Article 16: Absence of Joint Venture, Partnership, or Other Relationship
+### Article 20: Absence of Joint Venture, Partnership, or Other Relationship
 No joint venture, partnership, employment, or agency relationship exists between you, the Provider, or any Third-Party Provider as a result of the contract between you and the Provider or usage of the Services.
 
-### Article 17: Severability
+### Article 21: Severability
 Should any provision of these Terms be deemed illegal, invalid, or unenforceable, in whole or in part, under any law, said provision or part thereof shall to that extent be deemed not to form part of these Terms. However, the legality, validity, and enforceability of the other provisions in these Terms shall remain unaffected.
 
-Please note that this is a general rework of the Terms and Conditions and may need further customization to fit your specific needs. It's also recommended to have a legal professional review these Terms and Conditions to ensure they meet all legal requirements for your jurisdiction and business model.
