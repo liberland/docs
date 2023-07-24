@@ -156,7 +156,7 @@ If a party wishes to obtain the Court's opinion on a particular legal, technical
 
 ## Enactment of Awards
 ### The Optimal Circumstance
-A contract or a case is collateralized such that the collateral is sufficient to cover any additional payments prescribed in the final verdict, beyond the awarded sum and the Court Costs. In this scenario, the collateral serves as a mechanism for execution of the judgement.
+A contract or a case is collateralized such that the collateral is sufficient to cover any additional payments prescribed in the final verdict, beyond the awarded sum and the Court Costs. In this scenario, the collateral serves as a mechanism for execution of the judgement. Collateral may be handled by a third party, such as an insurance company.
 
 ### Case with Insufficient Collateral 
 #### Seizing LLM
@@ -169,7 +169,7 @@ The judge is imbued with the authority to designate an individual's LLM as colla
 the offender's LLM balance could turn negative, resulting in their listing on Liberland's 'wanted' roster, rendering them a 'persona non grata'. Consequently, they lose their voting rights until the owed amount is fully settled.
 
 #### Enforcement Beyond the Chain
-In instances where the judgement cannot be enforced by either of the aforementioned methods, the awarded sum will be incorporated into a conventional contract, or appended as a supplement if the dispute is contract-related. This contract, endorsed by both parties, holds legitimacy outside of Liberland, akin to any other contract. It can be presented to an enforcement agency for execution, even against the unwilling party's resistance.
+In instances where the judgement cannot be enforced by either of the aforementioned methods, the awarded sum will be incorporated into a conventional contract, or appended as a supplement if the dispute is contract-related. This contract, endorsed by both parties, holds legitimacy outside of Liberland, akin to any other contract. It can be presented to an enforcement agency for execution, even against the unwilling party's resistance. Note that this is just an explanation of the process, and doesn't represent a deliverable for the grant.
 
 ## Functionality: Traditional Contracts
 
@@ -242,6 +242,9 @@ Funds Required: 99,900 USD.
 
 ### Milestone 1: Advisory Opinion & MVP (3 months of Development)
 Cost: 30,900 EUR
+Implement the system of courts as on-chain decision-makers
+System of permissions for individual judges of a court to decide only their assigned disputes
+MVP simple dispute process on the chain.
 
 This milestone aims to:
 - Create comprehensive documentation for the solution, detailing all its functionalities.
@@ -253,6 +256,10 @@ This milestone aims to:
 ### Milestone 2: Dispute Resolution MVP (2 months of Development)
 Cost: 40,000 EUR
 
+Hybrid contract templates
+Managing collateral, support for partial collateral with proof of reserves, intended for insurance companies
+MVP of the complex litigation process.
+
 This milestone aims to:
 - Conduct extensive legal consultations with experts. Some experts will be paid from the grant to audit our ideas on Dispute Resolution and provide improvement suggestions.
 - Develop the final on-paper solution.
@@ -263,6 +270,9 @@ This milestone aims to:
 
 ### Milestone 3: Final Phase (2 months of Development)
 Cost: 20,000 EUR
+
+Support for onchain court subprocess intended to represent expert opinion - Litigation about Bob selling Alice rotten eggs contrary to TOS might require a subprocess including experts to decide if the eggs were rotten or not.
+System complete
 
 This milestone aims to:
 - Conduct further rounds of testing.
