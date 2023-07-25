@@ -275,6 +275,7 @@ Support for onchain court subprocess intended to represent expert opinion - Liti
 System complete
 
 This milestone aims to:
+- Frontend common contract builder
 - Conduct further rounds of testing.
 - Evaluate feedback from the testers.
 - Initiate a phased rollout for select users in a beta program.
