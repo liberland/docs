@@ -13,38 +13,38 @@ Recommended way to interact with the chain programmatically is through [Polkadot
 LLM is an on chain asset of the [Assets pallet](https://paritytech.github.io/substrate/master/pallet_assets/index.html) with id of 1
 
 ### Using polkadotJsApi
-```
+``` javascript
 const { ApiPromise, WsProvider } = require('@polkadot/api');
-const provider = new WsProvider(<WS_ENDPOINT>);
+const provider = new WsProvider('<WS_ENDPOINT>');
 const api = await ApiPromise.create({ provider });
 // <ASSET_ID> of LLM is 1
-const LLMInfo = await api.query.assets.account(<ASSET_ID>, <WALLET_ADDRESS>);
+const LLMInfo = await api.query.assets.account('<ASSET_ID>', '<WALLET_ADDRESS>');
 console.log(LLMInfo.toJSON().data?.balance ?? '0x0')
 ```
 ## Create Address
 To create a new address, a minimum of 1 LLD needs to be sent as an existential deposit
 
 ### using polkadotJsApi
-```
+``` javascript
 const { ApiPromise, WsProvider } = require('@polkadot/api');
-import Keyring from "@polkadot/keyring";
+const { Keyring } = require("@polkadot/api");
 
-const provider = new WsProvider(<WS_ENDPOINT>);
+const provider = new WsProvider('<WS_ENDPOINT>');
 const api = await ApiPromise.create({ provider });
 const keyring = new Keyring({ type: 'sr25519' });
-const sender = keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
+const sender = keyring.addFromUri('<SENDER-ACCOUNT-PRIVATE-KEY>');
 // minimum <AMOUNT> is new BN('1000000000000');
-const transferExtrinsic = api.tx.balances.transfer(<WALLET_ADDRESS_TO_CREATE>, <AMOUNT>);
+const transferExtrinsic = api.tx.balances.transfer('<WALLET_ADDRESS_TO_CREATE>', '<AMOUNT>');
 const txHash = await transferExtrinsic.signAndSend(sender) ;
 ```
 
 ## Receive list of transactions by block number
 
-```
+``` javascript
 const { ApiPromise, WsProvider } = require('@polkadot/api');
-const provider = new WsProvider(<WS_ENDPOINT>);
+const provider = new WsProvider('<WS_ENDPOINT>');
 const api = await ApiPromise.create({ provider });
-const hash = await api.rpc.chain.getBlockHash(<BLOCKNUMBER>);
+const hash = await api.rpc.chain.getBlockHash('<BLOCKNUMBER>');
 const block = await api.rpc.chain.getBlock(hash);
 console.log(block.block.extrinsics.toHuman());
 ```
@@ -52,9 +52,9 @@ console.log(block.block.extrinsics.toHuman());
 ## Receive the last block number
 
 ### Using polkadotJsApi
-```
+``` javascript
 const { ApiPromise, WsProvider } = require('@polkadot/api');
-const provider = new WsProvider(<WS_ENDPOINT>);
+const provider = new WsProvider('<WS_ENDPOINT>');
 const api = await ApiPromise.create({ provider });
 const bestNumber = await api.derive.chain.bestNumber();
 console.log(bestNumber.toNumber());
@@ -64,14 +64,14 @@ console.log(bestNumber.toNumber());
 
 Transactions (a.k.a. extrinsics) are uniquely identified by block hash + their index. See also https://wiki.polkadot.network/docs/build-protocol-info#unique-identifiers-for-extrinsics
 
-```
+``` javascript
 const txId = {
   blockHash: BLOCK_HASH,
   index: EXTRINSIC_INDEX,
 };
 
 const { ApiPromise, WsProvider } = require('@polkadot/api');
-const provider = new WsProvider(<WS_ENDPOINT>);
+const provider = new WsProvider('<WS_ENDPOINT>');
 const api = await ApiPromise.create({ provider });
 const apiAt = await api.at(txId.blockHash);
 const allEvents = await apiAt.query.system.events();
@@ -115,16 +115,31 @@ if (successEvent) {
 
 ### Using polkadotJsApi
 
-```
+``` javascript
 const { ApiPromise, WsProvider } = require('@polkadot/api');
-import Keyring from "@polkadot/keyring";
+const { Keyring } = require("@polkadot/api");
 
-const provider = new WsProvider(<WS_ENDPOINT>);
+const provider = new WsProvider('<WS_ENDPOINT>');
 const api = await ApiPromise.create({ provider });
 const keyring = new Keyring({ type: 'sr25519' });
-const sender = keyring.addFromUri(<SENDER-ACCOUNT-PRIVATE-KEY>);
-const transferExtrinsic = api.tx.llm.sendLlm(<ACCOUNT_TO>, <AMOUNT>);
-const txHash = await transferExtrinsic.signAndSend(sender) ;
+const sender = keyring.addFromUri('<SENDER-ACCOUNT-PRIVATE-KEY>');
+const transferExtrinsic = api.tx.llm.sendLlm('<ACCOUNT_TO>', '<AMOUNT>');
+const txHash = await transferExtrinsic.signAndSend(sender);
+```
+
+Optionally, for token transfers, you can use the "assets.transfer" method and then provide the id of the asset you want to transfer. An example transfer for LLM (LLM=1). 
+
+``` javascript
+const { ApiPromise, WsProvider } = require('@polkadot/api');
+const { Keyring } = require("@polkadot/api");
+
+const provider = new WsProvider('<WS_ENDPOINT>');
+const api = await ApiPromise.create({ provider });
+const keyring = new Keyring({ type: 'sr25519' });
+const sender = keyring.addFromUri('<SENDER-ACCOUNT-PRIVATE-KEY>');
+// The following value 1 is the ID token of LLM.
+const transferExtrinsic = api.tx.assets.transfer(1, '<ACCOUNT_TO>', '<AMOUNT>');
+const txHash = await transferExtrinsic.signAndSend(sender);
 ```
 
 See also https://polkadot.js.org/docs/api/cookbook/tx/#how-do-i-get-the-decoded-enum-for-an-extrinsicfailed-event for example on how to see if tx succeeded.
