@@ -46,7 +46,7 @@ g) On the use of the authority, the border security officer submits a written re
 4. The person who will be subjected to a thorough border control will be given a written notification about the purpose and procedure of the control, in English, and if the controlled person does not understand the same language, cannot or does not know how to read and interpret the notification, a translator or sign language interpreter will be assigned to him.
 
 ### Article 5: Introduction of Weapons and Ammunition
-1. The introduction of weapons and ammunition into the territory of Liberland is allowed only to members of the security services of foreign state delegations, immediately before and during the visit. Import of weapons and ammunition is carried out on the basis of mutual reciprocity. Approval for the import of weapons and ammunition is given by the head of the Border Security Service, and a separate record is kept on the import and number of weapons and ammunition, which contains:
+The introduction of weapons and ammunition into the territory of Liberland is allowed only to members of the security services of foreign state delegations, immediately before and during the visit. Import of weapons and ammunition is carried out on the basis of mutual reciprocity. Approval for the import of weapons and ammunition is given by the head of the Border Security Service, and a separate record is kept on the import and number of weapons and ammunition, which contains:
 
 a) type of weapon (type, brand, caliber and number of weapons);
 
