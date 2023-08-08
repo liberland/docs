@@ -21,10 +21,10 @@
   * [💫 White Paper](blockchain/white-paper.md)
   * [👨 Tokenomics Primer](blockchain/tokenomics-primer.md)
   * [👨 API](blockchain/API/centralized-exchanges-api.md)
-  * For Citizens
+  * For Citizens & EResidents
+    * [Onboarding](blockchain/citizens/onboarding.md)
     * [Voting](blockchain/citizens/voting.md)
     * [Senate](blockchain/citizens/senate.md)
-    * [Setting identity](blockchain/citizens/identity.md)
   * For Validators, Nominators & Stakers
     * [Run a validator](blockchain/staking/run_a_validator.md)
     * [Non technical run a validator](blockchain/staking/run_a_validator_non_technical.md)
