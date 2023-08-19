@@ -10,7 +10,7 @@ I, Vit Jedlicka, the first President of Liberland, pursuant to § 11 of the Arti
 
 ### Article 2: Land Reservation
 
-1. The land located at the coordinates (according to this map)[https://e-liberland.org/sandbox/?up=2d910137f9729] shall be reserved for the construction of the Marina, including the placement of service communications and structures.
+1. The land located at the coordinates [according to this map](https://e-liberland.org/sandbox/?up=2d910137f9729) shall be reserved for the construction of the Marina, including the placement of service communications and structures.
 2. The Provisional Government shall ensure the proper delimitation of this area and its demarcation, as well as other preparations for the construction.
 
 ### Article 3: Establishment of the Marina Servicing Company
