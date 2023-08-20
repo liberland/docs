@@ -69,7 +69,7 @@ I, Vít Jedlička, the first President of Liberland, acting under the authority 
 
    a) Support for real-time, online, asynchronous communication.
 
-   b) Direct delivery of messages to the mobile devices and computers of Cabinet members.
+   b) Direct delivery of messages to the mobile devices and computers of Provisional Government members.
 
    c) Organization that allows for multiple communication channels.
 
