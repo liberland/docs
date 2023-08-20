@@ -117,7 +117,7 @@ The Minister shall encourage the establishment of private providers of the servi
 
 1. The Minister of Finance shall perform a thorough audit of all finances which are in fact usable for Liberland, including dedicated private funds where needed. Other Provisional Government members shall aid him in this to the best of their abilities.
 2. The Minister of Finance shall quantify all the actual and projected expenses and create reports. He shall ensure that powerful and transparent reporting tools are in place to realize this goal. This Finance Report shall be published continuously if possible, quarterly if not.
-3. When that becomes financially feasible, the Minister of Finance shall without delay have a third party of high repute conduct an audit of the materials used to prepare the Finance Report and of all Liberland's operations.
+3. When it becomes financially feasible, the Minister of Finance shall, without delay, have a third party of high repute conduct an audit of the materials used to prepare the Finance Report and of all Liberland's operations.
 
 ### Article 15: Settlement Budget
 
@@ -131,3 +131,26 @@ The Minister of Finance shall conduct an active and ongoing search for investors
 ### Article 17: Investment Prospectus
 
 The Minister of Finance shall create a prospectus for investors using the best available practices. He shall ensure that it is set up in an attractive and professional manner capable of satisfying even the most demanding investors.
+
+### Article 18: Financial Legislation
+
+1. The Minister of Finance shall, together with the Minister of Justice, draft the core financial legislation of Liberland, ensuring that it is built up to create a thriving, transparent, and internationally compliant and compatible market environment, with a special focus on financial markets. The Ministers shall use examples from other countries of note and shall obtain advice from experts before publishing their work.
+2. The Ministers shall also set up systems of financial oversight and draft the plan to set up institutions required for Liberland to be acceptable internationally and to lower its risk profile.
+
+### Article 19: Combatting Financial Crime
+
+1. The Minister of Finance shall set up systems to prevent and combat financial crimes and to ensure Liberland doesn't become a haven for financial criminals, including but not limited to money launderers, financiers of terrorism, tax and other fraudsters, and war profiteers.
+2. The Minister of Finance shall, together with the Minister of Foreign Affairs, seek out opportunities for international cooperation in matters of combatting financial crime and money laundering.
+
+### Article 20: Banking
+
+1) The Minister of Finance shall set up a system or systems enabling Liberland citizens and companies to be banked in an easy and internationally practical and recognized manner.
+2) The Minister of Finance shall set forth a transparent and flexible regulation for banking in Liberland conform both internationally and with the Constitution of Liberland.
+
+### Article 21: Cryptocurrency Regulation
+
+The Minister of Finance shall set up a transparent cryptocurrency regulation regime, enabling the lawful and moral use of Bitcoin and cryptocurrencies. The aim shall be to encourage and enable a fully functional Bitcoin- or where necessary cryptocurrency-based economic system, while giving victims of crime and international actors sufficient recourse in case of malicious actions.
+
+### Article 22: Regulating financial markets
+1) Mindful of the maxim that a country is capitalistic when a functioning stock market is present, the Minister of Finance shall set up a transparent and internationally conform regulation for the financial markets in Liberland.
+2) The Minister of Finance shall set up together with the Minister of Interior and Minister of Justice the first Liberland market of regulated securities.
