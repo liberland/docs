@@ -178,7 +178,7 @@ The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of S
 1) The Ministry of Foreign Affairs shall promote the recognition of Liberland's Passport and the maintenance and the establishment of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The main aim of these institutions shall be to service traveling Liberlanders and to offer them protection in case they encounter issues while visiting other countries. 
 2) They shall, where needed, establish a system for communication regarding such issues, including the possible repatriation of stranded citizens or criminals.
 
-### Chapter 5: Minister of Justice
+## Chapter 5: Minister of Justice
 
 ### Article 30: The Constitution
 1. The Minister of Justice shall ensure that Liberland has a Constitution capable of functioning as the basic law of the world's freest country. The Constitution shall be drafted according to the best practices of legislative drafting and shall conform to the classical liberal, or libertarian, worldview and ethos.
