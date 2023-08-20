@@ -126,11 +126,8 @@ The Minister shall encourage the establishment of private providers of the servi
 
 ### Article 16: Search for Investors
 
-The Minister of Finance shall conduct an active and ongoing search for investors and shall set up systems to make this efficient according to the best modern practices.
-
-### Article 17: Investment Prospectus
-
-The Minister of Finance shall create a prospectus for investors using the best available practices. He shall ensure that it is set up in an attractive and professional manner capable of satisfying even the most demanding investors.
+1. The Minister of Finance shall conduct an active and ongoing search for investors and shall set up systems to make this efficient according to the best modern practices.
+2. The Minister of Finance shall create a prospectus for investors using the best available practices. He shall ensure that it is set up in an attractive and professional manner capable of satisfying even the most demanding investors.
 
 ### Article 18: Financial Legislation
 
@@ -170,12 +167,12 @@ Where recognition remains, for the time being, a difficult goal to achieve, the 
 The Minister of Foreign Affairs shall gather international support for the settlement of Liberland, promoting its good name internationally and ensuring that it receives positive attention in the media and on forums relevant for its survival, sustaining, and further development.
 
 ### Article 27: International Representation
-1. The Minister of Foreign Affairs shall, together with the Secretary of State, set up and maintain the existing network of foreign Representative Offices and greatly broaden its reach. They shall ensure that as many of such offices as possible are transformed into regular embassies according to the Vienna Convention on Diplomatic Relations of 1961. 
-2. Besides establishing and maintaining diplomatic relations with their host countries, the Representative Offices shall also spread the good name of Liberland abroad and engage in international efforts, such as humanitarian activities, sporting events, economic projects, rescue efforts, etc.
+1) The Minister of Foreign Affairs shall, together with the Secretary of State, set up and maintain the existing network of foreign Representative Offices and greatly broaden its reach. They shall ensure that as many of such offices as possible are transformed into regular embassies according to the Vienna Convention on Diplomatic Relations of 1961. 
+2) Besides establishing and maintaining diplomatic relations with their host countries, the Representative Offices shall also spread the good name of Liberland abroad and engage in international efforts, such as humanitarian activities, sporting events, economic projects, rescue efforts, etc.
 
 ### Article 28: Economic Diplomacy
 The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of State shall together conduct missions and strategies of economic diplomacy, presenting the case for Liberland and its settlement, as well as the investment into its development, abroad both before public and private partners and possible partners. They shall ensure that foreign investment flows into the country and that foreign trade for much-needed goods and services can commence in earnest.
 
 ### Article 29: Services for Citizens Abroad
-1.The Ministry of Foreign Affairs shall promote the recognition of Liberland's Passport and the maintenance and the establishment of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The main aim of these institutions shall be to service traveling Liberlanders and to offer them protection in case they encounter issues while visiting other countries. 
-2. They shall, where needed, establish a system for communication regarding such issues, including the possible repatriation of stranded citizens or criminals.
+1) The Ministry of Foreign Affairs shall promote the recognition of Liberland's Passport and the maintenance and the establishment of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The main aim of these institutions shall be to service traveling Liberlanders and to offer them protection in case they encounter issues while visiting other countries. 
+2) They shall, where needed, establish a system for communication regarding such issues, including the possible repatriation of stranded citizens or criminals.
