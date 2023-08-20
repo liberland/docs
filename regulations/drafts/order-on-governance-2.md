@@ -184,3 +184,40 @@ The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of S
 1. The Minister of Justice shall ensure that Liberland has a Constitution capable of functioning as the basic law of the world's freest country. The Constitution shall be drafted according to the best practices of legislative drafting and shall conform to the classical liberal, or libertarian, worldview and ethos.
 2. The Minister of Justice shall draft a Commentary on the Constitution and shall promote the ideas behind the Constitution both within Liberland and internationally.
 3. The Minister of Justice shall ensure that the Constitution is adopted in a referendum of all citizens organized according to the best practices of modern democracy and conform to the standing customs of public international law, most notably in a free and secret ballot.
+
+### Article 31: Basic Legislature
+1. Conforming with my Order 2/2021 on Interim Laws, the Minister of Justice shall draft and ensure the passage as Interim Laws of the basic legislature according to best available practices of legislative drafting and in compliance with the principles of classical liberalism or libertarianism.
+2. The Minister of Justice shall prepare and process laws on at least the following topics:
+
+   a) Contract Law
+   
+   b) Real Estate Law
+   
+   c) Police Law
+   
+   d) Border Law
+   
+   e) Referendum Law
+   
+   f) Judicial Process Law
+   
+   g) Administrative Process Law
+   
+   h) Financial Markets Law
+   
+   i) Legislative Rules of the Government
+   
+   j) Congress Law
+   
+   k) Company Law
+   
+   l) IT Law
+   
+   m) Procurement Law
+   
+   n) Maritime Law
+   
+   o) Criminal and Delict Law
+   
+   p) Reserves Law.
+
