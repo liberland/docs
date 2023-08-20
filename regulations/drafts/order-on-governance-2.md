@@ -57,7 +57,11 @@ Primary in importance and taking precedence above all else herein written or oth
 1. The Minister shall ensure the Permanent Settlement is regularly supplied with groceries, hygienic supplies, clothing, repair materials, materials for building and expansion, and other necessities. The maximum delay for a supply delivery shall be 4 hours.
 2. The Minister shall not only set up and maintain the continuous operation of the Permanent Settlement's supply chain but also enable systems by which individual settlers can request and have supplies delivered for themselves or their own projects.
 
-### Article 8: Establishing a Basic Settlement
+### Article 8: Internet
+
+The Minister shall be responsible for setting up and maintaining access to the internet throughout the entire Permanent Settlement and ensuring the functionality of the internet access system. The desired level of service is that there shall be no internet outage lasting longer than 3 hours.
+
+### Article 9: Establishing a Basic Settlement
 
 1) Before a Permanent Settlement can be established, the Minister shall labor tirelessly to ensure with urgency the presence of the following facilities:
 
@@ -75,12 +79,20 @@ Primary in importance and taking precedence above all else herein written or oth
 
    g) basic access to groceries, hygienic supplies, clothing and generally the outside world to enable a comfortable long-term survival.
 
+   h) basic internet access over the settlement, enabling a limited group of people to perform office work there.
+
 3) The Minister shall ensure that all facilities of the Basic Settlement are regularly serviced according to good practices in facilities management, e.g., toilets and showers shall be cleaned several times in a day, rooms shall be cleaned likewise (by occupant or otherwise) and that there is sufficient material to make necessary repairs. There shall be no water outage for longer than 6 hours, there shall be no delay in cleaning for more than 2 hours.
 
-### Article 9: Establishing the Liberland Marina
+### Article 10: Establishing the Liberland Marina
 
 The Minister shall establish the Liberland Marina in conformity with my Order 01/2023 on the Liberland Marina.
 
+### Article 11: Setting up and maintaining communications for regular traffic
 
+The Minister shall ensure that communications for regular traffic are maintained and kept open. Where a storm or other natural calamity should close a communication, they will make sure that communication opens as soon as possible, at the latest within 72 hours from the end of that calamity.
+
+### Article 12: Privatization
+
+The Minister shall encourage the establishment of private providers of the services required for the Basic or the Permanent Settlement. The Minister shall continue providing these services until there is a market environment with real competition capable of ensuring a better level of services than what the Minister can provide. This shall be evaluated on a per-service basis.
 
 
