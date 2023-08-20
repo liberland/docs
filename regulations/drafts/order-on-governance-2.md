@@ -28,32 +28,33 @@ Primary in importance and taking precedence above all else herein written or oth
 
 ## Chapter 2: Minister of Interior
 
-### Article 3: Establishing a Thriving Settlement
-1. It shall be a priority of the Minister of Interior and executed by him and me where necessary to establish the basic settlement of Liberland. Under this shall be understood a set of buildings, facilities, points of infrastructure, and communication, that allow at least the basic level of comfort for anyone to come and stay there indefinitely.
+### Article 3: Establishing a Permanent Settlement
+
+1. It shall be a priority of the Minister of Interior to establish the settlement of Liberland, maintain it and ensure it can expand. As a Permanent Settlement shall be understood a set of buildings, facilities, points of infrastructure, and communications, maintained by a sufficient number of regular personnel and visited regularly or used by private settlers, that allow at least the basic level of comfort for anyone to come and stay there indefinitely.
 2. This goal shall be fulfilled when we can accommodate 20 plus settlers indefinitely in conditions comparable to a one-star hotel.
 3. For the articles in this chapter applies that where a priority is for a time impossible for the Minister to fulfil, this responsibility shall be incumbent on me.
 
 ### Article 4: Power and power management
 
-1. To establish and maintain a Thriving Settlement, the Minister shall move into Liberland, set up and maintain the necessary power generating and power management equipment, including and not limited to solar panels, generators for the night and for winter months, power transmission equipment, safe and state-of-the-art power transformation stations where necessary.
+1. To establish and maintain a Permanent Settlement, the Minister shall move into Liberland, set up and maintain the necessary power generating and power management equipment, including and not limited to solar panels, generators for the night and for winter months, power transmission equipment, safe and state-of-the-art power transformation stations where necessary.
 2. The Minister shall ensure that competent personnel is always in place or within 1 hour of Liberland to service the facilities; the desired level of service is that there shall be no power outage longer than 2 hours.
 3. The Minister shall likewise expand the power supply when appropriate to allow for further settlement.
 
 ### Article 5: Clean water
 
-1. To establish and maintain a Thriving Settlement, the Minister shall move into Liberland, set up and maintain the necessary water generating equipment to ensure a constant, steady, and sufficient supply of clean water for drinking, washing, cleaning, and cooking and using appliances which require water to function.
+1. To establish and maintain a Permanent Settlement, the Minister shall move into Liberland, set up and maintain the necessary water generating equipment to ensure a constant, steady, and sufficient supply of clean water for drinking, washing, cleaning, and cooking and using appliances which require water to function.
 2. The Minister shall ensure that competent personnel is always in place or within 1 hour of Liberland to service the facilities; the desired level of service is that there shall be no power outage longer than 2 hours.
 3. The Minister shall likewise expand the water supply when appropriate to allow for further settlement.
 
 ### Article 6: Waste management
 
-1. To establish and maintain a Thriving Settlement, the Minister shall move into Liberland, set up and maintain the necessary waste management equipment, with the highest priority of keeping the waste out of the settlement, and with the secondary priority of keeping Liberland's environment clean.
+1. To establish and maintain a Permanent Settlement, the Minister shall move into Liberland, set up and maintain the necessary waste management equipment, with the highest priority of keeping the waste out of the settlement, and with the secondary priority of keeping Liberland's environment clean.
 2. The Minister shall ensure that competent personnel is always in place or within 1 hour of Liberland to service the facilities; the desired level of service is that there shall be no power outage longer than 2 hours.
 3. The Minister shall likewise expand the water supply when appropriate to allow for further settlement.
 
-### Article 7: Establishing a basic settlement
+### Article 7: Establishing a Basic Settlement
 
-1) Before a thriving settlement can be established, the Minister shall labor tirelessly to ensure with urgency the presence of the following facilities:
+1) Before a Permanent Settlement can be established, the Minister shall labor tirelessly to ensure with urgency the presence of the following facilities:
 
    a) toilets for ten people,
    
@@ -67,4 +68,4 @@ Primary in importance and taking precedence above all else herein written or oth
 
    f) basic waste management.
 
-2) The Minister shall ensure that all facilities are regularly serviced according to good practices in facilities management, e.g., toilets and showers shall be cleaned several times in a day, rooms shall be cleaned likewise (by occupant or otherwise) and that there is sufficient material to make necessary repairs. There shall be no water outage for longer than 6 hours, there shall be no delay in cleaning for more than 2 hours.
+2) The Minister shall ensure that all facilities of the Basic Settlement are regularly serviced according to good practices in facilities management, e.g., toilets and showers shall be cleaned several times in a day, rooms shall be cleaned likewise (by occupant or otherwise) and that there is sufficient material to make necessary repairs. There shall be no water outage for longer than 6 hours, there shall be no delay in cleaning for more than 2 hours.
