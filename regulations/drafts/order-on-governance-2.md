@@ -10,7 +10,7 @@ Primary in importance and taking precedence above all else herein written or oth
 
 #### Section 2: Keeping Our People Healthy
 
-1. Equal in importance to the above, it shall be our second Prime Directive to prevent any threats, current or potential, to the health and wellbeing of anyone and everyone currently residing in Liberland or currently being outside of Liberland but acting on behalf of the settlement. This shall be understood as extensively as reasonably possible and shall encompass illness, injury, environmental discomfort, hygiene, nutrition, clean clothing, shelter, and all other basic life necessities.
+1. Equal in importance to the above, it shall be our second Prime Directive to prevent any threats, current or potential, to the life, health and wellbeing of anyone and everyone currently residing in Liberland or currently being outside of Liberland but acting on behalf of the settlement. This shall be understood as extensively as reasonably possible and shall encompass illness, injury, environmental discomfort, hygiene, nutrition, clean clothing, shelter, and all other basic life necessities.
 2. Secondary in importance to this but still higher than everything else set forth from this point onwards in this order or otherwise communicated by me or otherwise, shall be the health and well-being of everyone currently travelling to and from Liberland.
 
 #### Section 3: Acting out a Prime Directive
