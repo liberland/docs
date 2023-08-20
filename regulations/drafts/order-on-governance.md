@@ -45,7 +45,9 @@ I, Vit Jedlicka, the first President of Liberland, acting under the authority gr
 
 4. Where the Individual Decision is worth more than 300 USD but less than 10,000 USD, and there is no response within 24 hours of publishing, the Provisional Government member shall assume that the Individual Decision has been confirmed without reservation and shall execute it.
 5. Individual Decisions above 10,000 USD in worth shall require the explicit confirmation of either me or the entire Cabinet with me staying silent.
-6. Individual Decisions worth less than 300 USD may be executed without publishing or waiting.
+6. Individual Decisions worth less than 300 USD
+
+ may be executed without publishing or waiting.
 
 ### Article 5: Communications
 
@@ -58,7 +60,7 @@ I, Vit Jedlicka, the first President of Liberland, acting under the authority gr
 
 1. The process for publishing any communication shall run on a dedicated channel for online communications which the Provisional Government shall establish for this purpose.
 2. Communications that are meant to be published in the voice of the entire Cabinet shall require a Cabinet Decision, undergoing the regular Decision process.
-3. Communications that are meant to be published in the voice of one Provisional Government members shall undergo the process.
+3. Communications that are meant to be published in the voice of one Provisional Government member shall undergo the process.
 
 ### Article 6: Information Technology Infrastructure for Cabinet Decision-Making
 
@@ -92,5 +94,6 @@ All workings, accounts, decision-making, and deliberations of the Provisional Go
 2. If I determine that the observed issue is substantiated, I shall instruct the guilty party to rectify the situation and to repair any damage that has been caused.
 3. The most severe disciplinary measure at my disposal is the summary removal of a Provisional Government member from their post, and I shall only use it in cases of extraordinarily serious Integrity Issues.
 
-### Article 8: Legal Force
+### Article 9: Legal Force
+
 This Order shall be immediately binding to the Cabinet and all the Provisional Government Members.
