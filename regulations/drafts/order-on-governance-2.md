@@ -113,7 +113,7 @@ The Minister shall encourage the establishment of private providers of the servi
 
 4. The estimated goal is to enable total, per-settlement spending of 150,000 USD per month and the total Liberland spending of another 150,000 USD per month, with reserves of at least 5 million USD.
 
-### Article 14: Finance Report
+### Article 14: Fiscal Reporting
 
 1. The Minister of Finance shall perform a thorough audit of all finances which are in fact usable for Liberland, including dedicated private funds where needed. Other Provisional Government members shall aid him in this to the best of their abilities.
 2. The Minister of Finance shall quantify all the actual and projected expenses and create reports. He shall ensure that powerful and transparent reporting tools are in place to realize this goal. This Finance Report shall be published continuously if possible, quarterly if not.
@@ -160,3 +160,14 @@ The Minister of Finance shall, together with the Minister of Justice, set up a t
 
 ## Chapter 4: Minister of Foreign Affairs
 
+### Article 24: International recognition
+The Minister of Foreign Affairs shall ensure that Liberland is recognized, either formally or de facto, by the international community. He shall focus on Croatia and other nations in the Balkans first, then on other countries and international organizations. He shall work on this goal alongside the entire Provisional Government and shall receive assistance from any other member where necessary or expedient.
+
+### Article 25: International relations
+Where recognition remains, for the time being, a difficult goal to achieve, the Minister of Foreign Affairs shall work together with the Secretary of State on establishing de facto ties and diplomatic and consular relations with international partners.
+
+### Article 26: International support for the Settlement
+The Minister of Foreign Affairs shall gather international support for the settlement of Liberland, promoting its good name internationally and ensuring that it receives positive attention in the media and on forums relevant for its survival, sustaining, and further development.
+
+### Article 27: Economic diplomacy
+The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of State shall together conduct missions and strategies of economic diplomacy, presenting the case for Liberland and its settlement, as well as the investment into its development, abroad both before public and private partners and possible partners. They shall ensure that foreign investment flows into the country and that foreign trade for much-needed goods and services can commence in earnest.
