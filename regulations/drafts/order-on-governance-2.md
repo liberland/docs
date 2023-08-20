@@ -163,11 +163,19 @@ The Minister of Finance shall, together with the Minister of Justice, set up a t
 ### Article 24: International recognition
 The Minister of Foreign Affairs shall ensure that Liberland is recognized, either formally or de facto, by the international community. He shall focus on Croatia and other nations in the Balkans first, then on other countries and international organizations. He shall work on this goal alongside the entire Provisional Government and shall receive assistance from any other member where necessary or expedient.
 
-### Article 25: International relations
+### Article 25: International Relations
 Where recognition remains, for the time being, a difficult goal to achieve, the Minister of Foreign Affairs shall work together with the Secretary of State on establishing de facto ties and diplomatic and consular relations with international partners.
 
-### Article 26: International support for the Settlement
+### Article 26: International Support for the Settlement
 The Minister of Foreign Affairs shall gather international support for the settlement of Liberland, promoting its good name internationally and ensuring that it receives positive attention in the media and on forums relevant for its survival, sustaining, and further development.
 
-### Article 27: Economic diplomacy
+### Article 27: International Representation
+1. The Minister of Foreign Affairs shall, together with the Secretary of State, set up and maintain the existing network of foreign Representative Offices and greatly broaden its reach. They shall ensure that as many of such offices as possible are transformed into regular embassies according to the Vienna Convention on Diplomatic Relations of 1961. 
+2. Besides establishing and maintaining diplomatic relations with their host countries, the Representative Offices shall also spread the good name of Liberland abroad and engage in international efforts, such as humanitarian activities, sporting events, economic projects, rescue efforts, etc.
+
+### Article 28: Economic Diplomacy
 The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of State shall together conduct missions and strategies of economic diplomacy, presenting the case for Liberland and its settlement, as well as the investment into its development, abroad both before public and private partners and possible partners. They shall ensure that foreign investment flows into the country and that foreign trade for much-needed goods and services can commence in earnest.
+
+### Article 29: Services for Citizens Abroad
+1.The Ministry of Foreign Affairs shall promote the recognition of Liberland's Passport and the maintenance and the establishment of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The main aim of these institutions shall be to service traveling Liberlanders and to offer them protection in case they encounter issues while visiting other countries. 
+2. They shall, where needed, establish a system for communication regarding such issues, including the possible repatriation of stranded citizens or criminals.
