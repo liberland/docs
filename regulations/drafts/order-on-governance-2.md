@@ -52,7 +52,12 @@ Primary in importance and taking precedence above all else herein written or oth
 2. The Minister shall ensure that competent personnel is always in place or within 1 hour of Liberland to service the facilities; the desired level of service is that there shall be no power outage longer than 2 hours.
 3. The Minister shall likewise expand the water supply when appropriate to allow for further settlement.
 
-### Article 7: Establishing a Basic Settlement
+### Article 7: Groceries and Supplies
+
+1. The Minister shall ensure the Permanent Settlement is regularly supplied with groceries, hygienic supplies, clothing, repair materials, materials for building and expansion, and other necessities. The maximum delay for a supply delivery shall be 4 hours.
+2. The Minister shall not only set up and maintain the continuous operation of the Permanent Settlement's supply chain but also enable systems by which individual settlers can request and have supplies delivered for themselves or their own projects.
+
+### Article 8: Establishing a Basic Settlement
 
 1) Before a Permanent Settlement can be established, the Minister shall labor tirelessly to ensure with urgency the presence of the following facilities:
 
@@ -60,7 +65,7 @@ Primary in importance and taking precedence above all else herein written or oth
    
    b) showers for ten people,
    
-   c) beds for ten people, where necessary using a communal bedroom or bedrooms,
+   c) beds for ten people, where necessary, using a communal bedroom or bedrooms,
    
    d) winter-hard shelters for ten people which include at least the facilities above.
 
@@ -68,4 +73,14 @@ Primary in importance and taking precedence above all else herein written or oth
 
    f) basic waste management.
 
-2) The Minister shall ensure that all facilities of the Basic Settlement are regularly serviced according to good practices in facilities management, e.g., toilets and showers shall be cleaned several times in a day, rooms shall be cleaned likewise (by occupant or otherwise) and that there is sufficient material to make necessary repairs. There shall be no water outage for longer than 6 hours, there shall be no delay in cleaning for more than 2 hours.
+   g) basic access to groceries, hygienic supplies, clothing and generally the outside world to enable a comfortable long-term survival.
+
+3) The Minister shall ensure that all facilities of the Basic Settlement are regularly serviced according to good practices in facilities management, e.g., toilets and showers shall be cleaned several times in a day, rooms shall be cleaned likewise (by occupant or otherwise) and that there is sufficient material to make necessary repairs. There shall be no water outage for longer than 6 hours, there shall be no delay in cleaning for more than 2 hours.
+
+### Article 9: Establishing the Liberland Marina
+
+The Minister shall establish the Liberland Marina in conformity with my Order 01/2023 on the Liberland Marina.
+
+
+
+
