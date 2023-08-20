@@ -2,7 +2,7 @@
 
 ### Preamble
 
-I, Vit Jedlicka, the first President of Liberland, acting under the authority granted by § 11 of the Articles of the Provisional Government of the Republic of Liberland, and in recognition of the people of Liberland recently having obtained full control of our national homeland, hereby establish certain rules of conduct and higher standards of professionalism for the Provisional Government to better represent our young country. This order represents the first part of the Provisional Government Program and shall be followed by other orders setting out our priorities.
+I, Vít Jedlička, the first President of Liberland, acting under the authority granted by § 11 of the Articles of the Provisional Government of the Republic of Liberland, and in recognition of the people of Liberland recently having obtained full control of our national homeland, hereby establish certain rules of conduct and higher standards of professionalism for the Provisional Government to better represent our young country. This order represents the first part of the Provisional Government Program and shall be followed by other orders setting out our priorities.
 
 ### Article 1: Mindset and Responsibility
 
