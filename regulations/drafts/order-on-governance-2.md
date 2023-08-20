@@ -151,6 +151,12 @@ The Minister of Finance shall create a prospectus for investors using the best a
 
 The Minister of Finance shall set up a transparent cryptocurrency regulation regime, enabling the lawful and moral use of Bitcoin and cryptocurrencies. The aim shall be to encourage and enable a fully functional Bitcoin- or where necessary cryptocurrency-based economic system, while giving victims of crime and international actors sufficient recourse in case of malicious actions.
 
-### Article 22: Regulating financial markets
-1) Mindful of the maxim that a country is capitalistic when a functioning stock market is present, the Minister of Finance shall set up a transparent and internationally conform regulation for the financial markets in Liberland.
-2) The Minister of Finance shall set up together with the Minister of Interior and Minister of Justice the first Liberland market of regulated securities.
+### Article 22: Regulating Financial Markets
+1. Mindful of the maxim that a country is capitalistic when a functioning stock market is present, the Minister of Finance shall set up a transparent and internationally conforming regulation for the financial markets in Liberland.
+2. The Minister of Finance shall, together with the Minister of Interior and Minister of Justice, establish the first Liberland market of regulated securities.
+
+### Article 23: Regulating Real Estate Markets
+The Minister of Finance shall, together with the Minister of Justice, set up a transparent regulatory framework for the real estate markets in Liberland, ensuring a seamless and safe experience for acquiring, trading, and managing real estate. They shall ensure that it is conforming internationally and especially with regards to the legislature of the nearest partner countries and the European Union.
+
+## Chapter 4: Minister of Foreign Affairs
+
