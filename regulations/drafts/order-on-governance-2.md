@@ -95,4 +95,39 @@ The Minister shall ensure that communications for regular traffic are maintained
 
 The Minister shall encourage the establishment of private providers of the services required for the Basic or the Permanent Settlement. The Minister shall continue providing these services until there is a market environment with real competition capable of ensuring a better level of services than what the Minister can provide. This shall be evaluated on a per-service basis.
 
+## Chapter 3: Minister of Finance
 
+### Article 13: Acquire Funding
+
+1. The building and maintenance of the Basic Settlement are likely to cost, when realized in full and long term, about 450,000 USD in one-time investment and about 55,000 USD per month. The Minister of Finance shall secure these funds.
+2. The Minister of Finance shall subsequently expand the settlement funding chest to realize the Permanent Settlement.
+3. The Minister of Finance is authorized and mandated to use all lawful and moral methods, by which we mean lawful and moral in the territory where they will be practiced, in order to facilitate this, with a special focus on:
+
+   a) finding investments,
+   
+   b) starting joint ventures,
+   
+   c) onboarding long-term partners and service providers, in order to privatize certain costs.
+   
+   d) income from providing goods and services.
+
+4. The estimated goal is to enable total, per-settlement spending of 150,000 USD per month and the total Liberland spending of another 150,000 USD per month, with reserves of at least 5 million USD.
+
+### Article 14: Finance Report
+
+1. The Minister of Finance shall perform a thorough audit of all finances which are in fact usable for Liberland, including dedicated private funds where needed. Other Provisional Government members shall aid him in this to the best of their abilities.
+2. The Minister of Finance shall quantify all the actual and projected expenses and create reports. He shall ensure that powerful and transparent reporting tools are in place to realize this goal. This Finance Report shall be published continuously if possible, quarterly if not.
+3. When that becomes financially feasible, the Minister of Finance shall without delay have a third party of high repute conduct an audit of the materials used to prepare the Finance Report and of all Liberland's operations.
+
+### Article 15: Settlement Budget
+
+1. The Minister of Finance shall audit the current preliminary budgetary estimate and shall create and keep up to date calculated budgets for the settlement itself and for the particular parts of it as prudent, at minimum one budget for the entire settlement.
+2. The budget shall be based on real data and rational projections according to the best available economic science and accounting principles and shall be published using tools capable of creating useful reporting.
+
+### Article 16: Search for Investors
+
+The Minister of Finance shall conduct an active and ongoing search for investors and shall set up systems to make this efficient according to the best modern practices.
+
+### Article 17: Investment Prospectus
+
+The Minister of Finance shall create a prospectus for investors using the best available practices. He shall ensure that it is set up in an attractive and professional manner capable of satisfying even the most demanding investors.
