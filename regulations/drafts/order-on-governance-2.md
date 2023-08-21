@@ -398,6 +398,7 @@ The session of the Provisional Government shall be deemed concluded once the Per
 
 8. Upon the transition to the regular Government, the members of the existing Provisional Government shall be offered the posts of Permanent Secretaries. As Permanent Secretaries, they shall serve as Level 7 Agents of the Government, working on a permanent basis for the ministry or resort they previously headed as members of the Provisional Government.
 
+### Article 47: Legal Force
 In witness whereof, this program of the Provisional Government is hereby adopted and shall be in force from the date of its adoption.
 
 Dated this ______ day of ______, 20.
