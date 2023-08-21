@@ -129,12 +129,12 @@ The Minister shall encourage private providers for services required for the Bas
 1. The Minister shall conduct an active and ongoing search for investors, setting up systems for efficiency according to best modern practices.
 2. The Minister shall create an investor prospectus using best practices, ensuring it is attractively and professionally presented to satisfy even the most demanding investors.
 
-### Article 18: Financial Legislation
+### Article 17: Financial Legislation
 
 1. The Minister, in collaboration with the Minister of Justice, shall draft core financial legislation for Liberland, ensuring it fosters a thriving, transparent, internationally compliant, and compatible market environment, with a focus on financial markets. The Ministers shall use examples from notable countries and seek expert advice before publishing their work.
 2. The Ministers shall also establish systems of financial oversight and draft plans to set up institutions required for Liberland to gain international acceptance and lower its risk profile.
 
-### Article 19: Combatting Financial Crime
+### Article 18: Combatting Financial Crime
 
 1. The Minister shall establish systems to prevent and combat financial crimes, ensuring Liberland does not become a haven for financial criminals, including but not limited to
   
@@ -148,70 +148,70 @@ The Minister shall encourage private providers for services required for the Bas
    
 4. The Minister, in collaboration with the Minister of Foreign Affairs, shall seek opportunities for international cooperation in combatting financial crime and money laundering.
 
-### Article 20: Banking
+### Article 19: Banking
 
 1. The Minister shall establish systems enabling Liberland citizens and companies to access banking services easily and in an internationally practical and recognized manner.
 2. The Minister shall establish transparent and flexible banking regulations in Liberland, conforming both internationally and with the Constitution of Liberland.
 
-### Article 21: Cryptocurrency Regulation
+### Article 20: Cryptocurrency Regulation
 
 The Minister shall establish a transparent cryptocurrency regulation regime, enabling lawful and moral use of Bitcoin and cryptocurrencies. The aim is to encourage and enable a fully functional Bitcoin- or cryptocurrency-based economic system while providing victims of crime and international actors sufficient recourse in case of malicious actions.
 
-### Article 22: Regulating Financial Markets
+### Article 21: Regulating Financial Markets
 
 1. In line with the maxim that a country is capitalistic when a functioning stock market is present, the Minister shall establish transparent and internationally conforming regulations for Liberland's financial markets.
 2. The Minister, in collaboration with the Minister of Interior and Minister of Justice, shall establish the first Liberland market of regulated securities.
 
-### Article 23: Regulating Real Estate Markets
+### Article 22: Regulating Real Estate Markets
 
 The Minister, in collaboration with the Minister of Justice, shall establish a transparent regulatory framework for Liberland's real estate markets, ensuring a seamless and safe experience for acquiring, trading, and managing real estate. They shall ensure it conforms internationally, especially with the legislation of the nearest partner countries and the European Union.
 
 ## Chapter 4: Ministry of Foreign Affairs
 
-### Article 24: International Recognition
+### Article 23: International Recognition
 The Minister of Foreign Affairs is tasked with securing international recognition for Liberland, with a focus on Croatia and other Balkan nations, followed by other countries and international organizations. The Minister will work in collaboration with the entire Provisional Government and will receive assistance from other members as needed.
 
-### Article 25: International Relations
+### Article 24: International Relations
 When formal recognition proves challenging, the Minister will work with the Secretary of State to establish de facto ties and diplomatic and consular relations with international partners.
 
-### Article 26: International Support for the Settlement
+### Article 25: International Support for the Settlement
 The Minister will seek international support for the settlement of Liberland, promoting its positive image internationally and ensuring favourable attention in the media and relevant forums for its survival, sustenance, and development.
 
-### Article 27: International Representation
+### Article 26: International Representation
 1. In collaboration with the Secretary of State, the Minister will maintain and expand the existing network of foreign Representative Offices, working to broaden their reach.
 2. They will work to transform as many Representative Offices as possible into regular embassies in accordance with the Vienna Convention on Diplomatic Relations of 1961.
 3. In addition to establishing and maintaining diplomatic relations with host countries, the Representative Offices will promote Liberland's positive image abroad and engage in international efforts, including humanitarian activities, sporting events, economic projects, rescue efforts, etc.
 
-### Article 28: Economic Diplomacy
+### Article 27: Economic Diplomacy
 The Minister, along with the Minister of Finance and the Secretary of State, will conduct economic diplomacy missions and strategies, presenting the case for Liberland and its settlement, as well as investment in its development, to both public and private international partners. They will ensure foreign investment flows into the country and facilitate foreign trade for essential goods and services.
 
-### Article 29: Services for Citizens Abroad
+### Article 28: Services for Citizens Abroad
 1. The Minister will advocate for the recognition of Liberland's Passport and the establishment and maintenance of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The primary aim of these institutions will be to assist and protect travelling Liberlanders who encounter issues in other countries.
 2. The Minister will establish a communication system for addressing such issues, including the potential repatriation of stranded citizens or criminals.
 
-### Article 30: International Organizations
+### Article 29: International Organizations
 1. The Minister, together with the Minister of Justice and other Provisional Government members, will ensure that Liberland becomes and remains a member in good standing of international organizations relevant to its continued success.
 2. Where entry is not yet possible, the Minister will seek observer status or other meaningful relationships with these organizations.
 
-### Article 31: International Customs
+### Article 30: International Customs
 1. Together with the Minister of Justice, the Minister will identify all relevant pieces of binding and soft customary law that are:
    a) binding upon Liberland by virtue of its status as a state and a constructive member of the international community, or
    b) not binding, but where non-compliance would represent a significant reputational risk.
 2. The ministers will present their findings to the Cabinet and, based on its decision, will ensure compliance with all relevant pieces of international law other than international treaties.
 
-### Article 32: International Treaties
+### Article 31: International Treaties
 1. The Minister will create the conditions for entry into multilateral or bilateral international treaties relevant to Liberland's continued success and will manage the operations required for successful accession to these international treaties.
 2. The Minister, together with the Minister of Justice, will ensure that Liberland's legal system, practices, and enforcement are compliant with the relevant international treaties.
 
 ## Chapter 5: Ministry of Justice
 
-### Article 33: The Constitution
+### Article 32: The Constitution
 1. The Minister of Justice is tasked with drafting a Constitution that serves as the fundamental law of the world's freest country. The Constitution should be drafted according to best legislative practices and should align with the classical liberal or libertarian worldview and ethos.
 2. The Constitution will undergo a legislative process that includes extensive public and internal consultations.
 3. The Minister will draft a Commentary on the Constitution and promote the ideas behind the Constitution both within Liberland and internationally.
 4. The Minister will ensure that the Constitution is adopted in a referendum of all citizens, organized according to modern democratic best practices and in compliance with established customs of public international law, including a free and secret ballot.
 
-### Article 34: Basic Legislature
+### Article 33: Basic Legislature
 1. In accordance with Order 2/2021 on Interim Laws, the Minister will draft and ensure the passage of basic legislation as Interim Laws, following best legislative drafting practices and in compliance with classical liberalism or libertarian principles.
 2. The Minister will prepare and process laws on at least the following topics:
 
@@ -247,7 +247,7 @@ The Minister, along with the Minister of Finance and the Secretary of State, wil
    
    p) Reserves Law.
 
-### Article 35: Set Up Government Processes
+### Article 34: Set Up Government Processes
 The Minister will establish processes for the Provisional Government to operate professionally, responsibly, transparently, and positively in line with modern governance standards and the goals of Liberland. This includes, but is not limited to:
 
    a) Inter-ministry legislative process for proposing new legislation to Congress
@@ -256,7 +256,7 @@ The Minister will establish processes for the Provisional Government to operate 
    
    c) Decision-making processes of various kinds (individual ministers and the Cabinet)
 
-### Article 36: Set Up the Liberland Blockchain
+### Article 35: Set Up the Liberland Blockchain
 
 #### Section 1: Blockchain Functionality
 The Minister will ensure the Liberland blockchain meets modern blockchain standards with at least the following features:
@@ -294,20 +294,20 @@ The Minister will establish government processes on the blockchain to enable a s
    
    e) Budgeting function, including reporting, in collaboration with the Minister of Finance
 
-### Article 37: Liberland Metaverse
+### Article 36: Liberland Metaverse
 Together with the Minister of Finance, the Minister will ensure the Liberland Metaverse serves a purpose and supports the primary effort of settling and running the real-life country. Ensure it becomes economically net-positive. If this proves long-term impossible, discontinue it.
 
-### Article 38: Methodical Support
+### Article 37: Methodical Support
 1) The Minister will support other ministers by ensuring they produce high-quality legislative and other output and aiding them to keep up that quality and continuously improve on it.
 2) The Minister will promote and implement good administrative practices across the Provisional Government.
 
-### Article 39: Ensure International Compliance
+### Article 38: Ensure International Compliance
 1) The Minister will ensure that the Provisional Government operates in ways that are internationally compliant, particularly with binding customary public international law and other norms, hard and soft law, where non-compliance would pose a significant reputational risk.
 2) The Minister and the Minister of Foreign Affairs will prepare a list of international treaties that Liberland should enter.
 
 ## Chapter 6: Secretary of State
 
-### Article 40: Foreign Representation
+### Article 39: Foreign Representation
 The Secretary of State will, together with the Minister of Foreign Affairs, represent Liberland internationally, most notably to
 
    a) conduct state visits and organize and preside foreign state visits into Liberland,
@@ -318,7 +318,7 @@ The Secretary of State will, together with the Minister of Foreign Affairs, repr
 
    d) organize and execute other activities that promote Liberland and increase its reputation and promote individual liberty worldwide.
 
-### Article 41: Favorable International Regime
+### Article 40: Favorable International Regime
 The Secretary will work on implementing favourable international regime for the citizens of Liberland, such as 
 
    a) their entry into other countries without a visa,
@@ -331,7 +331,7 @@ The Secretary will work on implementing favourable international regime for the 
 
 ## Chapter 7: The Vice-President
 
-### Article 42: Delegated Responsibilities
+### Article 41: Delegated Responsibilities
 
 1. The Vice-President shall assume the responsibilities of the President as necessary, including but not limited to:
 
@@ -347,11 +347,11 @@ The Secretary will work on implementing favourable international regime for the 
 
 2. The Vice-President shall act in the best interests of Liberland, upholding the principles and objectives set forth in this program and the Constitution of Liberland.
 
-### Article 43: Countersignature Authority
+### Article 42: Countersignature Authority
 
 Upon the maturation of the blockchain system, the Vice-President shall be required to countersign certain actions performed by the President within the system.
 
-### Article 44: Senate Membership
+### Article 43: Senate Membership
 
 1. The Vice-President shall become an active member of the Liberland Senate and shall diligently perform this function in accordance with the highest standards of integrity and in line with his conscience.
 
@@ -359,17 +359,17 @@ Upon the maturation of the blockchain system, the Vice-President shall be requir
 
 3. The Vice-President shall collaborate with other members of the Senate and the broader government to ensure the successful implementation of the blockchain system and its alignment with the goals and objectives of Liberland.
 
-### Article 45: Overseeing the Blockchain
+### Article 44: Overseeing the Blockchain
 
 1. The Vice-President shall provide regular updates to the President and the Cabinet on the status and progress of the blockchain system and shall work to address any issues or challenges that arise.
 
 2. The Vice-President shall work to promote the benefits and potential of the blockchain system both within Liberland and internationally, and shall seek opportunities for collaboration and partnership with other nations and organizations in the field of blockchain technology.
 
 ## Chapter 8: Final Provisions
-### Article 46: Conclusion of the Provisional Government Session
+### Article 45: Conclusion of the Provisional Government Session
 The session of the Provisional Government shall be deemed concluded once the Permanent Settlement is established and at least 65 percent of all Citizens are onboarded on the Liberland Blockchain.
 
-### Article 47: The Transformation of the Government
+### Article 46: The Transformation of the Government
 1. Upon the conclusion of the Provisional Government session, the power shall be transferred to the regular Government as established by the Constitution of Liberland.
 
 2. The President of the Provisional Government shall assume the role of President according to the Constitution of Liberland.
