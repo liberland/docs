@@ -117,7 +117,7 @@ The Minister shall encourage private providers for services required for the Bas
 
 1. The Minister shall conduct a thorough audit of all finances usable for Liberland, including dedicated private funds as needed. Other Provisional Government members shall assist as necessary.
 2. The Minister shall quantify all actual and projected expenses and create reports, ensuring powerful and transparent reporting tools are in place. This Finance Report shall be published continuously if possible, quarterly if not.
-3. When financially feasible, the Minister of Finance shall promptly commission a reputable third party to audit the materials used to prepare the Finance Report and all of Liberland's operations.
+3. When financially feasible, the Minister shall promptly commission a reputable third party to audit the materials used to prepare the Finance Report and all of Liberland's operations.
 
 ### Article 15: Settlement Budget
 
@@ -136,8 +136,17 @@ The Minister shall encourage private providers for services required for the Bas
 
 ### Article 19: Combatting Financial Crime
 
-1. The Minister shall establish systems to prevent and combat financial crimes, ensuring Liberland does not become a haven for financial criminals, including money launderers, financiers of terrorism, tax and other fraudsters, and war profiteers.
-2. The Minister, in collaboration with the Minister of Foreign Affairs, shall seek opportunities for international cooperation in combatting financial crime and money laundering.
+1. The Minister shall establish systems to prevent and combat financial crimes, ensuring Liberland does not become a haven for financial criminals, including but not limited to
+  
+   a) money launderers,
+
+   b) financiers of terrorism,
+
+   c) tax and other fraudsters, and
+
+   d) war profiteers.
+   
+4. The Minister, in collaboration with the Minister of Foreign Affairs, shall seek opportunities for international cooperation in combatting financial crime and money laundering.
 
 ### Article 20: Banking
 
@@ -150,7 +159,7 @@ The Minister shall establish a transparent cryptocurrency regulation regime, ena
 
 ### Article 22: Regulating Financial Markets
 
-1. In line with the maxim that a country is capitalistic when a functioning stock market is present, the Minister of Finance shall establish transparent and internationally conforming regulations for Liberland's financial markets.
+1. In line with the maxim that a country is capitalistic when a functioning stock market is present, the Minister shall establish transparent and internationally conforming regulations for Liberland's financial markets.
 2. The Minister, in collaboration with the Minister of Interior and Minister of Justice, shall establish the first Liberland market of regulated securities.
 
 ### Article 23: Regulating Real Estate Markets
@@ -163,7 +172,7 @@ The Minister, in collaboration with the Minister of Justice, shall establish a t
 The Minister of Foreign Affairs is tasked with securing international recognition for Liberland, with a focus on Croatia and other Balkan nations, followed by other countries and international organizations. The Minister will work in collaboration with the entire Provisional Government and will receive assistance from other members as needed.
 
 ### Article 25: International Relations
-When formal recognition proves challenging, the Minister of Foreign Affairs will work with the Secretary of State to establish de facto ties and diplomatic and consular relations with international partners.
+When formal recognition proves challenging, the Minister will work with the Secretary of State to establish de facto ties and diplomatic and consular relations with international partners.
 
 ### Article 26: International Support for the Settlement
 The Minister will seek international support for the settlement of Liberland, promoting its positive image internationally and ensuring favorable attention in the media and relevant forums for its survival, sustenance, and development.
@@ -296,4 +305,65 @@ Together with the Minister of Finance, the Minister will ensure the Liberland Me
 1) The Minister will ensure that the Provisional Government operates in ways that are internationally compliant, particularly with binding customary Public International Law, and other norms, hard and soft law, where non-compliance would pose a significant reputational risk.
 2) The Minister, together with the Minister of Foreign Affairs, will prepare a list of international treaties that Liberland should enter.
 
+### Article 37: 
 
+## Chapter 6: Secretary of State
+
+### Article 37: Foreign Representation
+The Secretary of State will, together with the Minsiter of Foreign Affairs, represent Liberland internationally, most notably to
+
+   a) conduct state visits and organize and preside foreign state visits into Liberland,
+
+   b) organize the establishment of embassies, consulates and representative offices,
+
+   c) oversee the functioning of the Liberland Aid Foundation and other non-profit initiatives,
+
+   d) organize and execute other activities that promote Liberland and increase its reputation and promote individual liberty worldwide.
+
+### Article 38: Favorable International Regime
+The Secretary will work on implementing favorable international regime for the citizens of Liberland, such as 
+
+   a) their entry into other countries without visa,
+
+   b) the recognition of the Liberland passport and other travel documents,
+
+   c) the recognition, immunity and honouring of Liberland diplomats and diplomatic efforts,
+
+   d) the publicity, good conduct and international acceptance of Liberland-based pro-bono activities.
+
+## Chapter 7: Final Provisions
+### Article 39: Conclusion of the Provisional Government Session
+The session of the Provisional Government shall be deemed concluded once the Permanent Settlement is established and at least 65 percent of all Citizens are onboarded on the Liberland Blockchain.
+
+### Article 40: The Transformation of the Government
+1. Upon the conclusion of the Provisional Government session, the power shall be transferred to the regular Government as established by the Constitution of Liberland.
+
+2. The President of the Provisional Government shall assume the role of President according to the Constitution of Liberland.
+
+3. The new Prime Minister, elected by the Congress, shall become the Head of the Government.
+
+4. All members of the Provisional Government shall cooperate fully with the incoming regular Government to ensure a smooth and efficient transition of power.
+
+5. The Provisional Government shall provide all necessary documentation, records, and information to the incoming regular Government to facilitate the continuation of the governance of Liberland.
+
+6. The Provisional Government shall remain available for consultation and assistance as needed by the incoming regular Government.
+
+7. This program of the Provisional Government shall cease to have effect upon the transfer of power to the regular Government, except for the following provisions:
+
+   a) All actions taken by the Provisional Government shall be deemed ratified and confirmed by the incoming regular Government.
+
+   b) The incoming regular Government shall continue to uphold the principles and objectives set forth in this program, as well as any other principles and objectives established by the Constitution of Liberland.
+
+   c) The incoming regular Government shall work diligently to further the development and prosperity of Liberland and to uphold the rights and freedoms of its citizens.
+
+   d) The incoming regular Government shall continue to seek international recognition and support for Liberland and shall work to establish and maintain positive relations with other nations and international organizations.
+
+   e) The incoming regular Government shall continue to promote the ideals of individual liberty, free markets, and limited government both within Liberland and internationally.
+
+   f) The incoming regular Government shall work to ensure the continued success and growth of Liberland as a free and prosperous nation.
+
+8. Upon the transition to the regular Government, the members of the existing Provisional Government shall be offered the posts of Permanent Secretaries. As Permanent Secretaries, they shall serve as Level 7 Agents of the Government, working on a permanent basis for the ministry or resort they previously headed as members of the Provisional Government.
+
+In witness whereof, this program of the Provisional Government is hereby adopted and shall be in force from the date of its adoption.
+
+Dated this ______ day of ______, 20.
