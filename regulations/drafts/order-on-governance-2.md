@@ -221,3 +221,51 @@ The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of S
    
    p) Reserves Law.
 
+### Article 32:  
+
+### Article 32: Set up government processes
+Set up the processes for the Provisional Government to act in a professional, responsible, transparent and positive manner, conducive to the high standards of modern governance and the purposes of Liberland. This shall include, but not be limited to the:
+
+a) inter-ministry legislative process for proposing new legisaltion to the Congress,
+
+b) inter-ministry legislative process for proposing new Regulations,
+
+c) decision making processes of various kind (individual ministers and the Cabinet),
+
+### Article 33: Set up the Liberland Blockchain
+
+#### Section 1: Blockchain functionality
+Make sure the Liberland blockchain is running up to standards of modern blockchains with at least the following features and circulmstances being true:
+
+a) there are at least 10 000 active individual addresses, not all KYCed,
+
+b) at least 65 percent of all citizens are onboarded,
+
+c) there are independent builders active on the chain,
+
+d) the cryptocurrencies are and remain exchangeable on at least one decentralized exchange,
+
+e) the chain is audited and there is a legal opinion regarding the non-security status of both tokens,
+
+f) there is a functional community around the chain and the online presence, like the landing page, the wiki and the blockchain frontend, are in place.
+
+#### Section 2: Decentralized autonomous government
+Set up the government processes on the blockchain to enable a seamless transition from the Provisional Government to the regular Government:
+
+a) Have the legislature (Referendum, Congress) online and functioning,
+
+b) Have the executive (Cabinet, Offices, Registries) online and functioning,
+
+c) Have the Senate online and functioning,
+
+d) Have the Judiciary online and functioning, including
+
+   i)   the blockchain functionality for dispute resolution,
+
+   ii)  the frontend to use it,
+
+   iii) the marketplace for judges,
+
+   iv)  the engine for traditional contract generation and management. 
+
+e) the budgetting function including reporting, to be built together with the Minister of Finance.
