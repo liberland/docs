@@ -96,4 +96,6 @@ All workings, accounts, decision-making, and deliberations of the Provisional Go
 
 ### Article 9: Legal Force
 
-This Order shall be immediately binding to the Cabinet and all the Provisional Government Members.
+This program of the Provisional Government is hereby adopted and shall be in force from the date of its adoption.
+
+Dated this ______ day of ______, 20.
