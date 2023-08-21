@@ -12,8 +12,8 @@ Our foremost priority is to preserve our existing access to the territory of Lib
 
 #### Section 2: Safeguarding the Wellbeing of Our People
 
-1. Equally important is our commitment to protecting the life, health, and wellbeing of all individuals currently residing in Liberland or acting on behalf of the settlement from outside its borders. This includes addressing threats to health, safety, and basic living conditions, such as illness, injury, environmental hazards, hygiene, nutrition, clean clothing, and shelter.
-2. We also prioritize the health and wellbeing of those traveling to and from Liberland.
+1. Equally important is our commitment to protecting the life, health, and well-being of all individuals currently residing in Liberland or acting on behalf of the settlement from outside its borders. This includes addressing threats to health, safety, and basic living conditions, such as illness, injury, environmental hazards, hygiene, nutrition, clean clothing, and shelter.
+2. We also prioritize the health and well-being of those travelling to and from Liberland.
 
 #### Section 3: Implementing Core Objectives
 
@@ -32,7 +32,7 @@ Our foremost priority is to preserve our existing access to the territory of Lib
 
 1. The Minister of Interior's priority is to establish, maintain, and expand a Permanent Settlement in Liberland. A Permanent Settlement is defined as a collection of buildings, facilities, infrastructure, and communications, staffed by regular personnel and frequented by private settlers, providing at least a basic level of comfort for indefinite stays.
 2. This goal is achieved when we can accommodate 20 or more settlers indefinitely in conditions comparable to a one-star hotel.
-3. If the Minister is temporarily unable to fulfill this priority, the responsibility falls upon me.
+3. If the Minister is temporarily unable to fulfil this priority, the responsibility falls upon me.
 
 ### Article 4: Power and Power Management
 
@@ -59,7 +59,7 @@ Our foremost priority is to preserve our existing access to the territory of Lib
 
 ### Article 8: Internet Access
 
-The Minister shall be responsible for establishing and maintaining internet access throughout the Permanent Settlement and ensuring the functionality of the internet access system. The desired service level is no internet outage longer than 3 hours.
+The Minister shall be responsible for establishing and maintaining Internet access throughout the Permanent Settlement and ensuring the functionality of the Internet access system. The desired service level is no internet outage longer than 3 hours.
 
 ### Article 9: Basic Settlement Establishment
 
@@ -175,7 +175,7 @@ The Minister of Foreign Affairs is tasked with securing international recognitio
 When formal recognition proves challenging, the Minister will work with the Secretary of State to establish de facto ties and diplomatic and consular relations with international partners.
 
 ### Article 26: International Support for the Settlement
-The Minister will seek international support for the settlement of Liberland, promoting its positive image internationally and ensuring favorable attention in the media and relevant forums for its survival, sustenance, and development.
+The Minister will seek international support for the settlement of Liberland, promoting its positive image internationally and ensuring favourable attention in the media and relevant forums for its survival, sustenance, and development.
 
 ### Article 27: International Representation
 1. In collaboration with the Secretary of State, the Minister will maintain and expand the existing network of foreign Representative Offices, working to broaden their reach.
@@ -186,7 +186,7 @@ The Minister will seek international support for the settlement of Liberland, pr
 The Minister, along with the Minister of Finance and the Secretary of State, will conduct economic diplomacy missions and strategies, presenting the case for Liberland and its settlement, as well as investment in its development, to both public and private international partners. They will ensure foreign investment flows into the country and facilitate foreign trade for essential goods and services.
 
 ### Article 29: Services for Citizens Abroad
-1. The Minister will advocate for the recognition of Liberland's Passport and the establishment and maintenance of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The primary aim of these institutions will be to assist and protect traveling Liberlanders who encounter issues in other countries.
+1. The Minister will advocate for the recognition of Liberland's Passport and the establishment and maintenance of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The primary aim of these institutions will be to assist and protect travelling Liberlanders who encounter issues in other countries.
 2. The Minister will establish a communication system for addressing such issues, including the potential repatriation of stranded citizens or criminals.
 
 ### Article 30: International Organizations
@@ -197,7 +197,7 @@ The Minister, along with the Minister of Finance and the Secretary of State, wil
 1. Together with the Minister of Justice, the Minister will identify all relevant pieces of binding and soft customary law that are:
    a) binding upon Liberland by virtue of its status as a state and a constructive member of the international community, or
    b) not binding, but where non-compliance would represent a significant reputational risk.
-2. The ministers will present their findings to the Cabinet, and based on its decision, will ensure compliance with all relevant pieces of international law other than international treaties.
+2. The ministers will present their findings to the Cabinet and, based on its decision, will ensure compliance with all relevant pieces of international law other than international treaties.
 
 ### Article 32: International Treaties
 1. The Minister will create the conditions for entry into multilateral or bilateral international treaties relevant to Liberland's continued success and will manage the operations required for successful accession to these international treaties.
@@ -248,7 +248,7 @@ The Minister, along with the Minister of Finance and the Secretary of State, wil
    p) Reserves Law.
 
 ### Article 32: Set Up Government Processes
-The Minister will establish processes for the Provisional Government to operate professionally, responsibly, transparently, and positively, in line with modern governance standards and the goals of Liberland. This includes, but is not limited to:
+The Minister will establish processes for the Provisional Government to operate professionally, responsibly, transparently, and positively in line with modern governance standards and the goals of Liberland. This includes, but is not limited to:
 
    a) Inter-ministry legislative process for proposing new legislation to Congress
    
@@ -271,7 +271,7 @@ The Minister will ensure the Liberland blockchain meets modern blockchain standa
    
    e) The chain is audited, and there is a legal opinion regarding the non-security status of both tokens
    
-   f) A functional community exists around the chain, and online presence is established
+   f) A functional community exists around the chain, and an online presence is established
 
 #### Section 2: Decentralized Autonomous Government
 The Minister will establish government processes on the blockchain to enable a seamless transition from the Provisional Government to the regular Government:
@@ -298,19 +298,19 @@ The Minister will establish government processes on the blockchain to enable a s
 Together with the Minister of Finance, the Minister will ensure the Liberland Metaverse serves a purpose and supports the primary effort of settling and running the real-life country. Ensure it becomes economically net-positive. If this proves long-term impossible, discontinue it.
 
 ### Article 35: Methodical Support
-1) The Minister will support other ministers by ensuring high-quality legislative and other output.
+1) The Minister will support other ministers by ensuring they produce high-quality legislative and other output and aiding them to keep up that quality and continuously improve on it.
 2) The Minister will promote and implement good administrative practices across the Provisional Government.
 
 ### Article 36: Ensure International Compliance
-1) The Minister will ensure that the Provisional Government operates in ways that are internationally compliant, particularly with binding customary Public International Law, and other norms, hard and soft law, where non-compliance would pose a significant reputational risk.
-2) The Minister, together with the Minister of Foreign Affairs, will prepare a list of international treaties that Liberland should enter.
+1) The Minister will ensure that the Provisional Government operates in ways that are internationally compliant, particularly with binding customary public international law and other norms, hard and soft law, where non-compliance would pose a significant reputational risk.
+2) The Minister and the Minister of Foreign Affairs will prepare a list of international treaties that Liberland should enter.
 
 ### Article 37: 
 
 ## Chapter 6: Secretary of State
 
 ### Article 37: Foreign Representation
-The Secretary of State will, together with the Minsiter of Foreign Affairs, represent Liberland internationally, most notably to
+The Secretary of State will, together with the Minister of Foreign Affairs, represent Liberland internationally, most notably to
 
    a) conduct state visits and organize and preside foreign state visits into Liberland,
 
@@ -321,9 +321,9 @@ The Secretary of State will, together with the Minsiter of Foreign Affairs, repr
    d) organize and execute other activities that promote Liberland and increase its reputation and promote individual liberty worldwide.
 
 ### Article 38: Favorable International Regime
-The Secretary will work on implementing favorable international regime for the citizens of Liberland, such as 
+The Secretary will work on implementing favourable international regime for the citizens of Liberland, such as 
 
-   a) their entry into other countries without visa,
+   a) their entry into other countries without a visa,
 
    b) the recognition of the Liberland passport and other travel documents,
 
