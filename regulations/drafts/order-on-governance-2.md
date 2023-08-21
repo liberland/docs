@@ -205,13 +205,13 @@ The Minister, along with the Minister of Finance and the Secretary of State, wil
 
 ## Chapter 5: Ministry of Justice
 
-### Article 30: The Constitution
+### Article 33: The Constitution
 1. The Minister of Justice is tasked with drafting a Constitution that serves as the fundamental law of the world's freest country. The Constitution should be drafted according to best legislative practices and should align with the classical liberal or libertarian worldview and ethos.
 2. The Constitution will undergo a legislative process that includes extensive public and internal consultations.
 3. The Minister will draft a Commentary on the Constitution and promote the ideas behind the Constitution both within Liberland and internationally.
 4. The Minister will ensure that the Constitution is adopted in a referendum of all citizens, organized according to modern democratic best practices and in compliance with established customs of public international law, including a free and secret ballot.
 
-### Article 31: Basic Legislature
+### Article 34: Basic Legislature
 1. In accordance with Order 2/2021 on Interim Laws, the Minister will draft and ensure the passage of basic legislation as Interim Laws, following best legislative drafting practices and in compliance with classical liberalism or libertarian principles.
 2. The Minister will prepare and process laws on at least the following topics:
 
@@ -247,7 +247,7 @@ The Minister, along with the Minister of Finance and the Secretary of State, wil
    
    p) Reserves Law.
 
-### Article 32: Set Up Government Processes
+### Article 35: Set Up Government Processes
 The Minister will establish processes for the Provisional Government to operate professionally, responsibly, transparently, and positively in line with modern governance standards and the goals of Liberland. This includes, but is not limited to:
 
    a) Inter-ministry legislative process for proposing new legislation to Congress
@@ -256,7 +256,7 @@ The Minister will establish processes for the Provisional Government to operate 
    
    c) Decision-making processes of various kinds (individual ministers and the Cabinet)
 
-### Article 33: Set Up the Liberland Blockchain
+### Article 36: Set Up the Liberland Blockchain
 
 #### Section 1: Blockchain Functionality
 The Minister will ensure the Liberland blockchain meets modern blockchain standards with at least the following features:
@@ -294,20 +294,20 @@ The Minister will establish government processes on the blockchain to enable a s
    
    e) Budgeting function, including reporting, in collaboration with the Minister of Finance
 
-### Article 34: Liberland Metaverse
+### Article 37: Liberland Metaverse
 Together with the Minister of Finance, the Minister will ensure the Liberland Metaverse serves a purpose and supports the primary effort of settling and running the real-life country. Ensure it becomes economically net-positive. If this proves long-term impossible, discontinue it.
 
-### Article 35: Methodical Support
+### Article 38: Methodical Support
 1) The Minister will support other ministers by ensuring they produce high-quality legislative and other output and aiding them to keep up that quality and continuously improve on it.
 2) The Minister will promote and implement good administrative practices across the Provisional Government.
 
-### Article 36: Ensure International Compliance
+### Article 39: Ensure International Compliance
 1) The Minister will ensure that the Provisional Government operates in ways that are internationally compliant, particularly with binding customary public international law and other norms, hard and soft law, where non-compliance would pose a significant reputational risk.
 2) The Minister and the Minister of Foreign Affairs will prepare a list of international treaties that Liberland should enter.
 
 ## Chapter 6: Secretary of State
 
-### Article 37: Foreign Representation
+### Article 40: Foreign Representation
 The Secretary of State will, together with the Minister of Foreign Affairs, represent Liberland internationally, most notably to
 
    a) conduct state visits and organize and preside foreign state visits into Liberland,
@@ -318,7 +318,7 @@ The Secretary of State will, together with the Minister of Foreign Affairs, repr
 
    d) organize and execute other activities that promote Liberland and increase its reputation and promote individual liberty worldwide.
 
-### Article 38: Favorable International Regime
+### Article 41: Favorable International Regime
 The Secretary will work on implementing favourable international regime for the citizens of Liberland, such as 
 
    a) their entry into other countries without a visa,
@@ -331,7 +331,7 @@ The Secretary will work on implementing favourable international regime for the 
 
 ## Chapter 7: The Vice-President
 
-### Article 39: Delegated Responsibilities
+### Article 42: Delegated Responsibilities
 
 1. The Vice-President shall assume the responsibilities of the President as necessary, including but not limited to:
 
@@ -347,11 +347,11 @@ The Secretary will work on implementing favourable international regime for the 
 
 2. The Vice-President shall act in the best interests of Liberland, upholding the principles and objectives set forth in this program and the Constitution of Liberland.
 
-### Article 40: Countersignature Authority
+### Article 43: Countersignature Authority
 
 Upon the maturation of the blockchain system, the Vice-President shall be required to countersign certain actions performed by the President within the system.
 
-### Article 41: Senate Membership
+### Article 44: Senate Membership
 
 1. The Vice-President shall become an active member of the Liberland Senate and shall diligently perform this function in accordance with the highest standards of integrity and in line with his conscience.
 
@@ -359,17 +359,17 @@ Upon the maturation of the blockchain system, the Vice-President shall be requir
 
 3. The Vice-President shall collaborate with other members of the Senate and the broader government to ensure the successful implementation of the blockchain system and its alignment with the goals and objectives of Liberland.
 
-### Article 42: Overseeing the Blockchain
+### Article 45: Overseeing the Blockchain
 
 1. The Vice-President shall provide regular updates to the President and the Cabinet on the status and progress of the blockchain system and shall work to address any issues or challenges that arise.
 
 2. The Vice-President shall work to promote the benefits and potential of the blockchain system both within Liberland and internationally, and shall seek opportunities for collaboration and partnership with other nations and organizations in the field of blockchain technology.
 
 ## Chapter 8: Final Provisions
-### Article 43: Conclusion of the Provisional Government Session
+### Article 46: Conclusion of the Provisional Government Session
 The session of the Provisional Government shall be deemed concluded once the Permanent Settlement is established and at least 65 percent of all Citizens are onboarded on the Liberland Blockchain.
 
-### Article 44: The Transformation of the Government
+### Article 47: The Transformation of the Government
 1. Upon the conclusion of the Provisional Government session, the power shall be transferred to the regular Government as established by the Constitution of Liberland.
 
 2. The President of the Provisional Government shall assume the role of President according to the Constitution of Liberland.
