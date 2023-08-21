@@ -349,7 +349,7 @@ The Secretary will work on implementing favourable international regime for the 
 
 ### Article 40: Countersignature Authority
 
-1. Upon the maturation of the blockchain system, the Vice-President shall be required to countersign certain actions performed by the President within the system.
+Upon the maturation of the blockchain system, the Vice-President shall be required to countersign certain actions performed by the President within the system.
 
 ### Article 41: Senate Membership
 
