@@ -305,8 +305,6 @@ Together with the Minister of Finance, the Minister will ensure the Liberland Me
 1) The Minister will ensure that the Provisional Government operates in ways that are internationally compliant, particularly with binding customary public international law and other norms, hard and soft law, where non-compliance would pose a significant reputational risk.
 2) The Minister and the Minister of Foreign Affairs will prepare a list of international treaties that Liberland should enter.
 
-### Article 37: 
-
 ## Chapter 6: Secretary of State
 
 ### Article 37: Foreign Representation
@@ -331,11 +329,47 @@ The Secretary will work on implementing favourable international regime for the 
 
    d) the publicity, good conduct and international acceptance of Liberland-based pro-bono activities.
 
-## Chapter 7: Final Provisions
-### Article 39: Conclusion of the Provisional Government Session
+## Chapter 7: The Vice-President
+
+### Article 39: Delegated Responsibilities
+
+1. The Vice-President shall assume the responsibilities of the President as necessary, including but not limited to:
+
+   a) Organizing and presiding over Cabinet meetings and other official sessions.
+   
+   b) Ensuring the cohesive and effective functioning of the Cabinet.
+   
+   c) Representing Liberland at the highest levels of international diplomacy.
+   
+   d) Casting the deciding vote in instances where the President is unable to be present.
+   
+   e) Making decisions in areas specifically designated by the President.
+
+2. The Vice-President shall act in the best interests of Liberland, upholding the principles and objectives set forth in this program and the Constitution of Liberland.
+
+### Article 40: Countersignature Authority
+
+1. Upon the maturation of the blockchain system, the Vice-President shall be required to countersign certain actions performed by the President within the system.
+
+### Article 41: Senate Membership
+
+1. The Vice-President shall become an active member of the Liberland Senate and shall diligently perform this function in accordance with the highest standards of integrity and in line with his conscience.
+
+2. The Vice-President shall work to ensure the transparency, accountability, and effectiveness of the blockchain system and shall contribute to its ongoing development and improvement.
+
+3. The Vice-President shall collaborate with other members of the Senate and the broader government to ensure the successful implementation of the blockchain system and its alignment with the goals and objectives of Liberland.
+
+### Article 42: Overseeing the Blockchain
+
+1. The Vice-President shall provide regular updates to the President and the Cabinet on the status and progress of the blockchain system and shall work to address any issues or challenges that arise.
+
+2. The Vice-President shall work to promote the benefits and potential of the blockchain system both within Liberland and internationally, and shall seek opportunities for collaboration and partnership with other nations and organizations in the field of blockchain technology.
+
+## Chapter 8: Final Provisions
+### Article 43: Conclusion of the Provisional Government Session
 The session of the Provisional Government shall be deemed concluded once the Permanent Settlement is established and at least 65 percent of all Citizens are onboarded on the Liberland Blockchain.
 
-### Article 40: The Transformation of the Government
+### Article 44: The Transformation of the Government
 1. Upon the conclusion of the Provisional Government session, the power shall be transferred to the regular Government as established by the Constitution of Liberland.
 
 2. The President of the Provisional Government shall assume the role of President according to the Constitution of Liberland.
