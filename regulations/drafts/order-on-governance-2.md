@@ -100,8 +100,8 @@ The Minister shall encourage the establishment of private providers of the servi
 ### Article 13: Acquire Funding
 
 1. The building and maintenance of the Basic Settlement are likely to cost, when realized in full and long term, about 450,000 USD in one-time investment and about 55,000 USD per month. The Minister of Finance shall secure these funds.
-2. The Minister of Finance shall subsequently expand the settlement funding chest to realize the Permanent Settlement.
-3. The Minister of Finance is authorized and mandated to use all lawful and moral methods, by which we mean lawful and moral in the territory where they will be practiced, in order to facilitate this, with a special focus on:
+2. The Minister shall subsequently expand the settlement funding chest to realize the Permanent Settlement.
+3. The Ministere is authorized and mandated to use all lawful and moral methods, by which we mean lawful and moral in the territory where they will be practiced, in order to facilitate this, with a special focus on:
 
    a) finding investments,
    
@@ -115,79 +115,80 @@ The Minister shall encourage the establishment of private providers of the servi
 
 ### Article 14: Fiscal Reporting
 
-1. The Minister of Finance shall perform a thorough audit of all finances which are in fact usable for Liberland, including dedicated private funds where needed. Other Provisional Government members shall aid him in this to the best of their abilities.
-2. The Minister of Finance shall quantify all the actual and projected expenses and create reports. He shall ensure that powerful and transparent reporting tools are in place to realize this goal. This Finance Report shall be published continuously if possible, quarterly if not.
+1. The Minister shall perform a thorough audit of all finances which are in fact usable for Liberland, including dedicated private funds where needed. Other Provisional Government members shall aid him in this to the best of their abilities.
+2. The Minister shall quantify all the actual and projected expenses and create reports. He shall ensure that powerful and transparent reporting tools are in place to realize this goal. This Finance Report shall be published continuously if possible, quarterly if not.
 3. When it becomes financially feasible, the Minister of Finance shall, without delay, have a third party of high repute conduct an audit of the materials used to prepare the Finance Report and of all Liberland's operations.
 
 ### Article 15: Settlement Budget
 
-1. The Minister of Finance shall audit the current preliminary budgetary estimate and shall create and keep up to date calculated budgets for the settlement itself and for the particular parts of it as prudent, at minimum one budget for the entire settlement.
+1. The Minister shall audit the current preliminary budgetary estimate and shall create and keep up to date calculated budgets for the settlement itself and for the particular parts of it as prudent, at minimum one budget for the entire settlement.
 2. The budget shall be based on real data and rational projections according to the best available economic science and accounting principles and shall be published using tools capable of creating useful reporting.
 
 ### Article 16: Search for Investors
 
-1. The Minister of Finance shall conduct an active and ongoing search for investors and shall set up systems to make this efficient according to the best modern practices.
-2. The Minister of Finance shall create a prospectus for investors using the best available practices. He shall ensure that it is set up in an attractive and professional manner capable of satisfying even the most demanding investors.
+1. The Minister shall conduct an active and ongoing search for investors and shall set up systems to make this efficient according to the best modern practices.
+2. The Minister shall create a prospectus for investors using the best available practices. He shall ensure that it is set up in an attractive and professional manner capable of satisfying even the most demanding investors.
 
 ### Article 18: Financial Legislation
 
-1. The Minister of Finance shall, together with the Minister of Justice, draft the core financial legislation of Liberland, ensuring that it is built up to create a thriving, transparent, and internationally compliant and compatible market environment, with a special focus on financial markets. The Ministers shall use examples from other countries of note and shall obtain advice from experts before publishing their work.
+1. The Minister shall, together with the Minister of Justice, draft the core financial legislation of Liberland, ensuring that it is built up to create a thriving, transparent, and internationally compliant and compatible market environment, with a special focus on financial markets. The Ministers shall use examples from other countries of note and shall obtain advice from experts before publishing their work.
 2. The Ministers shall also set up systems of financial oversight and draft the plan to set up institutions required for Liberland to be acceptable internationally and to lower its risk profile.
 
 ### Article 19: Combatting Financial Crime
 
-1. The Minister of Finance shall set up systems to prevent and combat financial crimes and to ensure Liberland doesn't become a haven for financial criminals, including but not limited to money launderers, financiers of terrorism, tax and other fraudsters, and war profiteers.
-2. The Minister of Finance shall, together with the Minister of Foreign Affairs, seek out opportunities for international cooperation in matters of combatting financial crime and money laundering.
+1. The Minister shall set up systems to prevent and combat financial crimes and to ensure Liberland doesn't become a haven for financial criminals, including but not limited to money launderers, financiers of terrorism, tax and other fraudsters, and war profiteers.
+2. The Minister shall, together with the Minister of Foreign Affairs, seek out opportunities for international cooperation in matters of combatting financial crime and money laundering.
 
 ### Article 20: Banking
 
-1) The Minister of Finance shall set up a system or systems enabling Liberland citizens and companies to be banked in an easy and internationally practical and recognized manner.
-2) The Minister of Finance shall set forth a transparent and flexible regulation for banking in Liberland conform both internationally and with the Constitution of Liberland.
+1) The Minister shall set up a system or systems enabling Liberland citizens and companies to be banked in an easy and internationally practical and recognized manner.
+2) The Minister shall set forth a transparent and flexible regulation for banking in Liberland conform both internationally and with the Constitution of Liberland.
 
 ### Article 21: Cryptocurrency Regulation
 
-The Minister of Finance shall set up a transparent cryptocurrency regulation regime, enabling the lawful and moral use of Bitcoin and cryptocurrencies. The aim shall be to encourage and enable a fully functional Bitcoin- or where necessary cryptocurrency-based economic system, while giving victims of crime and international actors sufficient recourse in case of malicious actions.
+The Minister shall set up a transparent cryptocurrency regulation regime, enabling the lawful and moral use of Bitcoin and cryptocurrencies. The aim shall be to encourage and enable a fully functional Bitcoin- or where necessary cryptocurrency-based economic system, while giving victims of crime and international actors sufficient recourse in case of malicious actions.
 
 ### Article 22: Regulating Financial Markets
 1. Mindful of the maxim that a country is capitalistic when a functioning stock market is present, the Minister of Finance shall set up a transparent and internationally conforming regulation for the financial markets in Liberland.
-2. The Minister of Finance shall, together with the Minister of Interior and Minister of Justice, establish the first Liberland market of regulated securities.
+2. The Minister shall, together with the Minister of Interior and Minister of Justice, establish the first Liberland market of regulated securities.
 
 ### Article 23: Regulating Real Estate Markets
-The Minister of Finance shall, together with the Minister of Justice, set up a transparent regulatory framework for the real estate markets in Liberland, ensuring a seamless and safe experience for acquiring, trading, and managing real estate. They shall ensure that it is conforming internationally and especially with regards to the legislature of the nearest partner countries and the European Union.
+The Minister shall, together with the Minister of Justice, set up a transparent regulatory framework for the real estate markets in Liberland, ensuring a seamless and safe experience for acquiring, trading, and managing real estate. They shall ensure that it is conforming internationally and especially with regards to the legislature of the nearest partner countries and the European Union.
 
 ## Chapter 4: Minister of Foreign Affairs
 
 ### Article 24: International recognition
-The Minister of Foreign Affairs shall ensure that Liberland is recognized, either formally or de facto, by the international community. He shall focus on Croatia and other nations in the Balkans first, then on other countries and international organizations. He shall work on this goal alongside the entire Provisional Government and shall receive assistance from any other member where necessary or expedient.
+The Minister shall ensure that Liberland is recognized, either formally or de facto, by the international community. He shall focus on Croatia and other nations in the Balkans first, then on other countries and international organizations. He shall work on this goal alongside the entire Provisional Government and shall receive assistance from any other member where necessary or expedient.
 
 ### Article 25: International Relations
 Where recognition remains, for the time being, a difficult goal to achieve, the Minister of Foreign Affairs shall work together with the Secretary of State on establishing de facto ties and diplomatic and consular relations with international partners.
 
 ### Article 26: International Support for the Settlement
-The Minister of Foreign Affairs shall gather international support for the settlement of Liberland, promoting its good name internationally and ensuring that it receives positive attention in the media and on forums relevant for its survival, sustaining, and further development.
+The Minister shall gather international support for the settlement of Liberland, promoting its good name internationally and ensuring that it receives positive attention in the media and on forums relevant for its survival, sustaining, and further development.
 
 ### Article 27: International Representation
-1) The Minister of Foreign Affairs shall, together with the Secretary of State, set up and maintain the existing network of foreign Representative Offices. They shall work to expand it and to greatly broaden its reach.
+1) The Minister, together with the Secretary of State, set up and maintain the existing network of foreign Representative Offices. They shall work to expand it and to greatly broaden its reach.
 2) They shall ensure that as many such offices as possible are transformed into regular embassies according to the Vienna Convention on Diplomatic Relations of 1961. 
 3) Besides establishing and maintaining diplomatic relations with their host countries, the Representative Offices shall also spread the good name of Liberland abroad and engage in international efforts, such as humanitarian activities, sporting events, economic projects, rescue efforts, etc.
 
 ### Article 28: Economic Diplomacy
-The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of State shall together conduct missions and strategies of economic diplomacy, presenting the case for Liberland and its settlement, as well as the investment into its development, abroad both before public and private partners and possible partners. They shall ensure that foreign investment flows into the country and that foreign trade for much-needed goods and services can commence in earnest.
+The Minister, the Minister of Finance, and the Secretary of State shall together conduct missions and strategies of economic diplomacy, presenting the case for Liberland and its settlement, as well as the investment into its development, abroad both before public and private partners and possible partners. They shall ensure that foreign investment flows into the country and that foreign trade for much-needed goods and services can commence in earnest.
 
 ### Article 29: Services for Citizens Abroad
-1) The Ministry of Foreign Affairs shall promote the recognition of Liberland's Passport and the maintenance and the establishment of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The main aim of these institutions shall be to service traveling Liberlanders and to offer them protection in case they encounter issues while visiting other countries. 
+1) The Minister shall promote the recognition of Liberland's Passport and the maintenance and the establishment of honorary and regular consulate offices abroad, as per the Vienna Convention on Consular Relations of 1963. The main aim of these institutions shall be to service traveling Liberlanders and to offer them protection in case they encounter issues while visiting other countries. 
 2) They shall, where needed, establish a system for communication regarding such issues, including the possible repatriation of stranded citizens or criminals.
 
 ## Chapter 5: Minister of Justice
 
 ### Article 30: The Constitution
-1. The Minister of Justice shall ensure that Liberland has a Constitution capable of functioning as the basic law of the world's freest country. The Constitution shall be drafted according to the best practices of legislative drafting and shall conform to the classical liberal, or libertarian, worldview and ethos.
-2. The Minister of Justice shall draft a Commentary on the Constitution and shall promote the ideas behind the Constitution both within Liberland and internationally.
-3. The Minister of Justice shall ensure that the Constitution is adopted in a referendum of all citizens organized according to the best practices of modern democracy and conform to the standing customs of public international law, most notably in a free and secret ballot.
+1. The Minister shall draft a Constitution capable of functioning as the basic law of the world's freest country. The Constitution shall be drafted according to the best practices of legislative drafting and shall conform to the classical liberal, or libertarian, worldview and ethos.
+2. The Constitution shall undergo a legislative process consisting of extensive public and internal consultations.
+3. The Minister shall draft a Commentary on the Constitution and shall promote the ideas behind the Constitution both within Liberland and internationally.
+4. The Minister shall ensure that the Constitution is adopted in a referendum of all citizens organized according to the best practices of modern democracy and conform to the standing customs of public international law, most notably in a free and secret ballot.
 
 ### Article 31: Basic Legislature
-1. Conforming with my Order 2/2021 on Interim Laws, the Minister of Justice shall draft and ensure the passage as Interim Laws of the basic legislature according to best available practices of legislative drafting and in compliance with the principles of classical liberalism or libertarianism.
-2. The Minister of Justice shall prepare and process laws on at least the following topics:
+1. Conforming with my Order 2/2021 on Interim Laws, the Minister shall draft and ensure the passage as Interim Laws of the basic legislature according to best available practices of legislative drafting and in compliance with the principles of classical liberalism or libertarianism.
+2. The Minister shall prepare and process laws on at least the following topics:
 
    a) Contract Law
    
@@ -221,51 +222,56 @@ The Minister of Foreign Affairs, the Minister of Finance, and the Secretary of S
    
    p) Reserves Law.
 
-### Article 32:  
-
 ### Article 32: Set up government processes
-Set up the processes for the Provisional Government to act in a professional, responsible, transparent and positive manner, conducive to the high standards of modern governance and the purposes of Liberland. This shall include, but not be limited to the:
+The Minister shall set up the processes for the Provisional Government to act in a professional, responsible, transparent, and positive manner, conducive to the high standards of modern governance and the purposes of Liberland. This shall include, but not be limited to the:
 
-a) inter-ministry legislative process for proposing new legisaltion to the Congress,
-
-b) inter-ministry legislative process for proposing new Regulations,
-
-c) decision making processes of various kind (individual ministers and the Cabinet),
+   a) inter-ministry legislative process for proposing new legislation to the Congress,
+   
+   b) inter-ministry legislative process for proposing new Regulations,
+   
+   c) decision-making processes of various kinds (individual ministers and the Cabinet).
 
 ### Article 33: Set up the Liberland Blockchain
 
 #### Section 1: Blockchain functionality
-Make sure the Liberland blockchain is running up to standards of modern blockchains with at least the following features and circulmstances being true:
+Make sure the Liberland blockchain is running up to standards of modern blockchains with at least the following features and circumstances being true:
 
-a) there are at least 10 000 active individual addresses, not all KYCed,
-
-b) at least 65 percent of all citizens are onboarded,
-
-c) there are independent builders active on the chain,
-
-d) the cryptocurrencies are and remain exchangeable on at least one decentralized exchange,
-
-e) the chain is audited and there is a legal opinion regarding the non-security status of both tokens,
-
-f) there is a functional community around the chain and the online presence, like the landing page, the wiki and the blockchain frontend, are in place.
+   a) there are at least 10,000 active individual addresses, not all KYCed,
+   
+   b) at least 65 percent of all citizens are onboarded,
+   
+   c) there are independent builders active on the chain,
+   
+   d) the cryptocurrencies are and remain exchangeable on at least one decentralized exchange,
+   
+   e) the chain is audited and there is a legal opinion regarding the non-security status of both tokens,
+   
+   f) there is a functional community around the chain and the online presence, like the landing page, the wiki, and the blockchain frontend, are in place.
 
 #### Section 2: Decentralized autonomous government
 Set up the government processes on the blockchain to enable a seamless transition from the Provisional Government to the regular Government:
 
-a) Have the legislature (Referendum, Congress) online and functioning,
+   a) Have the legislature (Referendum, Congress) online and functioning,
+   
+   b) Have the executive (Cabinet, Offices, Registries) online and functioning,
+   
+   c) Have the Senate online and functioning,
+   
+   d) Have the Judiciary online and functioning, including
+   
+      i)   the blockchain functionality for dispute resolution,
+      
+      ii)  the frontend to use the judiciary,
+      
+      iii) the marketplace for judges,
+      
+      iv)  the engine for traditional contract generation and management.
+   
+   e) the budgeting function including reporting, to be built together with the Minister of Finance.
 
-b) Have the executive (Cabinet, Offices, Registries) online and functioning,
+### Article 34: Liberland Metaverse
+Together with the Minister of Finance, ensure the Liberland Metaverse has a purpose and aids the primary effort of settling and running the real-life country. Ensure it becomes economically net-positive. If this should become long-term impossible, have it discontinued.
 
-c) Have the Senate online and functioning,
 
-d) Have the Judiciary online and functioning, including
 
-   i)   the blockchain functionality for dispute resolution,
 
-   ii)  the frontend to use it,
-
-   iii) the marketplace for judges,
-
-   iv)  the engine for traditional contract generation and management. 
-
-e) the budgetting function including reporting, to be built together with the Minister of Finance.
