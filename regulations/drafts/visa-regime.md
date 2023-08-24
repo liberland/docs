@@ -23,7 +23,7 @@
 #### Section 1: Temporary Visa for non-Citizens
 1. Non-Citizens shall be obliged to apply for a Temporary Visa prior to entry into the territory, in conformity with Article 37 of the Border Law.
 2. Applications must be submitted and processed through electronic means, specifically via the [Border Registration Website](border.liberland.org).
-3. Non-Citizens must complete the provided form and remit the requisite fee.
+3. Non-Citizens must complete the provided form and remit the requisite fee before they are allowed entry into Liberland.
 
 #### Section 2: Sanctions
 IBIS shall record the sanction of 5 LLM in the account of a non-Citizen who
