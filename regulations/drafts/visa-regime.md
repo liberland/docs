@@ -28,9 +28,9 @@
 #### Section 2: Sanctions
 IBIS shall record the sanction of 5 LLM in the account of a non-Citizen who
 
-a) upon entry into Liberland or upon being requested subsequently failed to present a valid Temporary Visa; or
+  a) upon entry into Liberland or upon being requested subsequently failed to present a valid Temporary Visa; or
 
-b) while staying in Liberland, fails to present a valid Temporary Visa upon request.
+  b) while staying in Liberland, fails to present a valid Temporary Visa upon request.
 
 ### Article 3: Residence Visa and Settlement Privileges
 
