@@ -53,6 +53,6 @@ In circumstances where the establishment of Border Crossing Points is rendered u
 ### Article 5: Registration Fee
 The administrative fee, reflecting the actual costs associated with registration and Identification per applicant, is hereby established at 5 LLM or an equivalent amount in other currencies accepted by the Government.
 
-### Article 5: Commencement and Duration of Legal Force
+### Article 6: Legal Force
 
 This Edict shall come into legal force with immediate effect and shall remain operative until the establishment of a Permanent Settlement within the territory.
