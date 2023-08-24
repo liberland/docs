@@ -13,7 +13,7 @@
 
 ## Regulation
 
-##### Article 1: Citizen Entry and Settlement Regime
+#### Article 1: Citizen Entry and Settlement Regime
 
 1. Conform with Article 47 Section 1 of the Border Law, Citizens shall be exempt from any Visa requirements and may reside within the territory indefinitely, subject to compliance with the rules governing settlement within Liberland.
 2. Citizens are respectfully requested to register and bear any associated registration costs, where applicable.
