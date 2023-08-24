@@ -50,8 +50,8 @@ The IBIS personnel shall endeavor to create Permanent or Temporary Border Crossi
 #### Section 3: Alternative Measures
 In circumstances where the establishment of Border Crossing Points is rendered unfeasible due to factors beyond Government control, IBIS officers shall perform border checks at any viable locations. They shall make concerted efforts to transparently communicate the current locations designated for Identification.
 
-### Article 4: Registration Fee
-The administrative fee, reflecting the actual costs associated with registration per applicant, is hereby established at 5 LLM or an equivalent amount in other currencies accepted by the Government.
+### Article 5: Registration Fee
+The administrative fee, reflecting the actual costs associated with registration and Identification per applicant, is hereby established at 5 LLM or an equivalent amount in other currencies accepted by the Government.
 
 ### Article 5: Commencement and Duration of Legal Force
 
