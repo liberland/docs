@@ -1,4 +1,4 @@
-## Edict of the Ministry of Interior on the Interim Visa Regime and Entry Rules into Liberland
+## Edict of the Ministry of Interior on the Interim Visa Regime and Rules of Entry into Liberland
 
 ## Preface
 1. In accordance with the Interim Border Law, this Regulation delineates the specific protocols for initial entry into the territory of Liberland.
