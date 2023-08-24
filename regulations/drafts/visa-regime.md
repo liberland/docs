@@ -38,6 +38,18 @@ b) while staying in Liberland, fails to present a valid Temporary Visa upon requ
 2. A Residence Visa, along with the corresponding settlement privileges, may be granted in person within Liberland to a Non-Citizen who can substantiate valid reasons for seeking settlement without pursuing citizenship.
 3. Acceptable justifications may include fear of legal persecution arising from the laws of another jurisdiction or reasonable apprehension of extralegal processes that may be faced upon acquiring citizenship.
 
+### Article 4: Border Control Regime
+
+#### Section 1: Establishment of Border Crossing Points
+The IBIS personnel shall endeavor to create Permanent or Temporary Border Crossing Points in compliance with Chapter 2 of the Border Law.
+
+#### Section 2: Entry Requirements
+1. All visitors to Liberland shall be obligated to report to their nearest Border Crossing Point upon entry for Identification, in accordance with Chapter 3 of the Border Law. 
+2. Visitors must actively seek out the Border Crossing Point and initiate the identification procedure without delay.
+
+#### Section 3: Alternative Measures
+In circumstances where the establishment of Border Crossing Points is rendered unfeasible due to factors beyond Government control, IBIS officers shall perform border checks at any viable locations. They shall make concerted efforts to transparently communicate the current locations designated for Identification.
+
 ### Article 4: Registration Fee
 The administrative fee, reflecting the actual costs associated with registration per applicant, is hereby established at 5 LLM or an equivalent amount in other currencies accepted by the Government.
 
