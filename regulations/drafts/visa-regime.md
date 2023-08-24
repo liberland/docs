@@ -20,9 +20,17 @@
 
 ### Article 2: Non-Citizen Entry and Temporary Stay Regime
 
+#### Section 1: Temporary Visa for non-Citizens
 1. Non-Citizens shall be obliged to apply for a Temporary Visa prior to entry into the territory, in conformity with Article 37 of the Border Law.
 2. Applications must be submitted and processed through electronic means, specifically via the [Border Registration Website](border.liberland.org).
 3. Non-Citizens must complete the provided form and remit the requisite fee.
+
+#### Section 2: Sanctions
+IBIS shall record the sanction of 5 LLM in the account of a non-Citizen who
+
+a) upon entry into Liberland or upon being requested subsequently failed to present a valid Temporary Visa; or
+
+b) while staying in Liberland, fails to present a valid Temporary Visa upon request.
 
 ### Article 3: Residence Visa and Settlement Privileges
 
@@ -30,6 +38,9 @@
 2. A Residence Visa, along with the corresponding settlement privileges, may be granted in person within Liberland to a Non-Citizen who can substantiate valid reasons for seeking settlement without pursuing citizenship.
 3. Acceptable justifications may include fear of legal persecution arising from the laws of another jurisdiction or reasonable apprehension of extralegal processes that may be faced upon acquiring citizenship.
 
-### Article 4: Commencement and Duration of Legal Force
+### Article 4: Registration Fee
+The administrative fee, reflecting the actual costs associated with registration per applicant, is hereby established at 5 LLM or an equivalent amount in other currencies accepted by the Government.
+
+### Article 5: Commencement and Duration of Legal Force
 
 This Edict shall come into legal force with immediate effect and shall remain operative until the establishment of a Permanent Settlement within the territory.
