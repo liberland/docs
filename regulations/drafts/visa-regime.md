@@ -48,7 +48,8 @@ The IBIS personnel shall endeavor to create Permanent or Temporary Border Crossi
 2. Visitors must actively seek out the Border Crossing Point and initiate the identification procedure without delay.
 
 #### Section 3: Alternative Measures
-In circumstances where the establishment of Border Crossing Points is rendered unfeasible due to factors beyond Government control, IBIS officers shall perform their duties according to the Border Law at any viable locations. They shall make concerted efforts to transparently communicate the current locations designated for Identification.
+1. In circumstances where the establishment of Border Crossing Points is rendered unfeasible due to factors beyond Government control, IBIS officers shall perform their duties according to the Border Law at any viable locations, and the visitors shall seek such locations out where they would otherwise visit a Border Crossing Point. 
+2. IBIS personnel shall make concerted efforts to transparently communicate the current locations designated for Identification.
 
 ### Article 5: Registration Fee
 The administrative fee, reflecting the actual costs associated with registration and Identification per applicant, is hereby established at 5 LLM or an equivalent amount in other currencies accepted by the Government.
