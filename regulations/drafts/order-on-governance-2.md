@@ -28,9 +28,9 @@ Our foremost priority is to preserve our existing access to the territory of Lib
 
 ## Chapter 2: Ministry of Interior
 
-### Article 3: Permanent Settlement Establishment
+### Article 3: Developed Settlement Establishment
 
-1. The Minister of Interior's priority is to establish, maintain, and expand a Permanent Settlement in Liberland. A Permanent Settlement is defined as a collection of buildings, facilities, infrastructure, and communications, staffed by regular personnel and frequented by private settlers, providing at least a basic level of comfort for indefinite stays.
+1. The Minister of Interior's priority is to establish, maintain, and expand a Developed Settlement in Liberland. A Developed Settlement is defined as a collection of buildings, facilities, infrastructure, and communications, staffed by regular personnel and frequented by private settlers, providing at least a basic level of comfort for indefinite stays.
 2. This goal is achieved when we can accommodate 20 or more settlers indefinitely in conditions comparable to a one-star hotel.
 3. If the Minister is temporarily unable to fulfil this priority, the responsibility falls upon me.
 
@@ -54,16 +54,16 @@ Our foremost priority is to preserve our existing access to the territory of Lib
 
 ### Article 7: Groceries and Supplies
 
-1. The Minister shall ensure the Permanent Settlement is regularly supplied with groceries, hygienic supplies, clothing, repair materials, building materials, and other necessities. The maximum delivery delay shall be 4 hours.
-2. The Minister shall establish and maintain a continuous supply chain for the Permanent Settlement and enable systems for individual settlers to request and receive supplies for personal projects.
+1. The Minister shall ensure the Developed Settlement is regularly supplied with groceries, hygienic supplies, clothing, repair materials, building materials, and other necessities. The maximum delivery delay shall be 4 hours.
+2. The Minister shall establish and maintain a continuous supply chain for the Developed Settlement and enable systems for individual settlers to request and receive supplies for personal projects.
 
 ### Article 8: Internet Access
 
-The Minister shall be responsible for establishing and maintaining Internet access throughout the Permanent Settlement and ensuring the functionality of the Internet access system. The desired service level is no internet outage longer than 3 hours.
+The Minister shall be responsible for establishing and maintaining Internet access throughout the Developed Settlement and ensuring the functionality of the Internet access system. The desired service level is no internet outage longer than 3 hours.
 
-### Article 9: Basic Settlement Establishment
+### Article 9: Initial Settlement Establishment
 
-1. Before establishing a Permanent Settlement, the Minister shall urgently ensure the presence of the following facilities for a Basic Settlement:
+1. Before establishing a Developed Settlement, the Minister shall urgently ensure the presence of the following facilities for a Basic Settlement:
 
    a) Toilets for ten people
    
@@ -93,14 +93,14 @@ The Minister shall ensure communications for regular traffic are maintained and 
 
 ### Article 12: Privatization
 
-The Minister shall encourage private providers for services required for the Basic or Permanent Settlement. The Minister shall continue providing these services until a competitive market environment can ensure better service levels. This shall be evaluated on a per-service basis.
+The Minister shall encourage private providers for services required for the Basic or Developed Settlement. The Minister shall continue providing these services until a competitive market environment can ensure better service levels. This shall be evaluated on a per-service basis.
 
 ## Chapter 3: Ministry of Finance
 
 ### Article 13: Funding Acquisition
 
 1. The Minister of Finance is tasked with securing funds for the establishment and maintenance of the Basic Settlement, estimated at approximately 450,000 USD in one-time investment and about 55,000 USD per month.
-2. The Minister shall subsequently expand the settlement funding chest to realize the Permanent Settlement.
+2. The Minister shall subsequently expand the settlement funding chest to realize the Developed Settlement.
 3. The Minister is authorized and mandated to use all lawful and moral methods to facilitate this, with a special focus on:
 
    a) Seeking investments
@@ -367,7 +367,7 @@ Upon the maturation of the blockchain system, the Vice-President shall be requir
 
 ## Chapter 8: Final Provisions
 ### Article 45: Conclusion of the Provisional Government Session
-The session of the Provisional Government shall be deemed concluded once the Permanent Settlement is established and at least 65 percent of all Citizens are onboarded on the Liberland Blockchain.
+The session of the Provisional Government shall be deemed concluded once the Developed Settlement is established and at least 65 percent of all Citizens are onboarded on the Liberland Blockchain.
 
 ### Article 46: The Transformation of the Government
 1. Upon the conclusion of the Provisional Government session, the power shall be transferred to the regular Government as established by the Constitution of Liberland.
