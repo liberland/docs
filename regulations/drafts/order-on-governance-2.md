@@ -63,7 +63,7 @@ The Minister shall be responsible for establishing and maintaining Internet acce
 
 #### Article 9: Initial Settlement Establishment
 
-1. Before establishing a Developed Settlement, the Minister shall urgently ensure the presence of the following facilities for a Basic Settlement:
+1. Before establishing a Developed Settlement, the Minister shall urgently ensure the presence of the following facilities for a Initial Settlement:
 
    a) Toilets for ten people
    
@@ -81,7 +81,7 @@ The Minister shall be responsible for establishing and maintaining Internet acce
    
    h) Basic internet access for limited office work
 
-3. The Minister shall ensure regular servicing of all Basic Settlement facilities according to good facilities management practices. There shall be no water outage longer than 6 hours, and no cleaning delay longer than 2 hours.
+3. The Minister shall ensure regular servicing of all Initial Settlement facilities according to good facilities management practices. There shall be no water outage longer than 6 hours, and no cleaning delay longer than 2 hours.
 
 #### Article 10: Liberland Marina Establishment
 
@@ -99,7 +99,7 @@ The Minister shall encourage private providers for services required for the Bas
 
 #### Article 13: Funding Acquisition
 
-1. The Minister of Finance is tasked with securing funds for the establishment and maintenance of the Basic Settlement, estimated at approximately 450,000 USD in one-time investment and about 55,000 USD per month.
+1. The Minister of Finance is tasked with securing funds for the establishment and maintenance of the Initial Settlement, estimated at approximately 450,000 USD in one-time investment and about 55,000 USD per month.
 2. The Minister shall subsequently expand the settlement funding chest to realize the Developed Settlement.
 3. The Minister is authorized and mandated to use all lawful and moral methods to facilitate this, with a special focus on:
 
