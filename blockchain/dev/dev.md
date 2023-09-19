@@ -19,11 +19,7 @@ sudo apt install build-essential git clang curl libssl-dev llvm libudev-dev make
 Next install Rust itself. Run and follow prompts:
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
-
-Switch to Rust Nightly:
-```
-rustup default nightly-2023-01-01
+rustup default stable
 ```
 
 And install WASM target:
