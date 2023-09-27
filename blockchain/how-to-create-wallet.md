@@ -15,7 +15,7 @@ To use Polkadot.js browser extension, you first need to install it on your brows
 3. Follow the prompts to install the extension.
 4. Once the extension is installed, a new icon will appear in your browser toolbar.
 
-![Screenshot 2023-08-31 at 17.40.51.png](./media/polkadotjs-installed.png)
+![Screenshot 2023-08-31 at 17.40.51.png](../media/polkadotjs-installed.png)
 
 ## Creating a Wallet with Polkadot.js Browser Extension
 
@@ -36,17 +36,17 @@ To create a wallet using Polkadot.js browser extension, follow these steps:
 3. Select “Add the account with the generated seed.”
 4. Your new account is now created, and you can use it to send and receive cryptocurrency on the Liberland Blockchain, and other similar networks.
 
-![Screenshot 2023-08-31 at 17.42.18.png](./media/polkadotjs-welcome.png)
+![Screenshot 2023-08-31 at 17.42.18.png](../media/polkadotjs-welcome.png)
 
-![Screenshot 2023-08-31 at 17.42.52.png](./media/polkadotjs-seed.png)
+![Screenshot 2023-08-31 at 17.42.52.png](../media/polkadotjs-seed.png)
 
-![Screenshot 2023-08-31 at 17.43.08.png](./media/polkadotjs-name-password.png)
+![Screenshot 2023-08-31 at 17.43.08.png](../media/polkadotjs-name-password.png)
 
-![Screenshot 2023-08-31 at 17.43.28.png](./media/polkadotjs-name-password-filled.png)
+![Screenshot 2023-08-31 at 17.43.28.png](../media/polkadotjs-name-password-filled.png)
 
-![Screenshot 2023-08-31 at 17.43.59.png](./media/polkadotjs-empty.png)
+![Screenshot 2023-08-31 at 17.43.59.png](../media/polkadotjs-empty.png)
 
-![Screenshot 2023-08-31 at 17.48.48.png](./media/polkadotjs-complete.png)
+![Screenshot 2023-08-31 at 17.48.48.png](../media/polkadotjs-complete.png)
 
 ## Managing Your Wallet with Polkadot.js Browser Extension
 
