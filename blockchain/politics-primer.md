@@ -38,7 +38,7 @@ In addition, Liberland has a distinct referendum type known as the Public Veto, 
 
    a)  an onboarded citizen with a wallet
 
-   b) your wallet contains 5000 LLM politpooled.
+   b) your wallet contains 5000 LLM PolitiPooled.
 
 2. Go to (the blockchain frontend)[blockchain.liberland.org].
 3. Go to Voting

@@ -23,22 +23,22 @@ Those with many tokens staked into them will decide
 Liberland's design positions LLM as the ultimate tokenization of political power on the chain and within Liberland. It should serve as a stable "currency" of power, providing a predictable level of influence in Liberland's political landscape.
 
 ## Politicians - Vote Counters Dilemma
-Utilizing the standard governance token scheme, those best positioned to become politicians are also likely to be well-suited to become validators.
+Utilizing the standard governance token scheme, those best positioned to become politicians are also likely to be well-suited to become Validators.
 Validators act as vote counters when considering the blockchain as a means for organizing elections, as is the case in Liberland.
-Both politicians and validators are defined by substantial holdings of the governance token or the ability to secure trust from other parties, manifested as "borrowed" holdings through nominations or votes.
+Both politicians and Validators are defined by substantial holdings of the governance token or the ability to secure trust from other parties, manifested as "borrowed" holdings through nominations or votes.
 
 The similarity between votes and nominations can lead to the centralization of power.
 
 Issues mitigated on blockchains by anonymity (and other means) become significant concerns in a State-on-blockchain due to the stricter transparency requirements of states when deciding on public matters on behalf of all citizens.
 
 ## Deflationary vs. Inflationary
-LLM is designed as deflationary to preserve political power. Conversely, the governance token must be inflationary to continuously incentivize validators to create new blocks.
+LLM is designed as deflationary to preserve political power. Conversely, the governance token must be inflationary to continuously incentivize Validators to create new blocks.
 
-Without this incentive, validators would lose motivation if emission decreases without a corresponding increase in price, causing transaction fees to rise beyond what people are reasonably willing to pay.
+Without this incentive, Validators would lose motivation if emission decreases without a corresponding increase in price, causing transaction fees to rise beyond what people are reasonably willing to pay.
  
  ## Chosen Solution
 The adopted solution is to split the governance token concept into:
-- The network governance coin for validators, nominators, and on-chain currency, and
+- The network governance coin for Validators, Nominators, and on-chain currency, and
 - The political token.
 
 By implementing this split, we can maintain the design without compromises and achieve full functionality of nPoS and the public blockchain core of our system.
