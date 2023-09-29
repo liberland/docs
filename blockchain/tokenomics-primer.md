@@ -9,7 +9,7 @@ To counter this, we have separated the Validator power from the governance power
 ### Overview
 Liberland Merit (LLM) is the governance token representing a share in the State and nationhood of Liberland. LLM is not a security created with the expectation of revenue; instead, it is legally close to shares in joint ownership, like in case of housing cooperatives; LLM represents one's share in the country. Governance power is connected to LLM, and there is no possibility of other governance and no separating of this power from the token.
 
-![LLM Inflation Chart.png](media/LLDMokenomics.png)
+![LLM Inflation Chart.png](media/LLMTokenomics.png)
 
 ### PolitiPooling
 To prevent plutocratic concentration of power, one can only utilize LLM in politics if one vests them on a tight schedule. This vesting is called "PolitiPooling." PolitiPooled LLM is locked, and the user can only unvest 10 percent in a year: payable monthly, 1/12th of 1/10th of total vested amount, each month.
