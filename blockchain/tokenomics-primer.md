@@ -9,7 +9,7 @@ To counter this, we have separated the Validator power from the governance power
 ### Overview
 Liberland Merit (LLM) is the governance token representing a share in the State and nationhood of Liberland. LLM is not a security created with the expectation of revenue; instead, it is legally close to shares in joint ownership, like in case of housing cooperatives; LLM represents one's share in the country. Governance power is connected to LLM, and there is no possibility of other governance and no separating of this power from the token.
 
-![LLM Inflation Chart.png](media/LLMTokenomics.png)
+![LLM Management Flow](media/LLMTokenomics.png)
 
 ### PolitiPooling
 To prevent plutocratic concentration of power, one can only utilize LLM in politics if one vests them on a tight schedule. This vesting is called "PolitiPooling." PolitiPooled LLM is locked, and the user can only unvest 10 percent in a year: payable monthly, 1/12th of 1/10th of total vested amount, each month.
@@ -27,14 +27,14 @@ Liberland Dollar is the second official currency of Liberland after Bitcoin (BTC
 2. the coin for Validators and Nominators to stake and, thereby, secure the chain and gain rewards, which are also paid in LLD.
 Please note that when we say "official currency," we mean government unit of accounting. Everybody in Liberland is able to pay with whatever currency, barter, favours or other means of exchange the seller will accept, without any government interference.
 
-![LLD Inflation Chart.png](media/LLDTokenomics.png)
+![LLD Inflation Chart](media/LLDTokenomics.png)
 
 ### Tokenomics
 #### General
 The tokenomics of LLD resemble that of Polkadot (DOT). The system is based on Parity's Substrate framework, which powers the Polkadot blockchain and parachains. The main mechanisms have been created by researchers and tested by auditors and in practice. [You can read about it in detail here](https://wiki.polkadot.network/docs/maintain-polkadot-parameters). We will introduce the basic concepts in the remainder of this primer.
 
 #### Initial Money Supply
-The system plans to issue **1 300 000 LLD** at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies. Likewise to LLM, the initial price was, and still, is 1 USD per 1 LLD. Despite the name, LLD is not a stablecoin but tradeable digital money, just like BTC. As such, the price will be strictly market-based.
+The system plans to issue **1 300 000 LLD** at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies. Likewise to LLM, the initial price was, and still is, 1 USD per 1 LLD. Despite the name, LLD is not a stablecoin but tradeable digital money, just like BTC. As such, the price will be strictly market-based.
 
 #### Increase in Money Supply
 The increase in money supply is set by the system and is constant. The initial increase is 10 percent per annum, subject to change by governance, hence, the coin holders. Coin holders are, by the virtue of their coin ownership, incentivized to keep the increase in money supply relatively low and sustainable. This increase needs to be non-zero because the higher it is, the more incentive Validators and Nominators have to keep the chain decentralized.

@@ -57,6 +57,23 @@ Once you have created a wallet with Polkadot.js browser extension, you can manag
 3. Clicking the + button allows you to create new accounts, derive new wallet addresses from the existing account, export accounts, and more.
 4. To receive cryptocurrency, click the icon that looks like two overlaid pieces of paper to copy your wallet address, then share your wallet address with the sender.
 
+## Updating your Liberland Profile
+
+To ensure you receive LLD and LLM in your wallet when Liberland Blockchain launches, please do the following:
+
+1. Open Polkadotjs
+2. Click the copy icon (two pieces of paper overlapping; see image below) 
+3. Log in to your account at liberland.org
+4. Find the 'Profile' box and select 'Edit'
+5. Scroll down to the bottom of your profile and find the 'Blockchain information' field
+6. Paste in your Liberland Blockchain wallet address
+7. Select 'Save changes'
+
+** Note: This is currently a one-time option. You cannot edit the blockchain information field after you save this change.
+
+![polkadotjs-copy](media/polkadotjs-copy.png)
+![profile-blockchain-info](media/profile-blockchain-info.png)
+
 ## Conclusion
 
 Creating a wallet using Polkadot.js browser extension is a simple process that allows you to interact with the Liberland Blockchain directly from your browser. With the extension, you can create and manage your account. By following the steps outlined in this guide, you can easily create a wallet and start using the Liberland Blockchain.
