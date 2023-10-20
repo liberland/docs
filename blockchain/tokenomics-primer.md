@@ -28,7 +28,7 @@ Liberland Dollar is the native coin of Liberland Blockchain. Its primary purpose
 
 Similarly, the price of LLD will be determined by open markets once LLD is available widely.
 
-Please note that any references to an "official currency" or "preferred currency" refers solely to a government unit of accounting. There is no legal tender for Liberland. Everybody in Liberland is able to pay with whatever currency, barter, favours or other means of exchange the seller will accept, without any government interference.
+Please note that any references to a "preferred currency" refers solely to a government unit of accounting. There is no legal tender in Liberland. Everybody in Liberland is able to pay with whatever currency, barter, favours or other means of exchange the seller will accept, without any government interference.
 
 ![LLD Inflation Chart](media/LLDTokenomics.png)
 
