@@ -2,11 +2,11 @@
 
 ## Overview
 
-The Senate is the House of Lords of Liberland. We describe Liberland as a place where corporate governance meets Swiss democracy, and the Senate is the locus of the former: An august body of the citizens who have the most to lose should Liberland fail, whose fortunes are intertwined with those of the State. An influential investor in Liberland may become a partner at Liberland LLC and thereby be granted the seat of a Senator in Liberland. This status will come into effect when our Blockchain-based government starts working in earnest and is not conditional on gaining complete control over the land.
+The Senate is the House of Lords of Liberland. We describe Liberland as a place where corporate governance meets Swiss democracy, and the Senate is the locus of the former: An august body of the citizens who have the most to lose should Liberland fail, whose fortunes are intertwined with those of the State. This status will come into effect when our Blockchain-based government starts working in earnest and is not conditional on gaining complete control over the land.
 
 ## The Office of Senator
 
-A Senator will first be interacting with the community using the Virtual Liberland platform, where they will learn to know the people of Liberland and establish their newly gained status. Later, the Senator might join us at the physical location of Liberland or remain a distant but active force, safeguarding the future and influencing the direction of Liberland. How they will make their senatorship work is all up to the Senator!
+A Senator will first be interacting with the community using the Liberland governance platform, where they will learn to know the people of Liberland and establish their newly gained status. Later, the Senator might join us at the physical location of Liberland or remain a distant but active force, safeguarding the future and influencing the direction of Liberland. How they will make their senatorship work is all up to the Senator!
 
 ## Senator Share
 
@@ -27,7 +27,7 @@ A Senator’s soft power is the influence and the prestige the office enjoys: wi
 
 ## Shares and Profits
 
-You will receive LLM (Liberland Merits) for your investment. The Merit is a cryptocurrency running on our blockchain. The currency is deflationary, somewhat similar to BTC (Bitcoin). The market cap is fixed at 70 million. With your Merit, you also gain the right to a share in Liberland’s profits. You will be among the first to obtain your share when these dividends are distributed.
+As Senator, you receive LLM (Liberland Merits) for your time. The Merit is a cryptocurrency running on our blockchain. The currency is deflationary, somewhat similar to BTC (Bitcoin). The market cap is fixed at 70 million. With your Merit, you also gain the right to a share in Liberland’s profits. You will be among the first to obtain your share when these dividends are distributed.
 
 ## Your Seat, Your Style
 

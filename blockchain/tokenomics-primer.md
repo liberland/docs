@@ -3,7 +3,7 @@
 ## Division of Power
 As all modern democratic countries, Liberland employs division of power in its government and, thereby, also on its blockchain governance mechanism. The main concentration of power on a blockchain is in the node owners and those who write new blocks - the Validators. In a DAO, the power of democracy in the system would directly derive from ownership of the coin that the Validators and Nominators use. Such a concentration of power is not desirable, as, in effect, it would ensure with mathematic certainty that those best poised to become officials in Liberland would also be those who count the votes.
 
-To counter this, we have separated the Validator power from the governance power. So the two-toekn system was born: the governance token, Liberland Merit (LLM), and the coin, Liberland Dollar (LLD).
+To counter this, we have separated the Validator power from the governance power. So the two-token system was born: the governance token, Liberland Merit (LLM), and the coin, Liberland Dollar (LLD).
 
 ## Liberland Merit (LLM)
 ### Overview
@@ -18,14 +18,17 @@ To prevent plutocratic concentration of power, one can only utilize LLM in polit
 Liberland, as a country, acknowledges the importance of citizenship. Only Citizens with 5000 PolitiPooled (a.k.a. staked) LLM have full political rights associated with citizenship in Liberland. In this way, Liberland replaces the usual requirements proving a personal connection to the country through vesting. Where one should gain "honorary citizenship" for their contributions, they won't be able to vote in elections or referenda unless they also PolitiPool. We can expect those who commit their funds to Liberland long-term to have a provable bond with the land and a stake in the country's success. 
 
 ### Tokenomics
-Inspired by Bitcoin (BTC), the LLM has a fixed maximum supply of **70 000 000** tokens. With the expected losses due to lost addresses and other factors, this token will, in time, become deflationary. The initial price for LLM was 1 USD, increased to 2 USD on 11 September 2023, and will change frequently when LLM begins to trade on the open market. According to Liberland's ethos and paraphrasing Adam Smith, the price of 1 LMM will be "whatever the purchasers are willing to pay for it."
+Inspired by Bitcoin (BTC), LLM has a fixed maximum supply of **70 000 000** tokens. With losses expected due to lost wallets and other factors, this token will, in time, become deflationary. The initial price for LLM was 1 USD, increased to 2 USD on 11 September 2023, and will change frequently when LLM begins to trade on the open market. According to Liberland's ethos and paraphrasing Adam Smith, the price of 1 LLM will be "whatever the purchasers are willing to pay for it."
 
 ## Liberland Dollar (LLD)
 ### Overview
-Liberland Dollar is the second official currency of Liberland after Bitcoin (BTC) - the digital silver to BTC's digital gold. Its primary purpose will be twofold, namely:  
-1. the money to purchase goods and services (mainly off-chain), hence, the medium to record market values of primarily real-world articles; and
-2. the coin for Validators and Nominators to stake and, thereby, secure the chain and gain rewards, which are also paid in LLD.
-Please note that when we say "official currency," we mean government unit of accounting. Everybody in Liberland is able to pay with whatever currency, barter, favours or other means of exchange the seller will accept, without any government interference.
+Liberland Dollar is the native coin of Liberland Blockchain. Its primary purposes are:  
+1. the coin for Validators and Nominators to stake and, thereby, secure the chain and gain rewards, which are also paid in LLD; and
+2. the money to purchase goods and services (mainly off-chain), hence, the medium to record market values of primarily real-world articles.
+
+Similarly, the price of LLD will be determined by open markets once LLD is available widely.
+
+Please note that any references to a "preferred currency" refers solely to a government unit of accounting. There is no legal tender in Liberland. Everybody in Liberland is able to pay with whatever currency, barter, favours or other means of exchange the seller will accept, without any government interference.
 
 ![LLD Inflation Chart](media/LLDTokenomics.png)
 
