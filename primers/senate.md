@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Senate is the House of Lords of Liberland. We describe Liberland as a place where corporate governance meets Swiss democracy, and the Senate is the locus of the former: An august body of the citizens who have the most to lose should Liberland fail, whose fortunes are intertwined with those of the State. This status will come into effect when our Blockchain-based government starts working in earnest and is not conditional on gaining complete control over the land.
+The Senate is the House of Lords of Liberland. We describe Liberland as a place where corporate governance meets Swiss democracy, and the Senate is the locus of the former: An august body of the citizens who have the most to lose should Liberland fail. This status will come into effect when our Blockchain-based government starts working in earnest and is not conditional on gaining complete control over the land.
 
 ## The Office of Senator
 
