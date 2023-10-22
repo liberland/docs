@@ -57,7 +57,9 @@ The increase in money supply is set by the system and is constant. The initial i
 [Nominators](https://wiki.polkadot.network/docs/learn-staking#selection-of-Validators) ensure the true decentralization of the chain. Anyone can be a Nominator and becoming one is the question of having some LLD and setting up a stash. Nominators don't get reward for hosting a node, but for staking their LLD into a node of an existing Validator, hereby increasing their chance at nomination.
 
 ## Listing
-The plan is to list our coins first on a cecentralized exchange (CEX) of good repute early in Q4 of 2023, along with decentralized exchanges that will make it easier for Citizens, e-Residents and other supporters to easily obtain LLD and LLM. The team appears to gravitate towards bridging to the ETH ecosystem at the moment, but is not beyond considering other options. Decentralized exchanges of good repute are, in the opinion of the team, closer related with Satoshi's vision of peer-to-peer electronic cash than centralized exchanges.
+The plan is to list our coins first on a centralized exchange (CEX) of good repute early in Q4 of 2023, along with [decentralized exchanges](https://en.wikipedia.org/wiki/Decentralized_finance#Decentralized_exchanges) that will make it easier for Citizens, e-Residents and other supporters to easily obtain LLD and LLM. 
+The team appears to gravitate towards bridging to the ETH ecosystem at the moment, but is not beyond considering other options. 
+Decentralized exchanges of good repute are, in the opinion of the team, closer related with Satoshi's vision of peer-to-peer electronic cash than centralized exchanges.
 
 This is nonetheless a matter of convenience and adapting to existing structures. Where truly peer-to-peer solutions should be made available, e.g. not relying on smart contracts on other blockchains, those will be taken.
 
