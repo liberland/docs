@@ -20,7 +20,7 @@ To prevent plutocratic concentration of power, one can only utilize LLM in polit
 Liberland, as a country, acknowledges the importance of citizenship. Only Citizens with 5000 PolitiPooled (a.k.a. staked) LLM have full political rights associated with citizenship in Liberland. In this way, Liberland replaces the usual requirements proving a personal connection to the country through vesting. Where one should gain "honorary citizenship" for their contributions, they won't be able to vote in elections or referenda unless they also PolitiPool. We can expect those who commit their funds to Liberland long-term to have a provable bond with the land and a stake in the country's success. 
 
 ### Tokenomics
-Inspired by Bitcoin (BTC), LLM has a fixed maximum supply of **70 000 000** tokens. With losses expected due to lost wallets and other factors, this token will, in time, become deflationary. The initial price for LLM was 1 USD, increased to 2 USD on 11 September 2023, and will change frequently when LLM begins to trade on the open market. According to Liberland's ethos and paraphrasing Adam Smith, the price of 1 LLM will be "whatever the purchasers are willing to pay for it."
+Inspired by Bitcoin (BTC), LLM has a fixed maximum supply of **70 000 000** tokens. With losses expected due to lost wallets and other factors, this token will, in time, become deflationary. The initial price for LLM was 1 USD, increased to 2 USD on 11 September 2023, and will change frequently when LLM begins to trade on the open market. According to Liberland's ethos and paraphrasing Adam Smith, the price of 1 LLM will be <i>"whatever the purchasers are willing to pay for it."</i>
 
 ## Liberland Dollar (LLD)
 ### Overview
