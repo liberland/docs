@@ -1,7 +1,7 @@
 # Tokenomics Primer
 
 ## Division of Power
-As all modern democratic countries, Liberland employs division of power in its government and, thereby, also on its blockchain governance mechanism. The main concentration of power on a blockchain is in the node owners and those who write new blocks - the Validators. In a DAO, the power of democracy in the system would directly derive from ownership of the coin that the Validators and Nominators use. Such a concentration of power is not desirable, as, in effect, it would ensure with mathematic certainty that those best poised to become officials in Liberland would also be those who count the votes.
+As all modern democratic countries, Liberland employs division of power in its government and, thereby, also on its blockchain governance mechanism. The main concentration of power on a blockchain is in the node owners and those who write new blocks - the Validators. In a [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization), the power of democracy in the system would directly derive from ownership of the coin that the Validators and Nominators use. Such a concentration of power is not desirable, as, in effect, it would ensure with mathematic certainty that those best poised to become officials in Liberland would also be those who count the votes.
 
 To counter this, we have separated the Validator power from the governance power. So the two-token system was born: the governance token, Liberland Merit (LLM), and the coin, Liberland Dollar (LLD).
 
