@@ -14,7 +14,7 @@ Liberland Merit (LLM) is the governance token representing a share in the State 
 ![LLM Management Flow](media/LLMTokenomics.png)
 
 ### PolitiPooling
-To prevent plutocratic concentration of power, one can only utilize LLM in politics if one vests them on a tight schedule. This vesting is called "PolitiPooling." PolitiPooled LLM is locked, and the user can only unvest 10 percent in a year: payable monthly, 1/12th of 1/10th of total vested amount, each month.
+To prevent [plutocratic](https://en.wikipedia.org/wiki/Plutocracy) concentration of power, one can only utilize LLM in politics if one vests them on a tight schedule. This vesting is called "PolitiPooling." PolitiPooled LLM is locked, and the user can only unvest 10 percent in a year: payable monthly, 1/12th of 1/10th of total vested amount, each month.
 
 ### Citizenship on the Blockchain
 Liberland, as a country, acknowledges the importance of citizenship. Only Citizens with 5000 PolitiPooled (a.k.a. staked) LLM have full political rights associated with citizenship in Liberland. In this way, Liberland replaces the usual requirements proving a personal connection to the country through vesting. Where one should gain "honorary citizenship" for their contributions, they won't be able to vote in elections or referenda unless they also PolitiPool. We can expect those who commit their funds to Liberland long-term to have a provable bond with the land and a stake in the country's success. 
