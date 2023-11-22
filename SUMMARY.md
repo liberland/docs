@@ -27,6 +27,7 @@
     * [Senate](blockchain/citizens/senate.md)
     * [Setting identity](blockchain/citizens/identity.md)
     * [Become congressmen](blockchain/citizens/become-congressmen.md)
+    * [Mobile wallet](blockchain/citizens/mobile-wallet.md)
   * [For Validators, Nominators & Stakers](blockchain/for-validators-nominators-and-stakers/README.md)
     * [Run a validator](blockchain/staking/run\_a\_validator.md)
     * [Non technical run a validator](blockchain/staking/run\_a\_validator\_non\_technical.md)
