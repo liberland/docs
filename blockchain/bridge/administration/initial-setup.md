@@ -15,7 +15,7 @@ export ETHERSCAN_API_KEY=YOUR_KEY_HERE
 export ALCHEMY_URL=YOUR_URL_HERE
 export ETHEREUM_PRIVATE_KEY=YOUR_PRIVATE_KEY_HERE
 
-git clone https://github.com/liberland/liberland_substrate.git -b v11.1.0
+git clone https://github.com/liberland/liberland_substrate.git -b v15.0.0
 cd liberland_substrate/eth-bridge/contracts
 curl -L https://foundry.paradigm.xyz | bash # only if foundry isn't installed already
 forge install
@@ -57,4 +57,4 @@ Grant roles to multisig wallets on both contracts:
 This needs to be done by all admins. See [Polkadot docs](https://support.polkadot.network/support/solutions/articles/65000181826-how-to-create-and-use-a-multisig-account#How-to-create-a-multisig-account). You need two multisig wallets:
 
 * one for Super Admin, with high threshold (ex. 80% of all owners)
-* one for Admin, which threshold `1`.
+* one for Admin, with threshold `1`.
