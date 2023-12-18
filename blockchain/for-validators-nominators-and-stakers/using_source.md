@@ -75,4 +75,4 @@ sudo systemctl status liberland_validator.service
 ```
 ## Generate session keys
 
-See [regenerate session keys](./regenerate_session_keys.md) document.
+See [regenerate session keys](regenerate_session_keys.md) document.
