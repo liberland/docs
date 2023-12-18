@@ -80,4 +80,4 @@ You can:
 
 See [regenerate session keys](../for-validators-nominators-and-stakers/regenerate_session_keys.md) document.
 
-With an instance running like this you may now follow the [Run a validator](../for-validators-nominators-and-stakers/run_a_validator.md#wait-for-your-node-to-sync) starting with **Wait for your node to sync** section.
+With an instance running like this you may now follow the [Run a validator](../for-validators-nominators-and-stakers/run-a-validator.md#wait-for-your-node-to-sync) starting with **Wait for your node to sync** section.
