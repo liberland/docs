@@ -37,15 +37,6 @@ Either [create a new account](https://docs.subwallet.app/main/mobile-app-user-gu
 
 ![Show address - 2](../media/subwallet/show-address-2.png)
 
-## Show your current balance
-
-By default SubWallet doesn't show your balance.
-
-![Show amounts](../media/subwallet/show-amounts.png)
-
-1. Click the eye icon
-2. Your balance should now be visible
-
 ## Use Liberland Wallet dApp
 
 ![Use dApp - 1](../media/subwallet/use-dapp-1.png)
