@@ -1,13 +1,13 @@
 # For Citizens and e-residents
 
-##Onboarding
+## Onboarding
 Migrating your identity from [liberland.org](www.liberland.org) to Liberland blockchain consists of a few steps:
 1. Setting up a wallet
 2. Securing keys
 3. Getting merits and residency at liberland.org
 4. Claiming merits and citizenship on chain
 
-###1 - Setting up a wallet
+### 1 - Setting up a wallet
 A wallet address is your public address on the blockchain.
 It comes with a seed phrase - 12 words that are the keys to your on-chain existence.
 At this time, recommended wallets are subwallet or polkadotjs.
@@ -17,12 +17,12 @@ Set up a wallet and get your address.
 
 [Desktop wallet setup](../how-to-create-wallet.md)
 
-###2 -  Securing keys
+### 2 -  Securing keys
 During the wallet setup phase, you got a 12 word mnemonic seed phrase. It is very important not to lose or share that phrase with anyone,
 as it is the key or 'password' to your on-chain existence. Make sure to back it up and store it somewhere where it will not be lost.
 Common low-tech solution is to write it on a piece of paper.
 
-###3 - Getting merits and residency
+### 3 - Getting merits and residency
 Add your wallet address when editing profile on [liberland.org](https://liberland.org/en/update-profile)
 ![wallet-address](../media/wallet-address-org.png)
 
@@ -35,7 +35,7 @@ It should look something like
 
 ![valid-citizenship](../media/valid-citizen-org.png)
 
-###4 - Claim stuff on-chain
+### 4 - Claim stuff on-chain
 
 At this point, you should have your wallet address, your 12 word phrase safely stored, your wallet address, merits, and residency/citizenship saved at [liberland.org](www.liberland.org).
 
