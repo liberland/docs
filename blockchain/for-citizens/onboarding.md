@@ -1,7 +1,7 @@
 # For Citizens and e-residents
 
 ## Onboarding
-Migrating your identity from [liberland.org](www.liberland.org) to Liberland blockchain consists of a few steps:
+Migrating your identity from [liberland.org](www.liberland.org) to Liberland blockchain takes around 5 minutes and consists of a few steps:
 1. Setting up a wallet
 2. Securing keys
 3. Getting merits and residency at liberland.org
@@ -28,7 +28,7 @@ Add your wallet address when editing profile on [liberland.org](https://liberlan
 
 Make sure your merits and residency/citizenship are in order in [liberland.org](www.liberland.org).
 
-Make sure you have the correct amount is of merits. Make sure that residency and citizenship is correctly marked.
+Make sure you have the correct amount of merits and residency or citizenship.
 If you dont, ping whoever promised your merits or citizenship to get them.
 
 It should look something like
