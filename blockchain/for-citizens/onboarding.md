@@ -49,12 +49,12 @@ If on mobile, **you must use the SubWallet app's built-in browser located in low
 
 ![dapp-login](../media/dapp-login.png)
 
-* Next, select 'Liberland Sign in'. After signing up, you should be logged in!
+* Next, select **Liberland Sign in**. After signing up, you should be logged in!
 * Its time to claim your tokens and resident/citizen identity!
-* Open the menu and select the 'Profile' tab.
+* Open the menu and select the **Profile** tab.
 * Since all actions on-chain cost a small amount of gas fees and you are already a resident, you are eligible for a small amount of LLD to get you started.
-* First, select on the 'Claim complimentary LLD' button. After a few seconds, it should tell you to refresh the page and you should have 2 LLDs so that you can begin using the blockchain right away.
-* Next, select on 'Update identity', and set it to what you want your on-chain identity to be. **There is no requirement to use your real name,** but make sure to include your correct citizenship/residency status.
-* After you select on 'Set identity', as with any onchain transaction, a popup window from your wallet of choice should appear, and it will ask you to sign a transaction.
+* First, select on the **Claim complimentary LLD** button. After a few seconds, it should tell you to refresh the page and you should have 2 LLDs so that you can begin using the blockchain right away.
+* Next, select on **Update identity**, and set it to what you want your on-chain identity to be. **There is no requirement to use your real name,** but make sure to include your correct citizenship/residency status.
+* After you select on **Set identity**, as with any onchain transaction, a popup window from your wallet of choice should appear, and it will ask you to sign a transaction.
 Some browsers might prevent popup windows, so make sure to click on the wallet extension icon if you see no popup. In any case, sign the transaction and you are good to go.
 * After this, it usually takes about a day for the Ministry of Interior to confirm your on-chain identity and transfer your merits.
