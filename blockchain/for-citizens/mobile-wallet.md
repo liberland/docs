@@ -16,35 +16,35 @@ If you're importing an existing account for use on Liberland Blockchain, it must
 
 ![Show address - 1](../media/subwallet/show-address.jpeg)
 
-1. Tap the **Account** at the top (not the button)
-2. Tap the **pencil icon**
-3. Next to **Account Address**, click the copy icon (two pieces of paper)
-4. Tap the `X` in the top-right corner to return to the app's home screen
+* Tap your `Account` at the top (not the button)
+* Tap the `pencil icon`
+* Next to `Account Address`, click the copy icon (two pieces of paper)
+* Tap the `X` in the top-right corner to return to the app's home screen
 
 ## Use Liberland Wallet dApp
 
 ![Use dApp - 1](../media/subwallet/use-dapp-1.png)
 
-1. Tap the **Browser** button in the bottom menu
-2. In the **Search or enter website** field, input `https://blockchain.liberland.org/`
-3. Confirm, and the page should load
+* Tap the `Browser` button in the bottom menu
+* In the `Search or enter website` field, input `https://blockchain.liberland.org/`
+* Confirm, and the page should load
 
     ![Use dApp - 2](../media/subwallet/use-dapp-2.png)
-4. Tap the account you wish to connect to the dApp - the checkmark to the right should turn green
-5. Tap **Connect**
-6. You may now login to the dApp and complete the [Onboarding](onboarding.md).
+* Tap the account you wish to connect to the dApp - the checkmark to the right should turn green
+* Tap `Connect`
+* You may now login to the dApp and complete the [Onboarding](onboarding.md).
 
 ## Add Liberland Network (Optional)
 
 ![Opening network settings guide - 1](../media/subwallet/add-network-1.png)
 
-1. From the home screen, tap the menu icon in top-left corner
-2. Tap **Manage Networks**
-3. Tap **+** icon in the top-right corner
+* From the home screen, tap the menu icon in top-left corner
+* Tap `Manage Networks`
+* Tap `+` icon in the top-right corner
 
 ![Opening network settings guide - 2](../media/subwallet/add-network-2.png)
 
-4. In the `Provider URL` field, enter `wss://mainnet.liberland.org` and confirm
+* In the `Provider URL` field, enter `wss://mainnet.liberland.org` and confirm
    * use `wss://testchain.liberland.org` for Bastiat testnet
-5. Once confirmed, the **Chain name**, **Symbol** and **Chain type** fields should fill automatically
-6. Tap **Save**, and return to the home screen
+* Once confirmed, the `Chain name`, `Symbol` and `Chain type` fields should fill automatically
+* Tap `Save`, and return to the home screen
