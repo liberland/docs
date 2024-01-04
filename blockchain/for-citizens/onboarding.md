@@ -1,5 +1,17 @@
 # For Citizens and e-residents
 
+
+##TLDR
+
+1. Make sure you are an eresident/citizen with correct merits on [liberland.org](www.liberland.org)
+2. [Install SubWallet](https://www.subwallet.app/download.html), create wallet and save passphrase on paper
+3. In subwallet browser, go to [https://blockchain.liberland.org](https://blockchain.liberland.org) and follow the steps
+4. Click on profile, claim onboarding LLD and update identity
+
+
+
+   ![subwallet-browser-menu](../media/subwallet/subwallet_browser_menu.png)
+
 ## Onboarding
 Migrating your identity from [liberland.org](www.liberland.org) to Liberland Blockchain requires roughly 3 minutes and consists of a few steps:
 1. Setting up a wallet
