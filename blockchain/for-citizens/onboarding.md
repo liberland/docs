@@ -1,7 +1,7 @@
 # For Citizens and e-residents
 
 
-##TLDR
+## TLDR
 
 1. Make sure you are an eresident/citizen with correct merits on [liberland.org](www.liberland.org)
 2. [Install SubWallet](https://www.subwallet.app/download.html), create wallet and save passphrase on paper
