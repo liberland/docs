@@ -10,16 +10,7 @@ Liberland Blockchain supports using [SubWallet](https://www.subwallet.app/) for 
 
 Either [create a new account](https://docs.subwallet.app/main/mobile-app-user-guide/account-management/create-a-new-account-with-new-seed-phrase) or [import an existing one](https://docs.subwallet.app/main/mobile-app-user-guide/account-management/import-restore-an-account).
 
-If you're importing an existing account for use on Liberland Blockchain, it must be an existing Polkadot account. 
-
-## Get your wallet address
-
-![Show address - 1](../media/subwallet/show-address.jpeg)
-
-* Tap your `Account` at the top (not the button)
-* Tap the `pencil icon`
-* Next to `Account Address`, click the copy icon (two pieces of paper)
-* Tap the `X` in the top-right corner to return to the app's home screen
+If you're importing an existing account for use on Liberland Blockchain, it must be an existing Polkadot account.
 
 ## Use Liberland Wallet dApp
 
