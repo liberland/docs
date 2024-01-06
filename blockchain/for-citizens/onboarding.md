@@ -55,12 +55,8 @@ If on mobile, **you must use the SubWallet app's built-in browser located in low
 
 ![subwallet-browser-icon](../media/subwallet/subwallet_browser_icon.png)
 
-* Navigate to [https://blockchain.liberland.org](https://blockchain.liberland.org)
-* Your wallet address should be visible on-screen. If it isn't, make sure you have installed the wallet correctly or, if on mobile, that you are using SubWallet's built-in browser.
-
-![dapp-login](../media/dapp-login.png)
-
-* Next, select 'Liberland Sign in'. After signing up, you should be logged in!
+* Navigate to [https://blockchain.liberland.org](https://blockchain.liberland.org), login and follow the steps.
+![subwallet-search-bar](../media/subwallet/subwallet_search_bar.jpg)
 * Its time to claim your tokens and resident/citizen identity!
 * Open the menu and select the 'Profile' tab.
 * Since all actions on-chain cost a small amount of gas fees and you are already a resident, you are eligible for a small amount of LLD to get you started.
