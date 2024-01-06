@@ -8,9 +8,11 @@
 3. In subwallet browser, go to [https://blockchain.liberland.org](https://blockchain.liberland.org) and follow the steps
 4. Click on profile, claim onboarding LLD and update identity
 
-
+You will then get your merits within a day!
 
    ![subwallet-browser-menu](../media/subwallet/subwallet_browser_menu.png)
+
+   ![subwallet-search-bar](../media/subwallet/subwallet_search_bar.jpg)
 
 ## Onboarding
 Migrating your identity from [liberland.org](www.liberland.org) to Liberland Blockchain requires roughly 3 minutes and consists of a few steps:
