@@ -37,7 +37,7 @@ Please note that any references to a "preferred currency" refers solely to a gov
 The tokenomics of LLD resemble that of Polkadot (DOT). The system is based on Parity's Substrate framework, which powers the Polkadot blockchain and parachains. The main mechanisms have been created by researchers and tested by auditors and in practice. [You can read about it in detail here](https://wiki.polkadot.network/docs/maintain-polkadot-parameters). We will introduce the basic concepts in the remainder of this primer.
 
 #### Initial Money Supply
-The system plans to issue **1 300 000 LLD** at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies. Likewise to LLM, the initial price was, and still is, 1 USD per 1 LLD. Despite the name, LLD is not a stablecoin but tradeable digital money, just like BTC. As such, the price will be strictly market-based.
+The system plans to issue **3 000 000 LLD** (3 million) at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies. Likewise to LLM, the initial price was, and still is, 1 USD per 1 LLD. Despite the name, LLD is not a stablecoin but tradeable digital money, just like BTC. As such, the price will be strictly market-based.
 
 #### Increase in Money Supply
 The increase in money supply is set by the system and is constant. The initial increase is 10 percent per annum, subject to change by governance, hence, the coin holders. Coin holders are, by the virtue of their coin ownership, incentivized to keep the increase in money supply relatively low and sustainable. This increase needs to be non-zero because the higher it is, the more incentive Validators and Nominators have to keep the chain decentralized.
