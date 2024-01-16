@@ -1,10 +1,12 @@
 # Run a validator
 
+[Join the node operator room](https://matrix.to/#/#liberland-node:matrix.org)
+
 ## Introduction
 
 This guide will walk you through the process of setting up a new validator on Liberland Chain.
 
-[You can follow along a video here](https://www.youtube.com/watch?v=dV0fK1eqSZY)
+[You can follow along a outdated but still workingvideo here](https://www.youtube.com/watch?v=dV0fK1eqSZY)
 
 Note:
 * *DO NOT* expose your validators RPC ports (9933 and 9944 by default) publicly on the internet. Treat validators with more care than full nodes.
@@ -12,14 +14,14 @@ Note:
 
 ## Requirements
 
-* ~10 GB of free disk space
-* 2GB of RAM, but swap is ok, see [How to add swap](https://www.cloudsigma.com/adding-swap-space-on-ubuntu-20-04-a-tutorial/) if you have less than 2GB of RAM
+* ~30 GB of free disk space
+* 4GB of RAM, but swap is ok, see [How to add swap](https://www.cloudsigma.com/adding-swap-space-on-ubuntu-20-04-a-tutorial/) if you have less than 4GB of RAM
 * Liberland wallet with at least 200 LLD. [Ask to be onboarded](https://matrix.to/#/#liberland-node:matrix.org)
 * [PolkadotJs wallet](https://polkadot.js.org/extension/)
-* [On-chain citizenship](../citizens/identity.md)
+* [On-chain citizenship](../for-citizens/onboarding.md)
 
 ## Claim on-chain citizenship
-* You will need your LLD, LLM, and an onchain citizenship to proceed. Follow the [Claim citizenship](../citizens/identity.md) steps to proceed.
+* You will need your LLD, LLM, and an onchain citizenship to proceed. Follow the [Onboarding](../for-citizens/onboarding.md) steps to proceed.
 * At the end of this process, you should have a wallet, and a funded citizen account on the mainnet. Log into [blockchain.liberland.org](https://blockchain.liberland.org/signin)
 with your liberland account to verify everything works so far.
 
@@ -31,7 +33,7 @@ If self hosting is not practical, the up-to-date current order of recommended vi
 
 * In search, type lightsail
 * Under Instances, click Create instance
-* Select Linux/Unix, OS Only, Ubuntu 22.04 LTS, scroll down and select the $10 plan with 2 GB RAM, 1 vCPU and 60gb SSD
+* Select Linux/Unix, OS Only, Ubuntu 22.04 LTS, scroll down and select the plan with at least 4 GB RAM, 1 vCPU and 60gb SSD
 * Scroll down and click on "Create instance"
 * Wait for a few minutes for a server to initialize
 * Click on the console icon on your instance to open a in-browser console
@@ -74,7 +76,7 @@ Session keys for your node: [long text starting with 0x here]
 
 * Copy the session keys, you will need them when adding validator.
 
-* If something went wrong and you need to get session keys manually, see [Regenerating session keys](./regenerate_session_keys.md).
+* If something went wrong and you need to get session keys manually, see [Regenerating session keys](regenerate_session_keys.md).
 
 ### Option 2: using docker
 
@@ -82,11 +84,11 @@ See [Docker guide](../dev/docker.md).
 
 ### Option 3: manually using prebuilt binaries
 
-See [Using prebuilt binary](./using_prebuilt_binary.md)
+See [Using prebuilt binary](using_prebuilt_binary.md)
 
 ### Option 4: using source
 
-See [Using source](./using_source.md)
+See [Using source](using_source.md)
 
 ## Wait for your node to sync
 
@@ -96,31 +98,24 @@ While syncing, you will see `Syncing` messages and lots of `maybe_release ran al
 
 When synced, `maybe_release ran all the way` will mostly disappear and you will see mostly `Idle` and `Imported` messages.
 
-This process will take a few seconds for every day the blockchain has been running - so on old blockchains it may take hours.
+This process will take a few seconds for every day the blockchain has been running - so expect a few hours.
 
 ## Add validator
 
 > Note that in order to do this step you will need some LLD, so ask someone to give you some if you dont already have it.
 
-1. Visit Staking Accounts on Polkadot.js Apps:
-    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
-    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
-2. Click "+ Validator" button.
-3. Set your stash and controller accounts and select how much LLD you want to bond.
-4. Click "Next" button.
-5. Paste the session keys you got from installation step to `Keys from rotateKeys` form.
-    * Note: if you lost your session keys, see [Regenerating session keys](./regenerate_session_keys.md)
-6. Click "Bond & Validate"
+1. Visit Staking in Liberland dAPP:
+    * [Mainnet](https://blockchain.liberland.org/home/staking)
+    * [Bastiat (Testnet)](https://testnet.liberland.org/home/staking)
+2. Click "Switch to validator" button.
+3. Set your commission (10 is fine) and session keys you got from installation step to `Keys from rotateKeys` form.
+   * Note: if you lost your session keys, see [Regenerating session keys](regenerate_session_keys.md)
+4. Click "Start validator" button and sign the transaction.
+5. Optionally, click on add stake and stake some LLDs
 
 ## Verify
 
 Immediately after adding validator, you should see it as "Waiting":
-
-1. Visit Staking Accounts on Polkadot.js Apps:
-    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
-    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
-2. Click "Waiting" button.
-3. You should see your Stash account in the "Intentions" table.
 
 Now you have to wait to see if it gets elected to current set of validators. You may need to wait until new era starts and then the chance of being elected is based on the amount of staked LLD. To see current set of validators:
 
@@ -132,4 +127,5 @@ Now you have to wait to see if it gets elected to current set of validators. You
 3. You should see list of active validators in the "Validators" table.
 
 ## Optional: add nominators
+[Join the node operator room](https://matrix.to/#/#liberland-node:matrix.org)
 Once your validator is up and running and you have a solid track record of no downtime you can ask other LLD holders to nominate your validator node.
