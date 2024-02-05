@@ -35,10 +35,10 @@ The blockchain contains two main assets: Liberland Dollar (LLD) and Liberland Me
 
 The Liberland Dollar serves as the native token of the blockchain, fulfilling the following main functions: 
 
-1. A medium of exchange; and 
-2. An instrument for maintaining network consensus and security. 
-3. The token to register entities with and to manage them, such as companies, assets, real estate, etc.
-4. The token to operate the judiciary for traditional contracts.
+- A medium of exchange; and 
+- An instrument for maintaining network consensus and security. 
+- The token to register entities with and to manage them, such as companies, assets, real estate, etc.
+- The token to operate the judiciary for traditional contracts.
 
 LLD is minted according to rules inherited from Polkadot, including the "ideal staking ratio" mechanism. This system is well-researched, designed and tested through years of practical use.
 
@@ -130,10 +130,10 @@ Furthermore, a specialized variant of the Referendum is operational for the retr
 
 The Congress operates as the representative entity within Liberland, tasked with
 
-a. initiating rational referenda that are exempt from the anti-populist voting requisites;
-b. Removing referenda which are obviously malicious or where the proposals are obviously not sufficiently thought out;
-c. The appointment and removal of the Prime Minister (Executive), and
-d. Participating in referenda on behalf of constituents who delegate their voting rights.
+- initiating rational referenda that are exempt from the anti-populist voting requisites;
+- Removing referenda which are obviously malicious or where the proposals are obviously not sufficiently thought out;
+- The appointment and removal of the Prime Minister (Executive), and
+- Participating in referenda on behalf of constituents who delegate their voting rights.
 
 ### Elections
 
