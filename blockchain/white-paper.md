@@ -1,4 +1,4 @@
-Liberland Blockchain Whitepaper
+# Liberland Blockchain Whitepaper
 
 ## Abstract 
 
@@ -35,10 +35,10 @@ The blockchain contains two main assets: Liberland Dollar (LLD) and Liberland Me
 
 The Liberland Dollar serves as the native token of the blockchain, fulfilling the following main functions: 
 
-a. A medium of exchange; and 
-b. An instrument for maintaining network consensus and security. 
-c. The token to register entities with and to manage them, such as companies, assets, real estate, etc.
-d. The token to operate the judiciary for traditional contracts.
+1. A medium of exchange; and 
+2. An instrument for maintaining network consensus and security. 
+3. The token to register entities with and to manage them, such as companies, assets, real estate, etc.
+4. The token to operate the judiciary for traditional contracts.
 
 LLD is minted according to rules inherited from Polkadot, including the "ideal staking ratio" mechanism. This system is well-researched, designed and tested through years of practical use.
 
