@@ -384,7 +384,7 @@ The Judge then makes a final Confirmation or Rejection. These decisions will mos
 
 To make these processes more engaging, we could utilise the Complex Advisory Opinion and establish a group of on-chain Registrars who operate the Registry instead of the Ministry. These Registrars could even propose different opinions on what to inscribe, gamifying the processes and making these matters more interesting.
 
-# Development and Contact Information
+## Development and Contact Information
 
 The Liberland Blockchain is being developed by a team led by Dorian Stern-Vukotic, with Kacper Zuk as Senior Developer. The team is supported by Liberland Limited, a Hong Kong-based Limited Liability Company. The intended languages of development are Rust for the backend and Javascript/Angular for the frontend.
 
