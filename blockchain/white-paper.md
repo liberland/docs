@@ -191,19 +191,19 @@ The blockchain-based registry systems represent a groundbreaking advancement in 
 
 In the early stages, the Cabinet is served by the Provisional Government of Liberland, with the President acting as the Prime Member. The roles within the Cabinet are therefore allocated by the President. Upon the development of a community in Liberland or a territory governed by Liberland (when at least 65 percent of Citizens are onboarded and settlement is actively in progress), the Provisional Government will relinquish its power, and the President will transition into the role of a primarily symbolic head of state.
 
-# Treasury
+## Treasury
 
 One of the standing values that Liberland has is that all taxes are paid voluntarily by the citizens of Liberland. We forked Polkadot’s Treasury and implemented it as a multi-signature wallet held by the on-chain politicians of Liberland. Like Polkadot’s Treasury, we will handle funding proposals, mainly initiated by the Executive and Congress. 
 
-# Senate
+## Senate
 
-## Overview
+### Overview
 
 The Senate is tasked with the management of Treasury keys and the power to veto Laws and Regulations. Laws can be vetoed during the referendum phase, whereas lower-tier Regulations can be vetoed at any time. Proposals related to the LLM Treasury necessitate the Senate's approval for execution. The Senate serves as Liberland's "House of Lords", with members appointed for life. Their power is purely of control, devoid of legislative or executive capacities.
 
 A notable attribute of Senatorship is the possession (restricted to dividends) of one percent of Liberland reserves and of the parent company developed for Liberland, namely Liberland Limited, based in Hong Kong.
 
-### Powers
+#### Powers
 
 The Senate, as a collective, is endowed with the following authorities:
 
@@ -212,27 +212,27 @@ The Senate, as a collective, is endowed with the following authorities:
 3. Revoke any Regulation, other than a Law, even post-legal enactment; and
 4. Cast votes for the President of Liberland.
 
-## Implementation
+### Implementation
 
 The Senate, similar to the Congress and Council, is also a derivative of the Council pallet from Polkadot. Initially, Senators will be designated by the President. Subsequently, a co-option system will be established, wherein existing Senators vote to induct new members. 
 
 It is important to note that while Senators have the power to admit, they cannot dismiss, as Senatorship is a property title and, as such, is safeguarded from expropriation in accordance with Liberland's property protection principles.
 
-## President & Vice-Presidents
+### President & Vice-Presidents
 
 The President, selected by the Senators, operates as the head of state and represents Liberland on the international stage. Any actions undertaken by the President require the validation of at least one Vice-President. The President's main authority is as the Prime Member of the Senate Collective, implying that the votes of abstaining Senators automatically align with the President's. This holds true only when a Vice-President corroborates the vote; otherwise, the votes of abstaining Senators are deemed uncast.
 
 Furthermore, the President is empowered to appoint Executive functionaries and Judges upon establishment of the Judiciary. The President's authority in this capacity is significant, allowing them to reject an appointment. However, this power is subject to the same checks as the Prime Member vote, demanding the countersignature of a Vice-President.
 
-# Future Outlook: Judiciary
+## Future Outlook: Judiciary
 
-## Overview
+### Overview
 
 The on-chain judiciary is in active development, aiming to combine trust-based elements, such as professional judges and process law, with blockchain-native solutions inspired by Kleros, the Aragon Court, and Ulex. The main mission is to conceive a blockchain-compatible solution that translates traditional dispute resolution and judiciary functions into the digital realm. Our vision includes a system that synergizes the virtues of centralised and decentralised models.
 
-## Problem Description
+### Problem Description
 
-### Irreversibility: The Inflexibility of Blockchain Systems
+#### Irreversibility: The Inflexibility of Blockchain Systems
 
 A foundational trait of blockchain systems originating from Bitcoin is the principle of irreversibility. Once a transaction is executed, it cannot be undone. Here, intentions play a secondary role, with the final action being recognized as the valid user input.
 
