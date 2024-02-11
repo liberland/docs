@@ -5,7 +5,7 @@
 
 1. Make sure you are an eresident/citizen with correct merits on [liberland.org](www.liberland.org)
 2. [Install SubWallet](https://www.subwallet.app/download.html), create wallet and save passphrase on paper
-3. In subwallet browser, go to [https://blockchain.liberland.org](https://blockchain.liberland.org) and follow the steps
+3. Go to [blockchain.liberland.org in subwallet](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F) and follow the steps
 4. Click on profile, claim onboarding LLD and update identity
 
 You will then get your merits within a day!
