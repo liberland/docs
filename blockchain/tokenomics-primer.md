@@ -43,7 +43,7 @@ The main mechanisms have been created by researchers and tested by auditors and 
 We will introduce the basic concepts in the remainder of this primer.
 
 #### Initial Money Supply
-The system plans to issue **1 300 000 LLD** at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies. 
+The system plans to issue **3 000 000 LLD** at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies. 
 The initial price was, and still is, 1 USD per 1 LLD. 
 Despite the name, LLD is not a stablecoin but tradeable digital money, just like BTC. As such, the price will be strictly market-based.
 

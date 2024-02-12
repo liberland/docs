@@ -8,8 +8,9 @@ The *onboarding* process described below allows you to connect the SubWallet cry
 
 1. Make sure you are an e-resident/citizen with correct merits on [liberland.org](www.liberland.org)
 2. [Install SubWallet](https://www.subwallet.app/download.html), create wallet and save passphrase on paper
-3. In SubWallet browser, go to [https://blockchain.liberland.org](https://blockchain.liberland.org) and follow the steps
-4. Click on profile, claim onboarding LLD, and update identity
+3. Go to [blockchain.liberland.org](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F) in Subwallet and follow the steps
+4. Click on profile, claim onboarding LLD and update identity
+
 
 You will then get your merits within a day!
 
