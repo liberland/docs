@@ -21,8 +21,9 @@ Liberlanders can use the dApp > Staking page to start staking:
 * Click on Update Nominations button
 * Sign the transaction
 * Done! You are now staking
-* 
+
   ![Start staking](../media/staking-start.png)
+
   ![Choose validators](../media/staking-validators.png)
 
 ## Learn more
