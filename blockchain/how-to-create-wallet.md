@@ -6,6 +6,8 @@ The Liberland blockchain uses a nominated proof-of-stake (NPoS) consensus mechan
 
 Built using Parity Substrate, the same technology that powers the Polkadot ecosystem, the Liberland Blockchain benefits from some cross-compatibility with existing frameworks and tools. [Polkadot.js](https://polkadot.js.org/extension/) is a browser extension that allows you to interact with the Liberland Blockchain and other blockchain networks directly from your browser. In this guide, we will show you how to create a wallet using Polkadot.js browser extension.
 
+Liberland Blockchain currently supports Polkadot.js, [Talisman](https://talisman.xyz), and [Subwallet](https://subwallet.app). The steps for creating a wallet and securing the passphrase are similar for each. 
+
 ## Installing Polkadot.js Browser Extension
 
 To use Polkadot.js browser extension, you first need to install it on your browser. The extension is available for Chrome, Firefox, Brave, Opera and Edge browsers. To install the extension, follow these steps:
