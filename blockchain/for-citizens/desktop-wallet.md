@@ -51,6 +51,8 @@ You will be shown a screen where you can enter Liberland Blockchain's details. T
 
 After a few seconds, you should see LLD in your list of networks. 
 
+![Talisman - 8](../media/talisman/talisman-008.png)
+
 ## Use Liberland Wallet dApp
 
 To open the dApp, visit [blockchain.liberland.org](https://blockchain.liberland.org) in the same browser where you installed Talisman.
