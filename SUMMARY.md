@@ -32,6 +32,7 @@
   * [For Validators, Nominators & Stakers](blockchain/for-validators-nominators-and-stakers/README.md)
     * [Run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator.md)
     * [Non technical run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator-non-technical.md)
+    * [Staking](blockchain/for-validators-nominators-and-stakers/staking.md)
   * [For Developers & Testers](blockchain/for-developers-and-testers/README.md)
     * [Build, run & test using source code](blockchain/dev/dev.md)
     * [Run in Docker](blockchain/dev/docker.md)
