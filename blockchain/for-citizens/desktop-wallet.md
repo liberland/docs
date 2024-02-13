@@ -14,7 +14,7 @@ If you're creating a new account, be sure to save the passphrase/private key in 
 
 If you're importing an existing account for use on Liberland Blockchain, it must be an existing Polkadot account. 
 
-## Add Liberland Network (Recommended)
+## Add Liberland Network (Optional, but recommended)
 
 ![Talisman - 1](../media/talisman/talisman-001.png)
 
