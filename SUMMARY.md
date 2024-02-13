@@ -28,6 +28,7 @@
     * [Onboarding](blockchain/for-citizens/onboarding.md)
     * [Become congressmen](blockchain/for-citizens/become-congressmen.md)
     * [Mobile wallet](blockchain/for-citizens/mobile-wallet.md)
+    * [Desktop wallet](blockchain/for-citizens/desktop-wallet.md)
   * [For Validators, Nominators & Stakers](blockchain/for-validators-nominators-and-stakers/README.md)
     * [Run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator.md)
     * [Non technical run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator-non-technical.md)
