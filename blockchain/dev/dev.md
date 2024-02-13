@@ -84,12 +84,12 @@ Liberland Blockchain node is comprehensively covered with automated unit tests.
 To run them, execute:
 
 ```
-cargo test --release --features runtime-benchmarks
+cargo test --features runtime-benchmarks
 ```
 
 As these typically take a long time, you can also choose to run tests only for
 specific pallets. Here's example for the legislation pallet:
 
 ```
-cargo test --release --features runtime-benchmarks -p pallet-liberland-legislation --lib
+cargo test --features runtime-benchmarks -p pallet-liberland-legislation --lib
 ```

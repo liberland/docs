@@ -10,11 +10,11 @@ A Senator will first be interacting with the community using the Liberland gover
 
 ## Senator Share
 
-The Senator votes in the Senate by the weight of their share. Liberland follows the principles of meritocracy: where someone provides extraordinary help, they should receive a comparable degree of recognition.
+The Senator votes in the Senate by the weight of their share. Liberland follows the principles of [meritocracy](https://en.wikipedia.org/wiki/Meritocracy): where someone provides extraordinary help, they should receive a comparable degree of recognition.
 
 ## Constitutional Powers
 
-Senate hard power is the mandate, granted by our Constitution and confirmed by the blockchain, to execute the following actions:
+Senate hard power is the mandate, granted by our [Constitution](https://github.com/liberland/Constitution/blob/master/Constitution.md) and confirmed by the blockchain, to execute the following actions:
 
 1. cancel a referendum about any Laws before they gain legal force; if a Veto is cast, the bill will not gain legal force;
 2. be the final authority in budgetary and spending matters, providing oversight on any outflows of money from the Liberland Treasury; the Senate can stop spending they find unjustified;
