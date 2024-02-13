@@ -12,7 +12,7 @@ Nominators can stake their LLD and pick validators that are honest - not cheatin
 
 The quickest way to stake for non Liberlanders is through the [polkadotJs interface](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F#/staking/actions)
 
-Liberlanders can use the dApp > Staking page to start staking:
+Liberlanders can use the [Liberland dApp](https://blockchain.liberland.org) > Staking page to start staking:
 * Click on 'Start Nominating'
 * Pick the amount of LLD to stake (always leave a small amount of LLD free)
 * Sign the transaction
