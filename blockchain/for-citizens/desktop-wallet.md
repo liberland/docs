@@ -14,6 +14,12 @@ If you're creating a new account, be sure to save the passphrase/private key in 
 
 If you're importing an existing account for use on Liberland Blockchain, it must be an existing Polkadot account. 
 
+## Use Liberland Wallet dApp
+
+To open the dApp, visit [blockchain.liberland.org](https://blockchain.liberland.org) in the same browser where you installed Talisman.
+
+Now that you have a wallet, if you are a citizen or e-resident, you can begin [onboarding](https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/for-citizens/onboarding#id-3-getting-merits-and-residency). If you're using a desktop computer, adapt the instructions to use Talisman, Polkadotjs, or Subwallet browser extension instead of Subwallet's mobile app. 
+
 ## Add Liberland Network (Optional, but recommended)
 
 ![Talisman - 1](../media/talisman/talisman-001.png)
@@ -52,9 +58,3 @@ You will be shown a screen where you can enter Liberland Blockchain's details. T
 After a few seconds, you should see LLD in your list of networks. 
 
 ![Talisman - 8](../media/talisman/talisman-008.png)
-
-## Use Liberland Wallet dApp
-
-To open the dApp, visit [blockchain.liberland.org](https://blockchain.liberland.org) in the same browser where you installed Talisman.
-
-Now that you have a wallet, if you are a citizen or e-resident, you can begin [onboarding](https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/for-citizens/onboarding#id-3-getting-merits-and-residency). If you're using a desktop computer, adapt the instructions to use Talisman, Polkadotjs, or Subwallet browser extension instead of Subwallet's mobile app. 
