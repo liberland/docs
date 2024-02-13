@@ -28,7 +28,7 @@ Migrating your identity from [liberland.org](www.liberland.org) to Liberland Blo
 
 [Mobile wallet setup](mobile-wallet.md)
 
-[Desktop wallet setup](../how-to-create-wallet.md)
+[Desktop wallet setup](desktop-wallet.md)
 
 ### 2 -  Securing keys
 * During the wallet setup, you got a 12 word mnemonic seed phrase. **It is very important not to lose or share that phrase with anyone,**
