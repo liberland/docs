@@ -1,25 +1,52 @@
 # The Congress
 
 ## Executive Summary
-We describe Liberland as a place where corporate governance meets Swiss democracy. As such, the leading institute of our democracy is the Referendum, direct democracy. Congress exists to generate reasonable proposals and to offer voluntary representation to citizens who want to delegate their political powers to experts. Further, Congress appoints the executive and dismisses it and controls budgetary matters. It has the “emergency brake” power to Cancel malicious referenda.
+Liberland’s political system represents the fusing of the best from corporate governance principles with Swiss-style direct democracy, positioning the Referendum as the cornerstone of its republican system. This direct democratic approach empowers citizens to have a direct say in the governance of their country, reflecting the ethos of participatory governance.
+
+Liberland’s republic, however, also employs the principles of representative democracy, at the core of which lies the Congress. 
+Congress serves as the pivotal body through which the democratic will of the people is articulated and enacted. The primary function of Congress is to formulate well-considered proposals and provide a platform for voluntary representation, enabling citizens to entrust their political authority to individuals with specialised expertise. 
+
+Moreover, Congress is vested with the authority to appoint and, if necessary, dismiss the executive, thereby ensuring accountability in the administration of government. It also holds jurisdiction over fiscal policies and budgetary allocations, critical for the state's financial management.
 
 ## The Elections
-Elections are held on the Blockchain every three months. We shortened the term to conserve the connection between the people and their Representatives. 
-Citizens do not vote by the one-citizen-one-vote principle; instead, they vote by the one-Merit (LLM)-one-vote principle. 
+Elections within Liberland are conducted on the Blockchain platform every three months, maintaining notably brief election terms to ensure a robust and dynamic connection between the citizenry and their elected Representatives. Unlike conventional electoral systems that adhere to the one-citizen-one-vote paradigm, Liberland employs a unique voting mechanism based on the one-Merit (LLM)-one-vote principle, aligning voting power with the possession of Liberland Merit.
+It is crucial to interpret these periodic electoral events not merely as traditional elections but rather as 'election moments': unless citizens actively modify their voting preferences, their votes from the preceding cycle will automatically carry over to support the previously selected Members of Congress. 
+
+This mechanism is designed to minimise the repetitive demand for electoral participation, allowing citizens to adjust their electoral choices only as new circumstances or considerations emerge.
 
 ## Legislative Initiative
-The Members of Congress are equal in their votes. Their main task is to make legislative proposals for the Referendum to adopt or reject. Where Congress adopts a proposal with a majority vote, the Referendum will require 50 per cent plus one LLM to accept it. Where the proposal is voted unanimously, the tally requires cca ⅔ majority to reject the proposal.
+Members of Congress hold equal voting rights within the Congress, with their principal duty being the formulation of legislative proposals for consideration in a Referendum, where such proposals may either be adopted or rejected.
 
-## Cancellation
-Where ⅔ majority of the Congress considers a Referendum proposal to be “malicious”, defined by our Constitution as inimical to individual liberty, they can “cancel” it. Cancelled proposals will not be presented in an unchanged form for at least the next five election terms.
+In the typical Referendum process, approval does not merely hinge on achieving a simple majority of 50 percent plus one Liberland Merit (LLM) vote. Instead, a mathematical model is employed to guard against the sway of populism. This model increases the threshold for approval proportionally to the decrease in the number of votes cast, thereby ensuring that proposals enjoy a broad base of support, especially when originating from Citizens.
+
+Conversely, when Congress, through a majority vote, endorses a proposal, the Referendum threshold for approval is set at a simple majority of 50 percent plus one LLM. This adjustment acknowledges the democratic legitimacy of Congress, premised on the rationale that as a body elected through democratic processes, its decisions inherently carry a presumption of legitimacy and reflect the electorate's will.
+
+## Constitutional Amendments
+Congress is vested exclusively with the authority to propose amendments to the Constitution, a power that is conferred with significant deliberation due to the paramount importance of the document. This prerogative is entrusted to Congress on the basis of its democratic legitimacy, being the unequivocally elected representative body, coupled with the expectation of its professional acumen and comprehensive knowledge. 
+
+Tasked with this responsibility, Congress is expected to formulate amendments with due diligence and subject them to a specialized referendum that necessitates elevated thresholds for approval. This procedure is applicable solely to amendments of a non-essential nature; alterations to the foundational elements of the Constitution, encompassing liberties, rights, and fundamental principles, can only be undertaken through a Constitutional Convention. 
+
+Congress is also integral to the initiation of such a Convention, underscoring its pivotal role in the constitutional amendment process.
+
+## Cancel Malicious Referenda
+In the event that a two-thirds majority of the Congress deems a Referendum proposal to be 'malicious,' as characterized by our Constitution to mean adverse to individual liberty, they possess the authority to 'cancel' such a proposal. 
+
+This provision, as detailed within the Referendum Law, extends to proposals that fail to meet formal requirements or are deemed to be objectively poorly articulated and presented. 
+
+The rationale behind this measure is that proposals, even if not explicitly malicious, may pose a risk to individual liberty through potential misuse or at the very least, misinterpretation of the legislative instrument or decision that is poorly defined. Once a proposal is cancelled under these grounds, it is precluded from being resubmitted in its original form for a duration spanning the next five election terms.
 
 ## State Budget
-Liberland vests the power to adopt the State budget in Congress. The people can reject it using the Public Veto where needed, and the Senate can stop the payouts. This is to separate, as much as possible, budgetary matters from general politics and to professionalise the decision-making about them.
+Liberland entrusts the authority to formulate and adopt the State budget exclusively to Congress, embodying a structured approach to fiscal governance. In an effort to ensure democratic oversight and accountability, the populace is empowered to exercise a Public Veto, effectively enabling them to reject the proposed budget if deemed necessary. Additionally, the Senate possesses the capability to halt financial transfers, serving as a critical check within the system.
+
+Furthermore, citizens are afforded the opportunity to directly influence the allocation of government funds through the submission of Treasury Proposals to Congress. These proposals, once reviewed and accepted, are incorporated into the subsequent State budget, with the execution of these allocations being carried out on-chain. 
 
 ## Responsible Government
-Congress appoints the Prime Minister as the head of the Cabinet and thus the Executive. By a majority decision, the Assembly can demote the Prime Minister at any time. Also, a Prime Minister must be and must remain a Representative during their tenure; should they lose their seat in the Assembly, their tenure as Prime Minister ends. This applies to the other ministers as well.
+Congress is vested with the authority to designate the Prime Minister, who subsequently assumes the role of the leader of the Cabinet and, by extension, the Executive branch. Following this appointment, the Prime Minister is empowered to select Ministers to serve within the Cabinet. While it is commonly anticipated that Ministers will be drawn from the ranks of Congress members, there is provision for the inclusion of specialists from outside the legislative assembly to bring expertise to the Cabinet.
+
+Congress retains the prerogative to dismiss the Prime Minister through a majority vote at any juncture. This power extends equally to the removal of any Cabinet Ministers. Additionally, a stipulation for the Prime Minister's role is the requirement to be a sitting member of Congress throughout their term of office. Consequently, if the Prime Minister were to be unseated from the Congress, such an event would necessitate the termination of their tenure as Prime Minister. This specific requirement does not apply to other Ministers, who are not obligated to maintain a membership in Congress during their service in the Cabinet.
+In addition to the executive branch, Congress also appoints Supreme Court Justices, providing democratic oversight to the Judiciary Power.
 
 ## The Heart of Democracy
-The Congress is the one-stop shop for political deliberations in Liberland, the focal point for Liberland’s democracy. 
-The Members of Congress will be publicly known and be readily contactable by Citizens, who can bring their ideas and issues to their ears. We envision that the Congress, first in the virtual space and eventually in a real building in Liberland, will be visited frequently by members of the civil society, representatives of special interest groups, foreign dignitaries and lobbyists. 
-Ours is an attempt to build upon the existing edifice of democracy and to set up the Congress as a model parliament for the 21st century.
+The Congress represents the central hub for political discourse in Liberland, embodying the cornerstone of Liberland’s democratic process. It is designed to be accessible and transparent, with Members of Congress being public figures easily reachable by Citizens. This facilitates a direct conduit for the populace to voice their ideas and concerns, ensuring their participation in the democratic dialogue. 
+
+The vision for the Congress is to initially operate within a virtual domain, transitioning eventually to a physical edifice within Liberland, serving as a beacon for democratic engagement. It is anticipated that this venue will become a nexus for interaction among civil society members, special interest groups, foreign dignitaries, and lobbyists. This initiative aims to augment the foundational principles of democracy, positioning the Congress as a paradigmatic legislative body for the 21st century.
