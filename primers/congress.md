@@ -29,7 +29,7 @@ Tasked with this responsibility, Congress is expected to formulate amendments wi
 Congress is also integral to the initiation of such a Convention, underscoring its pivotal role in the constitutional amendment process.
 
 ## Cancel Malicious Referenda
-In the event that a two-thirds majority of the Congress deems a Referendum proposal to be 'malicious,' as characterized by our Constitution to mean adverse to individual liberty, they possess the authority to 'cancel' such a proposal. 
+In the event that a two-thirds majority of the Congress deems a Referendum proposal to be 'malicious,' as characterised by our Constitution to mean adverse to individual liberty, they possess the authority to 'cancel' such a proposal. 
 
 This provision, as detailed within the Referendum Law, extends to proposals that fail to meet formal requirements or are deemed to be objectively poorly articulated and presented. 
 
