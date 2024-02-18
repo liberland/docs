@@ -24,7 +24,7 @@ The Prime Minister serves as the leader of the Cabinet, wielding the decisive vo
 Liberland is structured around a concise and streamlined governmental framework, comprising precisely four ministries, each under the leadership of a designated Minister. These ministries are foundational to the administrative and operational governance of the state, ensuring a focused and efficient execution of national policy and strategy. The ministries are as follows:  
 **The Ministry of Justice:** Entrusted with upholding the legal framework of Liberland, this ministry oversees the administration of justice, legal proceedings, and the enforcement of laws to maintain societal order and protect citizens' rights.  
 **The Ministry of Internal Affairs:** Responsible for domestic policy, this ministry focuses on internal security, public administration, and the oversight of internal matters crucial to the state's stability and the well-being of its citizens.  
-The Ministry of Foreign Affairs: This ministry manages Liberland's interactions with foreign states and international organisations and oversees diplomatic relations, international treaties, and global representation of Liberland's interests.  
+**The Ministry of Foreign Affairs:** This ministry manages Liberland's interactions with foreign states and international organisations and oversees diplomatic relations, international treaties, and global representation of Liberland's interests.  
 **The Ministry of Finance:** Charged with the economic stewardship of Liberland, this ministry handles fiscal policy, government budgeting, taxation, and the financial management necessary to sustain the state's economic health.  
 
 ## Day-to-Day Governance
