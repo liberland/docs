@@ -24,7 +24,7 @@ The Prime Minister serves as the leader of the Cabinet, wielding the decisive vo
 Liberland is structured around a concise and streamlined governmental framework, comprising precisely four ministries, each under the leadership of a designated Minister. These ministries are foundational to the administrative and operational governance of the state, ensuring a focused and efficient execution of national policy and strategy. The ministries are as follows:  
 **The Ministry of Justice:** Entrusted with upholding the legal framework of Liberland, this ministry oversees the administration of justice, legal proceedings, and the enforcement of laws to maintain societal order and protect citizens' rights.  
 **The Ministry of Internal Affairs:** Responsible for domestic policy, this ministry focuses on internal security, public administration, and the oversight of internal matters crucial to the state's stability and the well-being of its citizens.  
-**The Ministry of Foreign Affairs:** This ministry manages Liberland's interactions with foreign states and international organisations and oversees diplomatic relations, international treaties, and global representation of Liberland's interests.  
+The Ministry of Foreign Affairs: This ministry manages Liberland's interactions with foreign states and international organisations and oversees diplomatic relations, international treaties, and global representation of Liberland's interests.  
 **The Ministry of Finance:** Charged with the economic stewardship of Liberland, this ministry handles fiscal policy, government budgeting, taxation, and the financial management necessary to sustain the state's economic health.  
 
 ## Day-to-Day Governance
@@ -37,6 +37,8 @@ Additionally, proposals for individual government initiatives are obliged to und
 
 ## Governing Liberland
 The paramount public interest in Liberland centers on the regulation and enhancement of the protection of individual life, liberty, and property. This foundational principle establishes the government as the public guarantor of the Non-Aggression Principle, or the Golden Rule: one should not inflict upon others what one would not wish for oneself. 
+
+The constitutionally mandated checks and balances are designed to ensure that the Executive branch remains committed to this core mandate, its principal and sole function. This framework casts the role of a government official or an 'Agent' in Liberland as both challenging and invigorating. Agents are distinguished by their service to the only government that refrains from expropriating resources from its citizens under the guise of public welfare. Instead, they contribute to the creation of what is aimed to be the freest nation on Earth, embodying a commitment to the principles of liberty and non-aggression.
 
 The constitutionally mandated checks and balances are designed to ensure that the Executive branch remains committed to this core mandate, its principal and sole function, contributing to creating what is aimed to be the freest nation on Earth, embodying a commitment to the principles of liberty and non-aggression.
 
