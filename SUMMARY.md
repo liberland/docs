@@ -22,6 +22,7 @@
   * [👨 Tokenomics Primer](blockchain/tokenomics-primer.md)
   * [👨 API](blockchain/API/centralized-exchanges-api.md)
   * [Wallet](blockchain/how-to-create-wallet.md)
+  * [Ecosystem](blockchain/ecosystem.md)
   * [For Citizens](blockchain/for-citizens/README.md)
     * [Voting](blockchain/for-citizens/voting.md)
     * [Senate](blockchain/for-citizens/senate.md)
