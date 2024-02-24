@@ -49,7 +49,7 @@ This script is for Ubuntu and Debian servers. If you're not running Ubuntu or De
 
 Run the following command on your server:
 ```
-curl -sSLO https://raw.githubusercontent.com/liberland/liberland_substrate/main/scripts/install/install.sh
+curl -sSLO https://raw.githubusercontent.com/liberland/liberland_substrate/main/substrate/scripts/install/install.sh
 bash install.sh
 ```
 
