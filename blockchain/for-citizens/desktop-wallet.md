@@ -19,3 +19,7 @@ If you're importing an existing account for use on Liberland Blockchain, it must
 To open the dApp, visit [blockchain.liberland.org](https://blockchain.liberland.org) in the same browser where you installed Talisman.
 
 Now that you have a wallet, if you are a citizen or e-resident, you can begin [onboarding](https://liberland-1.gitbook.io/wiki/v/public-documents/blockchain/for-citizens/onboarding#id-3-getting-merits-and-residency). If you're using a desktop computer, adapt the instructions to use Talisman, Polkadotjs, or Subwallet browser extension instead of Subwallet's mobile app. 
+
+## Next Steps
+
+To see a full tutorial for creating a wallet using Talisman, registering on Coinstore, buying LLD, withdrawing LLD to your wallet, and staking your LLD, [click here](https://www.youtube.com/watch?v=531tOYdTWe8).
