@@ -3,8 +3,8 @@
 The Liberland to Ethereum Bridge is a secure interface that facilitates the transfer of Liberland Dollars (LLD) and Liberland Merits (LLM) between the Liberland and Ethereum blockchains. This system relies on the integrity of relayers for its operations.
 
 The bridge comprises three main components:
-- [Bridge Pallet](https://github.com/liberland/liberland_substrate/tree/develop/frame/federated-bridge) on the Liberland Blockchain
-- [Bridge Contract](https://github.com/liberland/liberland_substrate/tree/develop/eth-bridge/contracts) on the Ethereum Blockchain
+- [Bridge Pallet](https://github.com/liberland/liberland_substrate/tree/develop/substrate/frame/federated-bridge) on the Liberland Blockchain
+- [Bridge Contract](https://github.com/liberland/liberland_substrate/tree/develop/substrate/eth-bridge/contracts) on the Ethereum Blockchain
 - [Bridge Relayer](https://github.com/liberland/bridge_relay), an off-chain entity responsible for passing messages between the two chains
 
 ## Terminology
