@@ -20,7 +20,7 @@ Alternatively, you can manually navigate to it using the following steps
 
 ![Use dApp - 1](../media/subwallet/use-dapp-1.png)
 
-* Tap the `Browser` button in the bottom menu
+* Tap the `dApp` button in the bottom menu
 * In the `Search or enter website` field, input `https://blockchain.liberland.org/`
 * Confirm, and the page should load
 
