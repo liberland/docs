@@ -37,7 +37,6 @@ Migrating your identity from [liberland.org](www.liberland.org) to Liberland Blo
 
 ### 3 - Getting Merits and residency
 * Log in to [liberland.org](https://liberland.org)
-
 * Make sure your Merits value and residency/citizenship status are accurate in [liberland.org](www.liberland.org).
 * If you do not see accurate values, ping whomever promised your Merits or residency/citizenship status to resolve the inaccuracy.
 
@@ -47,9 +46,13 @@ It should look something like this:
 
 ### 4 - Claim Merits and status on-chain
 
+Now it's time to log in to [liberland.org](www.liberland.org), select 'Edit profile,' scroll down to 'Blockchain information,' and paste your wallet address in this field.
+
+![blockchain-address](../media/blockchain-address.png)
+
 At this point you should have your public wallet address, your 12-word mnemonic phrase safely stored, and your Liberland profile updated with your wallet address, Merits, and residency/citizenship status saved at [liberland.org](www.liberland.org).
 
-If on desktop, do the next steps using a browser you have polkadotjs or subwallet installed on (e.g. Firefox, Chrome, etc.).
+If on desktop, do the next steps using a browser you have Talisman, SubWallet, or PolkadotJs installed on (e.g. Firefox, Chrome, etc.).
 
 If on mobile, **you must use the SubWallet app's built-in browser located in bottom menu in the app.** The button says 'dApps'.
 
