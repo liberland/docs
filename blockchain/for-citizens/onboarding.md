@@ -46,7 +46,11 @@ It should look something like this:
 
 ### 4 - Claim Merits and status on-chain
 
-Now it's time to log in to [liberland.org](www.liberland.org), select 'Edit profile,' scroll down to 'Blockchain information,' and paste your wallet address in this field.
+Now it's time to log in to [liberland.org](www.liberland.org), and then:
+
+1. Select 'Dashboard'
+2. Select 'Edit profile'
+3. Scroll down to 'Blockchain information,' and paste your wallet address in this field 4. Select 'Save changes'
 
 ![blockchain-address](../media/blockchain-address.png)
 
