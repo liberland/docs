@@ -21,9 +21,9 @@ and how to issue stock or other assets and list on the Liberland stock market.
 You will need to spend between 10 and 250 LLD for the process.
 //TODO how to get LLD
 
-[Browse existing companies](www.blockchain.liberland.org/home/registries/allCompanies)
+[Browse existing companies](https://blockchain.liberland.org/home/registries/allCompanies)
 
-[Browse existing Contracts](www.blockchain.liberland.org/home/contracts/overview)
+[Browse existing Contracts](https://blockchain.liberland.org/home/contracts/overview)
 
 ### Choosing personal or company account
 Any person, wallet address of account can create a company on the Liberland blockchain, 
@@ -38,14 +38,14 @@ We recommend setting up a new company account (wallet address) to keep business 
 However, if you're the sole person in your company, you might prefer to use your personal account. 
 This choice depends on your business needs.
 
-It is easy to switch between many accounts at [blockchain.liberland.org](blockchain.liberland.org) in the menu wallet selector.
+It is easy to switch between many accounts at [blockchain.liberland.org](https://blockchain.liberland.org) in the menu wallet selector.
 
 ![wallet_selector_list](../media/wallet-selector-list.png)
 
 After selecting an account, ensure it has at least 2 LLD to exist on-chain and update your identity details, 
 including your display name and contact information on your profile page. 
 This step is crucial as it enables others to easily transfer tokens to your address 
-by searching for your display name through the wallet at [blockchain.liberland.org](blockchain.liberland.org).
+by searching for your display name through the wallet at [blockchain.liberland.org](https://blockchain.liberland.org).
 
 ### Choose company type
 
@@ -111,7 +111,7 @@ Your company may be subject to other legally binding agreements in accordance wi
 or you may choose to execute and register contracts with clients or other stakeholders.
 Should you desire, it is possible to directly include these agreements within your company registration.
 
-[Browse existing Contracts](www.blockchain.liberland.org/home/contracts/overview)
+[Browse existing Contracts](https://blockchain.liberland.org/home/contracts/overview)
 
 Please be aware that drafting contracts may necessitate legal expertise specific to the law of Liberland to ensure they are correctly established.
 Do not hesitate to ask for help in signal, telegram or email; there is a helpful community
@@ -154,7 +154,7 @@ under [My Companies](https://blockchain.liberland.org/home/registries/companies/
 
 
 Your company will also appear in the 
-[list of Liberland companies](www.blockchain.liberland.org/home/registries/allCompanies)
+[list of Liberland companies](https://blockchain.liberland.org/home/registries/allCompanies)
 for other citizens and clients to see
 
 
