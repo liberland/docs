@@ -26,7 +26,7 @@ You will need to spend between 10 and 250 LLD for the process.
 [Browse existing Contracts](www.blockchain.liberland.org/home/contracts/overview)
 
 ### Choosing personal or company account
-Any person, wallet address of account can create a company in on the Liberland blockchain, 
+Any person, wallet address of account can create a company on the Liberland blockchain, 
 however to be officially registered as a business within the nation
 of Liberland it needs to satisfy some minimal requirements such as being an e-resident of Liberland.
 
@@ -42,19 +42,24 @@ It is easy to switch between many accounts at [blockchain.liberland.org](blockch
 
 ![wallet_selector_list](../media/wallet-selector-list.png)
 
-After selecting an account, ensure to update your identity details, including your display name and contact information on your profile page. 
-This step is crucial as it enables others to easily transfer tokens to your address by searching for your display name through the wallet at [blockchain.liberland.org](blockchain.liberland.org).
-TODO UPDATE PROFILE LINK
-TODO SEND TOKENS BY DISPLAY NAME PICTURE
+After selecting an account, ensure it has at least 2 LLD to exist on-chain and update your identity details, 
+including your display name and contact information on your profile page. 
+This step is crucial as it enables others to easily transfer tokens to your address 
+by searching for your display name through the wallet at [blockchain.liberland.org](blockchain.liberland.org).
 
 ### Choose company type
 
 There are 4 main company types to consider, depending on your business needs and risk tolerance.
 
+#### Dormant company
+Dormant companies indicate intention to do business in Liberland 'later', for example after international recognition.
+This gives bragging rights and contributes to the legitimacy of Liberland, but is otherwise useless.
+They pose no risk at all, and have no requirements except filling out the form and mentioning it is a dormant company.
+
 #### "Goodboi" subsidiary company
 The "goodboi" company structure is the one that assumes a hostile institution from another country is looking into your
 activity in Liberland, and attempts to be maximally compliant in the case your country of residence assumes the non-existence
-of your Liberland company.
+of your Liberland company. It is the least useful but also least risky form of a Liberland company.
 
 The benefits of a "Goodboi" company are a less regulated business environment, 
 access to Liberland clients, markets, and justice system, as well as bragging rights
@@ -63,32 +68,32 @@ and the patriotic contribution to the official GDP of Liberland.
 In a 'goodboi' company structure, you are required to report all your income to your country of residence and pay all
 the taxes on your income that your country of residence requires.
 
-A parralel company must exist in your country of residence.
+A parallel company must exist in your country of residence.
 
-Any money earned in Liberland as this company that you want to spend in your other country
-should be converted into LLD or other widely tradeable currencies, exchanged for fiat on the exchange and paid out to your main company bank account.
+Any money earned in Liberland as this company should be converted into LLD or other widely tradeable currencies, 
+exchanged for fiat on the exchange and paid out to your main company bank account.
 Normally, only this last fiat transaction needs to be reported in the other country.
 
 Note that regulations vary from country to country so make sure to follow the local law, but this process should be sufficient for small
 businesses in USA and EU.
 
-//TODO goodboi contract
+[Goodboi company charter template can be found here](./contracts/goodboi-contract.md)
 
 #### Territorial tax residency company
 If you live in a country that doesnt have worldwide tax obligations for residents and citizens and instead has territorial
 based taxation, such as Panama, Costa Rica or others, and you sell services in Liberland, online, on Liberland blockchain
 or use other crypto in business, you can open a Liberland company with Liberland(aka voluntary) tax obligations.
 
-These kinds of companies can also open bank accounts. //TODO how
+These kinds of companies can also open bank accounts. [How to open a bank account for a Liberland company](opening-a-bank-account.md)
 
-// TODO Contract
+[Charter template for this company found here](./contracts/territorial-tax-residency-contract-template.md)
 
 #### Pure Liberland company
 Pure Liberland company is physically headquartered in Liberland by people who physically and legally live only in Liberland.
 
 In this case, only Liberland law and voluntary tax code need to be followed.
 
-// TODO Contract
+[Pure Liberland company charter template](./contracts/pure-liberland-company-contract.md)
 
 #### Other
 Liberland has very little regulations about company structures, so trusts, DAOs, NGOs and all other kinds of entities
@@ -96,10 +101,7 @@ are possible, as long as you have a valid contract, follow Liberland law and don
 for international fraud/crime, you can register it.
 
 Here are just some of the examples
-TODO trusts
-TODO DAOs
-TODO NGOs
-
+[Trust contract template](./contracts/trust-contract-template.md)
 
 
 ### Create contracts (optional)
@@ -111,25 +113,28 @@ Should you desire, it is possible to directly include these agreements within yo
 
 [Browse existing Contracts](www.blockchain.liberland.org/home/contracts/overview)
 
-To create a contract,
-
-TODO CONTRACT CREATION
-
 Please be aware that drafting contracts may necessitate legal expertise specific to the law of Liberland to ensure they are correctly established.
-Do not hesitate to seek assistance; there may be companies and professionals available who specialize in providing these services.
+Do not hesitate to ask for help in signal, telegram or email; there is a helpful community
+as well as Liberland companies and professionals available who specialize in providing these services.
+
+By default, contracts on-chain are in Markdown format.
+
+Once you have a contract ready, create it by pasting its content and adding all relevant signatures/parties 
+at the contracts tab at[https://blockchain.liberland.org/home/contracts/my-contracts](https://blockchain.liberland.org/home/contracts/my-contracts)
 
 We are working on a easy to use contract builder but it will take time to finish.
 
-Once the contract is finalized, please copy its link and distribute it to the relevant parties and judges for their signatures.
-The most frequently utilized 'judge' for this purpose is the official court of Liberland, which can be contacted here.
-TODO ADD LIBERLAND COURT CONTACT
+Once the contract is finalized, you can find it under [my contracts](https://blockchain.liberland.org/home/contracts/my-contracts) after refreshing the page 
+Please copy its link and distribute it to the relevant parties and judges for their signatures.
+The most frequently utilized 'judge' for this purpose is the official court of Liberland, which can be contacted through groups on signal, telegram or email.
 
 
 
 ### Create company
-To create a company, in [blockchain.liberland.org](blockchain.liberland.org) choose registries on the menu and select My companies -> Register company
+To create a company, in [https://blockchain.liberland.org/home/registries/companies/overview](https://blockchain.liberland.org/home/registries/companies/overview) 
+choose registries on the menu and select My companies -> Register company
 
-This action will lead you to a form for requesting company registration.
+This will lead you to a form for requesting company registration.
 Not all fields are required, so you may omit any that are not applicable to your situation.
 
 
@@ -138,14 +143,19 @@ This allows the Liberland company registrar to modify your company's information
 or if you are legally found to have violated laws. 
 It is important to note that most registrars require this option to be selected for company registration.
 
-Sign the transaction and your company request for registration is ready! It should take about a day for the request to be approved.
+Sign the transaction and your company request for registration is ready! 
 
-After it is approved you can get your certificate of incorporation by clicking the button 
+The last step is to read the [Terms and conditions](https://liberland.org/company-terms-and-conditions) 
 
-TODO GENERATING CERTIFICATE OF INCORPORATION
+It should take about a day for the request to be approved.
+
+After it is approved you can get your certificate of incorporation by clicking the generate certificate button
+under [My Companies](https://blockchain.liberland.org/home/registries/companies/overview)
+
 
 Your company will also appear in the 
 [list of Liberland companies](www.blockchain.liberland.org/home/registries/allCompanies)
+for other citizens and clients to see
 
 
 ### Handling payments
@@ -166,8 +176,6 @@ This flexibility enables you to conduct business with LLD internationally, or wi
 Should you choose, you have the flexibility to issue invoices in USD, then convert the amount into LLD for transactions, such as paying for services from another company.
 Additionally, you may convert LLD into Bitcoin for long-term investment purposes, among other possible financial strategies. 
 Our role is not to dictate how you manage your finances but to offer support and assistance as you navigate these processes
-
-TODO LINK TO EXCHANGING LLD
 
 ### Fundraising, assets and the stock market
 
@@ -190,14 +198,4 @@ Therefore, it is crucial to comply with the local laws of any country in which y
 
 For these reasons, under Liberland law, it is not yet allowed to sell stock assets to non Liberlanders, to avoid potential problems.
 
-
-TODO interface for asset creation
-
-An example of a shareholder contract can be found here
-
 TODO shareholder contract
-// TODO they need to be KYCd
-
-TODO interface
-
-
