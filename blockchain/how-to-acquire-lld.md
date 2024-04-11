@@ -1,0 +1,23 @@
+# How to Acquire LLD
+
+There are multiple ways to acquire LLD. The easiest way currently are two use one of two centralized exchanges where selling USDT for LLD is possible.
+
+- [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8)
+- [Emirex](https://emirex.com)
+
+There are video tutorials showing you how to make a wallet, create an accounts on both centralized exchanges, withdraw LLD to your self-custodial wallet, and then nominate a validator.
+
+- [How to Acquire LLD and Stake it using and Coinstore](https://www.youtube.com/watch?v=531tOYdTWe8)
+- [How to Acquire LLD and Stake it using and Emirex](https://www.youtube.com/watch?v=x8ZXKZK4M9k)
+
+In brief, the process is as follows:
+
+- Create a wallet using [Subwallet](https://subwallet.app), [Talisman](https://talisman.xyz), Polkadotjs, or [Edge Wallet](https://edge.app)
+  - Note: Edge Wallet does **not connect to applications** and is best used for cold storage of LLD
+- Update your liberland.org profile with your Liberland wallet address
+- Acquire LLD, withdraw them to your wallet
+- Sign in to https://blockchain.liberland.org with your liberland.org account and wallet address
+- Go to Staking
+- Choose a validator to nominate, and update your nominations
+
+You can skip ahead to relevant sections of the tutorials above depending on where you need help. If you need help from the community, join our Telegram group, visit the Blockchain topic, and explain your issue. When doing so, it is wise to avoid sharing any personal information where possible. 
