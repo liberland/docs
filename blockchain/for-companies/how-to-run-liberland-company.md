@@ -118,11 +118,9 @@ The most frequently utilized 'judge' for this purpose is the official court of L
 To create a company, in [https://blockchain.liberland.org/home/registries/companies/overview](https://blockchain.liberland.org/home/registries/companies/overview) 
 choose registries on the menu and select My companies -> Register company
 
-This will lead you to a form for requesting company registration.
-Not all fields are required, so you may omit any that are not applicable to your situation.
+This will lead you to a form for requesting company registration. Not all fields are required, so you may omit any that are not applicable to your situation.
 
-Regarding 'Editable by registrar' field, its best to enable it.
-This allows the Liberland company registrar to modify your company's information if your account becomes inaccessible or if you are legally found to have violated laws. 
+Regarding 'Editable by registrar' field, it is best to enable it. This allows the Liberland company registrar to modify your company's information if your account becomes inaccessible or if you are legally found to have violated laws. 
 
 It is important to note that **most registrars require this option to be selected** during company registration.
 
@@ -132,38 +130,36 @@ The last step is to read the [Terms and Conditions](https://liberland.org/compan
 
 It should take about a day for the request to be approved.
 
-After it is approved you can get your certificate of incorporation by clicking the generate certificate button under [My Companies](https://blockchain.liberland.org/home/registries/companies/overview)
+After the company registration is approved, you can obtain the Certificate of Incorporation by clicking the generate certificate button under [My Companies](https://blockchain.liberland.org/home/registries/companies/overview).
 
-Your company will also appear in the [list of Liberland companies](https://blockchain.liberland.org/home/registries/allCompanies) for other citizens and clients to see
+Your company will also appear in the [list of Liberland companies](https://blockchain.liberland.org/home/registries/allCompanies) for other citizens and clients to see.
 
 
 ### Handling payments
 
 Although Liberland does not impose specific regulations regarding the methods, currencies, or reporting of payments, conducting business transactions on the Liberland blockchain is advisable as it is good for Liberland's further development, particularly when engaging in legally binding contracts.
 
-Assets that are currently available on Liberland blockchain are LLM, LLD and stablecoins like LLEUR and USDT. While Bitcoin and other cryptocurrencies are accepted, it's important to note that they operate on their respective blockchains, separate from the Liberland blockchain.
+Assets that are currently available on Liberland blockchain are LLM, LLD and stablecoins like LLEUR and USDT. While Bitcoin and other cryptocurrencies are accepted, it's important to note that they operate on their respective blockchains, separate from Liberland Blockchain.
 
-Nevertheless, 'wrapped' versions of these cryptocurrencies can be accessed via 'bridges', allowing, for instance, for transactions in 'bitcoin stablecoins' within the Liberland blockchain ecosystem.
+Nevertheless, 'wrapped' versions of these cryptocurrencies can be accessed via bridges, allowing, for instance, for transactions in 'bitcoin stablecoins' within the Liberland Blockchain ecosystem.
 
-LLD offers the most straightforward exchange options, including conversions to USDT, BTC, other cryptocurrencies, or fiat currencies such as USD and EUR. 
-This flexibility enables you to conduct business with LLD internationally, or with any other crypto. 
+LLD offers the most straightforward exchange options, including conversions to USDT, BTC, other cryptocurrencies, or fiat currencies such as USD and EUR. This flexibility enables you to conduct business with LLD internationally, or with any other cryptocurrency. 
 
 Should you choose, you have the flexibility to issue invoices in USD, then convert the amount into LLD for transactions, such as paying for services from another company. Additionally, you may convert LLD into Bitcoin for long-term investment purposes, among other possible financial strategies. 
 
-The government's role is not to dictate how you manage your finances, but to offer support and assistance as you navigate these processes.
+**The government's role is not to dictate how you manage your finances**, but to offer support and assistance as you navigate these processes.
 
-### Fundraising, assets and the stock market
+### Fundraising, Assets and the Stock Market
 
-Similar to other blockchains equipped with smart contract capabilities, 
-you have the opportunity to create tokens and assets underpinned by smart contracts. It is possible to structure them as shares of your company and link it to a shareholder agreement.
+Similar to other blockchains equipped with smart contract capabilities, you have the opportunity to create tokens and assets underpinned by smart contracts. It is possible to structure these tokens/assets as shares of your company and link it to a shareholder agreement.
 
-According to Liberland and international law though, at this point only citizens and residents of Liberland can be shareholders in Liberland companies.
+According to Liberland and international law, though, at this point only citizens and residents of Liberland can be shareholders in Liberland companies.
 
-While Liberland does not prescribe other regulations for such agreements, they typically aim to motivate investment in your company by offering benefits such as profit shares or voting rights, akin to conventional company stock practices globally.
+While Liberland does not prescribe other regulations for such agreements, they typically aim to motivate investment in your company by offering benefits such as profit sharing or voting rights, akin to conventional company stock practices globally.
 
 After the asset or stock has been registered, you can then list it on the Liberland DEX/stock market.
 
-The Liberland DEX/stock marketing listing process will cost 200 LLD.
+When available, the Liberland DEX/stock marketing listing process will cost 200 LLD.
 
 Please be aware that if you list an asset that could be subject to regulation in other countries, such as cryptocurrencies in general, stablecoins, or "securities" (including stocks, bonds, futures, or assets representing commodities), it is likely that such activities are regulated abroad.
 
@@ -171,6 +167,6 @@ For instance, the United States has specific regulations concerning the trading 
 
 Therefore, it is crucial to comply with the local laws of any country in which you intend to resell stock or conduct similar transactions.
 
-For these reasons, under Liberland law, it is not yet allowed to sell stock assets to non Liberlanders, to avoid potential problems.
+For these reasons, under Liberland law, it is not yet allowed to sell stock assets to non-Liberlanders, to avoid potential problems.
 
 // TODO shareholder contract
