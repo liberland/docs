@@ -16,7 +16,7 @@ In brief, the process is as follows:
   - Note: Edge Wallet does **not connect to applications** and is best used for cold storage of LLD
 - Update your liberland.org profile with your Liberland wallet address
 - Acquire LLD, withdraw them to your wallet
-- Sign in to https://blockchain.liberland.org with your liberland.org account and wallet address
+- Sign in to [Liberland Blockchain dApp](https://blockchain.liberland.org) with your liberland.org account and wallet address
 - Go to Staking
 - Choose a validator to nominate, and update your nominations
 

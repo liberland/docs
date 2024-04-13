@@ -1,5 +1,7 @@
 # How to Create a Liberland Blockchain Wallet Using the Polkadot.js Browser Extension
 
+NOTE: We recommend more user-friendly wallets like SubWallet, Talisman, and Edge Wallet.
+
 ## Introduction
 
 The Liberland blockchain uses a nominated proof-of-stake (NPoS) consensus mechanism, which makes it environmentally friendly to operate. Anyone can participate as a Nominator, while only citizens can run Validators, providing an additional layer of security against bad actors. As a nation-state whose entire governance and legislation is managed on-chain, Liberland offers non-citizens the ability to help secure the blockchain by staking LLD through the nomination of Validators who run the infrastructure for the blockchain. Nominating a good Validator leads to learning LLD, while bad Validators and their Nominators can have their LLD stakes slashed. This leads to better blockchain security and incentivizes being a good Validator and Nominator. 
