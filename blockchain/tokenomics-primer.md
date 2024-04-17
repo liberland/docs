@@ -28,7 +28,7 @@ Liberland Dollar is the native coin of Liberland Blockchain. Its primary purpose
 1. the coin for Validators and Nominators to stake and, thereby, secure the chain and gain rewards, which are also paid in LLD; and
 2. the money to purchase goods and services (mainly off-chain), hence, the medium to record market values of primarily real-world articles.
 
-Similarly, the price of LLD will be determined by open markets once LLD is available widely.
+Similarly, the price of LLD is now determined by [open markets](https://www.coingecko.com/en/coins/liberland-lld) now that LLD is available publicly.
 
 Please note that any references to a "preferred currency" refers solely to a government unit of accounting. There is no legal tender in Liberland. Everybody in Liberland is able to pay with whatever currency, barter, favours or other means of exchange the seller will accept, without any government interference.
 
