@@ -33,7 +33,7 @@ Public documents describing or governing life in Liberland.
 * [White Paper](https://github.com/liberland/docs/blob/master/blockchain/white-paper.md)
 * [Tokenomics Primer LLM](https://github.com/liberland/docs/blob/master/blockchain/tokenomics-primer.md)
 * [How to Create a Wallet using Polakdotjs](https://github.com/liberland/docs/blob/master/blockchain/how-to-create-wallet.md)
-* [How to Acquire LLD](https://github.com/liberland/docs/blob/mater/blockchain/how-to-acquire-lld.md)
+* [How to Acquire LLD](https://github.com/liberland/docs/blob/master/blockchain/how-to-acquire-lld.md)
 
 ## Build tools
 
