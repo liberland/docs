@@ -76,7 +76,7 @@ cargo run --release -- --dev
 
 Development instance is a single-node testnet, in which standard development
 accounts (Alice, Bob, etc.) are endowed with assets. To interact with it, visit
-[Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=ws://localhost:9944).
+[Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=ws://localhost:9944).
 
 ## Run automated tests
 

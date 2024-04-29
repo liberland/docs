@@ -24,7 +24,7 @@ Run the node in dev mode to make things easy:
 ./target/release/substrate --dev
 ```
 
-Navigate to [Polkadot.js](https://polkadot.js.org/apps/) and chooce local node.
+Navigate to [Polkadot.js](https://polkadotjs.blockchain.liberland.org//) and chooce local node.
 
 ### Become an on-chain citizen
 

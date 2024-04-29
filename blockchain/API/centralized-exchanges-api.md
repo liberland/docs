@@ -2,9 +2,9 @@ Liberland blockchain is based on [Substrate](https://substrate.io/)
 
 Recommended way to interact with the chain programmatically is through [PolkadotjsApi](https://github.com/polkadot-js/api)
 
-[Testnet chain explorer](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org%2F#/explorer)  
+[Testnet chain explorer](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Ftestchain.liberland.org%2F#/explorer)  
 [Testnet endpoint](wss://testchain.liberland.org/)  
-[Mainnet chain explorer](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F#/staking)  
+[Mainnet chain explorer](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer)  
 [Mainnet endpoint](wss://mainnet.liberland.org/)  
 
 # LLM

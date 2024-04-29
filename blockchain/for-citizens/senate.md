@@ -6,7 +6,7 @@ This is a guide for Senators on how to perform senate actions.
 
 ### Spend from treasury
 
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
 2. Go to Developer -> Extrinsics -> `senate` -> `propose(...)`
     * `threshold`: 51% * number of senate members, round up. Examples:
         * 3 senate members - threshold = 2
@@ -20,7 +20,7 @@ This is a guide for Senators on how to perform senate actions.
  
 ### Cancel referendum
  
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
 2. Developer -> Extrinsics -> `senate` -> `propose(...)`
     * `threshold`: 51% * number of senate members, round up
     * `proposal`:
@@ -30,7 +30,7 @@ This is a guide for Senators on how to perform senate actions.
 
 ### Cancel proposal
  
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
 2. Developer -> Extrinsics -> `senate` -> `propose(...)`
     * `threshold`: 51% * number of senate members, round up
     * `proposal`:
@@ -42,14 +42,14 @@ This is a guide for Senators on how to perform senate actions.
 
 ### Get hash of proposal
 
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/chainstate)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/chainstate)
 2. Developer -> Chain state -> `senate` -> `proposals()`
 3. Click `+` button
 4. The hash is the string that starts with `0x`.
 
 ### Check details
 
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/chainstate)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/chainstate)
 2. Developer -> Chain state -> `senate` -> `proposalOf(h256)`
     * Put the hash from previous step.
 3. Click `+` button
@@ -57,7 +57,7 @@ This is a guide for Senators on how to perform senate actions.
 
 ### Vote
 
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
 2. Developer -> Extrinsics -> `senate` -> `vote(...)`
     * `proposal`: hash from previous step
     * `index`: `0`
@@ -67,7 +67,7 @@ This is a guide for Senators on how to perform senate actions.
 
 After at least `threshold` number of senators voted yes, anyone can execute the motion:
 
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/extrinsics)
 2. Developer -> Extrinsics -> `senate` -> `close(...)`
     * `proposalHash`: hash from previous step
     * `index`: `0`

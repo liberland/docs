@@ -73,8 +73,8 @@ This guide will walk you through the process of setting up a new validator on Li
 Immediately after adding validator, you should see it as "Waiting":
 
 1. Visit Staking Accounts on Polkadot.js Apps:
-    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
-    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
+    * [Mainnet](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "Waiting" button.
 3. You should see your Stash account in the "Intentions" table.
 
