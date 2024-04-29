@@ -89,7 +89,7 @@ Other laws can be modified by creating proposals (referendums).
 
 Congress can create external proposals that differ from the usual proposal in priority. External proposals, thanks to their priority, have the priority of displaying. Below are steps presenting the addition of such a proposal. Read more about the proposals in 'Thresholds'
 
-1. Create [preimages in this tab](https://polkadotjs.blockchain.liberland.org//?rpc=wss%3A%2F%2Fmainnet.liberland.org#/preimages) using "Add preimage" button.
+1. Create [preimages in this tab](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/preimages) using "Add preimage" button.
    <br />
    <img height="300px" src="congress-assets/preimages.png"/>
    <br />
