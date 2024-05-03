@@ -51,7 +51,7 @@ $ sudo chown 1000:1000 $HOME/liberland_data
 $ docker run -it --rm --network=host -v $HOME/liberland_data:/data liberland/blockchain-node:latest -d /data --chain /specs/bastiat.raw.json
 ```
 
-You'll now be able to access your node via [https://polkadot.js.org/apps/?rpc=ws://localhost:9944](https://polkadot.js.org/apps/?rpc=ws://localhost:9944).
+You'll now be able to access your node via [https://polkadotjs.blockchain.liberland.org/?rpc=ws://localhost:9944](https://polkadotjs.blockchain.liberland.org/?rpc=ws://localhost:9944).
 
 ### Complete example of running a validator on mainnet
 

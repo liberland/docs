@@ -78,7 +78,7 @@ The existence of Congress is founded on two primary objectives:
 5. If candidate 1 doesn't get elected, your vote goes to candidate 2, etc.
 
 ### Delegate
-1. Go to the (old frontend)[https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F#/accounts]
+1. Go to the (old frontend)[https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F#/accounts]
 2. Once there, go to Accounts/Accounts
 3. Find your own Account
 4. Click the three dots

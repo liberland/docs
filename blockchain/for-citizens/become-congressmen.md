@@ -6,7 +6,7 @@ Congressmen have some passive options. One such possibility is for citizens to r
 
 ## Congress view
 
-Below is a screenshot showing the [congress of Liberland](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council). It is widely available and everyone can display the number of congressmen and candidates. But only citizen's submit candidacy.
+Below is a screenshot showing the [congress of Liberland](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council). It is widely available and everyone can display the number of congressmen and candidates. But only citizen's submit candidacy.
 
 <br />
 <img height="300px" src="congress-assets/congress-dashboard.png"/>
@@ -16,7 +16,7 @@ Below is a screenshot showing the [congress of Liberland](https://polkadot.js.or
 
 Every citizen can vote to elect a congressman. Voting for congressmen takes place on [Phragmen's voting rules](https://en.wikipedia.org/wiki/Phragmen%27s_voting_rules). This means that a citizen can vote for many candidates, but the power of a vote is smaller with each subsequent candidate. So the first vote has the highest weight
 
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council)
 2. Click "Vote"
 3. Select a candidate from the list and then click on the "Vote" button
 
@@ -37,7 +37,7 @@ Any citizen can apply to be a congressman.
 
 #### How to apply
 
-1. Visit [Polkadot.js Apps](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council)
+1. Visit [Polkadot.js Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council)
 2. Click "Submit candidacy"
 3. Select the account you want to apply with then click "Sign and Submit"
 
@@ -49,13 +49,13 @@ After applying, other citizens can vote for you and other candidates.
 
 ### Congressmen's actions
 
-Congressmen can submit proposals under the ["Motions" tab](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council/motions). Then these can be considered by the whole Congress.
+Congressmen can submit proposals under the ["Motions" tab](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council/motions). Then these can be considered by the whole Congress.
 
 If you do not know what proposals you can make, find out more at "How to submit proposals"
 
 #### How to vote for a proposal
 
-All pending proposals are displayed in the ["Motions" tab](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council/motions). Proposals are displayed as a list and any congressman can vote on them.
+All pending proposals are displayed in the ["Motions" tab](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council/motions). Proposals are displayed as a list and any congressman can vote on them.
 
 As you can see, next to the motion there is a vote button. It opens the voting panel. Then on the panel, you can vote for or against the proposal
 
@@ -67,7 +67,7 @@ As you can see, next to the motion there is a vote button. It opens the voting p
 
 To vote, you need to set the correct threshold and proposal. Different actions may require different minimum thresholds. Threshold is the minimum percentage of votes that a proposal must receive in order to be approved. The threshold is automatically set to 50% but some methods may require setting a different threshold value. To find out which proposals should have what value, go to the "Threshold"
 
-1. Open the ["Motions" tab](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council/motions)
+1. Open the ["Motions" tab](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/council/motions)
 2. Click the "Propose motion" button
 3. Fill in the information about the proposal and then click the "Propose" button
 
@@ -89,7 +89,7 @@ Other laws can be modified by creating proposals (referendums).
 
 Congress can create external proposals that differ from the usual proposal in priority. External proposals, thanks to their priority, have the priority of displaying. Below are steps presenting the addition of such a proposal. Read more about the proposals in 'Thresholds'
 
-1. Create [preimages in this tab](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/preimages) using "Add preimage" button.
+1. Create [preimages in this tab](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/preimages) using "Add preimage" button.
    <br />
    <img height="300px" src="congress-assets/preimages.png"/>
    <br />

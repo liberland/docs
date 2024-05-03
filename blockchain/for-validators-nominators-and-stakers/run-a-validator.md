@@ -120,8 +120,8 @@ Immediately after adding validator, you should see it as "Waiting":
 Now you have to wait to see if it gets elected to current set of validators. You may need to wait until new era starts and then the chance of being elected is based on the amount of staked LLD. To see current set of validators:
 
 1. Visit Staking Accounts on Polkadot.js Apps:
-    * [Mainnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
-    * [Bastiat (Testnet)](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
+    * [Mainnet](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/staking/actions)
+    * [Bastiat (Testnet)](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Ftestchain.liberland.org#/staking/actions)
 2. Click "All validators" button.
 2. Click "Active" button.
 3. You should see list of active validators in the "Validators" table.
