@@ -1,8 +1,6 @@
 # Node update guide
 
-Update requires:
-* updating to the latest node binary
-* updating to the latest chain specification
+Update requires updating to the latest node binary.
 
 For a detailed guide, please choose the proper instruction according to the method used to install the node:
 
@@ -37,14 +35,13 @@ If you followed the [Complete example of running a validator on mainnet](../dev/
     ```
 3. Recreate the container:
     ```
-    docker run --name liberland -d --network=host --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:latest -d /data --chain /specs/mainnet.raw.json --validator
+    docker run --name liberland -d --network=host --restart always -v $HOME/liberland_data:/data liberland/blockchain-node:latest -d /data --chain mainnet --validator
     ```
 
 # Manual installs
 
 If you've installed manually, you need to:
 1. Download latest node binary (`linux_x86_build`) from the [releases page](https://github.com/liberland/liberland_substrate/releases)
-2. Download latest chain spec (`mainnet.raw.json`) from the [releases page](https://github.com/liberland/liberland_substrate/releases)
-3. Stop your node
-4. Replace the binary and spec files you're using with the downloaded ones
-5. Restart your node
+2. Stop your node
+3. Replace the binary you're using with the downloaded one
+4. Restart your node
