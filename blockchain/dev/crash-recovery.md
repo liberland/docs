@@ -18,7 +18,7 @@ This procedure should be performed by Liberland Blockchain Dev Team in case of c
        }
        ```
     * Otherwise look for `system.CodeUpdated` event in recent blocks
-2. Update the chain specification to include hash of the block with `CodeUpdated` in `badBlocks`. **Notice:** this will revert all changed made in this block and all blocks that came after it, including things like transferring funds! This might cause consistency issues for exchanges, relayers, indexers that already processed these blocks in some way, especially if it was already finalized. Example:
+2. Update the JSON with chain specification in `specs/` to include hash of the block with `CodeUpdated` in `badBlocks`. **Notice:** this will revert all changed made in this block and all blocks that came after it, including things like transferring funds! This might cause consistency issues for exchanges, relayers, indexers that already processed these blocks in some way, especially if it was already finalized. Example:
    ```
      "badBlocks": ["0xab1f37b6306b2844320fba83152475efe06ab276cd46177da93e420079598609"],
    ```
