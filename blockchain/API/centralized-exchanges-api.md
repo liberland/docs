@@ -2,10 +2,14 @@ Liberland blockchain is based on [Substrate](https://substrate.io/)
 
 Recommended way to interact with the chain programmatically is through [PolkadotjsApi](https://github.com/polkadot-js/api)
 
-[Testnet chain explorer](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Ftestchain.liberland.org%2F#/explorer)  
-[Testnet endpoint](wss://testchain.liberland.org/)  
-[Mainnet chain explorer](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer)  
-[Mainnet endpoint](wss://mainnet.liberland.org/)  
+- [Testnet chain explorer](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Ftestchain.liberland.org%2F#/explorer)  
+- [Testnet endpoint](wss://testchain.liberland.org/)  
+- Mainnet chain explorer
+  - [Dwellir endpoint](https://polkadotjs.blockchain.liberland.org/?rpc=wss://liberland-rpc.dwellir.com#/explorer)
+  - [Liberland endpoint](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer)
+- Mainnet endpoints
+  - [Government-operated](wss://mainnet.liberland.org)
+  - [Dwellir-operated](wss://liberland-rpc.dwellir.com)
 
 # LLM
 
@@ -22,7 +26,7 @@ const LLMInfo = await api.query.assets.account('<ASSET_ID>', '<WALLET_ADDRESS>')
 console.log(LLMInfo.toJSON().data?.balance ?? '0x0')
 ```
 ## Create Address
-To create a new address, a minimum of 1 LLD needs to be sent as an existential deposit
+To create a new address, a minimum of 1 LLD needs to be deposited as an existential deposit
 
 ### using polkadotJsApi
 ``` javascript
