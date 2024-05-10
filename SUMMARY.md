@@ -26,6 +26,7 @@
     * [How to Acquire LLD](blockchain/how-to-acquire-lld.md)
     * [How to use SubWallet](blockchain/for-citizens/mobile-wallet.md)
     * [How to use Talisman](blockchain/for-citizens/desktop-wallet.md)
+    * [Known issues](blockchain/known-issues.md)
   * [For Citizens and E-Residents](blockchain/for-citizens/README.md)
     * [Voting](blockchain/for-citizens/voting.md)
     * [Senate](blockchain/for-citizens/senate.md)
