@@ -22,6 +22,7 @@
   * [👨 Tokenomics Primer](blockchain/tokenomics-primer.md)
   * [👨 API](blockchain/API/centralized-exchanges-api.md)
   * [Ecosystem](blockchain/ecosystem.md)
+    * [Crosschain Bridge](blockchain/cross-chain-bridge.md)
     * [Liberland Exchange](blockchain/liberland-decentralized-exchange.md)
     * [How to Use Polkadot.js](blockchain/how-to-create-wallet.md)
     * [How to Acquire LLD](blockchain/how-to-acquire-lld.md)
