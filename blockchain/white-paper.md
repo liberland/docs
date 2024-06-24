@@ -12,7 +12,7 @@ In the future, it will support an online judiciary system, enabling non-smart bu
 
 Liberland Blockchain is a layer 1 public blockchain owned by holders of LLD but governed by the holders of LLM. The codebase is a fork of Substrate/Polkadot distributed under the MIT License, the same as Bitcoin. Liberland does not claim ownership of the blockchain or related materials. 
 
-The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. Advanced functionalities critical to the project's future are permissioned. DeFi projects on the Liberland chain are not permissioned unless designed and designated as such by third-party developers on a per-project basis.
+The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. Advanced functionalities critical to the project's future are permissioned. DeFi projects on the Liberland chain are permissionless unless designed and designated as such by third-party developers on a per-project basis.
 
 ## Liberland Blockchain Design
 
