@@ -2,34 +2,52 @@
 
 ## Abstract 
 
-Liberland is a country founded in 2015 on a terra nullius between Croatia and Serbia, with its founders being enthusiasts of blockchain and liberty. The goal of the Liberland Blockchain is to provide all e-government services to its citizens via a Substrate-based blockchain system, with governance as its first use case. 
+Liberland is a country founded in 2015 on a terra nullius between Croatia and Serbia, with its founders being enthusiasts of blockchain and liberty. 
+The goal of the Liberland Blockchain is to provide all e-government services to its citizens via a Substrate-based blockchain system, 
+with governance as its first use case. 
 
-The Liberland Blockchain is designed as a layer 1 public blockchain, governed by the holders of its native tokens, the Liberland Dollar (LLD) and Liberland Merit (LLM). The system also supports Non-Fungible Tokens (NFTs) representing land and other assets and implements a decentralised identity solution. 
+The Liberland Blockchain is designed as a layer 1 public blockchain, governed by the holders of its native tokens, the Liberland Dollar (LLD) and Liberland Merit (LLM).
+The system also supports Non-Fungible Tokens (NFTs) representing land and other assets and implements a decentralised identity solution. 
 
-In the future, it will support an online judiciary system, enabling non-smart but self-executing contracts on the blockchain with the judiciary as an oracle. The judiciary will also enable features like account recovery and recourse against fraud and theft.
+In the future, it will support an online judiciary system, enabling non-smart but self-executing contracts on the blockchain with the judiciary as an oracle.
+The judiciary will also enable features like account recovery and recourse against fraud and theft.
 
 ## System Overview
 
-Liberland Blockchain is a layer 1 public blockchain owned by holders of LLD but governed by the holders of LLM. The codebase is a fork of Substrate/Polkadot distributed under the MIT License, the same as Bitcoin. Liberland does not claim ownership of the blockchain or related materials. 
+Liberland Blockchain is a layer 1 public blockchain owned by holders of LLD but governed by the holders of LLM. 
+The codebase is a fork of Substrate/Polkadot distributed under the MIT License, the same as Bitcoin. 
+Liberland does not claim ownership of the blockchain or related materials. 
 
-The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. Advanced functionalities critical to the project's future are permissioned. DeFi projects on the Liberland chain are permissionless unless designed and designated as such by third-party developers on a per-project basis.
+The blockchain allows permissionless usage of tokens and coins as a store of value or medium of exchange. 
+Some advanced functionalities critical to the operation of the nation are permissioned. For example, only citizens can vote in onchain elections,
+only e-residents can start Liberland companies etc. Even though in such cases "Liberland official" functionalities like company registry are permissioned,
+the system is configured to easily support other private registries which can be permissionless.
+
+DeFi projects on the Liberland chain are permissionless unless designed and designated differently by third-party developers on a per-project basis.
+
+[Read about the tokenomics](tokenomics-primer.md)
 
 ## Liberland Blockchain Design
 
-### Public Blockchain
-The Liberland Blockchain is a fork of the Parity Substrate/Polkadot code base. The code base is distributed under the MIT License, similar to Bitcoin. It supports permissionless transactions for the store of value and medium of exchange purposes, with advanced functionalities being permissioned for specific user types.
 
 ### Permissioned Access
 
-To accommodate state-level security requirements, certain blockchain functions are only available to users with elevated privileges. Elevated privileges are obtained by undergoing the, currently, centralised KYC procedure operated by the government of Liberland, and fulfilling the requirements for becoming Citizens. 
+To accommodate state-level security requirements, certain blockchain functions are only available to users with elevated privileges. 
+Elevated privileges are obtained by undergoing the, KYC procedure operated by the government of Liberland, and fulfilling the requirements for becoming Citizens. 
 
-The functions that require elevated privilege include, crucially, running Validator nodes and participating in on-chain governance. This system reflects the principle of citizenship on the blockchain: States allow only citizens to operate their systems of critical infrastructure, and typically, only citizens are given full political rights. As on-chain governance and politics are the same thing, the development of the system is, effectively, in the hands of the Citizens.
+The functions that require citizenship or e-residency include, running Validator nodes and participating in on-chain governance. 
+
+This system reflects the principle of citizenship on the blockchain: 
+States allow only citizens to operate their systems of critical infrastructure, and typically, only citizens are given full political rights. 
+As on-chain governance and politics are the same thing, the development of the system is, effectively, in the hands of the Citizens.
 
 ## On-Chain Assets
 
 ### On-Chain Assets and Division of Power
 
-The blockchain contains two main assets: Liberland Dollar (LLD) and Liberland Merit (LLM). LLD serves as a medium of exchange and an instrument for maintaining network consensus and security. LLM represents a share in Liberland's state and nationhood, granting governance power with no possibility of separating this power from the token.
+The blockchain contains two main assets: Liberland Dollar (LLD) and Liberland Merit (LLM). 
+LLD serves as a medium of exchange and an instrument for maintaining network consensus and security. 
+LLM represents a share in Liberland's state and nationhood, granting governance power with no possibility of separating this power from the token.
 
 ### Liberland Dollar (LLD)
 
@@ -40,9 +58,9 @@ The Liberland Dollar serves as the native token of the blockchain, fulfilling th
 - The token to register entities with and to manage them, such as companies, assets, real estate, etc.
 - The token to operate the judiciary for traditional contracts.
 
-LLD is minted according to rules inherited from Polkadot, including the "ideal staking ratio" mechanism. This system is well-researched, designed and tested through years of practical use.
+There are 3 million LLD with maximum inflation of 10% a year, subject to reduction by governance once adoption and gas fees increase.
+[Read more about the tokenomics of LLD](tokenomics-primer.md)
 
-Its tokenomics reflect - just like those of Polkadot’s DOT - the  "automatic central bank" system proposed by the Nobel-prize-winning economist Milton Friedman.
 
 ### Liberland Merit (LLM)
 
@@ -53,6 +71,8 @@ The Liberland Merit represents a share in the state and nationhood of Liberland.
 With a fixed maximum supply of 70,000,000 tokens and a release schedule of 10 percent per year, LLM is a deflationary token. LLM represents the territory of Liberland, where 10 LLM represent 1 m2 of land. This is an ideal ownership scenario, but LLM holders will be acknowledged when titles to the land are sold. 
 
 LLM is a token set up using the Assets pallet. The initial price for LLM will be USD $2, subject to change when trading begins.
+
+[Read more about the tokenomics of LLM](tokenomics-primer.md)
 
 #### Political pooling (PolitiPooling)
 
