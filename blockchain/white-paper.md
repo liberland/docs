@@ -33,7 +33,7 @@ DeFi projects on the Liberland chain are permissionless unless designed and desi
 ### Permissioned Access
 
 To accommodate state-level security requirements, certain blockchain functions are only available to users with elevated privileges. 
-Elevated privileges are obtained by undergoing the, KYC procedure operated by the government of Liberland, and fulfilling the requirements for becoming Citizens. 
+Elevated privileges are obtained by undergoing the KYC procedure operated by the government of Liberland and fulfilling the requirements for becoming Citizens. 
 
 The functions that require citizenship or e-residency include, running Validator nodes and participating in on-chain governance. 
 
