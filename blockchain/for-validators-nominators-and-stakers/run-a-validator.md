@@ -55,7 +55,7 @@ bash install.sh
 
 The script will ask you for confirmation before every action. It will:
 * install dependencies
-* download liberland node and chain specification
+* download Liberland node
 * setup a systemd service, so that the node starts automatically
 * configure time synchronization
 * generate session keys for use in next step
