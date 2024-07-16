@@ -20,6 +20,7 @@
 * [🔗💻 Blockchain](blockchain/README.md)
   * [💫 White Paper](blockchain/white-paper.md)
   * [🪙 Tokenomics Primer](blockchain/tokenomics-primer.md)
+  * [💫 Roadmap](blockchain/roadmap.md)
   * [🤖 API](blockchain/API/centralized-exchanges-api.md)
   * [Ecosystem](blockchain/ecosystem.md)
     * [Crosschain Bridge](blockchain/cross-chain-bridge.md)
