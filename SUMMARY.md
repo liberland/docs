@@ -40,6 +40,8 @@
     * [Run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator.md)
     * [Non-technical run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator-non-technical.md)
     * [Staking](blockchain/for-validators-nominators-and-stakers/staking.md)
+    * [Update node](blockchain/for-validators-nominators-and-stakers/update.md)
+    * [Resync node](blockchain/for-validators-nominators-and-stakers/resync.md)
   * [For Developers & Testers](blockchain/for-developers-and-testers/README.md)
     * [Build, run & test using source code](blockchain/dev/dev.md)
     * [Run in Docker](blockchain/dev/docker.md)
@@ -47,3 +49,4 @@
     * [Runtime upgrade](blockchain/dev/runtime\_upgrade.md)
     * [Rust API docs](blockchain/dev/rust.md)
     * [Bootstrapping new testnet](blockchain/dev/bootstrapping\_new\_testnet.md)
+    * [Chain Crash Recovery Procedure](blockchain/dev/crash-recovery.md)
