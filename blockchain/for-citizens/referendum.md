@@ -12,7 +12,7 @@ Liberland's referendums are based on the draft Constitution and Referendum Law. 
 
 ## Types of Referendums
 
-### Meritocratic Referendum (Positive Referendum)
+### Meritocratic Referendum
 
 #### Purpose
 
@@ -58,7 +58,7 @@ A Positive Referendum is used to adopt, reject, or modify any law, regulation, o
 
 - For a smoother process, it is recommended to ask a Member of Congress to propose on your behalf.
 
-### Democratic Veto (Negative Referendum)
+### Democratic Veto
 
 #### Purpose
 
