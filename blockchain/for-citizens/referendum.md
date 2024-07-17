@@ -8,7 +8,7 @@ In Liberland, referendums are the primary method for enacting decisions or legis
 
 ### Legal Framework
 
-Liberland's referendums are based on the draft Constitution and Referendum Law. These documents, though currently drafts, will gain legal force upon adoption in a future referendum. They are already used to build essential infrastructure, such as the Liberland Blockchain.
+Liberland's referendums are based on the draft Constitution and [Referendum Law](https://github.com/liberland/laws/blob/Laws-Current/Referendum%20Law/referendum-law.md). These documents, though currently drafts, will gain legal force upon adoption in a future referendum. They are already used to build essential infrastructure, such as the Liberland Blockchain.
 
 ## Types of Referendums
 
