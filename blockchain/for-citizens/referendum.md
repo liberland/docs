@@ -50,6 +50,12 @@ A Positive Referendum is used to adopt, reject, or modify any law, regulation, o
 
 - Unpooling LLM takes time, indicating a commitment to Liberland.
 
+- Citizen referenda require a variable threshold for acceptance depending on how many LLM have been cast.
+
+- Where all would be cast, the threshold would be 50 percent plus one LLM.
+
+- Congress referenda all require exactly 50 percent plus one LLM cast to be adopted.
+
 #### Proposing a Meritocratic Referendum
 
 - Any Citizen can propose a referendum.
