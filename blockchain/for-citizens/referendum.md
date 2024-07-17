@@ -1,4 +1,4 @@
-# Technical Guide: How to Vote in a Referendum
+# How to Vote in a Referendum
 
 ## Overview
 
