@@ -62,9 +62,9 @@ A Positive Referendum is used to adopt, reject, or modify any law, regulation, o
 
 #### Purpose
 
-A Democratic Referendum is used to remove legislative measures or officials from office, demonstrating a "headcount" democracy with free and equal elections.
+A Democratic Veto is used to remove legislative measures or officials from office, demonstrating a "headcount" democracy with free and equal elections.
 
-#### Types of Democratic Referendums
+#### Types of Democratic Veto
 
 - **Public Veto**: Removes any legislative measure (laws, regulations, etc.) enacted by the Government.
 
