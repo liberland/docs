@@ -2,6 +2,8 @@
 
 There are multiple ways to acquire LLD. The easiest way currently are two use one of two centralized exchanges where selling USDT for LLD is possible.
 
+- [MEXC](https://www.mexc.com/exchange/LLD_USDT)
+- [Matcha](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?sellChain=1&sellAddress=0xdac17f958d2ee523a2206206994597c13d831ec7) on Ethereum
 - [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8)
 - [Emirex](https://emirex.com)
 
@@ -19,5 +21,7 @@ In brief, the process is as follows:
 - Sign in to [Liberland Blockchain dApp](https://blockchain.liberland.org) with your liberland.org account and wallet address
 - Go to Staking
 - Choose a validator to nominate, and update your nominations
+
+LLD purchased on Ethereum can be bridged to [Liberland Blockchain using HASHI Bridge](./cross-chain-bridge.md).
 
 You can skip ahead to relevant sections of the tutorials above depending on where you need help. If you need help from the community, join our Telegram group, visit the Blockchain topic, and explain your issue. When doing so, it is wise to avoid sharing any personal information where possible. 
