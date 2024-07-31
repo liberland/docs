@@ -1,76 +1,102 @@
-# For Citizens and e-residents
+# Onboarding
 
-This guide is written with SubWallet's mobile app in mind. 
+This guide is written with SubWallet's mobile app in mind. If you are using another wallet on mobile (e.g., Talisman) or are a web/computer user (using e.g., polkadot{.js}), you can easily adapt the instructions accordingly to the wallet/platform you are using.
 
-## TLDR
+## Quick guide
 
-1. Make sure you are an e-resident/citizen with correct number of Merits on [liberland.org](www.liberland.org)
-2. [Install SubWallet](https://www.subwallet.app/download.html), create wallet and save passphrase on paper
-3. Go to [blockchain.liberland.org in subwallet](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F) and follow the steps
-4. Click on profile, claim onboarding LLD and update identity
+1. Make sure you are an E-Resident/citizen with correct number of merits on [the main website](https://liberland.org).
+2. [Install SubWallet](https://www.subwallet.app/download.html), create a wallet, and save the passphrase on paper.
+3. Associate the wallet address with [your Liberland profile](https://liberland.org/profile).
+4. Go to the Liberland Blockchain at [blockchain.liberland.org in Subwallet](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F).
+![](../media/subwallet/subwallet_browser_menu.png)
 
-You will then get your Merits within one business day!
+![](../media/subwallet/subwallet_search_bar.jpg)
+5. Click on **Profile**, claim onboarding LLD, and update identity.
 
-   ![subwallet-browser-menu](../media/subwallet/subwallet_browser_menu.png)
+You will then get your merits transferred to your blockchain wallet in about one business day.
 
-   ![subwallet-search-bar](../media/subwallet/subwallet_search_bar.jpg)
-
-## Onboarding
-Migrating your identity from [liberland.org](www.liberland.org) to Liberland Blockchain requires roughly 3 minutes and consists of a few steps:
+## Step-by-step guide
+Setting up your identity on the Liberland Blockchain requires roughly 3 minutes and consists of a few steps:
 1. Setting up a wallet
 2. Securing your keys
-3. Getting Merits and residency at liberland.org
-4. Claiming Merits and citizenship on-chain
+3. Getting merits and residency on the website
+4. Associating the wallet address with your profile
+5. Claiming merits and E-Residency/citizenship on chain
 
-### 1 - Setting up a wallet
-* A wallet address is your public address on the blockchain.
-* It comes with a seed phrase - 12 words that are the keys to your on-chain existence.
-* Use SubWallet or polkadotjs.
+### 1. Set up a wallet
+A wallet address is your public address on the blockchain. It comes with a seed phrase&mdash;12 words that are the keys to your on-chain existence.
+
+Use SubWallet, polkadot{.js}, or Talisman as your wallet software based on your platform:
 
 [Mobile wallet setup](mobile-wallet.md)
 
-[Desktop wallet setup](desktop-wallet.md)
+[Web wallet setup](desktop-wallet.md)
 
-### 2 -  Securing keys
-* During the wallet setup, you got a 12 word mnemonic seed phrase. **It is very important not to lose or share that phrase with anyone,** as it is the key or 'password' to your on-chain existence. Make sure to back it up and store it somewhere where it will not be lost.
-* A common, low-tech solution is to write it on a piece of paper or use a password manager.
+### 2.  Secure keys
+During wallet setup, you got a 12-word mnemonic seed phrase. Store it somewhere where it will not be lost nor found by someone else.
 
-### 3 - Getting Merits and residency
-* Log in to [liberland.org](https://liberland.org)
-* Make sure your Merits value and residency/citizenship status are accurate in [liberland.org](www.liberland.org).
-* If you do not see accurate values, ping whomever promised your Merits or residency/citizenship status to resolve the inaccuracy.
+{% hint style="warning" %}
+It is ***very important*** not to lose that phrase or share it with anyone, as it is the only key or "password" to your on-chain existence.
+{% endhint %}
 
+A common, low-tech solution is to write it on a piece of paper and put it in a safe, or to use a password manager. Taking a photo of it on your phone or the like is *not recommended* because it is mostly likely not encrypted and someone else might see it.
+
+### 3. Get merits and E-Residency/citizenship
+1. Go to [the Dashboard](https://liberland.org/dashboard) of the main website.
+2. Make sure your merits and E-Residency/citizenship status are accurate in the Dashboard.
 It should look something like this:
+![](../media/profile-status-merits-info.png)
+3. If you do not see accurate values, contact whomever promised you merits or E-Residency/citizenship status to resolve the inaccuracy.
 
-![valid-citizenship](../media/valid-citizen-org.png)
+### 4. Associate wallet address with your profile
 
-### 4 - Claim Merits and status on-chain
+Now it's time to associate your wallet address with your profile like so:
 
-Now it's time to log in to [liberland.org](www.liberland.org), and then:
+1. Click on [**Edit profile**](https://liberland.org/profile) on the Dashboard of the main website.
+2. Copy your wallet address from the wallet software:
+   1. Click **Address**.
+   ![](../media/subwallet/address-button.png)
+   2. Type in **LLD**, and click the token.
+   ![](../media/subwallet/show-address-token-search-selection.png)
+   3. Click the **Copy address** button.
+   ![](../media/subwallet/copy-address.png)
+4. Scroll down to the **Blockchain information** section and paste your wallet address in this field.
+![](../media/blockchain-address.png)
+5. Click **Save changes**.
 
-1. Select 'Dashboard'
-2. Select 'Edit profile'
-3. Scroll down to 'Blockchain information,' and paste your wallet address in this field 4. Select 'Save changes'
+At this point, you should have your public wallet address generated, your 12-word mnemonic phrase safely stored, and your Liberland profile updated with the correct number of merits and E-Residency/citizenship status and your wallet address associated on the website.
 
-![blockchain-address](../media/blockchain-address.png)
+### 5. Claim merits and status on chain
 
-At this point you should have your public wallet address, your 12-word mnemonic phrase safely stored, and your Liberland profile updated with your wallet address, Merits, and residency/citizenship status saved at [liberland.org](www.liberland.org).
+If on the web, do the next steps using the browser you have SubWallet, polkadot{.js}, or Talisman installed on (e.g. Chrome, Firefox, etc.).
 
-If on desktop, do the next steps using a browser you have Talisman, SubWallet, or PolkadotJs installed on (e.g. Firefox, Chrome, etc.).
+If on a mobile device, *you must use the SubWallet app's built-in browser located in bottom menu in the app.* The button says **dApps**.
 
-If on mobile, **you must use the SubWallet app's built-in browser located in bottom menu in the app.** The button says 'dApps'.
+![](../media/subwallet/subwallet_browser_menu.png)
 
-![subwallet-browser-icon](../media/subwallet/subwallet_browser_icon.png)
+1. Navigate to [https://blockchain.liberland.org](https://blockchain.liberland.org) and log in.
+![](../media/subwallet/subwallet_search_bar.jpg)
+2. It's time to claim your tokens and E-Resident/citizen identity! Open the menu and click on the **Profile** button.
 
-* Navigate to [https://blockchain.liberland.org](https://blockchain.liberland.org), login and follow the steps.
-![subwallet-search-bar](../media/subwallet/subwallet_search_bar.jpg)
-* It's time to claim your tokens and e-resident/citizen identity!
-* Open the menu and select the 'Profile' tab.
-* Since all actions on-chain cost a small amount of gas fees and you are already an e-resident, you are eligible for a small amount of LLD to get you started.
-* First, select on the 'Claim complimentary LLD' button. After a few seconds, it should tell you to refresh the page and you should have 2 LLDs so that you can begin using the blockchain right away.
-* Next, select on 'Update identity', and set it to what you want your on-chain identity to be. **There is no requirement to use your real name,** but make sure to include your correct citizenship/e-residency status.
-* After you select on 'Set identity', as with any on-chain transaction, a popup window from your wallet of choice should appear, and it will ask you to sign a transaction.
-Some browsers might prevent popup windows, so make sure to click on the wallet extension icon if you see no popup. In any case, sign the transaction and you are good to go.
-* After this, it usually takes approximately one day for the Ministry of Interior to confirm your on-chain identity and transfer your Merits.
+{% hint style="info" %}
+Since all actions on-chain cost a small amount of gas fees and you are already an E-Resident, you are eligible for a small amount of LLD to get you started.
+{% endhint %}
 
-Please wait patiently for the on-chain identity and transfer process to be completed as it is a manual process at this time.
+3. First, click the **Claim complimentary LLD** button. After a few seconds, it should tell you to refresh the page and you should have LLD&nbsp;2 so that you can begin using the blockchain right away.
+4. Click **Update identity**, and set it to what you want your on-chain identity to be.
+
+{% hint style="warning" %}
+**Note:** There is no requirement to use your real name, but make sure to include your correct citizenship/E-Residency status.
+{% endhint %}
+
+5. After you click **Set identity**, as with any on-chain transaction, a popup window from your wallet of choice should appear, and it will ask you to sign the transaction. Sign the transaction and you are good to go.
+
+{% hint style="warning" %}
+**Note:** Some browsers might prevent popup windows, so make sure to click on the wallet extension icon if you see no popup.
+{% endhint %}
+
+6. After this, it usually takes approximately one day for the Ministry of Interior to confirm your on-chain identity and transfer your merits.
+
+{% hint style="info" %}
+Please wait patiently for the on-chain identity and transfer process to be completed, as it is a manual process at this time.
+{% endhint %}
