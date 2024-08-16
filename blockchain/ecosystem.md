@@ -8,6 +8,7 @@
  - [Edge Wallet](https://edge.app) is a mobile app wallet that is best suited for cold storage. That is, tokens you don't expect to use often, and don't want connected to a web app.
 
 ### Exchanges
+ - [MEXC](https://mexc.com) is a leading centralised exchange with millions of users and thousands of tokens available. You can buy, sell, deposit and withdraw LLD on the Liberland Blockchain at MEXC.
  - [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD. 
  - [Emirex](https://emirex.com) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD. 
  - [Matcha](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?sellChain=1&sellAddress=0xdac17f958d2ee523a2206206994597c13d831ec7) is a decentralized exchange aggregator, making it easy to swap any token on Ethereum for Liberland Dollar. A portion of LLD's supply was bridged to Ethereum and deployed to Uniswap in June 2024.
