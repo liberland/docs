@@ -142,6 +142,25 @@ Payload:
 
 To fetch next page, pass `endCursor` from previous call as `cursor` variable.
 
+### Fetching LLD transfers of a given user since block number
+
+URL: `https://archive.mainnet.liberland.org/`
+Method: `POST`
+
+Payload:
+```
+{
+    "operationName": "Transfers",
+    "variables": {
+        "userId": "5EYCAe5g8CDuMsTief7QBxfvzDFEfws6ueXTUhsbx5V81nGH",
+        "sinceBlockNumber": 1000
+    },
+    "query": "query Transfers($userId: String, $sinceBlockNumber: BigFloat, $cursor: Cursor) {\n  transfers(\n    filter: {or: [{fromId: {equalTo: $userId}}, {toId: {equalTo: $userId}}], blockNumber: {greaterThan: $sinceBlockNumber}}\n    after: $cursor\n    first: 50\n    orderBy: BLOCK_NUMBER_DESC\n  ) {\n    nodes {\n      id\n      fromId\n      toId\n      value\n      eventIndex\n      block {\n        number\n        timestamp\n      }\n    }\n    pageInfo {\n      hasNextPage\n      endCursor\n    }\n    totalCount\n  }\n}\n"
+}
+```
+
+To fetch next page, pass `endCursor` from previous call as `cursor` variable.
+
 ### Fetching LLM transfers of a given user
 
 URL: `https://archive.mainnet.liberland.org/`
