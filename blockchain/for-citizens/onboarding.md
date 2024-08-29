@@ -7,10 +7,7 @@ This guide is written with SubWallet's mobile app in mind. If you are using anot
 1. Make sure you are an E-Resident/citizen with correct number of merits on [the main website](https://liberland.org).
 2. [Install SubWallet](https://www.subwallet.app/download.html), create a wallet, and save the passphrase on paper.
 3. Associate the wallet address with [your Liberland profile](https://liberland.org/profile).
-4. Go to the Liberland Blockchain at [blockchain.liberland.org in Subwallet](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F).
-![](../media/subwallet/subwallet_browser_menu.png)
-
-![](../media/subwallet/subwallet_search_bar.jpg)
+4. Go to the Liberland Blockchain at [blockchain.liberland.org in Subwallet](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F).<br /><br />![](../media/subwallet/subwallet_browser_menu.png)<br />![](../media/subwallet/subwallet_search_bar.jpg)
 5. Click on **Profile**, claim onboarding LLD, and update identity.
 
 You will then get your merits transferred to your blockchain wallet in about one business day.
@@ -43,9 +40,7 @@ A common, low-tech solution is to write it on a piece of paper and put it in a s
 
 ### 3. Get merits and E-Residency/citizenship
 1. Go to [the Dashboard](https://liberland.org/dashboard) of the main website.
-2. Make sure your merits and E-Residency/citizenship status are accurate in the Dashboard.
-It should look something like this:
-![](../media/profile-status-merits-info.png)
+2. Make sure your merits and E-Residency/citizenship status are accurate in the Dashboard. It should look something like this:<br />![](../media/profile-status-merits-info.png)
 3. If you do not see accurate values, contact whomever promised you merits or E-Residency/citizenship status to resolve the inaccuracy.
 
 ### 4. Associate wallet address with your profile
@@ -54,14 +49,10 @@ Now it's time to associate your wallet address with your profile like so:
 
 1. Click on [**Edit profile**](https://liberland.org/profile) on the Dashboard of the main website.
 2. Copy your wallet address from the wallet software:
-   1. Click **Address**.
-   ![](../media/subwallet/address-button.png)
-   2. Type in **LLD**, and click the token.
-   ![](../media/subwallet/show-address-token-search-selection.png)
-   3. Click the **Copy address** button.
-   ![](../media/subwallet/copy-address.png)
-4. Scroll down to the **Blockchain information** section and paste your wallet address in this field.
-![](../media/blockchain-address.png)
+   1. Click **Address**.<br />![](../media/subwallet/address-button.png)
+   2. Type in **LLD**, and click the token.<br />![](../media/subwallet/show-address-token-search-selection.png)
+   3. Click the **Copy address** button.<br />![](../media/subwallet/copy-address.png)
+4. Scroll down to the **Blockchain information** section and paste your wallet address in this field.<br />![](../media/blockchain-address.png)
 5. Click **Save changes**.
 
 At this point, you should have your public wallet address generated, your 12-word mnemonic phrase safely stored, and your Liberland profile updated with the correct number of merits and E-Residency/citizenship status and your wallet address associated on the website.
@@ -74,8 +65,7 @@ If on a mobile device, *you must use the SubWallet app's built-in browser locate
 
 ![](../media/subwallet/subwallet_browser_menu.png)
 
-1. Navigate to [https://blockchain.liberland.org](https://blockchain.liberland.org) and log in.
-![](../media/subwallet/subwallet_search_bar.jpg)
+1. Navigate to [https://blockchain.liberland.org](https://blockchain.liberland.org) and log in.<br />![](../media/subwallet/subwallet_search_bar.jpg)
 2. It's time to claim your tokens and E-Resident/citizen identity! Open the menu and click on the **Profile** button.
 
 {% hint style="info" %}
