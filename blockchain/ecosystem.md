@@ -18,4 +18,4 @@
 - [HASHI Bridge](https://polkaswap.io/#/bridge/) connects Liberland Blockchain to SORA Network, Ethereum, Acala, Polkadot, and other blockchains. It's possible to bridge LLD and Liberland Merit (LLM) to SORA Network and Ethereum, and to bridge tokens like WBTC, WETH, USDT and others to Liberland Blockchain.
 
 ### Tutorials
- - [YouTube](https://www.youtube.com/playlist?list=PLkhTawnkvgfiHb7wIM932vp73V4Y2Sjfh) playlist with video guides about Liberland Blockchain and how to use it.
+ - [YouTube](https://www.youtube.com/playlist?list=PLhICyUUBScjlxw9G1oUVd7Zptzg1_gyXC) playlist with video guides about Liberland Blockchain and how to use it.
