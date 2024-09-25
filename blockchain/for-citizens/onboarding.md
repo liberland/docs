@@ -7,7 +7,7 @@ This guide is written with SubWallet's mobile app in mind. If you are using anot
 1. Make sure you are an E-Resident/citizen with correct number of merits on [the main website](https://liberland.org).
 2. [Install SubWallet](https://www.subwallet.app/download.html), create a wallet, and save the passphrase on paper.
 3. Associate the wallet address with [your Liberland profile](https://liberland.org/profile).
-4. Go to the Liberland Blockchain at [blockchain.liberland.org in Subwallet](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F).<br /><br />![](../media/subwallet/subwallet_browser_menu.png)<br />![](../media/subwallet/subwallet_search_bar.jpg)
+4. Go to the Liberland Blockchain at [blockchain.liberland.org in Subwallet](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2Fliberland-login).<br /><br />![](../media/subwallet/subwallet_browser_menu.png)<br />![](../media/subwallet/subwallet_search_bar.jpg)
 5. Click on **Profile**, claim onboarding LLD, and update identity.
 
 You will then get your merits transferred to your blockchain wallet in about one business day.

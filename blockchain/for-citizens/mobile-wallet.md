@@ -14,7 +14,7 @@ If you're importing an existing account for use on Liberland Blockchain, it must
 
 ## Use Liberland Wallet dApp
 To open the dApp in subwallet
-[click here ](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2F)
+[click here ](https://mobile.subwallet.app/browser?url=https%3A%2F%2Fblockchain.liberland.org%2Fliberland-login)
 
 Alternatively, you can manually navigate to it using the following steps
 
