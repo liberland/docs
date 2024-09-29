@@ -1,73 +1,34 @@
-## Voting with LLM on-chain asset
+## Voting for congress
 
-NOTE: This guide is obsolete - [Liberland's Blockchain Frontend](https://blockchain.liberland.org/) now supports setting identity, proposing referendums and voting in user-friendly manner.
+You can vote for congress at [https://blockchain.liberland.org/home/voting/congressional-assemble](https://blockchain.liberland.org/home/voting/congressional-assemble).
 
+Voting happens on Liberland blockchain every 90 days. Only citizens not on welfare can vote, and they vote with their staked merits.
 
-Because of the design and implementation of LLM, LLM is not a native substrate
-token. Instead, LLM is a custom extension to an on-chain asset. Liberland's
-chain comes with a custom democracy voting integration, being the first chain
-that allows users to vote with on-chain assets instead of the native substrate
-balances.
+If you havent already, [start using the LL blockchain](onboarding.md), just go to [blockchain.liberland.org](https://blockchain.liberland.org/liberland-login) and follow the steps.
 
-* [Read more about on-chain assets here](https://marketplace.substrate.io/pallets/pallet-assets/)
-* [In-depth LLM documentation](https://github.com/liberland/liberland_substrate/blob/develop/frame/llm/README.md)
+Congress is supposed to pass budgets and laws, but during the transitionary period it shares this responsibility with the provisional government.
 
-## Setup enviroment:
-We recommend that you manually clone the github repository and build it:
+When voting, select all candidates you wish to see elected. The algorithm will try to get as many of your candidates in congress as possible.
+For example, if you vote for 3 candidates, but taking into account other peoples votes 2 of those are guaranteed to be elected, your voting power
+will go to the last candidate, needing just that little bit extra votes to get him over the election threshold.
 
-```
-git clone https://github.com/liberland/liberland_substrate && cd liberland_substrate/ && cargo build --release
-```
+This way, you can select everyone you want to be in congress, while also making sure your votes arent wasted.
 
-Run the node in dev mode to make things easy:
-```
-./target/release/substrate --dev
-```
+You should order your candidates by preference, as preference voting is used when electing a Speaker of Congress.
+Preference voting does not matter for electing candidates into congress, it only matters for picking Speaker of Congress from elected congressmen.
 
-Navigate to [Polkadot.js](https://polkadotjs.blockchain.liberland.org/) and chooce local node.
+It is the same system used by polkadot, you can [learn more about the algorithm, called Weighted Phragmen that is used in Liberland elections here](https://wiki.polkadot.network/docs/learn-phragmen#understanding-phragm%C3%A9n).
 
-### Become an on-chain citizen
+Congress passes budgets with senate oversight, senate having the power to veto any spending.
 
-In order to vote or interact with the political system, a user needs to become and on-chain citizen.
-The requirements for being a citizen is:
-* Identity set with the citizen field and `eligible_on` pointing to a past block number 
-* `KnownGood` judgement from citizenship registrar
-* Pooled llm
+Congress passes legislation with democratic oversight, any new legislation needs to be confirmed by the citizens via a public referendum.
+While anyone can create referenda, congress created referenda are 'privileged' in the sense that they 'pass by default' - citizens need to vote no to block it,
+while normal referenda 'fail by default' - citizens need to vote yes to pass it.
 
-### Politic pooling LLM
+This is the same system used by polkadot, [you can learn more about biased referenda here](https://wiki.polkadot.network/docs/learn/learn-governance#public-referenda).
 
-1. Get some LLM: `polkadot.js > Developer > extrinsics > llm > fakeSend`
-2. Allocate LLM for politics: `polkadot.js > Developer > extrinsics > llm > politicsLock`
-3. Check your LLM balance by going to `Network > Assets > Balances`
-3. Check your politics LLM balance by going to `Developer > chainstate > llm > llmPolitics`
+You can also delegate your voting power to a person in congress using the delegate button.
 
-## LLMPolitics
+[Vote here](https://blockchain.liberland.org/home/voting/congressional-assemble)
+[Apply as candidate here](become-congressmen.md)
 
-This is the amount of LLM you have allocated for Politics, these LLM can not be used for any type of non-voting functionality
-
-## Unpooling
-
-You can unpool 10% of your pooled LLM once a year. This will suspend your politics rights for a year.
-
-To unpool, use `polkadot.js > Developer > extrinsics > llm > politicsUnlock`
-
-## Set on-chain role
-
-Once you have pooled LLM you can now go to `polkadot.js > Developer > extrinsics > identity > setIdentity`
-Make sure you set the `citizen` field to raw and put `1` as the `Raw` input and `additional` containing item `(Raw: eligible_on, Raw: 0x0)`.
-
-Submit the transaction!
-
-#### Request judgement:
-
-* `polkadot.js > Developer > extrinsics > identity > requestJudgement `
-  * regIndex: 0
-  * maxFee: 500
-
-Now you need to either wait for someone to give you a judgement of KnownGood or do it yourself:
-
-![Judgement](../media/judgement.png)
-
-Now when you have become an on-chain citizen you can interact with the politics system with your pooled llm.
-
-Head over to the Democracy tab and start interacting with your pooled llm.
