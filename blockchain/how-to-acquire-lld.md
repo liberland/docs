@@ -6,6 +6,7 @@ There are multiple ways to acquire LLD. The easiest way currently are two use on
 - [Matcha](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?sellChain=1&sellAddress=0xdac17f958d2ee523a2206206994597c13d831ec7) on Ethereum blockchain
 - [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8) on Liberland Blockchain
 - [Emirex](https://emirex.com) on Liberland Blockchain
+- [Raydium](https://solscan.io/token/GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) on Solana soon
 
 There are video tutorials showing you how to make a wallet, create an accounts on both centralized exchanges, withdraw LLD to your self-custodial wallet, and then nominate a validator.
 
