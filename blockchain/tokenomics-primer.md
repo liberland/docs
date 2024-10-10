@@ -116,7 +116,7 @@ are available for Liberland exchanges, companies, contracts and courts directly 
 
 ### Listing
 LLD is now [listed on several centralized exchanges](./how-to-acquire-lld.md), 
-and wrapped verions of the token available on decentralized exchanges on [Ethereum](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690), Polkaswap on SORA Network, Liberland DEX on Liberland Blockchain and, soon, [Raydium](https://solscan.io/token/GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) on Solana.
+and wrapped verions of the token available on decentralized exchanges on [Ethereum](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690), Polkaswap on SORA Network, Liberland DEX on Liberland Blockchain and, soon, [Raydium](https://raydium.io/swap/?inputMint=sol&outputMint=GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) on Solana.
 
 This combination of CEXs and DEXs makes it easier for Citizens, e-Residents and other supporters to easily obtain LLD and LLM.
 
