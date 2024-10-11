@@ -8,6 +8,11 @@
  - [Edge Wallet](https://edge.app) is a mobile app wallet that is best suited for cold storage. That is, tokens you don't expect to use often, and don't want connected to a web app.
  - [Phantom](https://phantom.app) is one of the most popular and easy-to-use wallets for Solana, but also works with other blockchains like Ethereum.
 
+### Contract Addresses
+ - Liberland Blockchain: native coin, no contract address.
+ - Ethereum: `0xdac17f958d2ee523a2206206994597c13d831ec7`
+ - Solana: `GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16`
+
 ### Exchanges
  - [MEXC](https://mexc.com) is a leading centralised exchange with millions of users and thousands of tokens available. You can buy, sell, deposit and withdraw LLD on the Liberland Blockchain at MEXC.
  - [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD. 
