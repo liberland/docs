@@ -36,6 +36,7 @@
     * [Onboarding](blockchain/for-citizens/onboarding.md)
     * [Claiming residency](blockchain/for-citizens/claiming-residency.md)
     * [Congress](blockchain/for-citizens/become-congressmen.md)
+    * [Governance](blockchain/for-citizens/governance.md)
     * [Companies](blockchain/for-companies/how-to-run-liberland-company.md)
   * [For Validators, Nominators & Stakers](blockchain/for-validators-nominators-and-stakers/README.md)
     * [Run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator.md)

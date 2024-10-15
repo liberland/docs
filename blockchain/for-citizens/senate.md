@@ -1,6 +1,6 @@
 # Senate guide
 
-This is a guide for Senators on how to perform senate actions.
+This is a guide for Senators on how to perform senate actions. This guide is outdated as senators now have UI.
 
 ## Propose motion
 
