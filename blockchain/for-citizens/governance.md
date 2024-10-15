@@ -4,6 +4,8 @@ Liberland is based on the principles of minimal government, and this principle i
 by adding many checks and balances. For example, a general theme is that for every way to do some government action, there are two ways
 to cancel it
 
+![Governance diagram](../media/governance-diagram.png)
+
 ## Citizenship
 
 Only citizens have political power in Liberland. A citizen is a wallet address connected to a physical person, with confirmed
