@@ -61,7 +61,7 @@ Public veto is the 'one citizen - one vote' part of Liberland governance
 There will only ever be 70 million merits and they are premined in the vault. 
 10% of the remaining amount is released to congress and senate wallets every year (at a rate
 of 0.8% per month). Vault is a technical account without private seed and it releases the funds alghoritmically. No onchain action,
-not even sude (unless setcode changes the code) can touch vault funds.
+not even sudo (unless setcode changes the code) can touch vault funds.
 
 ## Congress
 
@@ -90,7 +90,7 @@ the senate can do with a 50%+1 vote
 ## Court
 
 Feature in progress.
-Court is supposed to be able to take away citizens and staked merits when crime happens.
+Court is supposed to be able to take away citizenships and staked merits when sufficiently serious crime happens.
 Court can also be designated as a smart contract oracle in case contract enters dispute mode, but that is not part of governance.
 
 ## Sudo
