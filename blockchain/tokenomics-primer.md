@@ -33,7 +33,7 @@ The main mechanisms Liberland adopted from polkadot have been created by researc
 The system issued **3 000 000 LLD** at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies.
 Tokens were initially airdropped to Liberland citizens and other holders of staked LLM, proportional to their LLM holdings.
 
-'Day 0' initial distribution, on 14.2.2024 was roughly as follows
+'Day 0' initial distribution, on 11.10.2024 was roughly as follows
 
 |   Name	|   Amount	| 
 |---	|---	|
@@ -68,7 +68,7 @@ The rest of the tokens are 'soft precommited' over a period of a few years in th
 |   Purpose	|   Description	|   # Tokens	|   % of Government	|   % of Total	|
 |---	|---	|---	|---	|---     |
 |   Total government	|   All LLDs across all govt accounts	|   776,530	|   100%	|   100%	|
-|   Liquidity for new exchanges	|   Planned Bybit, Bitget, Kucoin, OKX, Pancakeswap	|   200,000	|   25.7%	|   6.4%	|
+|   Liquidity for new exchanges	|   Planned Bybit, Bitget, Kucoin, OKX, Raydium	|   200,000	|   25.7%	|   6.4%	|
 |   Settlement	|   Physical settlement on Liberland, Ark, Liberbase	|   125,000	|   16.1%	|   4%	|
 |   Marketing	|   	|   175,000	|   22.5%	|   5.6%	|
 |   Development	|   Judiciary, hybrid contracts and company ecosystem, other dev	|   115,000	|   14.8%	|   3.7%	|
@@ -109,17 +109,18 @@ are available for Liberland exchanges, companies, contracts and courts directly 
 
 |   Tokens on chain	|   # Tokens	|   % of Total	|
 |---	|---	|---	|
-|   Liberland	|   2,699,806	|   86.9%	|
-|   Ethereum	|   407,294	|   13.1%	|
-|   Sora	|   1,000	|   ~0%	| 
+|   Liberland	|   2,474,217	|   79.7%	|
+|   Ethereum	|   532,883	|   17.1%	|
+|   Sora	    |   1,000	|   ~0%	    | 
+|   Solana      |   100,000 |   3.2%    |
 
 ### Listing
 LLD is now [listed on several centralized exchanges](./how-to-acquire-lld.md), 
-and wrapped verions of the token available on [decentralized exchanges](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690)
-like Uniswap, Polkaswap and Liberland DEX.
+and wrapped verions of the token available on decentralized exchanges on [Ethereum](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690), Polkaswap on SORA Network, Liberland DEX on Liberland Blockchain and, soon, [Raydium](https://raydium.io/swap/?inputMint=sol&outputMint=GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) on Solana.
+
 This combination of CEXs and DEXs makes it easier for Citizens, e-Residents and other supporters to easily obtain LLD and LLM.
 
-Decentralized exchanges are, in the opinion of the team, more closely related with Satoshi's vision of peer-to-peer electronic cash than centralized exchanges.
+Decentralized exchanges are, in the opinion of the Senate and core contributors, more closely related with Satoshi's vision of peer-to-peer electronic cash than centralized exchanges.
 
 ## Liberland Merit (LLM)
 ### Overview
