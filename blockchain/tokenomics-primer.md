@@ -33,7 +33,7 @@ The main mechanisms Liberland adopted from polkadot have been created by researc
 The system issued **3 000 000 LLD** at time of token generation, which is markedly less than the initial offerings of most cryptocurrencies.
 Tokens were initially airdropped to Liberland citizens and other holders of staked LLM, proportional to their LLM holdings.
 
-'Day 0' initial distribution, on 11.10.2024 was roughly as follows
+'Day 0' initial distribution, on 11.2.2024 was roughly as follows
 
 |   Name	|   Amount	| 
 |---	|---	|
