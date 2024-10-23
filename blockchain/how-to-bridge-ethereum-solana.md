@@ -1,6 +1,6 @@
 How to Bridge LLD from Ethereum to Solana
 
-This tutorial assumes you have already bridged Liberland dollar (LLD) from Liberland Blockchain -> SORA Network -> Ethereum. You can watch a tutorial on how to perform those steps at https://www.youtube.com/watch?v=PI4hiLOK03I.
+This tutorial assumes you have already bridged Liberland dollar (LLD) from Liberland Blockchain -> SORA Network -> Ethereum. You can watch a tutorial on how to perform those steps at Liberland's [YouTube channel](https://www.youtube.com/watch?v=PI4hiLOK03I).
 
 To start your Ethereum -> Solana journey, you need a few things:
 
