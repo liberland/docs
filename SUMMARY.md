@@ -43,6 +43,7 @@
     * [Run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator.md)
     * [Non-technical run a validator](blockchain/for-validators-nominators-and-stakers/run-a-validator-non-technical.md)
     * [Staking](blockchain/for-validators-nominators-and-stakers/staking.md)
+    * [Liquidity Staking](blockchain/for-validators-nominators-and-stakers/liquidity-staking.md)
     * [Update node](blockchain/for-validators-nominators-and-stakers/update.md)
     * [Resync node](blockchain/for-validators-nominators-and-stakers/resync.md)
   * [For Developers & Testers](blockchain/for-developers-and-testers/README.md)

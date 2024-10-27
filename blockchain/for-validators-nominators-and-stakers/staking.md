@@ -1,5 +1,8 @@
 # Staking
 
+This article explains staking on Liberlands own blockchain. If you hold LLD on other chains like ETH, 
+you can [bridge them](../cross-chain-bridge.md) or [stake them on ETH LP](liquidity-staking.md).
+
 LLD is the operational token in Liberland that can be staked to earn returns.
 
 The maximum yearly inflation for LLD is hardcoded at 10%, which will drop in the future. 
