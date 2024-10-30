@@ -22,6 +22,8 @@
   * [🪙 Tokenomics Primer](blockchain/tokenomics-primer.md)
   * [💫 Roadmap](blockchain/roadmap.md)
   * [🤖 API](blockchain/API/centralized-exchanges-api.md)
+    * [Chain Explorer API](blockchain/API/explorer-api.md)
+    * [For CEXes](blockchain/API/centralized-exchanges-api.md)
   * [Ecosystem](blockchain/ecosystem.md)
     * [How to Bridge to Ethereum](blockchain/cross-chain-bridge.md)
     * [How to Bridge to Solana](blockchain/how-to-bridge-ethereum-solana.md)
