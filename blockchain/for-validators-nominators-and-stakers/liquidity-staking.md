@@ -6,10 +6,7 @@ The rewards for doing this are similar for staking the equivalent value on the L
 around 15-20% APY, but it dynamically reacts to staked amount, and LLD to ETH ratio.
 The maximum inflation for the total supply is capped at 10% a year, with commitments to reduce it as time goes on.
 
-To stake on ETH you will need a pair of LLD and ETH. Put [ETH and LLD in an Uniswap V2 pool here](https://app.uniswap.org/add/v2/ETH/0x054c9d4c6f4ea4e14391addd1812106c97d05690).
-This will give you liquidity provider tokens which you can stake for rewards
-
-You can stake your tokens at [blockchain.liberland.org/home/staking/ethlpstaking](https://blockchain.liberland.org/home/staking/ethlpstaking)
+You can directly stake your ETH, LLD and LP tokens at [blockchain.liberland.org/home/staking/ethlpstaking](https://blockchain.liberland.org/home/staking/ethlpstaking),
 
 After staking, you can gradually earn rewards in LLD which can be claimed at any time.
 On ETH LP staking, you can withdraw your LP tokens at any time. The risk you are taking on is the same risk as when providing any liquidity pool.
