@@ -1,4 +1,4 @@
-# 📖 Liberland Official Public Documents
+# Liberland Official Public Documents
 
 A comprehensive guide to understanding and engaging with the Free Republic of Liberland's governance, blockchain ecosystem, and regulatory framework.
 
