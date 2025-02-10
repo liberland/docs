@@ -13,9 +13,8 @@ Validators are the actual servers running the blockchain. Only Liberland Citizen
 
 Nominators can stake their LLD and pick validators that are honest - not cheating or hacking. By doing this they help the validator get elected and in turn share the inflation and transaction rewards.
 
-The quickest way to stake for non Liberlanders is through the [polkadotJs interface](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org%2F#/staking/actions)
 
-Liberlanders can use the [Liberland dApp](https://blockchain.liberland.org) > Staking page to start staking:
+Liberlanders can use the [Liberland dApp staking page](https://blockchain.liberland.org/home/staking/overview) to start staking:
 * Click on 'Start Nominating'
 * Pick the amount of LLD to stake (always leave a small amount of LLD free)
 * Sign the transaction
