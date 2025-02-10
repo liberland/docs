@@ -12,7 +12,7 @@ To start your Ethereum -> Solana journey, you need a few things:
 
 Assuming you have all of these requirements, you're ready to go! If you don't, please fulfill the requirements above before continuing. There are lots of great resources online with recommendations for Ethereum wallets, Solana wallets, exchanges where you can acquire both ETH and SOL, etc.
 
-Once you have all of the above, visit [deBridge](app.debridge.finance/deport?inputChain=1&outputChain=7565164&inputCurrency=0x054c9d4c6f4ea4e14391addd1812106c97d05690) and select Ethereum -> LLD and Solana -> LLD.
+Once you have all of the above, visit [deBridge](https://app.debridge.finance/deport?inputChain=1&outputChain=7565164&inputCurrency=0x054c9d4c6f4ea4e14391addd1812106c97d05690) and select Ethereum -> LLD and Solana -> LLD.
 
 Now that you're on dePort's app, select **'Connect Wallet'**. By default, this should prompt you to connect your Ethereum wallet. Select your wallet from the list, and connect your account. 
 
