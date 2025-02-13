@@ -7,7 +7,7 @@ To start your Ethereum -> Solana journey, you need a few things:
 - An Ethereum wallet
 - ETH for transaction fees
 - LLD in your Ethereum wallet
-- A Solana wallet (e.g. Phantom, Solflare, Backpack, etc.)
+- A Solana wallet (e.g. [Phantom](https://phantom.com/))
 - SOL for transaction fees
 
 Assuming you have all of these requirements, you're ready to go! If you don't, please fulfill the requirements above before continuing. There are lots of great resources online with recommendations for Ethereum wallets, Solana wallets, exchanges where you can acquire both ETH and SOL, etc.
