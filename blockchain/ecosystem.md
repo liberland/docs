@@ -10,7 +10,7 @@
 
 ### Contract Addresses
  - Liberland Blockchain: native coin, no contract address.
- - Ethereum: `0xdac17f958d2ee523a2206206994597c13d831ec7`
+ - Ethereum: `0x054c9D4C6F4EA4E14391addD1812106c97D05690`
  - Solana: `GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16`
 
 ### Exchanges
