@@ -1,7 +1,7 @@
 # Staking
 
 This article explains staking on Liberlands own blockchain. If you hold LLD on other chains like ETH, 
-you can [bridge them](../cross-chain-bridge.md) or [stake them on ETH LP](liquidity-staking.md).
+you can [bridge them](../cross-chain-bridge.md) or [stake them on ETHereum](eth-liquidity-staking.md) or [stake them on SOLana](sol-liquidity-staking.md).
 
 LLD is the operational token in Liberland that can be staked to earn returns.
 
