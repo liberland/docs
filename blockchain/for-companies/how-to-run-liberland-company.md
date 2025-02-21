@@ -5,8 +5,8 @@ So you have decided to pioneer liberty and decentralization by opening a company
 The benefits of a Liberland company are a less regulated and untaxed business environment, 
 access to Liberland clients, markets, and justice system, as well as bragging rights and the patriotic contribution to the official GDP of Liberland.
 
-Given the early stage of Liberland and its current status as a country not yet recognized by the UN, i
-t is important to note that Liberland companies are not a way to evade tax in other countries. 
+Given the early stage of Liberland and its current status as a country not yet recognized by the UN, it is important 
+to note that Liberland companies are not a way to evade tax in other countries. 
 For example, if you are selling physical products in the USA, to USA clients, with USA workers, a Liberland company will not help in reducing tax obligations as far as US law is concerned.
 
 However, if your company is either operating solely online, or with cryptocurrency, 
@@ -39,9 +39,7 @@ You can use your wallet app (e.g. SubWallet, Talisman, etc.) to derive a new acc
 
 However, if you're the sole person in your company, you might prefer to use your personal account. Your choice depends on your business needs and your current jurisdiction.
 
-It is easy to switch between many accounts at [blockchain.liberland.org](https://blockchain.liberland.org) in the menu wallet selector.
-
-![wallet_selector_list](../media/wallet-selector-list.png)
+It is easy to switch between many accounts at [blockchain.liberland.org](https://blockchain.liberland.org).
 
 After selecting an account, ensure it has at least 2 LLD to exist on-chain (provided for free after [onboarding](../for-citizens/onboarding.md)), 
 then update your identity details including your display name and contact information on your profile page. 
@@ -108,10 +106,6 @@ choose registries on the menu and select My companies -> Register company
 
 This will lead you to a form for requesting company registration. Not all fields are required, so you may omit any that are not applicable to your situation.
 
-Regarding 'Editable by registrar' field, it is best to enable it. This allows the Liberland company registrar to modify your company's information if your account becomes inaccessible or if you are legally found to have violated laws.
-
-It is important to note that **most registrars require this option to be selected** during company registration.
-
 Sign the transaction and your company request for registration is ready!
 
 The last step is to read the [Terms and Conditions](https://liberland.org/company-terms-and-conditions)
@@ -151,7 +145,7 @@ The most frequently utilized 'judge' for this purpose is the official court of L
 
 Although Liberland does not impose specific regulations regarding the methods, currencies, or reporting of payments, conducting business transactions on the Liberland blockchain is advisable as it is good for Liberland's further development, particularly when engaging in legally binding contracts.
 
-Assets that are currently available on Liberland blockchain are LLM, LLD and stablecoins like LLEUR and USDT. While Bitcoin and other cryptocurrencies are accepted, it's important to note that they operate on their respective blockchains, separate from Liberland Blockchain.
+Assets that are currently available on Liberland blockchain are LLM, LLD and stablecoins like USDT. While Bitcoin and other cryptocurrencies are accepted, it's important to note that they operate on their respective blockchains, separate from Liberland Blockchain.
 
 Nevertheless, 'wrapped' versions of these cryptocurrencies can be accessed via bridges, allowing, for instance, for transactions in 'bitcoin stablecoins' within the Liberland Blockchain ecosystem.
 
@@ -171,7 +165,7 @@ While Liberland does not prescribe other regulations for such agreements, they t
 
 After the asset or stock has been registered, you can then list it on the Liberland DEX/stock market.
 
-When available, the Liberland DEX/stock marketing listing process will cost 200 LLD.
+The Liberland DEX/stock marketing listing process costs 100 LLD.
 
 Please be aware that if you list an asset that could be subject to regulation in other countries, such as cryptocurrencies in general, stablecoins, or "securities" (including stocks, bonds, futures, or assets representing commodities), it is likely that such activities are regulated abroad.
 
@@ -179,6 +173,22 @@ For instance, the United States has specific regulations concerning the trading 
 
 Therefore, it is crucial to comply with the local laws of any country in which you intend to resell stock or conduct similar transactions.
 
-For these reasons, under Liberland law, it is not yet allowed to sell stock assets to non-Liberlanders, to avoid potential problems.
+For these reasons, only Liberland citizens and eresidents can own and trade stock in Liberland companies, to avoid potential problems.
 
-// TODO shareholder contract
+After you create a company, you can [create a stock](https://blockchain.liberland.org/home/wallet/stocks) for the company. Creation requires a 100 LLD deposit.
+
+You will need to connect your stock to your company on both sides, selecting the connected company when creating the stock, and then editing the information on your company to include the stock in the 'related assets' field.
+
+Note that any changes to your company registrar need to be manually approved so this might take a day.
+
+After that, your company officially has a stock, and you can mint that stock to the shareholders [create a stock](https://blockchain.liberland.org/home/wallet/stocks).
+
+You can also list your company on the [Liberland stock market](https://blockchain.liberland.org/home/wallet/stock-exchange) by clicking on create pool and selecting the assets to pair it with.
+
+Stock market currently only supports "UniswapV2 pools" logic, meaning that you will also need to provide initial liquidity by clicking on "add liquiditiy" next to your pool.
+
+This pool works by assuming the both sides of the pool are of equal value and prices them accordingly. For example, if you put 1000 LLD and 1000 stock into the pool, the initial price is 1LLD per stock.
+If someone then buys stocks with LLD, the pool might end up with 1500 LLD and 500 stock, meaning the price now is 3LLD per stock. You as a shareholder can then sell your stock into the pool at a profit.
+
+In the future, we will have orderbook stock market, for example with people placing orders at exact prices they want to buy or sell the stock, but for now this feature is not developed.
+You can always directly sell or buy stock from people willing to trade
