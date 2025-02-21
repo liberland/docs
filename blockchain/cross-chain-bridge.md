@@ -1,8 +1,11 @@
 # Cross-chain bridging with HASHI
 
-Liberland blockchain is connected to SORA, Ethereum, Polkadot, Kusama, and more upcoming (BNB Chain, Polygon) through the [HASHI Bridge](https://polkaswap.io/#/bridge/). The bridge is permissionless so anyone can use it at any time.
+Liberland blockchain is connected to SORA and Ethereum through the [HASHI Bridge](https://polkaswap.io/#/bridge/). 
+The bridge is permissionless so anyone can use it at any time.
 
-To use the bridge, you will need native tokens on the chains you are bridging to and from.
+LLD on Ethereum is further connected to [Solana through other bridges](./how-to-bridge-ethereum-solana.md). Bridges to TRON and BSC are coming soon.
+
+To use the HASHI bridge, you will need native tokens on the chains you are bridging to and from.
 
 For example, bridging from Liberland to SORA to Ethereum would require LLD, XOR and ETH for gas fees.
 
