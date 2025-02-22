@@ -63,7 +63,7 @@ This guide will walk you through the process of setting up a new validator on Li
    * [Mainnet](https://blockchain.liberland.org/home/staking)
    * [Bastiat (Testnet)](https://testnet.liberland.org/home/staking)
 2. Click "Switch to validator" button.
-3. Set your commission (10 is fine) and session keys you got from installation step to `Keys from rotateKeys` form.
+3. Set your commission (20 is fine) and session keys you got from installation step to `Keys from rotateKeys` form.
    * Note: if you lost your session keys, see [Regenerating session keys](regenerate_session_keys.md)
 4. Click "Start validator" button and sign the transaction.
 5. Optionally, click on add stake and stake some LLDs
