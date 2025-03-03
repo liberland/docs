@@ -3,7 +3,7 @@
 Liberland blockchain is connected to SORA and Ethereum through the [HASHI Bridge](https://polkaswap.io/#/bridge/). 
 The bridge is permissionless so anyone can use it at any time.
 
-LLD on Ethereum is further connected to [Solana through other bridges](./how-to-bridge-ethereum-solana.md). Bridges to TRON and BSC are coming soon.
+LLD on Ethereum is further connected to [Solana](./how-to-bridge-ethereum-solana.md) and [TRON](./how-to-bridge-ethereum-tron.md). Bridge to BSC is coming soon.
 
 To use the HASHI bridge, you will need native tokens on the chains you are bridging to and from.
 
