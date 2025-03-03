@@ -6,7 +6,7 @@ If you already have LLD on other chains like Ethereum or Solana, check out the [
 The easiest way to get LLDs currently are to use one of the centralized exchanges where selling USDT for LLD is possible.
 
 - [MEXC](https://www.mexc.com/exchange/LLD_USDT) on Liberland Blockchain
-- [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8) on Liberland Blockchain
+- [Coinstore](https://www.coinstore.com/spot/LLDUSDT) on Liberland Blockchain
 - [Matcha](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?sellChain=1&sellAddress=0xdac17f958d2ee523a2206206994597c13d831ec7) on Ethereum blockchain
 - [Emirex](https://emirex.com) on Liberland Blockchain
 - [Raydium](https://raydium.io/swap/?inputMint=sol&outputMint=GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) on Solana
