@@ -7,7 +7,7 @@ To bridge Ethereum -> TRON via BTTC, you need:
 
 - An Ethereum wallet with LLDs and ETH like Metamask
 - BTTC wallet with BTT like metamask
-  - You can get BTT on ETHereum and bridge it to BTTC later. 10 USD worth of BTT should be plenty for gas fees and can be bought dirrectly within the metamask wallet 
+  - You can get BTT on ETHereum and bridge it to BTTC later. 10 USD worth of BTT should be plenty for gas fees and can be bought directly within the metamask wallet 
 - TRON wallet (e.g. [TRONLink](https://www.tronlink.org/)) with TRON tokens for fees
 
 Once you have all of the above, visit [Bittorrent bridge](https://app.bt.io/bridge) and select Ethereum -> BTTC and select BTT token
@@ -25,6 +25,7 @@ Next, you can bridge LLDs from ETH to TRON. You will need to connect both EVM wa
 Just visit [Bittorrent bridge](https://app.bt.io/bridge), select From Ethereum To TRON, sending LLD.
 
 The bridge takes some time and will prompt you to sign a  few transactions in your wallet. Just follow the instructions from the bridge.
+
 ![Bridge BTT](media/eth-tron-bridging.png)
 
 
