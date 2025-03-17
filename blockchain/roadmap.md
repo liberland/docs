@@ -1,64 +1,59 @@
 # Roadmap for Liberland blockchain ecosystem and related events
 
 
+## Already done
+- [Liberland dApp](https://blockchain.liberland.org)
+- Congress elections
+- Government onchain budgeting system
+- LLDEX
+- Listed on Uniswap, Raydium, Sunio, polkaswap, MEXC, Coinstore, Bitmart, Biconomy, Emirex
+- Liberland companies
+- Proof of citizenship validator model
+- NFTs
+- Ministries operating on chain
+- Legally binding on chain contracts, enforcable by onchain judiciary
+- Governance meritocracy with democratic vetos
+- Judiciary v0.5
+- Liberland passports and nationality valid KYC on select exchanges (Biconomy) and credit cards
 
-## Q3 2024
-
-### Ecosystem
-- First advisory elections
-- Liberland budgeting system complete
-- State budgeting transitioning to blockchain - 30%+ Liberland budget allocated according to political system - congress passes the budgets, with senate veto power
-
-- Judiciary v1 ready - Courts can use plaintiffs staked LLM to cover lawsuits
-- [Liberland dApp](https://blockchain.liberland.org) opens to the public 
-- Polkaswap listing
-- Liberland DEX
-- Liberland companies easier interface
-- LLD payment gateway
-- Liberland mobile app
-
-### Events
-- Freedom Fest Las Vegas - Vit keynote speaker
-- ALEC Denver - Liberland delegation
-- Bitcoin conference Nashville (Liberland booth - ask Navid)
-- Liberland Chess Open 24-28 July
-- Floatingman event https://floatingman.ll.land/ 8-11 aug 2024
-- Liberpulco 5 - 7 September
-
-
-## Q4 2024
-### Ecosystem
-- First election
-- Liberland becomes the first country to do 80%+ finances on chain
-- Full judiciary completed
-- LLD on physical credit cards
-- All Liberland legislation, legally binding and subject to blockchain governance by citizens
-- Citizen validator robust set-and-forget update
-
-### Events
-- Parastate conference Budapest
-- Mont Pelerin Society General Meeting at New Delhi
-- Christmas and New year celebrations
-- Liberland longevity conference
-
-
-## Q1 2025
-### Ecosystem
-- Liberland hybrid contracts library
-- Liberland companies full ecosystem including international compliance
-- LLM official launch
-- LLM payment gateway
-- LLD slowing maximum yearly rate of token supply increase from 10% to less (9% ?)
-- Kucoin listing   ?
-- dApp redesigned
-- Liberland stock market
-- Land and assets registry
 
 ## Q2 2025
+
 ### Ecosystem
+
+- LLD payment gateway
+- Liberland mobile app
+- Liberland becomes the first country to do 50%+ finances on chain
+- Metamask, ledger, hw wallet support
+- LLD on physical credit cards
+- Bank accounts for Liberland companies
+- LLD inflation reduction to 9% yearly
+- LLD on BSC
+- Crosschain LLD swaps
+
+## Q3 2025
+### Ecosystem
+
+- Full judiciary completed
+- Full EVM and solidity compatibility
+- EVM to EVM trustless bridge
+- All Liberland legislation onchain, legally binding and subject to blockchain governance by citizens
+- Citizen validator robust set-and-forget update
+- LLD inflation reduction to 8% yearly
+
+## Future
 - LLM dividends
-- Anonymous voting
-- Privacy asset on Liberland blockchain
-- LLD slowing maximum yearly rate of token supply increase from 9% to less (8.5% ?)
+- LLM launch
+- Liberland stock market
+- Privacy assets on LLChain
+- Privacy voting on LLChain
+- DAO factory
+- Hybrid traditional/smart contract library
+- Liberland stablecoin
+- Land and assets registry
 - Liberland marketplace, app and dApp integration
-- Liberland stablecoin (Vit insists on putting it in the timeline but its not confirmed feature yet)
+
+### Events
+[Events calendar](https://calendar.google.com/calendar/u/0/embed?height=498&wkst=2&bgcolor=%23ffffff&ctz=Europe/Prague&src=dGhiM2p0Ymc4NGhnbjE3bjBxZWtkaGFpbmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23D6AE00&showTabs=0&showNav=0&showPrint=0&showDate=0&mode=AGENDA&showCalendars=0&showTz=0&showTitle=0)
+
+
