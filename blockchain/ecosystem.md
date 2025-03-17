@@ -12,6 +12,7 @@
  - Liberland Blockchain: native coin, no contract address.
  - Ethereum: `0x054c9D4C6F4EA4E14391addD1812106c97D05690`
  - Solana: `GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16`
+ - TRON: `TC8QDMS2nLdWMT7iJwvtG5YH6XiGEJT6om`
 
 ### Exchanges
  - [MEXC](https://mexc.com) is a leading centralised exchange with millions of users and thousands of tokens available. You can buy, sell, deposit and withdraw LLD on the Liberland Blockchain at MEXC.
@@ -23,6 +24,8 @@
 
 ### Bridges
 - [HASHI Bridge](https://polkaswap.io/#/bridge/) connects Liberland Blockchain to SORA Network, Ethereum, Acala, Polkadot, and other blockchains. It's possible to bridge LLD and Liberland Merit (LLM) to SORA Network and Ethereum, and to bridge tokens like WBTC, WETH, USDT and others to Liberland Blockchain.
+- [deBridge dePort](https://app.debridge.finance/deport?inputChain=1&outputChain=7565164&inputCurrency=0x054c9d4c6f4ea4e14391addd1812106c97d05690&outputCurrency=GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) connects Ethereum to Solana, allowing you to bridge LLD between Ethereum and Solana.
+- [BTTC](https://bt.io) is the bridge that connects LLD between Ethereum and TRON, allowing you to bridge LLD between the two blockchains. 
 
 ### Tutorials
- - [YouTube](https://www.youtube.com/playlist?list=PLhICyUUBScjlxw9G1oUVd7Zptzg1_gyXC) playlist with video guides about Liberland Blockchain and how to use it.
+ - [YouTube](https://www.youtube.com/playlist?list=PLhICyUUBScjlxw9G1oUVd7Zptzg1_gyXC) playlist with video guides about Liberland Blockchain and how to use it. This includes tutorials on using various wallets, bridges, decentralized exchanges, and more.
