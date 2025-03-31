@@ -9,3 +9,9 @@ user@host:~/liberland/$ wscat -c ws://127.0.0.1:9944 -x '{"id":1, "jsonrpc":"2.0
 ```
 
 Copy the contents of `result` from your terminal, thats the new session keys.
+
+Alternatively if you dont have wscat try 
+
+```
+curl -H "Content-Type: application/json" -d '{"id":1, "jsonrpc":"2.0", "method": "author_rotateKeys", "params":[]}' http://127.0.0.1:9944
+```
