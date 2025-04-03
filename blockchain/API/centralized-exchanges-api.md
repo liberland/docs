@@ -11,6 +11,10 @@ Recommended way to interact with the chain programmatically is through [Polkadot
   - [Government-operated](wss://mainnet.liberland.org)
   - [Dwellir-operated](wss://liberland-rpc.dwellir.com)
 
+# LLD
+
+LLD is a native token of the Liberland blockchain and all transactions, calls and queries related to LLD are identical to any other substrate chain like Polkadot.
+
 # LLM
 
 ## Receive wallet balance

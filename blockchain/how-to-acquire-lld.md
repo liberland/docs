@@ -11,7 +11,7 @@ The easiest way to get LLDs currently are to use one of the centralized exchange
 - [Matcha](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?sellChain=1&sellAddress=0xdac17f958d2ee523a2206206994597c13d831ec7) on Ethereum blockchain
 - [Raydium](https://raydium.io/swap/?inputMint=sol&outputMint=GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) on Solana
   - A video tutorial on [how to swap LLD on Raydium](https://www.youtube.com/watch?v=dwsMvNtOR5E)
-- [Sun.io](https://sun.io) on TRON
+- [Sunswap](https://sun.io/?lang=en-US#/v3/swap?t1=TC8QDMS2nLdWMT7iJwvtG5YH6XiGEJT6om&t0=T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb&type=swap) on TRON
   - A video tutorial on [how to swap LLD on Sun.io](https://www.youtube.com/watch?v=YIwfFZ58_8I)
 
 There are video tutorials showing you how to make a wallet, create an accounts on both centralized exchanges, withdraw LLD to your self-custodial wallet, and then nominate a validator.
