@@ -6,10 +6,10 @@ A comprehensive guide to understanding and engaging with the Free Republic of Li
 
 Detailed primers on Congress, Senate, Executive, and Judiciary. Understand the roles and responsibilities of each branch, review decision-making processes and protocols.
 
-* [Congress](/primers/congress)
-* [Executive](/primers/executive)
-* [Judiciary](/primers/judiciary)
-* [Senate](/primers/senate)
+* [Congress](/primers/congress.md)
+* [Executive](/primers/executive.md)
+* [Judiciary](/primers/judiciary.md)
+* [Senate](/primers/senate.md)
 
 ## Legislature
 
@@ -38,8 +38,8 @@ Complete documentation of Liberland's blockchain infrastructure. Guides for acqu
 
 * [White Paper](https://github.com/liberland/docs/blob/master/blockchain/white-paper.md)
 * [Tokenomics Primer LLM](https://github.com/liberland/docs/blob/master/blockchain/tokenomics-primer.md)
-* [Roadmap](/blockchain/roadmap)
-* [Liberland Blockchain Ecosystem](/blockchain/ecosystem)
+* [Roadmap](/blockchain/roadmap.md)
+* [Liberland Blockchain Ecosystem](/blockchain/ecosystem.md)
 * [For Citizens & E-Residents](/blockchain/for-citizens)
 * [For Validators & Nominators](blockchain/for-validators-nominators-and-stakers)
-* [For Developers & Testers](for-developers-and-testers)
+* [For Developers & Testers](blockchain/for-developers-and-testers)
