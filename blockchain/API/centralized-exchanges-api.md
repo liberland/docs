@@ -7,10 +7,10 @@ Recommended way to interact with the chain programmatically is through [@polkado
 
 ### Testnet
 
-| Type     | URL                                                                                                                | Description                                      |
-| -------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| RPC      | `wss://testchain.liberland.org/`                                                                                   | WebSocket endpoint for connecting to the testnet |
-| Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Ftestchain.liberland.org%2F#/explorer) | Web interface for exploring the testnet          |
+| Type     | URL                                                                                                                | Description                             |
+| -------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------- |
+| RPC      | `wss://testchain.liberland.org`                                                                                    | WebSocket endpoint                      |
+| Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Ftestchain.liberland.org%2F#/explorer) | Web interface for exploring the testnet |
 
 ### Mainnet
 
@@ -20,6 +20,30 @@ Recommended way to interact with the chain programmatically is through [@polkado
 | RPC      | `wss://liberland-rpc.dwellir.com`                                                                             | WebSocket endpoint (operated by Dwellir)                             |
 | Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer) | Web interface for exploring the mainnet (operated by the Government) |
 | Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss://liberland-rpc.dwellir.com#/explorer)   | Web interface for exploring the mainnet (operated by Dwellir)        |
+
+# Common operations
+
+## Create a new address
+
+To create a new address, a minimum of 1 LLD needs to be deposited as an existential deposit.
+
+### @polkadot/api
+
+```javascript
+import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
+
+const provider = new WsProvider("<RPC_ENDPOINT>");
+const api = await ApiPromise.create({ provider });
+const keyring = new Keyring({ type: "sr25519" });
+const sender = keyring.addFromUri("<SENDER-ACCOUNT-PRIVATE-KEY>");
+const transferExtrinsic = api.tx.balances.transfer(
+  "<WALLET_ADDRESS_TO_CREATE>",
+  AMOUNT, // 1_000_000_000_000 = 1 LLD
+);
+const txHash = await transferExtrinsic.signAndSend(sender);
+```
+
+### RPC
 
 # LLD
 
@@ -47,25 +71,7 @@ console.log(LLMInfo.toJSON().data?.balance ?? "0x0");
 
 ## Create Address
 
-To create a new address, a minimum of 1 LLD needs to be deposited as an existential deposit
-
 ### using polkadotJsApi
-
-```javascript
-const { ApiPromise, WsProvider } = require("@polkadot/api");
-const { Keyring } = require("@polkadot/api");
-
-const provider = new WsProvider("<WS_ENDPOINT>");
-const api = await ApiPromise.create({ provider });
-const keyring = new Keyring({ type: "sr25519" });
-const sender = keyring.addFromUri("<SENDER-ACCOUNT-PRIVATE-KEY>");
-// minimum <AMOUNT> is new BN('1000000000000');
-const transferExtrinsic = api.tx.balances.transfer(
-  "<WALLET_ADDRESS_TO_CREATE>",
-  "<AMOUNT>",
-);
-const txHash = await transferExtrinsic.signAndSend(sender);
-```
 
 ## Receive list of transactions by block number
 
