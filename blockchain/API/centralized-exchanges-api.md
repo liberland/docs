@@ -1,23 +1,25 @@
+# Overview
+
 Liberland blockchain is based on [Polkadot SDK](https://polkadot.com/platform/sdk/).  
 Recommended way to interact with the chain programmatically is through [@polkadot/api](https://github.com/polkadot-js/api) library.
 
-# RPC endpoints & chain explorers
+## RPC endpoints & chain explorers
 
-## Testnet
+### Testnet
 
 | Type     | URL                                                                                                                | Description                                      |
 | -------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
 | RPC      | `wss://testchain.liberland.org/`                                                                                   | WebSocket endpoint for connecting to the testnet |
 | Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Ftestchain.liberland.org%2F#/explorer) | Web interface for exploring the testnet          |
 
-## Mainnet
+### Mainnet
 
 | Type     | URL                                                                                                           | Description                                                          |
 | -------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | RPC      | `wss://mainnet.liberland.org`                                                                                 | WebSocket endpoint (operated by the Government)                      |
 | RPC      | `wss://liberland-rpc.dwellir.com`                                                                             | WebSocket endpoint (operated by Dwellir)                             |
-| Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss://liberland-rpc.dwellir.com#/explorer)   | Web interface for exploring the mainnet (operated by the Government) |
-| Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer) | Web interface for exploring the mainnet (operated by the Dwellir)    |
+| Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer) | Web interface for exploring the mainnet (operated by the Government) |
+| Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss://liberland-rpc.dwellir.com#/explorer)   | Web interface for exploring the mainnet (operated by Dwellir)        |
 
 # LLD
 
