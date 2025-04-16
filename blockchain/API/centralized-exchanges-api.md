@@ -151,6 +151,46 @@ const txHash = await transferExtrinsic.signAndSend(sender);
 
 TODO
 
+## Monitor LLD transfers
+
+To monitor LLD transfers, subscribe to system events and filter for `Balances::Transfer` events.
+
+### @polkadot/api
+
+```javascript
+import { ApiPromise, WsProvider } from "@polkadot/api";
+
+async function main() {
+  const provider = new WsProvider("<WS_ENDPOINT>");
+  const api = await ApiPromise.create({ provider });
+
+  // Subscribe to system events
+  const unsubscribe = await api.query.system.events((events) => {
+    // Filter only the Balances.Transfer events
+    events.forEach(({ event, phase }) => {
+      if (api.events.balances.Transfer.is(event)) {
+        // LLD transferred
+        const [from, to, amount] = event.data;
+        console.log(
+          `LLD Transfer from: ${from.toString()} to: ${to.toString()} amount: ${amount.toString()}`,
+        );
+      }
+    });
+  });
+
+  return unsubscribe;
+}
+
+main()
+  .then((unsubscribe) => {
+    console.log("Subscribed to Transfer events. Press Ctrl+C to exit.");
+  })
+  .catch((error) => {
+    console.error("Error:", error);
+    process.exit(1);
+  });
+```
+
 # Liberland Merit (LLM)
 
 LLM is an on-chain asset of the [Assets pallet](https://paritytech.github.io/substrate/master/pallet_assets/index.html) with ID of 1.
@@ -209,6 +249,52 @@ See also https://polkadot.js.org/docs/api/cookbook/tx/#how-do-i-get-the-decoded-
 ### RPC
 
 TODO
+
+## Monitor LLM transfers
+
+To monitor LLM transfers, subscribe to system events and filter for `Assets::Transferred` events with an ID of 1.
+
+### @polkadot/api
+
+```javascript
+import { ApiPromise, WsProvider } from "@polkadot/api";
+
+async function main() {
+  const provider = new WsProvider("<WS_ENDPOINT>");
+  const api = await ApiPromise.create({ provider });
+
+  // Target asset ID to monitor
+  const targetAssetId = 1;
+
+  // Subscribe to system events
+  const unsubscribe = await api.query.system.events((events) => {
+    // Filter for Assets.Transferred events
+    events.forEach(({ event, phase }) => {
+      if (api.events.assets.Transferred.is(event)) {
+        const [assetId, from, to, amount] = event.data;
+
+        if (assetId.eq(targetAssetId)) {
+          // LLM transferred
+          console.log(
+            `LLM Transfer from: ${from.toString()} to: ${to.toString()} amount: ${amount.toString()}`,
+          );
+        }
+      }
+    });
+  });
+
+  return unsubscribe;
+}
+
+main()
+  .then((unsubscribe) => {
+    console.log("Subscribed to LLM transfers. Press Ctrl+C to exit.");
+  })
+  .catch((error) => {
+    console.error("Error:", error);
+    process.exit(1);
+  });
+```
 
 ## Retrieve transaction details using TxID
 
