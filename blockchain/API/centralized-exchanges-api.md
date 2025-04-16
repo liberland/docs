@@ -88,7 +88,26 @@ const txHash = await transferExtrinsic.signAndSend(sender);
 
 ### RPC
 
-TODO
+In the `params` array, the extrinsic hex string contains the encoded and signed transaction with sender's address, recipient's address, and the LLD amount being transferred.
+
+```json
+// Request
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "method": "author_submitExtrinsic",
+  "params": [
+    "0x310284ffd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d00e5ca36b27c8573609a01479e341ea9c26aad786d25190ab8b52e96c7b359502cca8a3f9d027295611a29d262cf17e8b1cf53c6e4c08a54d889be1a0c40d000700e8764817"
+  ]
+}
+
+// Response
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": "0x8982d2b1eb564d8ef357fc3537bb897aec453adcfa9f37a6168f6f5769e5057a"
+}
+```
 
 # Liberland Dollar (LLD)
 
@@ -109,7 +128,26 @@ console.log(balance.data.free.toHuman());
 
 ### RPC
 
-TODO
+The `params` array contains the storage key representing the `system.account` storage location combined with the encoded account address, and the response returns the full account data including nonce, balances, and other account information.
+
+```json
+// Request
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "method": "state_getStorage",
+  "params": [
+    "0x26aa394eea5630e07c48ae0c9558cef7b99d880ec681799c0cf30e8886371da9de1e86a9a8c739864cf3cc5ec2bea59fd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d"
+  ]
+}
+
+// Response
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": "0x00000000000000000700e8764817000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+}
+```
 
 ## Coin transfer
 
@@ -149,7 +187,26 @@ const txHash = await transferExtrinsic.signAndSend(sender);
 
 ### RPC
 
-TODO
+The request contains a hex-encoded signed extrinsic with the sender's address, recipient's address, and transfer amount, with the response returning the transaction hash. Following is a sample for calling `transferAllowDeath` extrinsic.
+
+```json
+// Request
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "method": "author_submitExtrinsic",
+  "params": [
+    "0x310284ffd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d00c4f5e6a4e9fe0030ac9d1b23a5ca99b5aca43a2d7c70ccd471c7e2c535c9fccb0300a0724e180900000500e8764817"
+  ]
+}
+
+// Response
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": "0x2c543def9f11dee6e4efcff9a6d2744e6e4c8cf3cd92c6c0427caba82f147426"
+}
+```
 
 ## Monitor LLD transfers
 
@@ -213,7 +270,26 @@ console.log(LLMInfo.toJSON().data?.balance ?? "0x0");
 
 ### RPC
 
-TODO
+The `params` array contains the storage key that combines the `assets.account` prefix with the LLM asset ID (1) and the account address, with the response containing the encoded asset balance information.
+
+```json
+// Request
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "method": "state_getStorage",
+  "params": [
+    "0x7bf3f91245a72b342adab25c7018753cb40e39fd5d8b3d5e4442e7398b672c656f8b0c2ae47d9164bbcb6a056e51807cd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d"
+  ]
+}
+
+// Response
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": "0x0100000000000000e8030000000000000000000000000000"
+}
+```
 
 ## Coin transfer
 
@@ -230,7 +306,7 @@ const transferExtrinsic = api.tx.llm.sendLlm("<ACCOUNT_ID>", AMOUNT); // 1_000_0
 const txHash = await transferExtrinsic.signAndSend(sender);
 ```
 
-Optionally, for token transfers, you can use the "assets.transfer" method and then provide the id of the asset you want to transfer. An example transfer for LLM (LLM=1).
+Optionally, for token transfers, you can use the `assets.transfer` method and then provide the id of the asset you want to transfer. An example transfer for LLM (ID = 1).
 
 ```javascript
 import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
@@ -248,7 +324,26 @@ See also https://polkadot.js.org/docs/api/cookbook/tx/#how-do-i-get-the-decoded-
 
 ### RPC
 
-TODO
+The `params` array contains the encoded transaction that includes the asset ID (1), recipient address, and amount to transfer, with the response returning the transaction hash.
+
+```json
+// Request
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "method": "author_submitExtrinsic",
+  "params": [
+    "0x310284ffd43593c715fdd31c61141abd04a99fd6822c8558854ccde39a5684e7a56da27d019de8ad0130ac9d1b23a5ca99b5aca43a2d7c70ccd471c7e2c535c9fccb0300a0724e1809000"
+  ]
+}
+
+// Response
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": "0x43a88e4de68db1c10ce9a9732d3161962c5379a5e6c7fb4c08140e7b9eb16e8f"
+}
+```
 
 ## Monitor LLM transfers
 
@@ -358,7 +453,3 @@ if (successEvent) {
   console.log(`ExtrinsicFailed:: ${errorInfo}`);
 }
 ```
-
-### RPC
-
-TODO
