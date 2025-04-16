@@ -52,7 +52,7 @@ console.log(bestNumber.toNumber());
   "jsonrpc": "2.0",
   "result": {
     "parentHash": "0xede218942dd683bab0c75ab1376c66143f358d65c5def66916ab14c7a9b9bbf8",
-    "number": "0x215", // Block number in hex
+    "number": "0x215",
     "stateRoot": "0x060bf5a3fda2613c8b980cac4fcf7db7d2cf2dfd4aca37682c4828d30f8bfa9f",
     "extrinsicsRoot": "0x6ac870c6fea171a88339b9d7783fa79ed8a570c91b81945bf735bc1a8c61a134",
     "digest": {
@@ -113,7 +113,7 @@ In the `params` array, the extrinsic hex string contains the encoded and signed 
 
 LLD is a native token of the Liberland blockchain and all transactions, calls and queries related to LLD are identical to any other Substrate chain like Polkadot.
 
-## Receiver wallet balance
+## Receive wallet balance
 
 ### @polkadot/api
 
