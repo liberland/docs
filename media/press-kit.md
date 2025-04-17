@@ -40,10 +40,11 @@ Download full logo set → [Click to Download](./LL-Logos.zip)
 
 High-resolution assets of our interface on desktop and mobile, as well as a selection of GIFs showing functionality across the app.
 
-- Blockchain dApp, Home
-- Blockchain dApp, Profile
-- Blockchain dApp, Wallet
-- Blockchain dApp, Staking
+- Blockchain dApp, Home: [Light UI](./dapp-home-light.png) | [Dark UI](./dapp-home-dark.png)
+- Blockchain dApp, Finances: [Light UI](./dapp-finances-light.png) | [Dark UI](./dapp-finances-dark.png)
+- Blockchain dApp, DEX: [Light UI](./dapp-dex-light.png) | [Dark UI](./dapp-dex-dark.png)
+- Blockchain dApp, Companies: [Light UI](./dapp-companies-light.png) | [Dark UI](./dapp-companies-dark.png)
+- Blockchain dApp, Offices: [Light UI](./dapp-offices-light.png) | [Dark UI](./dapp-offices-dark.png)
 
 ## Illustrations
 
@@ -89,7 +90,7 @@ When it comes to our culture, we'd rather show than tell. Here are some photos t
 - [Yacht House](./yachthouse-1.jpeg)
 
 
-# Social Media Platforms
+## Social Media Platforms
 
 - [X](https://x.com/liberland_org)
 - [Telegram](https://t.me/liberlanders)
