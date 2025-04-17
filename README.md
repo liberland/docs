@@ -43,3 +43,7 @@ Complete documentation of Liberland's blockchain infrastructure. Guides for acqu
 * [For Citizens & E-Residents](/blockchain/for-citizens)
 * [For Validators & Nominators](blockchain/for-validators-nominators-and-stakers)
 * [For Developers & Testers](for-developers-and-testers)
+
+## Media
+
+Includes assets like Liberland's [Press Kit](media/press-kit.md).
