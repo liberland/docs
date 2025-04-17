@@ -22,9 +22,9 @@ Liberland has had a permanent settlement since early August 2023. At its height 
 
 For information on implementing our logo in different applications, please contact press@liberland.org.
 
-Download full set → [Click to Download](./LL-Logos.zip)
+Download full logo set → [Click to Download](./LL-Logos.zip)
 
-## Media Kit
+### Media Kit
 
 - Liberland Badge, PNG → [Click to Download](./Badge_LL.png)
 - Flag of Liberland, PNG → [Click to Download](./Liberland_Flag.png)
@@ -35,3 +35,53 @@ Download full set → [Click to Download](./LL-Logos.zip)
 - Liberland Dollar, SVG → [Click to Download](./Liberland_Dollar_Square.svg)
 - Liberland Merit, PNG → [Click to Download](./Liberland_Merit_Square.png)
 - Liberland Merit, SVG → [Click to Download](./Liberland_Merit_Square.svg)
+
+## Screenshots
+
+High-resolution assets of our interface on desktop and mobile, as well as a selection of GIFs showing functionality across the app.
+
+- Blockchain dApp, Home
+- Blockchain dApp, Profile
+- Blockchain dApp, Wallet
+- Blockchain dApp, Staking
+
+## Illustrations
+
+Our illustrations are a core component of our identity, allowing us to visualize our ideas and concepts in an approachable and playful way.
+
+Download full illustration set → [Click to Download](./LL-Illustrations.zip)
+
+### Media Kit
+
+- LLD Illustration → [Click to Download](./lld-graphic-bg.png)
+- LLM Illustration → [Click to Download](./lld-graphic-transparent.png)
+- LLD Original, transparent → [Click to Download](./llm-graphic-bg.png)
+- LLM Original, transparent → [Click to Download](./llm-graphic-transparent.png)
+
+## Leadership
+
+These are the leaders of Liberland, including the President and Cabinet.
+
+Vít Jedlička, President → [Click to Download](./vit-jedlicka.png)
+Boguslaw Wozniak, Vice President → [Click to Download](./boguslaw-wozniak.png)
+Thomas Walls, Minister of Foreign Affairs → [Click to Download](./thomas-walls.png)
+Navid Saberin, Minister of Finance → [Click to Download](./navid-saberin.png)
+Michal Ptáčník, Minister of Justice → [Click to Download](./michal-ptacnik.png)
+Dr. Tariq Abbasi, Secretary of State → [Click to Download](./tariq-abbasi.png)
+
+## Photos
+
+When it comes to our culture, we'd rather show than tell. Here are some photos to give you a sense of the day to day.
+
+COMING SOON
+
+# Social Media Platforms
+
+- X - https://x.com/liberland_org
+- Telegram - https://t.me/liberlanders
+- Discord - https://discord.gg/z6vsBd3eUD
+- Facebook - http://www.facebook.com/liberland/
+- LinkedIn - https://www.linkedin.com/company/liberland/
+- Instagram - https://www.instagram.com/liberlandofficial/
+- YouTube - https://www.youtube.com/@LiberlandOfficial
+- Twitch - https://www.twitch.tv/liberlanddailyshow
