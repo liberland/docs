@@ -38,11 +38,11 @@ Complete documentation of Liberland's blockchain infrastructure. Guides for acqu
 
 - [White Paper](https://github.com/liberland/docs/blob/master/blockchain/white-paper.md)
 - [Tokenomics Primer LLM](https://github.com/liberland/docs/blob/master/blockchain/tokenomics-primer.md)
-- [Roadmap](/blockchain/roadmap)
-- [Liberland Blockchain Ecosystem](/blockchain/ecosystem)
+- [Roadmap](/blockchain/roadmap.md)
+- [Liberland Blockchain Ecosystem](/blockchain/ecosystem.md)
 - [For Citizens & E-Residents](/blockchain/for-citizens)
 - [For Validators & Nominators](blockchain/for-validators-nominators-and-stakers)
-- [For Developers & Testers](for-developers-and-testers)
+- [For Developers & Testers](blockchain/for-developers-and-testers)
 
 ## Media
 
