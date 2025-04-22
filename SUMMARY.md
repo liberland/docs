@@ -58,3 +58,5 @@
     * [Rust API docs](blockchain/dev/rust.md)
     * [Bootstrapping new testnet](blockchain/dev/bootstrapping\_new\_testnet.md)
     * [Chain Crash Recovery Procedure](blockchain/dev/crash-recovery.md)
+* [Media](media/README.md)
+  * [Press Kit](media/press-kit.md)

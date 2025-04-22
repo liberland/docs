@@ -36,10 +36,14 @@ Access the Constitution and fundamental laws, browse adopted regulations and ord
 
 Complete documentation of Liberland's blockchain infrastructure. Guides for acquiring and managing LLD (Liberland Dollar), wallet creation and management tutorials, calidator and nominator instructions, and cross-chain bridging solutions. Also includes E-residency and citizenship processes, company registration procedures, and voting mechanisms & governance participation.
 
-- [White Paper](/blockchain/white-paper.md)
-- [Tokenomics Primer LLM](/blockchain/tokenomics-primer.md)
-- [Roadmap](/blockchain/roadmap.md)
-- [Liberland Blockchain Ecosystem](/blockchain/ecosystem.md)
+- [White Paper](https://github.com/liberland/docs/blob/master/blockchain/white-paper.md)
+- [Tokenomics Primer LLM](https://github.com/liberland/docs/blob/master/blockchain/tokenomics-primer.md)
+- [Roadmap](/blockchain/roadmap)
+- [Liberland Blockchain Ecosystem](/blockchain/ecosystem)
 - [For Citizens & E-Residents](/blockchain/for-citizens)
-- [For Validators & Nominators](/blockchain/for-validators-nominators-and-stakers)
-- [For Developers & Testers](/blockchain/for-developers-and-testers)
+- [For Validators & Nominators](blockchain/for-validators-nominators-and-stakers)
+- [For Developers & Testers](for-developers-and-testers)
+
+## Media
+
+Includes assets like Liberland's [Press Kit](media/press-kit.md).
