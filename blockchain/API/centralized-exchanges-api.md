@@ -393,7 +393,7 @@ main()
 
 ## Retrieve LLM transaction details using Transaction ID
 
-Transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index. See also https://wiki.polkadot.network/docs/build-protocol-info#unique-identifiers-for-extrinsics
+Transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index. See also https://wiki.polkadot.network/build/build-protocol-info/#unique-identifiers-for-extrinsics
 
 ### @polkadot/api
 
