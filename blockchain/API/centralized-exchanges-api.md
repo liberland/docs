@@ -41,7 +41,7 @@ To create a new address, a minimum of 1 LLD needs to be deposited as an existent
 ```javascript
 import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
 
-const provider = new WsProvider("<RPC_ENDPOINT>");
+const provider = new WsProvider("<WS_ENDPOINT>");
 const api = await ApiPromise.create({ provider });
 const keyring = new Keyring({ type: "sr25519" });
 const sender = keyring.addFromUri("<SENDER-ACCOUNT-PRIVATE-KEY>");
