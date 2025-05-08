@@ -1,9 +1,31 @@
-# Overview
+# Liberland CEX API
+
+## Table of Contents
+
+- [Overview](#overview)
+- [RPC Endpoints & Chain Explorers](#rpc-endpoints--chain-explorers)
+  - [Testnet](#testnet)
+  - [Mainnet](#mainnet)
+- [Common Operations](#common-operations)
+  - [Get Latest Block Number](#get-latest-block-number)
+  - [Create a New Address](#create-a-new-address)
+- [Liberland Dollar (LLD)](#liberland-dollar-lld)
+  - [Receive Wallet Balance](#receive-wallet-balance)
+  - [Coin Transfer](#coin-transfer)
+  - [Monitor LLD Transfers](#monitor-lld-transfers)
+- [Liberland Merit (LLM)](#liberland-merit-llm)
+  - [Receive Wallet Balance](#receive-wallet-balance-1)
+  - [Coin Transfer](#coin-transfer-1)
+  - [Monitor LLM Transfers](#monitor-llm-transfers)
+  - [Retrieve LLM Transaction Details](#retrieve-llm-transaction-details-using-transaction-id)
+
+## Overview
 
 Liberland blockchain is based on [Polkadot SDK](https://polkadot.com/platform/sdk/).  
 Recommended way to interact with the chain programmatically is through [@polkadot/api](https://github.com/polkadot-js/api) library.
+For those interested in a glimpse of the underlying RPC interactions, see the [Liberland CEX API: Low-Level RPC Overview](centralized-exchanges-api-rpc.md).
 
-## RPC endpoints & chain explorers
+## RPC Endpoints & Chain Explorers
 
 ### Testnet
 
@@ -21,9 +43,9 @@ Recommended way to interact with the chain programmatically is through [@polkado
 | Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss%3A%2F%2Fmainnet.liberland.org#/explorer) | Web interface for exploring the mainnet (operated by the Government) |
 | Explorer | [Polkadot Apps](https://polkadotjs.blockchain.liberland.org/?rpc=wss://liberland-rpc.dwellir.com#/explorer)   | Web interface for exploring the mainnet (operated by Dwellir)        |
 
-# Common operations
+## Common Operations
 
-## Get latest block number
+### Get Latest Block Number
 
 ```javascript
 import { ApiPromise, WsProvider } from "@polkadot/api";
@@ -34,7 +56,7 @@ const bestNumber = await api.derive.chain.bestNumber();
 console.log(bestNumber.toNumber());
 ```
 
-## Create a new address
+### Create a New Address
 
 To create a new address, a minimum of 1 LLD needs to be deposited as an existential deposit.
 
@@ -52,11 +74,11 @@ const transferExtrinsic = api.tx.balances.transfer(
 const txHash = await transferExtrinsic.signAndSend(sender);
 ```
 
-# Liberland Dollar (LLD)
+## Liberland Dollar (LLD)
 
 LLD is a native token of the Liberland blockchain and all transactions, calls and queries related to LLD are identical to any other Substrate chain like Polkadot.
 
-## Receive wallet balance
+### Receive Wallet Balance
 
 ```javascript
 import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
@@ -67,7 +89,7 @@ const balance = await api.query.system.account("<ACCOUNT_ID>");
 console.log(balance.data.free.toHuman());
 ```
 
-## Coin transfer
+### Coin Transfer
 
 The `transferAllowDeath` extrinsic performs a standard token transfer that can empty the sender's account, potentially removing it from the blockchain state if the balance falls below the existential deposit.
 
@@ -101,7 +123,7 @@ const transferExtrinsic = api.tx.balances.transferKeepAlive(
 const txHash = await transferExtrinsic.signAndSend(sender);
 ```
 
-## Monitor LLD transfers
+### Monitor LLD Transfers
 
 To monitor LLD transfers, subscribe to system events and filter for `Balances::Transfer` events.
 
@@ -139,11 +161,11 @@ main()
   });
 ```
 
-# Liberland Merit (LLM)
+## Liberland Merit (LLM)
 
 LLM is an on-chain asset of the [Assets pallet](https://paritytech.github.io/substrate/master/pallet_assets/index.html) with ID of 1.
 
-## Receive wallet balance
+### Receive Wallet Balance
 
 ```javascript
 import { ApiPromise, WsProvider } from "@polkadot/api";
@@ -157,7 +179,7 @@ const LLMInfo = await api.query.assets.account(
 console.log(LLMInfo.toJSON().data?.balance ?? "0x0");
 ```
 
-## Coin transfer
+### Coin Transfer
 
 ```javascript
 import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
@@ -186,7 +208,7 @@ const txHash = await transferExtrinsic.signAndSend(sender);
 
 See also https://polkadot.js.org/docs/api/cookbook/tx/#how-do-i-get-the-decoded-enum-for-an-extrinsicfailed-event for example on how to see if tx succeeded.
 
-## Monitor LLM transfers
+### Monitor LLM Transfers
 
 To monitor LLM transfers, subscribe to system events and filter for `Assets::Transferred` events with an ID of 1.
 
@@ -230,7 +252,7 @@ main()
   });
 ```
 
-## Retrieve LLM transaction details using Transaction ID
+### Retrieve LLM Transaction Details Using Transaction ID
 
 Transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index. See also https://wiki.polkadot.network/build/build-protocol-info/#unique-identifiers-for-extrinsics
 
