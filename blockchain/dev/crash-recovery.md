@@ -1,6 +1,6 @@
 # Chain Crash Recovery Procedure
 
-This procedure should be performed by Liberland Blockchain Dev Team in case of chain failure that led to blocks not being produced.
+This procedure should be performed by Liberland Blockchain Dev Team in case of chain failure that led to blocks not being produced or made it impossible to submit extrinsics.
 
 1. Identify the hash of the block that broke the runtime:
    * If finalized, maybe chain explorer has it:
