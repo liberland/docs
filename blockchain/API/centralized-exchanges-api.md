@@ -13,11 +13,12 @@
   - [Receive Wallet Balance](#receive-wallet-balance)
   - [Coin Transfer](#coin-transfer)
   - [Monitor LLD Transfers](#monitor-lld-transfers)
+  - [Retrieve LLD Transaction Details Using Block Hash and Index](#retrieve-lld-transaction-details-using-block-hash-and-index)
 - [Liberland Merit (LLM)](#liberland-merit-llm)
   - [Receive Wallet Balance](#receive-wallet-balance-1)
   - [Coin Transfer](#coin-transfer-1)
   - [Monitor LLM Transfers](#monitor-llm-transfers)
-  - [Retrieve LLM Transaction Details](#retrieve-llm-transaction-details-using-transaction-id)
+  - [Retrieve LLM Transaction Details Using Block Hash and Index](#retrieve-llm-transaction-details-using-block-hash-and-index)
 
 ## Overview
 
