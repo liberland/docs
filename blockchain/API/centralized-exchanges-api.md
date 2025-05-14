@@ -91,23 +91,7 @@ console.log(balance.data.free.toHuman());
 
 ### Coin Transfer
 
-The `transferAllowDeath` extrinsic performs a standard token transfer that can empty the sender's account, potentially removing it from the blockchain state if the balance falls below the existential deposit.
-
-```javascript
-import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
-
-const provider = new WsProvider("<WS_ENDPOINT>");
-const api = await ApiPromise.create({ provider });
-const keyring = new Keyring({ type: "sr25519" });
-const sender = keyring.addFromUri("<SENDER-ACCOUNT-PRIVATE-KEY>");
-const transferExtrinsic = api.tx.balances.transferAllowDeath(
-  "<ACCOUNT_TO>",
-  AMOUNT, // 1_000_000_000_000 = 1 LLD
-);
-const txHash = await transferExtrinsic.signAndSend(sender);
-```
-
-In contrast, `transferKeepAlive` ensures the sender's account remains active by automatically keeping the existential deposit amount in the account, preventing accidental account destruction.
+For LLD transfers with transaction status monitoring, you can use the `balances.transferKeepAlive` method which ensures the sender's account remains active by automatically keeping the existential deposit amount. This differs from `balances.transferAllowDeath` which can empty the sender's account completely, potentially removing it from the blockchain state if the balance falls below the existential deposit.
 
 ```javascript
 import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
@@ -120,7 +104,50 @@ const transferExtrinsic = api.tx.balances.transferKeepAlive(
   "<ACCOUNT_TO>",
   AMOUNT, // 1_000_000_000_000 = 1 LLD
 );
-const txHash = await transferExtrinsic.signAndSend(sender);
+
+// Monitor transaction status
+const unsub = await transferExtrinsic.signAndSend(
+  sender,
+  ({ status, events }) => {
+    console.log(`Current transaction status: ${status.type}`);
+
+    if (status.isInBlock) {
+      console.log(`Transaction included in block: ${status.asInBlock.toHex()}`);
+    }
+
+    if (status.isFinalized) {
+      console.log(
+        `Transaction finalized in block: ${status.asFinalized.toHex()}`,
+      );
+
+      // Check if the transaction was successful
+      events.forEach(({ event }) => {
+        if (api.events.system.ExtrinsicSuccess.is(event)) {
+          console.log("Transaction succeeded");
+        } else if (api.events.system.ExtrinsicFailed.is(event)) {
+          const [dispatchError] = event.data;
+          let errorInfo;
+
+          if (dispatchError.isModule) {
+            const decoded = api.registry.findMetaError(dispatchError.asModule);
+            errorInfo = `${decoded.section}.${decoded.name}`;
+          } else {
+            errorInfo = dispatchError.toString();
+          }
+
+          console.log(`Transaction failed: ${errorInfo}`);
+        } else if (api.events.balances.Transfer.is(event)) {
+          const [from, to, amount] = event.data;
+          console.log(
+            `LLD Transfer successful: ${amount} from ${from} to ${to}`,
+          );
+        }
+      });
+
+      unsub();
+    }
+  },
+);
 ```
 
 ### Monitor LLD Transfers
@@ -161,6 +188,66 @@ main()
   });
 ```
 
+### Retrieve LLD Transaction Details Using Block Hash and Index
+
+Many infrastructure providers on existing blockchains, e.g. Ethereum, consider a transaction's hash as a unique identifier. In Substrate-based chains, a transaction's hash only serves as a fingerprint of the information within a transaction, and there are times when two transactions with the same hash are both valid.
+On a Substrate blockchain transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index.
+
+```javascript
+import { ApiPromise, WsProvider } from "@polkadot/api";
+
+const txId = {
+  blockHash: BLOCK_HASH,
+  index: EXTRINSIC_INDEX,
+};
+const provider = new WsProvider("<WS_ENDPOINT>");
+const api = await ApiPromise.create({ provider });
+const apiAt = await api.at(txId.blockHash);
+const allEvents = await apiAt.query.system.events();
+
+const txEvents = allEvents.filter(
+  ({ phase }) =>
+    phase.isApplyExtrinsic && phase.asApplyExtrinsic.eq(txId.index),
+);
+
+const successEvent = txEvents.find(({ event }) =>
+  api.events.system.ExtrinsicSuccess.is(event),
+);
+const failureEvent = txEvents.find(({ event }) =>
+  api.events.system.ExtrinsicFailed.is(event),
+);
+
+if (successEvent) {
+  const transferEvents = txEvents.filter(({ event }) =>
+    api.events.balances.Transfer.is(event),
+  );
+  transferEvents.forEach(({ event }) => {
+    const [fromAccount, toAccount, amount] = event.data;
+    console.log(
+      `Transfer of ${amount} grains of LLD from ${fromAccount} to ${toAccount}`,
+    );
+  });
+} else {
+  const [dispatchError, dispatchInfo] = failureEvent.event.data;
+  let errorInfo;
+
+  // decode the error
+  if (dispatchError.isModule) {
+    // for module errors, we have the section indexed, lookup
+    // (For specific known errors, we can also do a check against the
+    // api.errors.<module>.<ErrorName>.is(dispatchError.asModule) guard)
+    const decoded = api.registry.findMetaError(dispatchError.asModule);
+
+    errorInfo = `${decoded.section}.${decoded.name}`;
+  } else {
+    // Other, CannotLookup, BadOrigin, no extra info
+    errorInfo = dispatchError.toString();
+  }
+
+  console.log(`ExtrinsicFailed:: ${errorInfo}`);
+}
+```
+
 ## Liberland Merit (LLM)
 
 LLM is an on-chain asset of the [Assets pallet](https://paritytech.github.io/substrate/master/pallet_assets/index.html) with ID of 1.
@@ -181,18 +268,7 @@ console.log(LLMInfo.toJSON().data?.balance ?? "0x0");
 
 ### Coin Transfer
 
-```javascript
-import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
-
-const provider = new WsProvider("<WS_ENDPOINT>");
-const api = await ApiPromise.create({ provider });
-const keyring = new Keyring({ type: "sr25519" });
-const sender = keyring.addFromUri("<SENDER-ACCOUNT-PRIVATE-KEY>");
-const transferExtrinsic = api.tx.llm.sendLlm("<ACCOUNT_ID>", AMOUNT); // 1_000_000_000_000 = 1 LLM
-const txHash = await transferExtrinsic.signAndSend(sender);
-```
-
-Optionally, for token transfers, you can use the `assets.transfer` method and then provide the id of the asset you want to transfer. An example transfer for LLM (ID = 1).
+For token transfers with transaction status monitoring, you can use the `assets.transfer` method and subscribe to events. This allows you to track when the transaction is included in a block and finalized on the blockchain.
 
 ```javascript
 import { ApiPromise, WsProvider, Keyring } from "@polkadot/api";
@@ -202,11 +278,58 @@ const api = await ApiPromise.create({ provider });
 const keyring = new Keyring({ type: "sr25519" });
 const sender = keyring.addFromUri("<SENDER-ACCOUNT-PRIVATE-KEY>");
 // The following value 1 is the ID token of LLM.
-const transferExtrinsic = api.tx.assets.transfer(1, "<ACCOUNT_TO>", AMOUNT); // 1_000_000_000_000 = 1 LLM
-const txHash = await transferExtrinsic.signAndSend(sender);
-```
+const transferExtrinsic = api.tx.assets.transfer(
+  1,
+  "<WALLET_ADDRESS>",
+  1_000_000_000_000,
+); // 1_000_000_000_000 = 1 LLM
 
-See also https://polkadot.js.org/docs/api/cookbook/tx/#how-do-i-get-the-decoded-enum-for-an-extrinsicfailed-event for example on how to see if tx succeeded.
+// Monitor transaction status
+const unsub = await transferExtrinsic.signAndSend(
+  sender,
+  ({ status, events, dispatchError }) => {
+    console.log(`Current transaction status: ${status.type}`);
+
+    if (status.isInBlock) {
+      console.log(`Transaction included in block: ${status.asInBlock.toHex()}`);
+    }
+
+    if (status.isFinalized) {
+      console.log(
+        `Transaction finalized in block: ${status.asFinalized.toHex()}`,
+      );
+
+      // Check if the transaction was successful
+      events.forEach(({ event }) => {
+        if (api.events.system.ExtrinsicSuccess.is(event)) {
+          console.log("Transaction succeeded");
+        } else if (api.events.system.ExtrinsicFailed.is(event)) {
+          const [dispatchError] = event.data;
+          let errorInfo;
+
+          if (dispatchError.isModule) {
+            const decoded = api.registry.findMetaError(dispatchError.asModule);
+            errorInfo = `${decoded.section}.${decoded.name}`;
+          } else {
+            errorInfo = dispatchError.toString();
+          }
+
+          console.log(`Transaction failed: ${errorInfo}`);
+        } else if (api.events.assets.Transferred.is(event)) {
+          const [assetId, from, to, amount] = event.data;
+          if (assetId.eq(1)) {
+            console.log(
+              `Transfer successful: ${amount} LLM from ${from} to ${to}`,
+            );
+          }
+        }
+      });
+
+      unsub();
+    }
+  },
+);
+```
 
 ### Monitor LLM Transfers
 
@@ -252,9 +375,10 @@ main()
   });
 ```
 
-### Retrieve LLM Transaction Details Using Transaction ID
+### Retrieve LLM Transaction Details Using Block Hash and Index
 
-Transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index. See also https://wiki.polkadot.network/build/build-protocol-info/#unique-identifiers-for-extrinsics
+Many infrastructure providers on existing blockchains, e.g. Ethereum, consider a transaction's hash as a unique identifier. In Substrate-based chains, a transaction's hash only serves as a fingerprint of the information within a transaction, and there are times when two transactions with the same hash are both valid.
+On a Substrate blockchain transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index.
 
 ```javascript
 import { ApiPromise, WsProvider } from "@polkadot/api";
