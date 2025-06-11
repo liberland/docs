@@ -30,6 +30,6 @@ The bridge takes some time and will prompt you to sign a  few transactions in yo
 
 Here is a comprehensive video tutorial showing you how to bridge LLD from Ethereum to TRON once you have BTT in your BTTC wallet, and TRX in your TRON wallet.
 
-[![Quick Reef Bridge Demo Video](https://img.youtube.com/vi/5laZ9P5YDYk/0.jpg)](https://www.youtube.com/watch?v=5laZ9P5YDYk)
+[![BTTC Demo Video](https://img.youtube.com/vi/5laZ9P5YDYk/0.jpg)](https://www.youtube.com/watch?v=5laZ9P5YDYk)
 
 The process for bridging TRON to ETH is the same, just in reverse order.
