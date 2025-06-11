@@ -33,6 +33,8 @@
     * [How to Use Polkadot.js](blockchain/how-to-create-wallet.md)
     * [How to use SubWallet](blockchain/for-citizens/mobile-wallet.md)
     * [How to use Talisman](blockchain/for-citizens/desktop-wallet.md)
+    * [How to use Ledger](blockchain/for-citizens/ledger.md)
+    * [Account Recovery](blockchain/for-citizens/account-migration.md)
     * [Known Issues](blockchain/known-issues.md)
   * [For Citizens and E-Residents](blockchain/for-citizens/README.md)
     * [Voting](blockchain/for-citizens/voting.md)
