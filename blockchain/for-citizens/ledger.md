@@ -11,7 +11,7 @@ To set up your Ledger and connect to Liberland Blockchain on desktop/laptop:
 	- Unlock your Ledger
 	- Search the App Catalog for 'Polkadot', select 'Install'
 
-![ledger-live-polkadot-search](../media/ledger-live-polkadot-search.png)
+![ledger-live-polkadot-search](media/ledger-live-polkadot-search.png)
 
 - In Ledger Live, open 'Apps Installed'
 - Select 'Add Account' beside 'Polkadot (DOT)'
@@ -31,7 +31,7 @@ To set up your Ledger and connect to Liberland Blockchain on desktop/laptop:
 		- In the browser, select 'Connect Ledger device'
 		- Select the wallet address to connect, then select 'Connect Ledger device'
 
-![ledger-live-polkadot-search](../media/subwallet-hardware-icon.png)
+![ledger-live-polkadot-search](media/subwallet-hardware-icon.png)
 
 - Refresh https://blockchain.liberland.org in your browser
 - Select the wallet name, your selected Ledger wallet should appear in the list of available wallets
