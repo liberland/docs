@@ -1,6 +1,6 @@
-#Liberland payment gateway
+# Liberland payment gateway
 
-##MVP
+## MVP
 Liberland payment gateway is unique in that it handles most of the data on chain and does not keep permanent records
 on the server itself, both for legal and decentralization reasons. It is merely a middleman telling the buyer how
 to pay the merchant, and then notifying the merchant of the payment.
@@ -27,10 +27,47 @@ The happy path works in this order:
 
 Any failed orders where LLD was sent can be easily handled manually via https://chainscan.mainnet.liberland.org/
 
-###TODO verifying payment
-Webhook gets data from api.blockchain.liberland.org signed with public key. Verify it with TODO
+### Verifying payment
+#### Check signature
 
-Alternatively the merchant can check the chain directly or call the API call TODO
+Webhook gets data from api.blockchain.liberland.org with a header signature signed with public key, which can be verified. The key is
+
+```
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0ZkjqOz50GILaxdHvCQJ
+egKwmTxsLj5AnDDUhp/n2RSafDjFJ5XIB4zhB+mDfzW+jQMFm0unhlVUD858L8H6
+Q/c9nUGbVZMU4seYUJUEwCbcWXqqzg4J0nTIKQjZ2EKT/11ZYQY8HmKs0E35kI18
+zNBzgShTn5TDdknjrvMNQn4/EpYg8FR1nELnYIYV92tQH1VExYlinFEM3k8dTUiC
++0Ve3+B2MrFJau9mu3IHUSIQa4/kVX0oSNXOfgRkV3bBAKpST9Re7KXWWCJ7JOhx
+bKmy1MRrhiWc8nYS8eieALKgfS+kMgVKQynsFjI4ifGGO8vwnZZXIzblkjMhJGyR
+wQIDAQAB
+-----END PUBLIC KEY-----
+```
+The verification pseudocode is
+```
+import { readFileSync } from "fs";
+import { createVerify, randomBytes } from "crypto";
+
+const publicKey = readFileSync(pubKeyPath, "utf-8");
+const verifier = createVerify("SHA256");
+verifier.update(orderId);
+verifier.end();
+const signatureBuffer = Buffer.from(signature, "base64");
+return verifier.verify(publicKey, signatureBuffer);
+
+// pubKeyPath is the file path to public key
+// orderId and signature are parameters
+```
+
+#### Check chain
+Alternatively the merchant can check the chain directly or call the middleware API for payment status
+
+endpoint is /verify-purchase with orderId, price and toId POST parameters.
+
+Mainnet https://api.blockchain.liberland.org/v1/verify-purchase
+
+Testnet https://staging.api.blockchain.liberland.org/v1/verify-purchase
+
 
 ## Upcoming v1.5
 Upcoming version 1.5 will integrate with companies on Liberland chain. The hook, success and fail callbacks will be setup
