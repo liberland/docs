@@ -50,7 +50,7 @@ import { createVerify, randomBytes } from "crypto";
 
 const publicKey = readFileSync(pubKeyPath, "utf-8");
 const verifier = createVerify("SHA256");
-verifier.update(orderId);
+verifier.update(responseJSONStringified);
 verifier.end();
 const signatureBuffer = Buffer.from(signature, "base64");
 return verifier.verify(publicKey, signatureBuffer);
