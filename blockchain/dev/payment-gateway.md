@@ -56,7 +56,8 @@ const signatureBuffer = Buffer.from(signature, "base64");
 return verifier.verify(publicKey, signatureBuffer);
 
 // pubKeyPath is the file path to public key
-// orderId and signature are parameters
+// responseJSONStringified and signature are parameters
+// responseJSONStringified is the whole response, JSON stringified
 ```
 
 #### Check chain
