@@ -11,6 +11,8 @@ For interacting with the API, you can use one of many [GraphQL clients](https://
 API & GraphQL Playground endpoints:
 * Liberland Mainnet: https://archive.mainnet.liberland.org/
 * Bastiat (Liberland Testnet): https://archive.testchain.liberland.org/graphql
+* Total LLD Supply: https://api.blockchain.liberland.org/v1/total-issuance/lld
+* Circulating (Unlocked) LLD Supply: https://api.blockchain.liberland.org/v1/liquid-available/lld
 
 Visit the [Playground](https://archive.mainnet.liberland.org/) to see up-to-date reference schema and docs.
 
