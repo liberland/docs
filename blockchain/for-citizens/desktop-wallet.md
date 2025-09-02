@@ -22,4 +22,6 @@ Now that you have a wallet, if you are a citizen or e-resident, you can begin [o
 
 ## Next Steps
 
+To see a short tutorial on creating a wallet using Talisman, configuring Talisman to connect to Liberland Blockchain, and connecting to blockchain.liberland.org, [click here](https://www.youtube.com/watch?v=M5ckxwG8H-E).
+
 To see a full tutorial for creating a wallet using Talisman, registering on Coinstore, buying LLD, withdrawing LLD to your wallet, and staking your LLD, [click here](https://www.youtube.com/watch?v=531tOYdTWe8).
