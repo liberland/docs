@@ -22,7 +22,6 @@
 ## Q3 2025
 ### Ecosystem
 
-- Liberland becomes the first country to do 50%+ finances on chain
 - Full EVM and solidity compatibility
 - Metamask support
 - LLD on physical credit cards
@@ -37,10 +36,11 @@
 - Full judiciary completed
 - DAO factories
 - Company DAO builder
+- Liberland becomes the first country to do 50%+ finances on chain
 - Company LLM staking
-- EVM to EVM trustless bridge
 - All Liberland legislation onchain, legally binding and subject to blockchain governance by citizens
 - Citizen validator robust set-and-forget update
+- Land and assets registry
 
 ## Future
 - LLM dividends
@@ -51,7 +51,6 @@
 - Hybrid traditional/smart contract library
 - Liberland stablecoin
 - Citizenship as contract
-- Land and assets registry
 - Liberland marketplace, app and dApp integration
 
 ## Discarded milestones
