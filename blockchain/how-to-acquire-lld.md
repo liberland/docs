@@ -1,6 +1,11 @@
 # How to Acquire LLD
 
 There are multiple ways to acquire LLD. 
+
+to buy LLD with a credit card try 
+[Alchemy Pay](https://ramp.alchemypay.org/?appId=N9lV3uIGF0y1amAE#/index)
+
+
 If you already have LLD on other chains like Ethereum or Solana, check out the [Bridging guide](./cross-chain-bridge.md).
 
 The easiest way to get LLDs currently are to use one of the centralized exchanges where selling USDT for LLD is possible.
