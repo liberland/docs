@@ -34,13 +34,13 @@ Webhook gets data from api.blockchain.liberland.org with a header signature sign
 
 ```
 -----BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0ZkjqOz50GILaxdHvCQJ
-egKwmTxsLj5AnDDUhp/n2RSafDjFJ5XIB4zhB+mDfzW+jQMFm0unhlVUD858L8H6
-Q/c9nUGbVZMU4seYUJUEwCbcWXqqzg4J0nTIKQjZ2EKT/11ZYQY8HmKs0E35kI18
-zNBzgShTn5TDdknjrvMNQn4/EpYg8FR1nELnYIYV92tQH1VExYlinFEM3k8dTUiC
-+0Ve3+B2MrFJau9mu3IHUSIQa4/kVX0oSNXOfgRkV3bBAKpST9Re7KXWWCJ7JOhx
-bKmy1MRrhiWc8nYS8eieALKgfS+kMgVKQynsFjI4ifGGO8vwnZZXIzblkjMhJGyR
-wQIDAQAB
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsnqntFgG8ZS01FJ4eoxc
+5yAaIKz+O/p9e2+r8INQV71fbtscBG0+cv+pexhYtD10tshvoqS5O3W0s7Sea1b2
+hlc1ePo0VCIRQew7csMIikALY/AIi/6swfzyxRulCPuBiNtA0tAQBplQJxRYkps6
+Wf4KIAypJk/mr7JPO76VcCAtqg/chApWNBlg7qpFqfjO/N3EnHxYRmZ8/bCLml7h
+YnmjK0fH6ceQcxy1WMN0wB06tFvEzDpAJrex/ilWJvhemVH2IpT4IYjpYAPj//Cj
+8/cdjED9mx2RuP5xsp96Qr1Vk4GXhM89emp35h936fBq4i4b0nvRQ+vIUIPA5pPa
+qwIDAQAB
 -----END PUBLIC KEY-----
 ```
 The verification pseudocode is
