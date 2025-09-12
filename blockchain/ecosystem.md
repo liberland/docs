@@ -14,13 +14,20 @@
  - Solana: `GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16`
  - TRON: `TC8QDMS2nLdWMT7iJwvtG5YH6XiGEJT6om`
 
-### Exchanges
- - [MEXC](https://mexc.com) is a leading centralised exchange with millions of users and thousands of tokens available. You can buy, sell, deposit and withdraw LLD on the Liberland Blockchain at MEXC.
- - [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD. 
- - [Emirex](https://emirex.com) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD. 
+### Centralized Exchanges
+ - [Alchemy Pay](https://ramp.alchemypay.org/?appId=N9lV3uIGF0y1amAE#/index) is a leading fiat on-ramp provider where you can buy LLD on Liberland Blockchain.
+ - [MEXC](https://www.mexc.com/exchange/LLD_USDT?_from=liberland) is a leading centralised exchange where you can buy, sell, deposit and withdraw LLD on Liberland Blockchain.
+ - [BitMart](https://www.bitmart.com/trade/en-US?type=spot&symbol=LLD_USDT) is a leading centralised exchange where you can buy, sell, deposit, and withdraw LLD on Liberland Blockchain.
+ - [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD on Liberland Blockchain.
+ - [BiFinance](https://www.bifinance.com/trade?symbol=LLD%2FUSDT) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD on Liberland Blockchain. 
+ 
+### Other Blockchains
+
+ - [Emirex](https://emirex.com/spot/trading/LLDUSDT) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD. 
  - [Matcha](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?sellChain=1&sellAddress=0xdac17f958d2ee523a2206206994597c13d831ec7) is a decentralized exchange aggregator, making it easy to swap any token on Ethereum for Liberland Dollar. A portion of LLD's supply was bridged to Ethereum and deployed to Uniswap in June 2024.
  - [Polkaswap](https://polkaswap.io/#/swap/XOR/LLD) is a decentralized exchange on the SORA Network. A portion of LLD supply is available for swapping on SORA Network via Polkaswap.
  - [Raydium](https://raydium.io/swap/?inputMint=sol&outputMint=GwKKPsJdY5oWMJ8RReWLcvb82KzW6FKy2bKoYW7kHr16) is a decentralized exchange on the Solana blockchain. A portion of LLD Supply is available on Solana, bridged from Ethereum using deBridge's dePort.
+ - [Sun.io](https://sun.io/?lang=en-US#/v3/swap?t1=TC8QDMS2nLdWMT7iJwvtG5YH6XiGEJT6om&t0=T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb&type=swap) is a decentralized exchange on the TRON network. A portion of LLD supply is available for swapping on TRON via Sun.
 
 ### Bridges
 - [HASHI Bridge](https://polkaswap.io/#/bridge/) connects Liberland Blockchain to SORA Network, Ethereum, Acala, Polkadot, and other blockchains. It's possible to bridge LLD and Liberland Merit (LLM) to SORA Network and Ethereum, and to bridge tokens like WBTC, WETH, USDT and others to Liberland Blockchain.
