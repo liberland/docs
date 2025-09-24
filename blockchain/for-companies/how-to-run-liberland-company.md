@@ -20,7 +20,7 @@ how to sign and enforce legally binding contracts in Liberland or international 
 A simple or dormant company can be registered immediately after [onboarding](../for-citizens/onboarding.md) with no extra charges necessary.
 For more complex companies you will need to spend between 1 and 250 LLD for the process.
 
-- [How to Acquire LLD](../blockchain/how-to-acquire-lld.md)
+- [How to Acquire LLD](../how-to-acquire-lld.md)
 - [Browse existing companies](https://blockchain.liberland.org/home/registries/allCompanies)
 - [Browse existing Contracts](https://blockchain.liberland.org/home/contracts/overview)
 
