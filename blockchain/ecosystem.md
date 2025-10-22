@@ -16,6 +16,7 @@
 
 ### Centralized Exchanges
  - [Alchemy Pay](https://ramp.alchemypay.org/?appId=N9lV3uIGF0y1amAE#/index) is a leading fiat on-ramp provider where you can buy LLD on Liberland Blockchain.
+   - Identity verification (KYC) is not required to purchase less than US$150 of LLD.
  - [MEXC](https://www.mexc.com/exchange/LLD_USDT?_from=liberland) is a leading centralised exchange where you can buy, sell, deposit and withdraw LLD on Liberland Blockchain.
  - [BitMart](https://www.bitmart.com/trade/en-US?type=spot&symbol=LLD_USDT) is a leading centralised exchange where you can buy, sell, deposit, and withdraw LLD on Liberland Blockchain.
  - [Coinstore](https://h5.coinstore.com/h5/signup?invitCode=IgwIq8) is a centralised exchange where you can buy, sell, deposit, and withdraw LLD on Liberland Blockchain.
