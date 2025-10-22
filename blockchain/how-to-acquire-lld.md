@@ -4,7 +4,7 @@ There are multiple ways to acquire Liberland Dollar (LLD).
 
 ## Fiat
 
-To buy LLD with a credit card or bank transfer, use [Alchemy Pay](https://ramp.alchemypay.org/?appId=N9lV3uIGF0y1amAE#/index). Alchemy Pay is supported in over 170 countries and many USA states.
+To buy LLD with a credit card or bank transfer, use [Alchemy Pay](https://ramp.alchemypay.org/?appId=N9lV3uIGF0y1amAE#/index). Alchemy Pay is supported in over 170 countries and many USA states. Identity verification (KYC) is not required to purchase less than US$150 of LLD.
 
 ## Centralized Exchanges
 
