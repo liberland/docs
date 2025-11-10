@@ -8,12 +8,12 @@ Below is a comprehensive list, as of 10 November 2025, of where you can use your
 
 ### Centralized Exchanges
 
-- Bifinance
-- Biconomy
+- [Bifinance](https://www.bifinance.com/trade?symbol=LLD%2FUSDT)
+- [Biconomy](https://www.biconomy.com/)
 
 ### Financial Services
 
-- Bitwage
+- [Bitwage](https://bitwage.com/)
 
 ### Other
 
