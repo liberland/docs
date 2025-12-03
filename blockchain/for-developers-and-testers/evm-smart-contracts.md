@@ -1,4 +1,4 @@
-# Deploying and Interacting with EVM Smart Contracts on Liberland
+# Deploying and Interacting with EVM Smart Contracts
 
 ## Table of Contents
 
@@ -48,8 +48,6 @@ Liberland blockchain is fully compatible with standard Ethereum tools. You can d
 - **Hardhat/Truffle**: Configure with Liberland RPC endpoint
 - **Remix IDE**: Connect via MetaMask or direct RPC
 - **ethers.js/web3.js**: Use standard libraries with Liberland provider
-
-For detailed instructions on using MetaMask with Liberland, see [MetaMask Integration Guide](link-to-metamask-guide).
 
 ## Using Polkadot JS Interface
 
