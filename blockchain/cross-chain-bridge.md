@@ -1,7 +1,10 @@
-# Cross-chain bridging with HASHI
+# Cross-chain bridging 
 
-Liberland blockchain is connected to SORA and Ethereum through the [HASHI Bridge](https://polkaswap.io/#/bridge/). 
-The bridge is permissionless so anyone can use it at any time.
+You can swap and bridge LLD through [Liberstake](https://exchange.liberstake.ll.land/).
+
+## Deprecated bridge
+Liberland blockchain was historically connected to SORA and Ethereum through the [HASHI Bridge](https://polkaswap.io/#/bridge/).
+The HASHI bridge and the SORA project have since disintegrated and can no longer be used.
 
 LLD on Ethereum is further connected to [Solana](./how-to-bridge-ethereum-solana.md) and [TRON](./how-to-bridge-ethereum-tron.md). Bridge to BSC is coming soon.
 
@@ -13,7 +16,7 @@ In addition, the bridge is a decentralised app (dApp) and therefore you need to 
 
 Edge Wallet will not work for this as it cannot connect or interact directly with dApps.
 
-## Liberland <> SORA bridge
+### Liberland <> SORA bridge
 For this, you will just need LLD or XOR depending on the direction of bridging
 
 - Go to [HASHI Bridge](https://polkaswap.io/#/bridge/).
@@ -25,11 +28,11 @@ For this, you will just need LLD or XOR depending on the direction of bridging
 
 - Choose the amount and select 'Bridge'. Your wallet will ask you to confirm the necessary transactions.
 
-## SORA <> Ethereum bridge
+### SORA <> Ethereum bridge
 
 For bridging from SORA to Ethereum, you will need an Ethereum wallet with some ETH in it, and a Substrate account with some XOR in it.
 
-### Getting XOR
+#### Getting XOR
 If you bridged from Liberland, you can swap [LLD for XOR on Polkaswap](https://polkaswap.io/#/swap/LLD/XOR).
 About 5 USDT of XOR should be enough, so 2 to 5 LLD swapped for XOR to be on the safe side.
 
@@ -39,10 +42,10 @@ Alternatively, if you bridged from Ethereum to SORA, you can sell some ETH for X
 
 Or DOT from Polkadot. Or KSM from Kusama. HASHI Bridge is amazing in this way, giving you options and not hamstringing you into needing to acquire the native coin first.
 
-### Getting ETH
+#### Getting ETH
 You need to have an Ethereum wallet with enough ETH to pay gas fees. We recommend at least 50 USD worth of ETH to have enough to bridge and open a position on a decentralised exchange (DEX).
 
-### SORA <> ETH bridge
+#### SORA <> ETH bridge
 
 - With tokens and wallets ready, go to [HASHI bridge](https://polkaswap.io/#/bridge/)
 - Select the Ethereum network
