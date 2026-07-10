@@ -2,13 +2,13 @@
 
 You can swap and bridge LLD through [Liberstake](https://exchange.liberstake.ll.land/).
 
-## Deprecated bridge
+## Current Bridge Status
 
 The Liberland ↔ Ethereum bridging infrastructure is currently undergoing maintenance and final-stage integration work on the Liberland side.
 
-The underlying  [HASHI Bridge](https://polkaswap.io/#/bridge/), the Liberland to Ethereum cross-chain bridge technology remains functional in general. However, the Liberland-specific routing and final validation steps are still being finalized and tested to ensure reliability and security.
+The underlying  [HASHI Bridge](https://polkaswap.io/#/bridge/), the Liberland to Ethereum cross-chain bridge technology remains functional in general. However, the Liberland-specific routing and final validation steps are still being finalized and tested to ensure reliability and security.&#x20;
 
-Bridging to and from Liberland is therefore temporarily unavailable.
+Bridging to and from Liberland is therefore temporarily unavailable. **But the Bridge will be ready soon.**
 
 We are actively completing the remaining integration steps and debugging the final components. Once this process is complete, bridging functionality will be restored.
 
