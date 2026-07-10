@@ -1,6 +1,6 @@
-# Liberland Press Kit
+# Press Kit
 
-### Thanks for your interest in Liberland! 
+### Thanks for your interest in Liberland!
 
 Here's our press kit featuring the nation’s logo, flags, a collection of photos, and other information about our small, but intrepid nation.
 
@@ -22,84 +22,83 @@ Liberland has had a permanent settlement since early August 2023. At its height 
 
 For information on implementing our logo in different applications, please contact press@liberland.org.
 
-Download full logo set → [Click to Download](./LL-Logos.zip)
+Download full logo set → [Click to Download](https://github.com/liberland/docs/blob/master/media/LL-Logos.zip)
 
 ### Media Kit
 
-- Liberland Badge, PNG → [Click to Download](./Badge_LL.png)
-- Flag of Liberland, PNG → [Click to Download](./Liberland_Flag.png)
-- Flag of Liberland, SVG → [Click to Download](./Liberland_Flag.svg)
-- Liberland Shield, PNG → [Click to Download](./Liberland_Shield.png)
-- Liberland Shield, SVG → [Click to Download](./Liberland_Shield.svg)
-- Liberland Dollar, PNG → [Click to Download](./Liberland_Dollar_Circle.png)
-- Liberland Dollar, SVG → [Click to Download](./Liberland_Dollar_Square.svg)
-- Liberland Merit, PNG → [Click to Download](./Liberland_Merit_Square.png)
-- Liberland Merit, SVG → [Click to Download](./Liberland_Merit_Square.svg)
+* Liberland Badge, PNG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Badge_LL.png)
+* Flag of Liberland, PNG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Flag.png)
+* Flag of Liberland, SVG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Flag.svg)
+* Liberland Shield, PNG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Shield.png)
+* Liberland Shield, SVG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Shield.svg)
+* Liberland Dollar, PNG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Dollar_Circle.png)
+* Liberland Dollar, SVG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Dollar_Square.svg)
+* Liberland Merit, PNG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Merit_Square.png)
+* Liberland Merit, SVG → [Click to Download](https://github.com/liberland/docs/blob/master/media/Liberland_Merit_Square.svg)
 
 ## Screenshots
 
 High-resolution assets of our interface on desktop and mobile, as well as a selection of GIFs showing functionality across the app.
 
-- Blockchain dApp, Home: [Light UI](./dapp-home-light.png) | [Dark UI](./dapp-home-dark.png)
-- Blockchain dApp, Finances: [Light UI](./dapp-finances-light.png) | [Dark UI](./dapp-finances-dark.png)
-- Blockchain dApp, DEX: [Light UI](./dapp-dex-light.png) | [Dark UI](./dapp-dex-dark.png)
-- Blockchain dApp, Companies: [Light UI](./dapp-companies-light.png) | [Dark UI](./dapp-companies-dark.png)
-- Blockchain dApp, Offices: [Light UI](./dapp-offices-light.png) | [Dark UI](./dapp-offices-dark.png)
+* Blockchain dApp, Home: [Light UI](https://github.com/liberland/docs/blob/master/media/dapp-home-light.png) | [Dark UI](https://github.com/liberland/docs/blob/master/media/dapp-home-dark.png)
+* Blockchain dApp, Finances: [Light UI](https://github.com/liberland/docs/blob/master/media/dapp-finances-light.png) | [Dark UI](https://github.com/liberland/docs/blob/master/media/dapp-finances-dark.png)
+* Blockchain dApp, DEX: [Light UI](https://github.com/liberland/docs/blob/master/media/dapp-dex-light.png) | [Dark UI](https://github.com/liberland/docs/blob/master/media/dapp-dex-dark.png)
+* Blockchain dApp, Companies: [Light UI](https://github.com/liberland/docs/blob/master/media/dapp-companies-light.png) | [Dark UI](https://github.com/liberland/docs/blob/master/media/dapp-companies-dark.png)
+* Blockchain dApp, Offices: [Light UI](https://github.com/liberland/docs/blob/master/media/dapp-offices-light.png) | [Dark UI](https://github.com/liberland/docs/blob/master/media/dapp-offices-dark.png)
 
 ## Illustrations
 
 Our illustrations are a core component of our identity, allowing us to visualize our ideas and concepts in an approachable and playful way.
 
-Download full illustration set → [Click to Download](./LL-Illustrations.zip)
+Download full illustration set → [Click to Download](https://github.com/liberland/docs/blob/master/media/LL-Illustrations.zip)
 
 ### Media Kit
 
-- LLD Illustration → [Click to Download](./lld-graphic-bg.png)
-- LLM Illustration → [Click to Download](./lld-graphic-transparent.png)
-- LLD Original, transparent → [Click to Download](./llm-graphic-bg.png)
-- LLM Original, transparent → [Click to Download](./llm-graphic-transparent.png)
+* LLD Illustration → [Click to Download](https://github.com/liberland/docs/blob/master/media/lld-graphic-bg.png)
+* LLM Illustration → [Click to Download](https://github.com/liberland/docs/blob/master/media/lld-graphic-transparent.png)
+* LLD Original, transparent → [Click to Download](https://github.com/liberland/docs/blob/master/media/llm-graphic-bg.png)
+* LLM Original, transparent → [Click to Download](https://github.com/liberland/docs/blob/master/media/llm-graphic-transparent.png)
 
 ## Leadership
 
 These are the leaders of Liberland, including the President and Cabinet.
 
-Vít Jedlička, President → [Click to Download](./vit-jedlicka.png)
-Boguslaw Wozniak, Vice President → [Click to Download](./boguslaw-wozniak.png)
-Thomas Walls, Minister of Foreign Affairs → [Click to Download](./thomas-walls.png)
-Navid Saberin, Minister of Finance → [Click to Download](./navid-saberin.png)
-Michal Ptáčník, Minister of Justice → [Click to Download](./michal-ptacnik.png)
-Dr. Tariq Abbasi, Secretary of State → [Click to Download](./tariq-abbasi.png)
+Vít Jedlička, President → [Click to Download](https://github.com/liberland/docs/blob/master/media/vit-jedlicka.png)\
+Boguslaw Wozniak, Vice President → [Click to Download](https://github.com/liberland/docs/blob/master/media/boguslaw-wozniak.png)\
+Thomas Walls, Minister of Foreign Affairs → [Click to Download](https://github.com/liberland/docs/blob/master/media/thomas-walls.png)\
+Navid Saberin, Minister of Finance → [Click to Download](https://github.com/liberland/docs/blob/master/media/navid-saberin.png)\
+Michal Ptáčník, Minister of Justice → [Click to Download](https://github.com/liberland/docs/blob/master/media/michal-ptacnik.png)\
+Dr. Tariq Abbasi, Secretary of State → [Click to Download](https://github.com/liberland/docs/blob/master/media/tariq-abbasi.png)
 
 ## Photos
 
 When it comes to our culture, we'd rather show than tell. Here are some photos to give you a sense of the day to day.
 
-- [Ark Liberland 001](./IMG_3898.jpeg)
-- [Ark Liberland 002](./IMG_3897.jpeg)
-- [Ark Liberland 003](./IMG_3900.jpeg)
-- [Ark Liberland 004](./IMG_3899.jpeg)
-- [Ark Liberland 005](./IMG_3902.jpeg)
-- [Ark Liberland 006](./IMG_3938.jpeg)
-- [Ark Liberland 007](./IMG_4008.jpeg)
-- [Ark Liberland 008](./IMG_4029.jpeg)
-- [Liberland on the Ground 001](./liberland-flags-entry.jpeg)
-- [Liberland on the Ground 002](./house-in-making.jpeg)
-- [Liberland on the Ground 003](./liberland-house.jpeg)
-- [Liberland on the Ground 004](./house-ll.jpeg)
-- [Liberland on the Ground 005](./kitchen-in-making.jpeg)
-- [Yacht House](./yachthouse-1.jpeg)
-
+* [Ark Liberland 001](https://github.com/liberland/docs/blob/master/media/IMG_3898.jpeg)
+* [Ark Liberland 002](https://github.com/liberland/docs/blob/master/media/IMG_3897.jpeg)
+* [Ark Liberland 003](https://github.com/liberland/docs/blob/master/media/IMG_3900.jpeg)
+* [Ark Liberland 004](https://github.com/liberland/docs/blob/master/media/IMG_3899.jpeg)
+* [Ark Liberland 005](https://github.com/liberland/docs/blob/master/media/IMG_3902.jpeg)
+* [Ark Liberland 006](https://github.com/liberland/docs/blob/master/media/IMG_3938.jpeg)
+* [Ark Liberland 007](https://github.com/liberland/docs/blob/master/media/IMG_4008.jpeg)
+* [Ark Liberland 008](https://github.com/liberland/docs/blob/master/media/IMG_4029.jpeg)
+* [Liberland on the Ground 001](https://github.com/liberland/docs/blob/master/media/liberland-flags-entry.jpeg)
+* [Liberland on the Ground 002](https://github.com/liberland/docs/blob/master/media/house-in-making.jpeg)
+* [Liberland on the Ground 003](https://github.com/liberland/docs/blob/master/media/liberland-house.jpeg)
+* [Liberland on the Ground 004](https://github.com/liberland/docs/blob/master/media/house-ll.jpeg)
+* [Liberland on the Ground 005](https://github.com/liberland/docs/blob/master/media/kitchen-in-making.jpeg)
+* [Yacht House](https://github.com/liberland/docs/blob/master/media/yachthouse-1.jpeg)
 
 ## Social Media Platforms
 
-- [X](https://x.com/liberland_org)
-- [Telegram](https://t.me/liberlanders)
-- [Discord](https://discord.gg/z6vsBd3eUD)
-- [Facebook](http://www.facebook.com/liberland/)
-- [LinkedIn](https://www.linkedin.com/company/liberland/)
-- [Instagram](https://www.instagram.com/liberlandofficial/)
-- [YouTube](https://www.youtube.com/@LiberlandOfficial)
-- [Twitch](https://www.twitch.tv/liberlanddailyshow)
+* [X](https://x.com/liberland_org)
+* [Telegram](https://t.me/liberlanders)
+* [Discord](https://discord.gg/z6vsBd3eUD)
+* [Facebook](http://www.facebook.com/liberland/)
+* [LinkedIn](https://www.linkedin.com/company/liberland/)
+* [Instagram](https://www.instagram.com/liberlandofficial/)
+* [YouTube](https://www.youtube.com/@LiberlandOfficial)
+* [Twitch](https://www.twitch.tv/liberlanddailyshow)
 
 ## Press Contact
 

@@ -1,30 +1,30 @@
-# Liberland CEX API
+# API
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [RPC Endpoints & Chain Explorers](#rpc-endpoints--chain-explorers)
-  - [Testnet](#testnet)
-  - [Mainnet](#mainnet)
-- [Common Operations](#common-operations)
-  - [Get Latest Block Number](#get-latest-block-number)
-  - [Create a New Address](#create-a-new-address)
-- [Liberland Dollar (LLD)](#liberland-dollar-lld)
-  - [Receive Wallet Balance](#receive-wallet-balance)
-  - [Coin Transfer](#coin-transfer)
-  - [Monitor LLD Transfers](#monitor-lld-transfers)
-  - [Retrieve LLD Transaction Details Using Block Hash and Index](#retrieve-lld-transaction-details-using-block-hash-and-index)
-- [Liberland Merit (LLM)](#liberland-merit-llm)
-  - [Receive Wallet Balance](#receive-wallet-balance-1)
-  - [Coin Transfer](#coin-transfer-1)
-  - [Monitor LLM Transfers](#monitor-llm-transfers)
-  - [Retrieve LLM Transaction Details Using Block Hash and Index](#retrieve-llm-transaction-details-using-block-hash-and-index)
+* [Overview](centralized-exchanges-api.md#overview)
+* [RPC Endpoints & Chain Explorers](centralized-exchanges-api.md#rpc-endpoints--chain-explorers)
+  * [Testnet](centralized-exchanges-api.md#testnet)
+  * [Mainnet](centralized-exchanges-api.md#mainnet)
+* [Common Operations](centralized-exchanges-api.md#common-operations)
+  * [Get Latest Block Number](centralized-exchanges-api.md#get-latest-block-number)
+  * [Create a New Address](centralized-exchanges-api.md#create-a-new-address)
+* [Liberland Dollar (LLD)](centralized-exchanges-api.md#liberland-dollar-lld)
+  * [Receive Wallet Balance](centralized-exchanges-api.md#receive-wallet-balance)
+  * [Coin Transfer](centralized-exchanges-api.md#coin-transfer)
+  * [Monitor LLD Transfers](centralized-exchanges-api.md#monitor-lld-transfers)
+  * [Retrieve LLD Transaction Details Using Block Hash and Index](centralized-exchanges-api.md#retrieve-lld-transaction-details-using-block-hash-and-index)
+* [Liberland Merit (LLM)](centralized-exchanges-api.md#liberland-merit-llm)
+  * [Receive Wallet Balance](centralized-exchanges-api.md#receive-wallet-balance-1)
+  * [Coin Transfer](centralized-exchanges-api.md#coin-transfer-1)
+  * [Monitor LLM Transfers](centralized-exchanges-api.md#monitor-llm-transfers)
+  * [Retrieve LLM Transaction Details Using Block Hash and Index](centralized-exchanges-api.md#retrieve-llm-transaction-details-using-block-hash-and-index)
 
 ## Overview
 
-Liberland blockchain is based on [Polkadot SDK](https://polkadot.com/platform/sdk/).  
-Recommended way to interact with the chain programmatically is through [@polkadot/api](https://github.com/polkadot-js/api) library.
-For those interested in a glimpse of the underlying RPC interactions, see the [Liberland CEX API: Low-Level RPC Overview](centralized-exchanges-api-rpc.md).
+Liberland blockchain is based on [Polkadot SDK](https://polkadot.com/platform/sdk/).\
+Recommended way to interact with the chain programmatically is through [@polkadot/api](https://github.com/polkadot-js/api) library.\
+For those interested in a glimpse of the underlying RPC interactions, see the [Liberland CEX API: Low-Level RPC Overview](https://github.com/liberland/docs/blob/master/blockchain/API/centralized-exchanges-api-rpc.md).
 
 ## RPC Endpoints & Chain Explorers
 
@@ -191,7 +191,7 @@ main()
 
 ### Retrieve LLD Transaction Details Using Block Hash and Index
 
-Many infrastructure providers on existing blockchains, e.g. Ethereum, consider a transaction's hash as a unique identifier. In Substrate-based chains, a transaction's hash only serves as a fingerprint of the information within a transaction, and there are times when two transactions with the same hash are both valid.
+Many infrastructure providers on existing blockchains, e.g. Ethereum, consider a transaction's hash as a unique identifier. In Substrate-based chains, a transaction's hash only serves as a fingerprint of the information within a transaction, and there are times when two transactions with the same hash are both valid.\
 On a Substrate blockchain transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index.
 
 ```javascript
@@ -378,7 +378,7 @@ main()
 
 ### Retrieve LLM Transaction Details Using Block Hash and Index
 
-Many infrastructure providers on existing blockchains, e.g. Ethereum, consider a transaction's hash as a unique identifier. In Substrate-based chains, a transaction's hash only serves as a fingerprint of the information within a transaction, and there are times when two transactions with the same hash are both valid.
+Many infrastructure providers on existing blockchains, e.g. Ethereum, consider a transaction's hash as a unique identifier. In Substrate-based chains, a transaction's hash only serves as a fingerprint of the information within a transaction, and there are times when two transactions with the same hash are both valid.\
 On a Substrate blockchain transactions (a.k.a. extrinsics) are uniquely identified by block hash and their index.
 
 ```javascript

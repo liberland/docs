@@ -1,15 +1,15 @@
-# Bridge LLD from Ethereum to TRON
+# How to Bridge to TRON
 
-This tutorial assumes you have already bridged Liberland dollar (LLD) from Liberland [Blockchain -> SORA Network -> Ethereum](./cross-chain-bridge.md). 
+This tutorial assumes you have already bridged Liberland dollar (LLD) from Liberland [Blockchain -> SORA Network -> Ethereum](cross-chain-bridge.md).
 
 You can watch a tutorial on how to perform those steps at Liberland's [YouTube channel](https://www.youtube.com/watch?v=PI4hiLOK03I).
 
 To bridge Ethereum -> TRON via BTTC, you need:
 
-- An Ethereum wallet with $LLDs and $ETH, like MetaMask
-- BTTC wallet with $BTT like metamask
-  - You can get $BTT on ETHereum and bridge it to BTTC later. US$10 worth of BTT should be sufficient for gas fees and can be bought directly within the MetaMask wallet 
-- TRON wallet (e.g. [TRONLink](https://www.tronlink.org/)) with $TRX tokens for fees
+* An Ethereum wallet with $LLDs and $ETH, like MetaMask
+* BTTC wallet with $BTT like metamask
+  * You can get $BTT on ETHereum and bridge it to BTTC later. US$10 worth of BTT should be sufficient for gas fees and can be bought directly within the MetaMask wallet
+* TRON wallet (e.g. [TRONLink](https://www.tronlink.org/)) with $TRX tokens for fees
 
 Once you have all of the above, visit [BitTorrent Bridge](https://bt.io/) and select Ethereum -> BTTC and select BTT token
 
@@ -19,14 +19,14 @@ Just visit [BitTorrent bridge](https://bt.io/), select From **Ethereum** To **BT
 
 The bridge takes some time and will prompt you to sign a few transactions in your wallet. Just follow the instructions from the bridge.
 
-![Bridge BTT](media/btt-bridging.png)
+![Bridge BTT](../.gitbook/assets/btt-bridging.png)
 
-Next, you can bridge LLDs from ETH to TRON. You will need to connect both EVM wallet like Metamask and TRON wallet like TRONLink for this.
+Next, you can bridge LLDs from ETH to TRON. You will need to connect both EVM wallet like Metamask and TRON wallet like TRONLink for this.\
 Just visit [Bittorrent bridge](https://bt.io/), select From Ethereum To TRON, sending LLD.
 
-The bridge takes some time and will prompt you to sign a  few transactions in your wallet. Just follow the instructions from the bridge.
+The bridge takes some time and will prompt you to sign a few transactions in your wallet. Just follow the instructions from the bridge.
 
-![Bridge BTT](media/eth-tron-bridging.png)
+![Bridge BTT](../.gitbook/assets/eth-tron-bridging.png)
 
 Here is a comprehensive video tutorial showing you how to bridge LLD from Ethereum to TRON once you have BTT in your BTTC wallet, and TRX in your TRON wallet.
 

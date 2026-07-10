@@ -1,2 +1,2 @@
-# 🚦 Regulations
+# Regulations
 

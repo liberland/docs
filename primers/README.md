@@ -1,2 +1,2 @@
-# 👍 Primers
+# Primers
 

@@ -1,2 +1,2 @@
-# ⚖ Justice
+# Justice
 

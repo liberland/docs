@@ -1,7 +1,6 @@
-# Run a Liberland Node with Docker
+# Run in Docker
 
- Prequirements:
- This guide assumes your running a Linux based operating system and have Docker already installed.
+Prequirements: This guide assumes your running a Linux based operating system and have Docker already installed.
 
 ## Docker image details
 
@@ -48,6 +47,7 @@ You'll now be able to access your node via [https://polkadotjs.blockchain.liberl
 ### Complete example of running a validator on mainnet
 
 This example:
+
 * passes `-v $HOME/liberland_data:/data` to make data persistent on the host
 * passes `--network=host` to make RPC accessible locally and P2P accessible on all interfaces
 * passes `-d` to run in background
@@ -62,6 +62,7 @@ $ docker run --name liberland -d --network=host --restart always -v $HOME/liberl
 ```
 
 You can:
+
 * monitor this instance with `docker ps -a`
 * see its logs with `docker logs liberland`
 * stop with `docker stop liberland` - note that it will restart automatically on reboot / Docker restart
@@ -70,6 +71,6 @@ You can:
 
 #### Generate session keys
 
-See [regenerate session keys](../for-validators-nominators-and-stakers/regenerate_session_keys.md) document.
+See [regenerate session keys](https://github.com/liberland/docs/blob/master/blockchain/for-validators-nominators-and-stakers/regenerate_session_keys.md) document.
 
 With an instance running like this you may now follow the [Run a validator](../for-validators-nominators-and-stakers/run-a-validator.md#wait-for-your-node-to-sync) starting with **Wait for your node to sync** section.

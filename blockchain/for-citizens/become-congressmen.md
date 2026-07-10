@@ -4,25 +4,23 @@
 
 Congress is supposed to pass laws and budgets, though during a transitionary period this power is shared with the provisional government.
 
-Liberland voting and politics takes place on the Liberland blockchain. 
+Liberland voting and politics takes place on the Liberland blockchain.
 
-[Use the Liberland blockchain](./onboarding.md)
-
+[Use the Liberland blockchain](onboarding.md)
 
 ## Applying for congress
 
 It takes a minimum of 5 hours a week to do the job of Liberland congressman properly.
 
-Only full citizens not on welfare can become congressmen. If you havent used the blockchain yet, [onboard now](./onboarding.md)
+Only full citizens not on welfare can become congressmen. If you havent used the blockchain yet, [onboard now](onboarding.md)
 
-You can apply at [blockchain.liberland.org](blockchain.liberland.org) under the congress tab, where you can click on the apply for congress button.
+You can apply at [blockchain.liberland.org](https://github.com/liberland/docs/blob/master/blockchain/for-citizens/blockchain.liberland.org) under the congress tab, where you can click on the apply for congress button.
 
 When you apply, the candidates can see your display name, legal name and website in the candidate list.
 
 You can set them under [your profile](https://blockchain.liberland.org/home/profile) when you click update identity.
 
 Keep in mind that the character limit is 32, so use url shortener in case of long links, or ask for help.
-
 
 ## liberland.org website for congress candidate
 
@@ -35,4 +33,3 @@ Provide a document with the content for your candidacy website and ask a web adm
 Once you have the website you can set it under [your profile](https://blockchain.liberland.org/home/profile) when you click update identity.
 
 Keep in mind that the character limit is 32, so use url shortener in case of long links, or ask for help.
-

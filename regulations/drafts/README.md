@@ -1,2 +1,2 @@
-# ✍ Drafts
+# Drafts
 

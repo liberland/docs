@@ -1,6 +1,6 @@
-# Claiming e-residency and citizenship
+# Claiming Residency
 
-To claim e-residency or citizenship of Liberland you need to complete the registration process at [www.liberland.org](www.liberland.org)
+To claim e-residency or citizenship of Liberland you need to complete the registration process at [www.liberland.org](https://www.liberland.org)
 
 Follow the process in the [Dashboard](https://liberland.org/dashboard)
 
@@ -8,4 +8,4 @@ If you are already supposed to have e-residency or citizenship (for example, by 
 
 Do note that to complete the process, we will need a good quality image of your face for your new Liberland passport as well as good quality images of your existing ID to pass identity verification (KYC).
 
-![Residency dashboard](../media/residency-dashboard.png)
+![Residency dashboard](../../.gitbook/assets/residency-dashboard.png)

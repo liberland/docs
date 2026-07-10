@@ -1,4 +1,4 @@
-# 👮 Internal Regulation of the Security Commission on the Structural and Functional Organization of the
+# Internal Regulation of the Security Commission on the Structural and Functional Organization of the
 
 ## Preamble
 
