@@ -1,16 +1,14 @@
-# How to Bridge to Ethereum
+---
+description: Guideline how to bridge to Ethereum.
+---
 
-You can swap and bridge LLD through [Liberstake](https://exchange.liberstake.ll.land/).
+# How to Bridge to Ethereum
 
 ## Current Bridge Status
 
-The Liberland ↔ Ethereum bridging infrastructure is currently undergoing maintenance and final-stage integration work on the Liberland side.
+The Liberland ↔ Ethereum bridging infrastructure is **again fully functional.**
 
-The underlying  [HASHI Bridge](https://polkaswap.io/#/bridge/), the Liberland to Ethereum cross-chain bridge technology remains functional in general. However, the Liberland-specific routing and final validation steps are still being finalized and tested to ensure reliability and security.&#x20;
-
-Bridging to and from Liberland is therefore temporarily unavailable. **But the Bridge will be ready soon.**
-
-We are actively completing the remaining integration steps and debugging the final components. Once this process is complete, bridging functionality will be restored.
+The underlying  [HASHI Bridge](https://polkaswap.io/#/bridge/), the Liberland to Ethereum cross-chain bridge technology has again become functional. **You can use it to bridge between the Liberland Blockchain and the Ethereum Blockchain.**
 
 To use the HASHI bridge, you will need native tokens on the chains you are bridging to and from.
 
