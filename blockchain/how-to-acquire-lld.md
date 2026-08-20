@@ -14,7 +14,7 @@ The easiest way to get LLDs currently are to use one of the centralized exchange
 * [BiFinance](https://www.bifinance.com/trade?symbol=LLD%2FUSDT) on Liberland Blockchain.
 * [Emirex](https://emirex.com/spot/trading/LLDUSDT) on Liberland Blockchain.
 
-You can also use [HASHI Bridge](https://polkaswap.io/#/bridge/) and bridge to Ethereum, where LLD trades on the decentralized exchange [Uniswap](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?buyChain=1\&buyAddress=0xdac17f958d2ee523a2206206994597c13d831ec7\&sellAmount=500). This is the largest and arguably most reputable, as well as the oldest DEX in the current blockchain ecosystem.
+You can also use Hashi Bridge and bridge to Ethereum, where LLD trades on the decentralized exchange [Uniswap](https://matcha.xyz/tokens/ethereum/0x054c9d4c6f4ea4e14391addd1812106c97d05690?buyChain=1\&buyAddress=0xdac17f958d2ee523a2206206994597c13d831ec7\&sellAmount=500). This is the largest and arguably most reputable, as well as the oldest DEX in the current blockchain ecosystem.
 
 ## Other Blockchains
 
